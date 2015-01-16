@@ -219,7 +219,6 @@ for line in post_urls_file.readlines():
         os.remove('index.html')
         print 
         
-
 #print html
 
         #print html# article
