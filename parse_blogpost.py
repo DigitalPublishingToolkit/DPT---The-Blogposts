@@ -8,9 +8,9 @@ Input: plain-text file contantaining the url of the posts
 '''
 import sys, os, subprocess, re, shutil,  html5lib, glob
 import lxml.html #import ElementTree as ET
-import urllib2, json, pprint
+import urllib2, json
 
-
+regex_imgsresize =  re.compile(r'(.*)\-\d{1,4}x\d{1,4}(\.png|jpg)')
 
 def vimeo_api(video_id):
     api = 'http://vimeo.com/api/v2/video/{}.json'.format(video_id)
@@ -24,10 +24,12 @@ def vimeo_api(video_id):
 def blog2article(tree): # keep only the <article> content - where blogpost actualy is 
     article = (tree.xpath('//article'))[0]
     header = (tree.xpath('//header[@class="article-header"]'))[0]
-    footer = (article.xpath('.//footer'))[0]
     p_blog = (article.xpath('.//p[@id="breadcrumb"]'))[0] # contains: "Blog:"
+
     header.remove(p_blog)
-    article.remove(footer)
+    if (article.xpath('.//footer')):
+        footer = (article.xpath('.//footer'))[0]        
+        article.remove(footer)
 
     # lower headings: h1 -> h2
     headings = ['//h1', '//h2', '//h3', '//h4']
@@ -48,10 +50,9 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
             parent.replace(heading, new_heading)
 
     # videos
-        
     # replace video's iframe with <a><img>
     iframes =  article.xpath('//iframe')
-#    print 'iframes' , len(iframes)
+
     for iframe in iframes:
         src = iframe.attrib['src']
         if 'vimeo' in src:
@@ -62,8 +63,6 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
             youtube_id = (src.split('/'))[-1]
             poster = 'http://img.youtube.com/vi/{}/0.jpg'.format(youtube_id)
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
-        print url, poster
-
         anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
         img = lxml.etree.SubElement(anchor, 'img', attrib={'src':poster, 'class': 'video'}, nsmap=None)
         new_heading.text = heading_text
@@ -73,15 +72,21 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
 
     images = (article.xpath('.//img'))
     for img in images:
-        '''Download img; save in imgs/ change <img> src to match'''    
+        '''Download img in original size; save in imgs/ change <img> src to match'''    
         src = img.attrib['src']
+
+        #get the url of original img
+        src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
+        new_src = src_path + src_ext
+        print 'IMG SRC',new_src
+
         wget_img = 'wget -P imgs {} --quiet'.format(src)        
         subprocess.call(wget_img, shell=True)   
         path, filename = os.path.split(src)
         newpath = os.path.join('../../imgs', filename)
         img.attrib['src'] = newpath
-        img_class = img.attrib['class']
-        print 'img_class', img_class
+        if 'class' in img.attrib:
+            img_class = img.attrib['class']
 
 #        Note:complicated due to captions as paragraphs #esier to give an empty href to the wrapping <a> 
         parent = (img.xpath('..'))[0]
@@ -89,13 +94,11 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
             parent.attrib['href']=""
 
             
-
     # remove unnecessary elements
     elements_to_remove = '//br | .//a[@class="footnote"] | .//div[@class="footnotes"] | .//em[not(normalize-space()) and not(*)] | .//i[not(normalize-space()) and not(*)] | .//b[not(normalize-space()) and not(*)] | .//strong[not(normalize-space()) and not(*)]'
     rm_els = article.xpath(elements_to_remove)
     for el in rm_els:
         el.getparent().remove(el)
-
         
     # get info
     date = ((article.xpath('//time'))[0]).attrib['datetime']
@@ -127,8 +130,6 @@ def clean_markdown(md_filename):
         allbs = re.findall(regex, md_content)
         md_content = re.sub(regex, "", md_content)
 
-    # html_exp = re.compile(r'\<\/?[section|div|span|p].+?\>', re.DOTALL) #html elments either opening or closing tags
-    # md_content = re.sub(html_exp, "", md_content)
     # backslash_exp = re.compile(r'^\\$', re.M) #html elments either opening or closing tags
     # allbs = re.findall(backslash_exp, md_content)
     # print allbs
@@ -164,17 +165,14 @@ def wget_post(url, section):
     Parse post's tree
     Get Metadata
     Save content to Markdown file inside docs/section/file.md 
-    '''
-    
+    '''    
     wget = 'wget {} --quiet'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
     input_file = open('index.html', "r") # open and parse
     parsed = lxml.html.parse(input_file)
-
     date, author, title = (blog2article(parsed))
     author = author.encode('utf-8')
-    title = title.encode('utf-8')
-    
+    title = title.encode('utf-8')    
     print date, author, title
     md_filename = "docs/{section}/{date}-{file}.md".format( section=section, date=date, file=title.replace(" ", "_")) 
     pandoc(date, author, title, md_filename)
@@ -200,7 +198,8 @@ for line in post_urls_file.readlines():
         section = section.replace('\n', '')
         print 'URL:', url, section
         wget_post(url, section)
-
+        os.remove('index.html')
+        print 
         
 
 #print html
