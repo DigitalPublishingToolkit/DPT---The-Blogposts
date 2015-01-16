@@ -6,34 +6,14 @@ Script aims at converting a Wordpress (DPT blog) blog-post into Markdown documen
 Input: plain-text file contantaining the url of the posts
 
 '''
-import sys, os, subprocess, re, shutil,  html5lib, glob
-import lxml.html #import ElementTree as ET
+import os, subprocess, re, glob
+import lxml.html, html5lib
 import urllib2, json
 
-regex_imgsresize =  re.compile(r'(.*)\-\d{1,4}x\d{1,4}(\.png|jpg)')
-
-def vimeo_api(video_id):
-    api = 'http://vimeo.com/api/v2/video/{}.json'.format(video_id)
-    request = urllib2.urlopen(api)
-    jsonp = json.loads(request.read() )[0]
-    poster = jsonp.get('thumbnail_large')
-    url = jsonp.get('url')
-    return (url, poster)
+regex_imgsresize =  re.compile(r'(.*)\-\d{1,4}x\d{1,4}(\.png|\.jpg)')
 
 
-def blog2article(tree): # keep only the <article> content - where blogpost actualy is 
-    article = (tree.xpath('//article'))[0]
-    header = (tree.xpath('//header[@class="article-header"]'))[0]
-    p_blog = (article.xpath('.//p[@id="breadcrumb"]'))[0] # contains: "Blog:"
-
-    header.remove(p_blog)
-    if (article.xpath('.//footer')):
-        footer = (article.xpath('.//footer'))[0]        
-        article.remove(footer)
-
-    # lower headings: h1 -> h2
-    headings = ['//h1', '//h2', '//h3', '//h4']
-    headings_dict = {'h1':"", 'h2':"", 'h3':"", 'h4':""}
+def post_lower_headings(headings, headings_dict, article):
     for heading in headings: # creat a dictionary of all eading, as reference
         every_heading = article.xpath(heading)
         heading_key = heading.replace('//','') 
@@ -48,11 +28,18 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
             new_heading.text = heading_text
             parent = heading.getparent()
             parent.replace(heading, new_heading)
+            
 
-    # videos
-    # replace video's iframe with <a><img>
-    iframes =  article.xpath('//iframe')
+def vimeo_api(video_id):
+    api = 'http://vimeo.com/api/v2/video/{}.json'.format(video_id)
+    request = urllib2.urlopen(api)
+    jsonp = json.loads(request.read() )[0]
+    poster = jsonp.get('thumbnail_large')
+    url = jsonp.get('url')
+    return (url, poster)
 
+
+def post_videos(iframes):
     for iframe in iframes:
         src = iframe.attrib['src']
         if 'vimeo' in src:
@@ -65,22 +52,23 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
         anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
         img = lxml.etree.SubElement(anchor, 'img', attrib={'src':poster, 'class': 'video'}, nsmap=None)
-        new_heading.text = heading_text
+#        new_heading.text = heading_text
         parent = iframe.getparent()
         parent.replace(iframe, anchor)
 
 
-    images = (article.xpath('.//img'))
+def post_imgs(images):
     for img in images:
         '''Download img in original size; save in imgs/ change <img> src to match'''    
         src = img.attrib['src']
 
         #get the url of original img
-        src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
-        new_src = src_path + src_ext
-        print 'IMG SRC',new_src
+        if re.match(regex_imgsresize, src):
+            src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
+            src = src_path + src_ext 
+            print 'IMG SRC',src
 
-        wget_img = 'wget -P imgs {} --quiet'.format(src)        
+        wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
         subprocess.call(wget_img, shell=True)   
         path, filename = os.path.split(src)
         newpath = os.path.join('../../imgs', filename)
@@ -88,17 +76,43 @@ def blog2article(tree): # keep only the <article> content - where blogpost actua
         if 'class' in img.attrib:
             img_class = img.attrib['class']
 
-#        Note:complicated due to captions as paragraphs #esier to give an empty href to the wrapping <a> 
-        parent = (img.xpath('..'))[0]
+        parent = (img.xpath('..'))[0] #Note:complicated due to captions as paragraphs #esier to give an empty href to the wrapping <a> 
         if parent.tag is 'a' and img_class != 'video': # disable <a> wrapping <img>
             parent.attrib['href']=""
 
-            
+
+def post_clean_html(article):
     # remove unnecessary elements
     elements_to_remove = '//br | .//a[@class="footnote"] | .//div[@class="footnotes"] | .//em[not(normalize-space()) and not(*)] | .//i[not(normalize-space()) and not(*)] | .//b[not(normalize-space()) and not(*)] | .//strong[not(normalize-space()) and not(*)]'
     rm_els = article.xpath(elements_to_remove)
     for el in rm_els:
         el.getparent().remove(el)
+
+
+        
+def post2markdown(tree): # keep only the <article> content - where blogpost actualy is 
+    
+    article = (tree.xpath('//article'))[0]
+    header = (tree.xpath('//header[@class="article-header"]'))[0]
+    p_blog = (article.xpath('.//p[@id="breadcrumb"]'))[0] # contains: "Blog:"
+
+    header.remove(p_blog)
+    if (article.xpath('.//footer')):
+        footer = (article.xpath('.//footer'))[0]        
+        article.remove(footer)
+
+    # lower headings: h1 -> h2, ...
+    headings = ['//h1', '//h2', '//h3', '//h4']
+    headings_dict = {'h1':"", 'h2':"", 'h3':"", 'h4':""}
+    post_lower_headings(headings, headings_dict, article)
+
+    iframes =  article.xpath('//iframe')
+    post_videos(iframes) # videos: replace video's iframe with <a><img>
+
+    images = (article.xpath('.//img'))
+    post_imgs(images)
+    
+    post_clean_html(article)
         
     # get info
     date = ((article.xpath('//time'))[0]).attrib['datetime']
@@ -127,7 +141,7 @@ def clean_markdown(md_filename):
     for exp_flag in expressions:
         exp, flag =exp_flag
         regex = re.compile(r'{}'.format(exp), flag)
-        allbs = re.findall(regex, md_content)
+ #       allbs = re.findall(regex, md_content)
         md_content = re.sub(regex, "", md_content)
 
     # backslash_exp = re.compile(r'^\\$', re.M) #html elments either opening or closing tags
@@ -145,7 +159,6 @@ def pandoc(date, author, title, md_filename):
      post -> tmp_article.html -> markdown 
     * include yalm metadata: title, author, date
     '''    
-    md_file = open(md_filename, 'w') 
     pandoc = 'pandoc -f html -t markdown \
     --atx-headers \
     --template markdown.template \
@@ -156,7 +169,7 @@ def pandoc(date, author, title, md_filename):
     -o "{mdfile}"'.format(t=title , a=author, d=date, mdfile=md_filename)
     subprocess.call(pandoc, shell=True) 
     clean_markdown(md_filename)
-    os.remove('index.html')
+#    os.remove('index.html')
 
 
 def wget_post(url, section):
@@ -166,11 +179,16 @@ def wget_post(url, section):
     Get Metadata
     Save content to Markdown file inside docs/section/file.md 
     '''    
-    wget = 'wget {} --quiet'.format(url)        
+    wget = 'wget --quiet {}'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
     input_file = open('index.html', "r") # open and parse
     parsed = lxml.html.parse(input_file)
-    date, author, title = (blog2article(parsed))
+    article = parsed.xpath('//article')[0]
+
+#    print parsed
+#    print article
+    # post2markdown(parsed)
+    date, author, title = post2markdown(parsed)
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
     print date, author, title
