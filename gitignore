@@ -1,7 +1,5 @@
 *~
 imgs/*
-docs/Reflections/*
-docs/Reports/*
-docs/Tools/*
+docs/*/*.md
 index.html
 tmp_article.html

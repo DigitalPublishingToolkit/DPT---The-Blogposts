@@ -42,6 +42,8 @@ def post_lower_headings(headings, headings_dict, article):
             parent.replace(heading, new_heading)
             
 
+
+            
 def vimeo_api(video_id):
     api = 'http://vimeo.com/api/v2/video/{}.json'.format(video_id)
     request = urllib2.urlopen(api)
@@ -51,28 +53,43 @@ def vimeo_api(video_id):
     return (url, poster)
 
 
+def img_download(src, img_type, destination):
+    print 'Download IMG', src
+    if img_type in ['blog_img', 'vimeo_poster']:
+        wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
+        subprocess.call(wget_img, shell=True)           
+    elif img_type is 'youtube_poster':
+        wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
+        subprocess.call(wget_img, shell=True)           
+        mv_img = 'mv imgs/0.jpg imgs/{}'.format(destination)
+        subprocess.call(mv_img, shell=True)           
+
+
 def post_videos(iframes):
     for iframe in iframes:
         src = iframe.attrib['src']
         if 'vimeo' in src:
             vimeo_id = (src.split('/'))[-1]
-            url, poster = vimeo_api(vimeo_id)
-            # TODO: wget poster # point to poster path in video_posters/
+            url, poster_url = vimeo_api(vimeo_id)
+            path, filename = os.path.split(poster_url)
+            newpath = os.path.join('../../imgs', filename)
+            if os.path.isfile('imgs/'+ filename) != True:
+                img_download(poster_url, 'vimeo_poster', None) #download img if not stored
+            else:
+                print 'IMG FOUND'
             
         elif 'youtube' in src:
             youtube_id = (src.split('/'))[-1]
-            poster = 'http://img.youtube.com/vi/{}/0.jpg'.format(youtube_id)
-
-        if os.path.isfile('imgs/'+filename) != True:
-            print 'GET IMG'
-            wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
-            subprocess.call(wget_img, shell=True)   
-
-            # TODO: wget poster # point to poster path in video_posters/
-
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
+            poster = 'http://img.youtube.com/vi/{}/0.jpg'.format(youtube_id)
+            filename = youtube_id + '.jpg'
+            newpath = os.path.join('../../imgs', filename)
+            print 'YOUTUBE', newpath
+            if os.path.isfile('imgs/'+ filename) != True:
+                img_download(poster, 'youtube_poster', filename)
+            # youtube video has to change filename, otherwise they will all will be called 0.jpg
         anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
-        img = lxml.etree.SubElement(anchor, 'img', attrib={'src':poster, 'class': 'video'}, nsmap=None)
+        img = lxml.etree.SubElement(anchor, 'img', attrib={'src':newpath, 'class': 'video'}, nsmap=None)
 #        new_heading.text = heading_text
         parent = iframe.getparent()
         parent.replace(iframe, anchor)
@@ -82,18 +99,18 @@ def post_imgs(images):
     for img in images:
         '''Download img in original size; save in imgs/ change <img> src to match'''    
         src = img.attrib['src']
-
-        #get the url of original img
+        #img src to local source
         if re.match(regex_imgsresize, src):
             src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
             src = src_path + src_ext 
             print 'IMG SRC',src
             path, filename = os.path.split(src)
-            if os.path.isfile('imgs/'+filename) != True:
-                print 'GET IMG'
-                wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
-                subprocess.call(wget_img, shell=True)   
             newpath = os.path.join('../../imgs', filename)
+            print 'NEWPATH', newpath
+            if os.path.isfile('imgs/'+filename) != True:
+                img_download(src, 'blog_img', None) #download img if not stored
+            else:
+                print 'IMG FOUND'
             img.attrib['src'] = newpath
 
         if 'class' in img.attrib:
