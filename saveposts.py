@@ -1,11 +1,23 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
-Script aims at converting a Wordpress (DPT blog) blog-post into Markdown document
+Script aims to:
+* download Wordpress (DPT blog) blog-post
+* convert downloaded pages into Markdown files.
+* save Markdown files inside docs/Category
 
-Input: plain-text file contantaining the url of the posts
+Input files: 
+* posts_urls.txt - file contantaining a list made of: "url of the posts" "Category"
+* markdown.template - template for Markdown conversion
 
+Categories:
+* Reflections
+* Reports
+* Tools
+
+Relies on: Pandoc
 '''
+
 import os, subprocess, re, glob
 import lxml.html, html5lib
 import urllib2, json
@@ -45,10 +57,19 @@ def post_videos(iframes):
         if 'vimeo' in src:
             vimeo_id = (src.split('/'))[-1]
             url, poster = vimeo_api(vimeo_id)
-
+            # TODO: wget poster # point to poster path in video_posters/
+            
         elif 'youtube' in src:
             youtube_id = (src.split('/'))[-1]
             poster = 'http://img.youtube.com/vi/{}/0.jpg'.format(youtube_id)
+
+        if os.path.isfile('imgs/'+filename) != True:
+            print 'GET IMG'
+            wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
+            subprocess.call(wget_img, shell=True)   
+
+            # TODO: wget poster # point to poster path in video_posters/
+
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
         anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
         img = lxml.etree.SubElement(anchor, 'img', attrib={'src':poster, 'class': 'video'}, nsmap=None)
@@ -67,12 +88,14 @@ def post_imgs(images):
             src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
             src = src_path + src_ext 
             print 'IMG SRC',src
+            path, filename = os.path.split(src)
+            if os.path.isfile('imgs/'+filename) != True:
+                print 'GET IMG'
+                wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
+                subprocess.call(wget_img, shell=True)   
+            newpath = os.path.join('../../imgs', filename)
+            img.attrib['src'] = newpath
 
-        wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
-        subprocess.call(wget_img, shell=True)   
-        path, filename = os.path.split(src)
-        newpath = os.path.join('../../imgs', filename)
-        img.attrib['src'] = newpath
         if 'class' in img.attrib:
             img_class = img.attrib['class']
 
@@ -199,12 +222,12 @@ def wget_post(url, section):
 
 def clean():
     '''
-    Remove previously stored posts and images
+    Remove previously stored posts 
     '''
     imgs = glob.glob('imgs/*')
     docs = glob.glob('docs/*/*')
     all_files = imgs + docs
-    for f in all_files:
+    for f in docs:
         os.remove(f)
     
 clean()
