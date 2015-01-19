@@ -16,6 +16,16 @@ Categories:
 * Tools
 
 Relies on: Pandoc
+----
+
+Issues:
+Some images dont become local:
+
+    ![Parallel
+    workflows](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/12/workflow_02.png)
+
+why?
+
 '''
 
 import os, subprocess, re, glob
@@ -105,7 +115,8 @@ def post_imgs(images):
             src = src_path + src_ext 
             print 'IMG SRC',src
             path, filename = os.path.split(src)
-            newpath = os.path.join('../../imgs', filename)
+            #newpath = os.path.join('../../imgs', filename) #path will break in docs
+            newpath = os.path.join('imgs', filename)            
             print 'NEWPATH', newpath
             if os.path.isfile('imgs/'+filename) != True:
                 img_download(src, 'blog_img', None) #download img if not stored
@@ -201,16 +212,16 @@ def pandoc(date, author, title, md_filename):
     '''    
     pandoc = 'pandoc -f html -t markdown \
     --atx-headers \
-    --template markdown.template \
-    --variable title="{t}" \
-    --variable author="{a}" \
-    --variable date="{d}" \
     tmp_article.html \
     -o "{mdfile}"'.format(t=title , a=author, d=date, mdfile=md_filename)
     subprocess.call(pandoc, shell=True) 
     clean_markdown(md_filename)
 #    os.remove('index.html')
 
+    # --template markdown.template \
+    # --variable title="{t}" \
+    # --variable author="{a}" \
+    # --variable date="{d}" \
 
 def wget_post(url, section):
     '''

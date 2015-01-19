@@ -6,7 +6,6 @@ http://networkcultures.org/digitalpublishing/2014/11/30/showcase-nai010-uitgever
 http://networkcultures.org/digitalpublishing/2014/11/30/showcase-bis-publishers-phone-gap-multi-channel-publishing/ Reports
 http://networkcultures.org/digitalpublishing/2014/11/30/towards-a-hybrid-workflow-editor-designer-and-developer-unite/ Reports
 http://networkcultures.org/digitalpublishing/2014/11/30/context-without-walls-a-generative-workflow-with-epubster-digital-publishing-toolkit-november-2014/ Reports
-http://networkcultures.org/digitalpublishing/2014/11/30/context-without-walls-a-generative-workflow-with-epubster-digital-publishing-toolkit-november-2014/ Tools
 http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/ Tools
 http://networkcultures.org/digitalpublishing/2014/10/28/how-to-handle-corrections-in-a-hybrid-workflow/ Reflections
 http://networkcultures.org/digitalpublishing/2014/11/19/building-my-highlights/ Tools
