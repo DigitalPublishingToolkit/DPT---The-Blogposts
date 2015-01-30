@@ -1,11 +1,11 @@
-http://networkcultures.org/digitalpublishing/2014/12/07/florian-cramer-and-geert-lovink-the-power-of-editorial-design-publishing-and-control-in-the-21th-century/ Reports
-http://networkcultures.org/digitalpublishing/2014/12/06/silvio-lorusso-the-post-digital-publishing-archive-an-inventory-of-speculative-strategies/ Reports
-http://networkcultures.org/digitalpublishing/2014/12/06/collaborative-workflows/ Reflections
-http://networkcultures.org/digitalpublishing/2014/11/30/harold-konickx-its-not-a-page-new-familiar-ways-of-book-design/ Reports
-http://networkcultures.org/digitalpublishing/2014/11/30/showcase-nai010-uitgevers-my-collection/ Reports
-http://networkcultures.org/digitalpublishing/2014/11/30/showcase-bis-publishers-phone-gap-multi-channel-publishing/ Reports
-http://networkcultures.org/digitalpublishing/2014/11/30/towards-a-hybrid-workflow-editor-designer-and-developer-unite/ Reports
-http://networkcultures.org/digitalpublishing/2014/11/30/context-without-walls-a-generative-workflow-with-epubster-digital-publishing-toolkit-november-2014/ Reports
-http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/ Tools
-http://networkcultures.org/digitalpublishing/2014/10/28/how-to-handle-corrections-in-a-hybrid-workflow/ Reflections
-http://networkcultures.org/digitalpublishing/2014/11/19/building-my-highlights/ Tools
+http://networkcultures.org/digitalpublishing/2014/12/07/florian-cramer-and-geert-lovink-the-power-of-editorial-design-publishing-and-control-in-the-21th-century/ 
+http://networkcultures.org/digitalpublishing/2014/12/06/silvio-lorusso-the-post-digital-publishing-archive-an-inventory-of-speculative-strategies/ 
+http://networkcultures.org/digitalpublishing/2014/12/06/collaborative-workflows/ 
+http://networkcultures.org/digitalpublishing/2014/11/30/harold-konickx-its-not-a-page-new-familiar-ways-of-book-design/ 
+http://networkcultures.org/digitalpublishing/2014/11/30/showcase-nai010-uitgevers-my-collection/ 
+http://networkcultures.org/digitalpublishing/2014/11/30/showcase-bis-publishers-phone-gap-multi-channel-publishing/ 
+http://networkcultures.org/digitalpublishing/2014/11/30/towards-a-hybrid-workflow-editor-designer-and-developer-unite/ 
+http://networkcultures.org/digitalpublishing/2014/11/30/context-without-walls-a-generative-workflow-with-epubster-digital-publishing-toolkit-november-2014/ 
+http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/ 
+http://networkcultures.org/digitalpublishing/2014/10/28/how-to-handle-corrections-in-a-hybrid-workflow/ 
+http://networkcultures.org/digitalpublishing/2014/11/19/building-my-highlights/ 

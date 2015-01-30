@@ -4,10 +4,10 @@
 Script aims to:
 * download Wordpress (DPT blog) blog-post
 * convert downloaded pages into Markdown files.
-* save Markdown files inside docs/Category
+* save Markdown files inside docs
 
 Input files: 
-* posts_urls.txt - file contantaining a list made of: "url of the posts" "Category"
+* posts_urls.txt - file contantaining a list made of: "url of the posts" 
 * markdown.template - template for Markdown conversion
 
 Categories:
@@ -152,11 +152,6 @@ def post2markdown(tree): # keep only the <article> content - where blogpost actu
         footer = (article.xpath('.//footer'))[0]        
         article.remove(footer)
 
-    # lower headings: h1 -> h2, ...
-    headings = ['//h1', '//h2', '//h3', '//h4']
-    headings_dict = {'h1':"", 'h2':"", 'h3':"", 'h4':""}
-    post_lower_headings(headings, headings_dict, article)
-
     iframes =  article.xpath('//iframe')
     post_videos(iframes) # videos: replace video's iframe with <a><img>
 
@@ -168,7 +163,7 @@ def post2markdown(tree): # keep only the <article> content - where blogpost actu
     # get info
     date = ((article.xpath('//time'))[0]).attrib['datetime']
     author = (article.xpath('//a[@rel="author"]'))[0].text    
-    title = (article.xpath('//h2[@class="entry-title single-title"]'))[0].text
+    title = (article.xpath('//h1[@class="entry-title single-title"]'))[0].text
 
     #save modified html
     html_article = lxml.html.tostring(article, pretty_print=True, include_meta_content_type=True, encoding='utf-8', method='html', with_tail=False)
@@ -228,7 +223,7 @@ def wget_post(url, section):
     Download post
     Parse post's tree
     Get Metadata
-    Save content to Markdown file inside docs/section/file.md 
+    Save content to Markdown file inside docs/file.md 
     '''    
     wget = 'wget --quiet {}'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
@@ -243,7 +238,7 @@ def wget_post(url, section):
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
     print date, author, title
-    md_filename = "docs/{section}/{date}-{file}.md".format( section=section, date=date, file=title.replace(" ", "_")) 
+    md_filename = "docs/{date}-{file}.md".format(date=date, file=title.replace(" ", "_")) 
     pandoc(date, author, title, md_filename)
 
     
@@ -253,7 +248,7 @@ def clean():
     Remove previously stored posts 
     '''
     imgs = glob.glob('imgs/*')
-    docs = glob.glob('docs/*/*')
+    docs = glob.glob('docs/*')
     all_files = imgs + docs
     for f in docs:
         os.remove(f)
