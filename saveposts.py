@@ -64,7 +64,7 @@ def vimeo_api(video_id):
 
 
 def img_download(src, img_type, destination):
-    print 'Download IMG', src
+    '''Download images save in imgs'''
     if img_type in ['blog_img', 'vimeo_poster']:
         wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
         subprocess.call(wget_img, shell=True)           
@@ -85,8 +85,6 @@ def post_videos(iframes):
             newpath = os.path.join('../../imgs', filename)
             if os.path.isfile('imgs/'+ filename) != True:
                 img_download(poster_url, 'vimeo_poster', None) #download img if not stored
-            else:
-                print 'IMG FOUND'
             
         elif 'youtube' in src:
             youtube_id = (src.split('/'))[-1]
@@ -94,7 +92,7 @@ def post_videos(iframes):
             poster = 'http://img.youtube.com/vi/{}/0.jpg'.format(youtube_id)
             filename = youtube_id + '.jpg'
             newpath = os.path.join('../../imgs', filename)
-            print 'YOUTUBE', newpath
+#            print 'YOUTUBE', newpath
             if os.path.isfile('imgs/'+ filename) != True:
                 img_download(poster, 'youtube_poster', filename)
             # youtube video has to change filename, otherwise they will all will be called 0.jpg
@@ -107,29 +105,39 @@ def post_videos(iframes):
 
 def post_imgs(images):
     for img in images:
-        '''Download img in original size; save in imgs/ change <img> src to match'''    
+        '''Find imgs' original size; run def img_download to download them; change <img> src to match'''    
         src = img.attrib['src']
-        #img src to local source
-        if re.match(regex_imgsresize, src):
-            src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
-            src = src_path + src_ext 
-            print 'IMG SRC',src
-            path, filename = os.path.split(src)
-            #newpath = os.path.join('../../imgs', filename) #path will break in docs
-            newpath = os.path.join('imgs', filename)            
-            print 'NEWPATH', newpath
-            if os.path.isfile('imgs/'+filename) != True:
-                img_download(src, 'blog_img', None) #download img if not stored
-            else:
-                print 'IMG FOUND'
-            img.attrib['src'] = newpath
 
         if 'class' in img.attrib:
             img_class = img.attrib['class']
+        else:
+            img_class = ''
+            
+        if re.match(regex_imgsresize, src):
+            src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
+            src_original = src_path + src_ext 
+            src = src_original
+            
+        img_download(src, 'blog_img', None) #download img if not stored
+
+        path, filename = os.path.split(src)
+        newpath = os.path.join('imgs', filename)            
+        img.attrib['src'] = newpath
 
         parent = (img.xpath('..'))[0] #Note:complicated due to captions as paragraphs #esier to give an empty href to the wrapping <a> 
         if parent.tag is 'a' and img_class != 'video': # disable <a> wrapping <img>
             parent.attrib['href']=""
+
+        
+        # #img src to local source
+
+        #     print 'NEWPATH', newpath
+        #     if os.path.isfile('imgs/'+filename) != True:
+        #         img_download(src, 'blog_img', None) #download img if not stored
+        #     else:
+        #         print 'IMG FOUND', src
+
+
 
 
 def post_clean_html(article):
@@ -156,8 +164,8 @@ def post2markdown(tree): # keep only the <article> content - where blogpost actu
     post_videos(iframes) # videos: replace video's iframe with <a><img>
 
     images = (article.xpath('.//img'))
+
     post_imgs(images)
-    
     post_clean_html(article)
         
     # get info
@@ -218,7 +226,7 @@ def pandoc(date, author, title, md_filename):
     # --variable author="{a}" \
     # --variable date="{d}" \
 
-def wget_post(url, section):
+def wget_post(url):
     '''
     Download post
     Parse post's tree
@@ -231,8 +239,7 @@ def wget_post(url, section):
     parsed = lxml.html.parse(input_file)
     article = parsed.xpath('//article')[0]
 
-#    print parsed
-#    print article
+
     # post2markdown(parsed)
     date, author, title = post2markdown(parsed)
     author = author.encode('utf-8')
@@ -258,13 +265,8 @@ post_urls='posts_urls.txt' #os.path.abspath(sys.argv[1])
 post_urls_file = open(post_urls, 'r')
 for line in post_urls_file.readlines():
     if line:
-        url, section = (line.split(" ")  )
-        section = section.replace('\n', '')
-        print 'URL:', url, section
-        wget_post(url, section)
+        url = line
+        wget_post(url)
         os.remove('index.html')
         print 
         
-#print html
-
-        #print html# article

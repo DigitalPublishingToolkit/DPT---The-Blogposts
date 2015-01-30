@@ -1,0 +1,20 @@
+#!/bin/sh
+
+
+
+# THIS SCRIPT IS MEANT TO INITIAT THE ENTIRE PROCESS OF
+# * CLEANING OLD SOURCES (imgs, md)
+
+rm docs/*; rm imgs/*; rm index.html;
+# * DOWNLOADING BLOGPOSTS
+# * PARSING POSTS
+# * DOWNLOADING THE NECESSARY RESOURCES (imgs)
+# * COVERTING HTML TO MARKDOWN
+./saveposts.py
+
+# * RESIZING IMAGES
+./resizeimgs.sh
+
+./assemble.py
+# * ASEEMBLING ALL POSTS INTO ONE MARKDOWN FILE
+
