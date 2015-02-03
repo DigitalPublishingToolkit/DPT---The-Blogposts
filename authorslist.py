@@ -8,8 +8,7 @@ import glob
 authors_file = open('authors.txt', 'w' )
 authors_list = []
 def all_docs():
-    docs = glob.glob('docs/*')
-    docs.remove('docs/imgs')
+    docs = glob.glob('docs/*.md')
     all_docs = docs
 
     return all_docs

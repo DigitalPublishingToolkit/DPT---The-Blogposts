@@ -52,7 +52,10 @@ def post_lower_headings(headings, headings_dict, article):
             parent.replace(heading, new_heading)
             
 
+#def author():
+# 									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/haroldkonickx/" title="Posts by haroldkonickx" rel="author">haroldkonickx</a></span>, <time class="updated" datetime="2015-01-27" pubdate>January 27, 2015 at 2:09 pm</time>.</p>
 
+    
             
 def vimeo_api(video_id):
     api = 'http://vimeo.com/api/v2/video/{}.json'.format(video_id)
@@ -84,23 +87,18 @@ def post_videos(iframes):
         # ignore = 1 -> frame removed;
 
         if 'http' not in src:
-            src = src.replace('//', 'http://')
-            
+            src = src.replace('//', 'http://')            
         if 'vimeo' in src:
             vimeo_id = (src.split('/'))[-1]
             if '?' in vimeo_id:
-                vimeo_id = (vimeo_id.split('?')[0])
-                
+                vimeo_id = (vimeo_id.split('?')[0])                
             print 'ID:', vimeo_id
             url, poster_url = vimeo_api(vimeo_id)
-
             path, filename = os.path.split(poster_url)
-
             newpath = os.path.join('../../imgs', filename)
             if os.path.isfile('docs/imgs'+ filename) != True:
                 img_download(poster_url, 'vimeo_poster', None) #download img if not stored
-            ignore = 0
-                
+            ignore = 0                
         elif 'youtube' in src:
             youtube_id = (src.split('/'))[-1]
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
@@ -111,16 +109,12 @@ def post_videos(iframes):
             if os.path.isfile('docs/imgs'+ filename) != True:
                 img_download(poster, 'youtube_poster', filename)
             # youtube video has to change filename, otherwise they will all will be called 0.jpg
-            ignore = 0
-            
+            ignore = 0            
         else: 
             ignore = 1
-
-        parent = iframe.getparent()
-        
+        parent = iframe.getparent()        
         if ignore == 1:
             parent.remove(iframe)
-
         else:            
             anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
             img = lxml.etree.SubElement(anchor, 'img', attrib={'src':newpath, 'class': 'video'}, nsmap=None)
@@ -174,26 +168,32 @@ def post_clean_html(article):
 
 
         
-def post2markdown(tree): # keep only the <article> content - where blogpost actualy is 
-    
+def post2markdown(tree): # Process html; Keep only the <article> content - where blogpost actualy is 
     article = (tree.xpath('//article'))[0]
     header = (tree.xpath('//header[@class="article-header"]'))[0]
     p_blog = (article.xpath('.//p[@id="breadcrumb"]'))[0] # contains: "Blog:"
-
     header.remove(p_blog)
     if (article.xpath('.//footer')):
         footer = (article.xpath('.//footer'))[0]        
         article.remove(footer)
-
     iframes =  article.xpath('//iframe')
-
     post_videos(iframes) # videos: replace video's iframe with <a><img>
 
     images = (article.xpath('.//img'))
-
     post_imgs(images)
     post_clean_html(article)
-        
+
+    # author # add class to author wrapping <a>
+    author_tag = (article.xpath('.//span[@class="author"]/a'))
+#    author_tag[0].set('class', 'author')
+#    author_tag[0].attrib.pop('rel')
+#    author_tag[0].attrib.pop('title')
+
+    #    author_tag[0].set('title', '')
+
+    print lxml.html.tostring(author_tag[0])
+              
+    
     # get info
     date = ((article.xpath('//time'))[0]).attrib['datetime']
     author = (article.xpath('//a[@rel="author"]'))[0].text    
@@ -251,11 +251,6 @@ def pandoc(date, author, title, md_filename):
     clean_markdown(md_filename)
 #    os.remove('index.html')
 
-    # --template markdown.template \
-    # --variable title="{t}" \
-    # --variable author="{a}" \
-    # --variable date="{d}" \
-
 def wget_post(url):
     '''
     Download post
@@ -263,16 +258,12 @@ def wget_post(url):
     Get Metadata
     Save content to Markdown file inside docs/file.md 
     '''
-    print 'wget_post', url
     wget = 'wget --quiet --no-clobber {}'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
     input_file = open('index.html', "r") # open and parse
     parsed = lxml.html.parse(input_file)
-    article = parsed.xpath('//article')[0]
-
-    # post2markdown(parsed)
+    article = parsed.xpath('//article')[0]    
     date, author, title = post2markdown(parsed)
-    
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
     print date, author, title
@@ -292,9 +283,8 @@ def clean():
     for f in docs:
         os.remove(f)
     
-clean()
+#clean()
 post_urls= os.path.abspath(sys.argv[1])
-# 'test.txt'#
 post_urls_file = open(post_urls, 'r')
 for line in post_urls_file.readlines():
     if line:
