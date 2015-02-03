@@ -19,9 +19,7 @@ Relies on: Pandoc
 ----
 
 Issues:
-* image storage in docs/imgs
 
-* Issue iframe 
 
 
 
@@ -143,7 +141,48 @@ def post_imgs(images):
         newpath = os.path.join('imgs', filename)            
         img.attrib['src'] = newpath
 
-        parent = (img.xpath('..'))[0] #Note:complicated due to captions as paragraphs #esier to give an empty href to the wrapping <a> 
+        parent = (img.xpath('..'))[0] 
+        grandparent = (img.xpath('../..'))[0]
+        fig = lxml.etree.Element('figure')
+        img = lxml.etree.Element('img')
+        figcaption = lxml.etree.Element('ficaption')
+        caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
+        if len(caption) > 0:
+            grandparent.remove(caption[0])
+            fig.insert(0, figcaption)
+            figcaption.text = caption[0].text
+
+        
+        img.set('src', newpath)
+        grandparent.remove(parent)
+        grandparent.insert(0, fig)
+        fig.insert(0, img)
+
+
+            
+        print 'Grandparent', lxml.etree.tostring(grandparent)
+        print 'Image', lxml.etree.tostring(img)                  
+
+
+
+        
+        
+        
+        # remove parent
+        # insert figcaption
+        # with img
+        # with figcaption
+
+        # in video case:
+        # in figcaption: add url to video "Video: url"
+        '''        
+        <div id="attachment_1604" style="width: 310px" class="wp-caption alignleft">
+        <a href=""><img class="size-medium wp-image-1604" src="imgs/14058080799_ac4cbe88fd_z.jpg" alt="Michelle Kasprzak " width="300" height="198"></a><p class="wp-caption-text">Michelle Kasprzak</p>
+        </div>
+'''
+
+
+        
         if parent.tag is 'a' and img_class != 'video': # disable <a> wrapping <img>
             parent.attrib['href']=""
 
@@ -181,6 +220,7 @@ def post2markdown(tree): # Process html; Keep only the <article> content - where
 
     images = (article.xpath('.//img'))
     post_imgs(images)
+
     post_clean_html(article)
 
     # author # add class to author wrapping <a>
@@ -233,6 +273,10 @@ def clean_markdown(md_filename):
     md_file.write(md_content)
     md_file.close()
 
+def html(html_filename):
+    cp = 'cp tmp_article.html {}'.format(html_filename)
+    subprocess.call(cp, shell=True) 
+
     
 def pandoc(date, author, title, md_filename): 
     '''uses pandoc to convert html content  to markdown
@@ -258,7 +302,7 @@ def wget_post(url):
     Get Metadata
     Save content to Markdown file inside docs/file.md 
     '''
-    wget = 'wget --quiet --no-clobber {}'.format(url)        
+    wget = 'wget --no-clobber {}'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
     input_file = open('index.html', "r") # open and parse
     parsed = lxml.html.parse(input_file)
@@ -267,9 +311,14 @@ def wget_post(url):
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
     print date, author, title
-    md_filename = "docs/{date}-{file}.md".format(date=date, file=title.replace(" ", "_")) 
-    pandoc(date, author, title, md_filename)
 
+    #convert to markdown
+#    md_filename = "docs/{date}-{file}.md".format(date=date, file=title.replace(" ", "_")) 
+#    pandoc(date, author, title, md_filename)
+
+    html_filename = "docs/{date}-{file}.html".format(date=date, file=title.replace(" ", "_")) 
+    html(html_filename)
+    # cp to html
     
 
 def clean():
@@ -291,6 +340,6 @@ for line in post_urls_file.readlines():
         url = line
         print 'URL', url
         wget_post(url)
-        os.remove('index.html')
+#        os.remove('index.html')
         print 
         

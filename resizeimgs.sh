@@ -5,8 +5,8 @@ done;
 
 # 2nd round: compress pngs
 for img in docs/imgs/*.png;
-do optipng -o5
-   
+do optipng -o5 $img
+done;   
 # -strip Strip any comment or exif tag
 #
 #
