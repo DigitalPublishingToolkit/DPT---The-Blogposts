@@ -19,16 +19,16 @@ Relies on: Pandoc
 ----
 
 Issues:
-Some images dont become local:
+* image storage in docs/imgs
 
-    ![Parallel
-    workflows](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/12/workflow_02.png)
+* Issue iframe 
 
-why?
+
+
 
 '''
 
-import os, subprocess, re, glob
+import os, subprocess, re, glob, sys
 import lxml.html, html5lib
 import urllib2, json
 
@@ -65,27 +65,42 @@ def vimeo_api(video_id):
 
 def img_download(src, img_type, destination):
     '''Download images save in imgs'''
+    src = src.encode('utf-8')
     if img_type in ['blog_img', 'vimeo_poster']:
-        wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
+        wget_img = 'wget --quiet --no-clobber -P docs/imgs {} --quiet'.format(src)        
         subprocess.call(wget_img, shell=True)           
     elif img_type is 'youtube_poster':
-        wget_img = 'wget --quiet -P imgs {} --quiet'.format(src)        
+        wget_img = 'wget --quiet  --no-clobber -P docs/imgs {} --quiet'.format(src)        
         subprocess.call(wget_img, shell=True)           
-        mv_img = 'mv imgs/0.jpg imgs/{}'.format(destination)
+        mv_img = 'mv docs/imgs0.jpg docs/imgs/{} '.format(destination)
         subprocess.call(mv_img, shell=True)           
 
 
 def post_videos(iframes):
     for iframe in iframes:
         src = iframe.attrib['src']
+        ignore = 0 # if iframe is from vimeo or youtube: ignore=0; if iframe is NOT from vimeo or youtube: ignore=1;  
+        # ignore = 0 -> frame replacement for image;
+        # ignore = 1 -> frame removed;
+
+        if 'http' not in src:
+            src = src.replace('//', 'http://')
+            
         if 'vimeo' in src:
             vimeo_id = (src.split('/'))[-1]
+            if '?' in vimeo_id:
+                vimeo_id = (vimeo_id.split('?')[0])
+                
+            print 'ID:', vimeo_id
             url, poster_url = vimeo_api(vimeo_id)
+
             path, filename = os.path.split(poster_url)
+
             newpath = os.path.join('../../imgs', filename)
-            if os.path.isfile('imgs/'+ filename) != True:
+            if os.path.isfile('docs/imgs'+ filename) != True:
                 img_download(poster_url, 'vimeo_poster', None) #download img if not stored
-            
+            ignore = 0
+                
         elif 'youtube' in src:
             youtube_id = (src.split('/'))[-1]
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
@@ -93,14 +108,24 @@ def post_videos(iframes):
             filename = youtube_id + '.jpg'
             newpath = os.path.join('../../imgs', filename)
 #            print 'YOUTUBE', newpath
-            if os.path.isfile('imgs/'+ filename) != True:
+            if os.path.isfile('docs/imgs'+ filename) != True:
                 img_download(poster, 'youtube_poster', filename)
             # youtube video has to change filename, otherwise they will all will be called 0.jpg
-        anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
-        img = lxml.etree.SubElement(anchor, 'img', attrib={'src':newpath, 'class': 'video'}, nsmap=None)
-#        new_heading.text = heading_text
+            ignore = 0
+            
+        else: 
+            ignore = 1
+
         parent = iframe.getparent()
-        parent.replace(iframe, anchor)
+        
+        if ignore == 1:
+            parent.remove(iframe)
+
+        else:            
+            anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
+            img = lxml.etree.SubElement(anchor, 'img', attrib={'src':newpath, 'class': 'video'}, nsmap=None)
+    #        new_heading.text = heading_text
+            parent.replace(iframe, anchor)
 
 
 def post_imgs(images):
@@ -132,7 +157,7 @@ def post_imgs(images):
         # #img src to local source
 
         #     print 'NEWPATH', newpath
-        #     if os.path.isfile('imgs/'+filename) != True:
+        #     if os.path.isfile('docs/imgs'+filename) != True:
         #         img_download(src, 'blog_img', None) #download img if not stored
         #     else:
         #         print 'IMG FOUND', src
@@ -161,6 +186,7 @@ def post2markdown(tree): # keep only the <article> content - where blogpost actu
         article.remove(footer)
 
     iframes =  article.xpath('//iframe')
+
     post_videos(iframes) # videos: replace video's iframe with <a><img>
 
     images = (article.xpath('.//img'))
@@ -216,6 +242,10 @@ def pandoc(date, author, title, md_filename):
     pandoc = 'pandoc -f html -t markdown \
     --atx-headers \
     tmp_article.html \
+    --template markdown.template \
+    --variable title="{t}" \
+    --variable author="{a}" \
+    --variable date="{d}" \
     -o "{mdfile}"'.format(t=title , a=author, d=date, mdfile=md_filename)
     subprocess.call(pandoc, shell=True) 
     clean_markdown(md_filename)
@@ -232,16 +262,17 @@ def wget_post(url):
     Parse post's tree
     Get Metadata
     Save content to Markdown file inside docs/file.md 
-    '''    
-    wget = 'wget --quiet {}'.format(url)        
+    '''
+    print 'wget_post', url
+    wget = 'wget --quiet --no-clobber {}'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
     input_file = open('index.html', "r") # open and parse
     parsed = lxml.html.parse(input_file)
     article = parsed.xpath('//article')[0]
 
-
     # post2markdown(parsed)
     date, author, title = post2markdown(parsed)
+    
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
     print date, author, title
@@ -254,18 +285,21 @@ def clean():
     '''
     Remove previously stored posts 
     '''
-    imgs = glob.glob('imgs/*')
+    imgs = glob.glob('docs/imgs/*')
     docs = glob.glob('docs/*')
+    docs.remove('docs/imgs')
     all_files = imgs + docs
     for f in docs:
         os.remove(f)
     
 clean()
-post_urls='posts_urls.txt' #os.path.abspath(sys.argv[1])
+post_urls= os.path.abspath(sys.argv[1])
+# 'test.txt'#
 post_urls_file = open(post_urls, 'r')
 for line in post_urls_file.readlines():
     if line:
         url = line
+        print 'URL', url
         wget_post(url)
         os.remove('index.html')
         print 
