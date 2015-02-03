@@ -90,7 +90,7 @@ def post_videos(iframes):
             vimeo_id = (src.split('/'))[-1]
             if '?' in vimeo_id:
                 vimeo_id = (vimeo_id.split('?')[0])                
-            print 'ID:', vimeo_id
+#            print 'ID:', vimeo_id
             url, poster_url = vimeo_api(vimeo_id)
             path, filename = os.path.split(poster_url)
             newpath = os.path.join('../../imgs', filename)
@@ -134,70 +134,40 @@ def post_imgs(images):
             src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
             src_original = src_path + src_ext 
             src = src_original
+            src_ext = src_original.split('.')[-1]
             
-        img_download(src, 'blog_img', None) #download img if not stored
+            if src_ext in ('jpg', 'jpeg', 'JPG', 'JPEG', 'png', 'gif' ):            
+                img_download(src, 'blog_img', None) #download img if not stored
+                path, filename = os.path.split(src)
+                newpath = os.path.join('imgs', filename)            
+                img.attrib['src'] = newpath
 
-        path, filename = os.path.split(src)
-        newpath = os.path.join('imgs', filename)            
-        img.attrib['src'] = newpath
-
-        parent = (img.xpath('..'))[0] 
-        grandparent = (img.xpath('../..'))[0]
-        fig = lxml.etree.Element('figure')
-        img = lxml.etree.Element('img')
-        figcaption = lxml.etree.Element('ficaption')
-        caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
-        if len(caption) > 0:
-            grandparent.remove(caption[0])
-            fig.insert(0, figcaption)
-            figcaption.text = caption[0].text
-
-        
-        img.set('src', newpath)
-        grandparent.remove(parent)
-        grandparent.insert(0, fig)
-        fig.insert(0, img)
-
-
-            
-        print 'Grandparent', lxml.etree.tostring(grandparent)
-        print 'Image', lxml.etree.tostring(img)                  
+                if len(img.xpath('../..')) > 0: # if there is element wrapping 
+                    grandparent = (img.xpath('../..'))[0]
+                    parent = (img.xpath('..'))[0] 
+                    fig = lxml.etree.Element('figure')
+                    img = lxml.etree.Element('img')
+                    figcaption = lxml.etree.Element('ficaption')
+                    caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
+                    if len(caption) > 0:
+                        grandparent.remove(caption[0])
+                        fig.insert(0, figcaption)
+                        figcaption.text = caption[0].text
+                    grandparent.remove(parent)
+                    grandparent.insert(0, fig)
+                    fig.insert(0, img)                        
+                    img.set('src', newpath)
+            else:
+                print 'ODD IMAGE:', lxml.etree.tostring(img)                  
+                parent = (img.xpath('..'))[0] 
+                parent.remove(img)            
 
 
 
-        
-        
-        
-        # remove parent
-        # insert figcaption
-        # with img
-        # with figcaption
-
-        # in video case:
-        # in figcaption: add url to video "Video: url"
-        '''        
-        <div id="attachment_1604" style="width: 310px" class="wp-caption alignleft">
-        <a href=""><img class="size-medium wp-image-1604" src="imgs/14058080799_ac4cbe88fd_z.jpg" alt="Michelle Kasprzak " width="300" height="198"></a><p class="wp-caption-text">Michelle Kasprzak</p>
-        </div>
-'''
-
+            if parent.tag is 'a' and img_class != 'video': # disable <a> wrapping <img>
+                parent.attrib['href']=""
 
         
-        if parent.tag is 'a' and img_class != 'video': # disable <a> wrapping <img>
-            parent.attrib['href']=""
-
-        
-        # #img src to local source
-
-        #     print 'NEWPATH', newpath
-        #     if os.path.isfile('docs/imgs'+filename) != True:
-        #         img_download(src, 'blog_img', None) #download img if not stored
-        #     else:
-        #         print 'IMG FOUND', src
-
-
-
-
 def post_clean_html(article):
     # remove unnecessary elements
     elements_to_remove = '//br | .//a[@class="footnote"] | .//div[@class="footnotes"] | .//em[not(normalize-space()) and not(*)] | .//i[not(normalize-space()) and not(*)] | .//b[not(normalize-space()) and not(*)] | .//strong[not(normalize-space()) and not(*)]'
@@ -231,7 +201,7 @@ def post2markdown(tree): # Process html; Keep only the <article> content - where
 
     #    author_tag[0].set('title', '')
 
-    print lxml.html.tostring(author_tag[0])
+#    print lxml.html.tostring(author_tag[0])
               
     
     # get info
@@ -274,7 +244,9 @@ def clean_markdown(md_filename):
     md_file.close()
 
 def html(html_filename):
-    cp = 'cp tmp_article.html {}'.format(html_filename)
+    print 'SAVING AS HTML', html_filename
+
+    cp = '"cp tmp_article.html {}"'.format(html_filename)
     subprocess.call(cp, shell=True) 
 
     
@@ -302,7 +274,7 @@ def wget_post(url):
     Get Metadata
     Save content to Markdown file inside docs/file.md 
     '''
-    wget = 'wget --no-clobber {}'.format(url)        
+    wget = 'wget --quiet --no-clobber {}'.format(url)        
     subprocess.call(wget, shell=True) # download as index.html
     input_file = open('index.html', "r") # open and parse
     parsed = lxml.html.parse(input_file)
@@ -310,7 +282,7 @@ def wget_post(url):
     date, author, title = post2markdown(parsed)
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
-    print date, author, title
+
 
     #convert to markdown
 #    md_filename = "docs/{date}-{file}.md".format(date=date, file=title.replace(" ", "_")) 
@@ -338,8 +310,9 @@ post_urls_file = open(post_urls, 'r')
 for line in post_urls_file.readlines():
     if line:
         url = line
+        print 
         print 'URL', url
         wget_post(url)
-#        os.remove('index.html')
-        print 
+        os.remove('index.html')
+
         
