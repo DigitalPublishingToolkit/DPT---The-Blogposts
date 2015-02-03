@@ -1,0 +1,328 @@
+<article id="post-864" class="post-864 post type-post status-publish format-standard hentry category-design category-development category-inc category-standards clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/silviolorusso/" title="Posts by Silvio Lorusso" rel="author">Silvio Lorusso</a></span>, <time class="updated" datetime="2013-10-9" pubdate>October 9, 2013 at 3:57 pm</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<p>(updated on the 21st of October)</p>
+<p>— INC subgroup</p>
+<p>In this post I’ll treat the issues that emerge from the proposal of embedding a custom set of metadata, based on the Dublin Core standard, within a MultiMarkdown document.</p>
+<p>The metadata set here employed is an extremely simplified version of what it is needed in our research project, but it gives anyway several insights that are useful in the definition of a more complex set.</p>
+<p>The work is divided in 2 phases:</p>
+<ol>
+<li>the set of metadata is defined into a Dublin Core Application Profile (DCAP);</li>
+<li>the ways to insert the DCAP within a MultiMarkdown document are discussed.</li>
+</ol>
+<p><span id="more-864"></span></p>
+<h2>What Metadata?</h2>
+<ol>
+<li>Metadata tied to workflow and production. Those allow to structure a text in such a way that, with the help of a style sheet, different kinds of output technologies (and formats) can be used.</li>
+<li>Metadata as the translation table between the tags under <strong>1.</strong> and the output appearance. E.g. <code>&lt;title&gt;This is a Title&lt;/title&gt;</code> has a related list in which it is stipulated that on paper words in the field title are printed Bold face in Green. In the same list it is stipulated that on a B&amp;W e-reader it is only Bold.</li>
+<li>Metadata for keywords and classifications. Here a word or small noun-phrase is tagged with a tag that is coupled to a glossary orontology in which the meaning of the term is given. E.g. <code>&lt;glossA23&gt;Spinach&lt;/glossA23&gt;</code> means the word spinach according to glossary A (vegetables) is defined in field 23.</li>
+<li>Metadata that deal with navigation e.g. anchors in an hypertext environment.</li>
+</ol>
+<h2>Why Embedding Metadata into MMD?</h2>
+<p>Embedding Metadata directly into MMD means that:</p>
+<ol>
+<li>the context of a document is bound to its content, so even if the document is considered in itself it still tells its context (author, date, etc.);</li>
+<li>the one who inserts the metadata only needs to know the MMD syntax so that she can use her preferred software to compile a document;</li>
+<li>the one who inserts the metadata could use –but is not bound to– any interface with custom forms.</li>
+</ol>
+<p>An index of all the documents is then created according to a “media player” model (already used for e-books like in tools like <a href="http://calibre-ebook.com/">Calibre</a>). The metadata of each document are directly extracted and updated each time a document is modified.</p>
+<h2>A Simplified Version of the Metadata Set Mapped to Dublin Core</h2>
+<p>Following the Dublin Core’s <a href="http://dublincore.org/documents/profile-guidelines/">MyBookCase</a> example we define a simplified version of our metadata set by creating a Dublin Core Application Profile (DCAP).</p>
+<h3>Functional Requirements</h3>
+<p>First we list the functional requirements for our DCAP:</p>
+<ul>
+<li>Retrieve articles through a title or an author search;</li>
+<li>Sort retrieved items by publication date;</li>
+<li>Sort retrieved items by editing date;</li>
+<li>Provide the author’s name and affiliation for contact purposes.</li>
+<li>Sort different typologies of articles, such as blogposts or essays;</li>
+<li>Arrange the articles according to the project they belong to;</li>
+<li>Retrieve a certain part of an article, such as the abstract;</li>
+<li>Retrieve specific information within the text, such as names of people or organizations that are mentioned into it.</li>
+</ul>
+<h3>Domain Model</h3>
+<p>Then we develop a <a href="http://dublincore.org/documents/profile-guidelines/#sect-4">domain model</a>:</p>
+<p>The domain model for IncPubBeta has 3 <em>things</em>: <strong>Projects</strong>, <strong>Articles</strong> and <strong>Persons</strong> (the authors of the articles). The domain model therefore consists of:</p>
+<p>An <strong>Article</strong> that belongs to a <strong>Project</strong> and is authored by a <strong>Person</strong>.</p>
+<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/10/Screen-Shot-2013-09-30-at-3.18.13-PM.png" alt="Domain Model">
+<p>Now we select or define metadata:</p>
+<p>An <strong>Article</strong>:</p>
+<ul>
+<li>may have a <strong>Title</strong>;</li>
+<li>may have a <strong>Publication Date</strong>;</li>
+<li>may have an <strong>Edited Date</strong>;</li>
+<li>may have a <strong>Type</strong> (blogpost or essay);</li>
+<li>may have an <strong>Abstract</strong>;</li>
+<li>may have one or more <strong>Agents</strong> mentioned (such as people or organizations);</li>
+<li>may have a <strong>Parent</strong> project;</li>
+<li>may have one or more <strong>Authors</strong>.</li>
+</ul>
+<p>A <strong>Parent</strong> is a <strong>Project</strong> that has:</p>
+<ul>
+<li>a <strong>Title</strong>;</li>
+</ul>
+<p>An <strong>Author</strong> is a <strong>Person</strong> that has:</p>
+<ul>
+<li>a <strong>Name</strong>;</li>
+<li>an <strong>Affiliation</strong>.</li>
+</ul>
+<h3>Metadata Evaluation</h3>
+<p>At this stage we evaluate the possibilty to use terms from existing vocabularies in our DCPA:</p>
+<h4>Article</h4>
+<p>For the <strong>Title</strong> we can use <a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title"><em>dcterms:title</em></a>, simply defined as “A name given to the resource”. It takes a free text as value.</p>
+<p><strong>Publication Date</strong> is mapped to <a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date"><em>dcterms:date</em></a>, formatted according to the <a href="http://www.w3.org/TR/NOTE-datetime">W3C Date and Time Formats Specification</a>.</p>
+<p><strong>Edited Date</strong> is mapped to <a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified"><em>dcterms:modified</em></a>, formatted according to the <a href="http://www.w3.org/TR/NOTE-datetime">W3C Date and Time Formats Specification</a>.</p>
+<p><strong>Type</strong> is mapped to <a href="http://purl.org/dc/elements/1.1/type"><em>dcterms:type</em></a>, defined as “the nature or genre of the resource”. It uses a domain specific vocabulary limited in our case to the following values:</p>
+<ul>
+<li>Essay;</li>
+<li>Blogpost.</li>
+</ul>
+<p><strong>Abstract</strong> is mapped to <a href="http://dublincore.org/documents/dcmi-terms/#terms-abstract"><em>dcterms:abstract</em></a> and it is defined as ”a summary of the resource”.</p>
+<p><strong>Agent</strong> is mapped to <a href="http://xmlns.com/foaf/spec/#term_Agent"><em>foaf:agent</em></a> and it is defined as ”an agent (eg. person, group, software or physical artifact)”.</p>
+<p><strong>Parent</strong> is mapped to <a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf"><em>dcterms:isPartOf</em></a>, defined as “a related resource in which the described resource is physically or logically included”. It is used with a non-literal value in order to be described with multiple components.</p>
+<p><strong>Author</strong> is mapped to [<em>dcterms:creators</em>][dcdatesub], defined as “an entity primarily responsible for making the resource“. It is used with a non-literal value in order to be described with multiple components.</p>
+<h4>Parent as Project</h4>
+<p><strong>Title</strong> is mapped to <a href="http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title"><em>dcterms:title</em></a> and it takes a free text as value.</p>
+<h4>Author as Person:</h4>
+<p><strong>Name</strong> is mapped to <a href="http://xmlns.com/foaf/spec/#term_name"><em>foaf:name</em></a> (part of the FOAF vocabulary), defined as “a name for some thing”.</p>
+<p><strong>Affiliation</strong> is mapped to <a href="http://xmlns.com/foaf/spec/#term_workplaceHomepage"><em>foaf:workplaceHomepage</em></a>(part of the FOAF vocabulary), defined as “a workplace homepage of some person; the homepage of an organization they work for”. It takes the URL of the workplace as value.</p>
+<h2>Summary</h2>
+<p>Two vocabularies are used in our DCAP:</p>
+<ul>
+<li>
+<a href="http://dublincore.org/documents/dcmi-terms/">DCMI Metadata Terms</a>;</li>
+<li>
+<a href="http://xmlns.com/foaf/spec/">FOAF Vocabulary</a>. </li>
+</ul>
+<h2>Description Set Profile</h2>
+<p>We design our Metadata Record, called <em>IncPubBeta</em>, with a Description Set Profile (DSP) which is technology-agnostic.</p>
+<pre><code>DescriptionSet: IncPubBeta
+    Description template: Article
+    minimum = 1; maximum = unlimited
+        Statement template: title
+        minimum = 1; maximum = 1
+            Property: http://purl.org/dc/terms/title
+            Type of Value = "literal"
+        Statement template: dateCreated
+        minimum = 1; maximum = 1
+            Property: http://purl.org/dc/terms/created
+            Type of Value = "literal"
+            Syntax Encoding Scheme URI = http://purl.org/dc/terms/W3CDTF
+        Statement template: dateModified
+        minimum = 1; maximum = 1
+            Property: http://purl.org/dc/terms/modified
+            Type of Value = "literal"
+            Syntax Encoding Scheme URI = http://purl.org/dc/terms/W3CDTF
+        Statement template: type
+        minimum = 1; maximum = 1
+            Property: http://purl.org/dc/terms/type
+            Type of Value = "literal"
+            takes list = yes
+        Statement template: abstract
+        minimum = 1; maximum = 1
+            Property: http://purl.org/dc/terms/abstract
+            Type of Value = "literal"
+        Statement template: agent
+        minimum = 0; maximum = unlimited
+            Property: http://xmlns.com/foaf/0.1/agent
+            Type of Value = "literal"
+        Statement template: parent
+        minimum = 0; maximum = unlimited 
+            Property: http://purl.org/dc/terms/isPartOf
+            Type of Value = "non-literal"
+            defined as = project 
+        Statement template: author
+        minimum = 0; maximum = unlimited 
+            Property: http://purl.org/dc/terms/creator
+            Type of Value = "non-literal"
+            defined as = person
+
+    Description template: Project id=project
+    minimum = 1; maximum = unlimited
+        Statement template: title
+        minimum = 1; maximum = 1
+            Property: http://purl.org/dc/terms/title
+            Type of Value = "literal"
+
+    Description template: Person id=person
+    minimum = 1; maximum = unlimited
+        Statement template: name
+            Property: http://xmlns.com/foaf/0.1/name
+            minimum = 1; maximum = 1 
+            Type of Value = "literal"
+        Statement template: affiliation
+            Property: http://xmlns.com/foaf/0.1/name
+            minimum = 1; maximum = 1 
+            Type of Value = “non-literal"
+            value URI = mandatory
+</code></pre>
+<h2>Support for Metadata in MultiMarkdown</h2>
+<p>MultiMarkdown <a href="https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#metadata">features</a> the possibility to insert metadata at the beginning of the document in the following way:</p>
+<pre><code>Title: This is the title  
+Author: John Doe
+Affiliation: MIT
+</code></pre>
+<h2>Comparison Between our DCAP and MultiMarkdown Default Metadata</h2>
+<p>In the comparison between our DCAP and MultiMarkdown default metadata set we will particularly consider two aspects:</p>
+<ul>
+<li>legibility, which is a key issue in Markdown language;</li>
+<li>adherence to a shared standard for defining metadata.</li>
+</ul>
+<h3>Article’s Title</h3>
+<p><strong>Title</strong> could be seamlessly mapped to <a href="https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title"><em>Title</em></a> metadata, present in MultiMarkdown and defined as follows.</p>
+<blockquote>
+<p>Used to provide the official title of a document. This is set as the <code>&lt;title&gt;</code> string within the <code>&lt;head&gt;</code> section of an HTML document, and is also used by other export formats.</p>
+</blockquote>
+<pre><code>Title: This is my title
+</code></pre>
+<h3>Publication Date</h3>
+<p><strong>Publication Date</strong> could be seamlessly mapped to <a href="https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date"><em>Date</em></a> metadata, present in MultiMarkdown and defined as follows.</p>
+<blockquote>
+<p>Provide a date for the document.</p>
+</blockquote>
+<p>Even though MMD doesn’t provide any particular way to fomat dates, it is preferable to adhere to <a href="http://www.w3.org/TR/NOTE-datetime">W3C Dates and Times Formats</a>.</p>
+<pre><code>Date: 2012-10-08
+</code></pre>
+<h3>Edited Date</h3>
+<p>There is no metadata similar to <strong>Edited Date</strong> in MMD. So I propose <em>Modified</em> metadata to stick with the DC syntax.</p>
+<pre><code>Modified: 2013-10-08
+</code></pre>
+<h3>Type</h3>
+<p>There is no metadata similar to <strong>Type</strong> in MMD. So we propose <em>Type</em> metadata to stick with the DC syntax. It allows for a custom vocabulary.</p>
+<pre><code>Type: Blogpost
+</code></pre>
+<h3>Parent Project’s Title</h3>
+<p>There is no metadata similar to <strong>Parent</strong> in MMD. So I propose <em>Project</em> to give an immediate idea of what this metadata is about.</p>
+<pre><code>Project: My project’s Title
+</code></pre>
+<h3>Author’s Name</h3>
+<p>The <strong>Name</strong> of an <strong>Author</strong> could be seamlessly mapped to <a href="https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author"><em>Author</em></a> metadata, present in MultiMarkdown and defined as follows.</p>
+<blockquote>
+<p>Self-explanatory. I strip this out to provide an author string to LaTeX documents. Also used as the sender for letterhead and envelope templates.</p>
+</blockquote>
+<pre><code>Author: John Doe
+</code></pre>
+<h3>Author’s Affiliation</h3>
+<p>The <strong>Affiliation</strong> of an <strong>Author</strong> could be seamlessly mapped to <a href="https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation"><em>Affiliation</em></a> metadata, present in MultiMarkdown and defined as follows.</p>
+<blockquote>
+<p>Use this to include an organization that the author is affiliated with, e.g. a university, company, or organization.</p>
+</blockquote>
+<p>In our case we will limit the values to URLs.</p>
+<pre><code>Affiliation: http://www.international.hva.nl/
+</code></pre>
+<p>This is off course problematic in case the workplace homepage moves to another address.</p>
+<p>The <strong>Affiliation</strong> is dependent to a specific <strong>Author</strong>, so ways to express this dependency are needed., specifically in case of multiple authors.</p>
+<h4>Affiliation Consequent to Name</h4>
+<p>A possibility could be to insert <strong>Affiliation</strong> consequently to <strong>Author</strong>, like in the following example.</p>
+<pre><code>Author: John Doe
+Affiliation: http://www.international.hva.nl/
+Author: Mario Rossi
+Affiliation: http://www.unimi.it/
+</code></pre>
+<h3>Abstract</h3>
+<p>In order to identify the <strong>Abstract</strong> within a MMD document, it is necessary to implement some extra syntax. Following there are some references and possibilities listed.</p>
+<h4>LaTEX</h4>
+<p>In <a href="http://en.wikibooks.org/wiki/LaTeX/Document_Structure#Abstract">LaTEX</a> an Abstract is identified in the following way.</p>
+<pre><code>begin{abstract}
+Your abstract goes here...
+...
+end{abstract}
+</code></pre>
+<p>This could be simplified for MMD in the following way.</p>
+<pre><code>abstract
+Your abstract goes here...
+</code></pre>
+<p>In this case a blank line would represent the end of the abstract. The advantage of this solution would be that the abstract is not written more than once. The solution is not MMD compatible.</p>
+<h4>Pandoc’s Markdown</h4>
+<p>The software Pandoc has an extended Markdown <a href="http://en.wikipedia.org/wiki/YAML">syntax</a> that includes the possibility to insert an abstract within a <a href="http://en.wikipedia.org/wiki/YAML">YAML</a> object in the following way:</p>
+<pre><code>---
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+...
+---
+
+#{abstract}
+</code></pre>
+<p>The syntax is conflicting with MMD because <code>---</code> is used to draw an horizontal line.</p>
+<h4>HTML5</h4>
+<p>Another possibility could be to insert the abstract within a <code>section</code> tag.</p>
+<pre><code>&lt;section class=“abstract”&gt;
+     This is the abstract.
+
+     It consists of two paragraphs.
+&lt;/section&gt;
+</code></pre>
+<p>The solution doesn’t conflict with MMD and allows to write the abstract only once. The main drawback is on the readability of the text.</p>
+<h3>Agent</h3>
+<p>As for the abstract, a way to tag <strong>Agents</strong> (such as people, organizations, institutions) within the document is desirable. Following there are some references and possibilities listed.</p>
+<h4>LaTEX</h4>
+<p>LaTEX uses the following way to define nouns.</p>
+<pre><code>noun{Jack} and noun{Joe Bloggs} went up the hill.
+</code></pre>
+<p>A simple way to do this in MMD could be the following.</p>
+<pre><code>[Jack]{agent} and [Joe Bloggs]{agent} went up the hill.
+</code></pre>
+<p>And in the case of having a link to tag as agent, one could do like this:</p>
+<pre><code>[Jack](http://jack.com){agent} went up the hill.
+</code></pre>
+<p>The solution, similar to <a href="http://michelf.ca/projects/php-markdown/extra/#spe-attr">Markdown Extra’s Special Attributes</a>, is only a proposal and it doesn’t work in MMD.</p>
+<h4>Semantic MediaWiki</h4>
+<p>In <a href="http://semantic-mediawiki.org/wiki/Semantic_MediaWiki">Semantic MediaWiki</a>, an extension to MediaWiki, it is possible to tag links and normal text in the following ways.</p>
+<pre><code>This article has the following agent: [[Agent::John Doe]].
+This article has the following agent: [[Has Agent::John Doe]].
+</code></pre>
+<p>A possible solution in MMD would be to keep the syntax as is, even though the result is less legible.</p>
+<h4>HTML5</h4>
+<p>Another possibility could be to insert the agent within a <code>span</code> tag.</p>
+<pre><code>This is an agent: &lt;span class=“agent”&gt;Bruno Latour&lt;/span&gt;.
+</code></pre>
+<p>The solution doesn’t conflict with MMD. The main drawback is again the readability of the text.</p>
+<h2>Example of the Whole Set within MMD</h2>
+<p>Here’s an example of the whole set of metadata as proposed above. In the case of <strong>Abstract</strong> and <strong>Agent</strong>, the HTML5 solutions are employed.</p>
+<pre><code>Title: This is my title  
+Date: 2012-10-08
+Modified: 2013-10-08  
+Type: Blogpost  
+Project: My project’s Title
+Author: John Doe
+Affiliation: http://www.international.hva.nl/
+Author: Mario Rossi
+Affiliation: http://www.unimi.it/
+
+&lt;section class=“abstract”&gt;
+    This is the abstract.
+
+    It consists of two paragraphs.
+&lt;/section&gt;
+
+# “This is my title”
+## Part of *My project’s Title*
+
+This is an agent: &lt;span class=“agent”&gt;Bruno Latour&lt;/span&gt;.
+</code></pre>
+<h2>Conclusions</h2>
+<p>Even though the proposed scenario that employs HTML5 is fully functional within MMD, some issue regarding the legibility of code (main concern while using MMD) do arise. In order to extract the metadata correctly, a preprocessor is anyway needed.  A possibility not treated in the post is to include DC metadata directly as HTML header. This solution was consciously avoided because it totally breaks the legibility.</p>
+<h2>Resources</h2>
+<ul>
+<li>
+<a href="http://dublincore.org/documents/profile-guidelines/">Guidelines for Dublin Core Application Profiles</a>;</li>
+<li>
+<a href="http://wiki.dublincore.org/index.php/User_Guide">Dublin Core User Guide</a>;</li>
+<li>
+<a href="https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide">MultiMarkdown Syntax Guide</a>;</li>
+<li>
+<a href="http://stackoverflow.com/questions/8783641/semantic-tagging-in-markdown">Sematic Tagging in Markdown</a>;</li>
+<li>
+<a href="http://blogs.plos.org/mfenner/2012/12/18/additional-markdown-we-need-in-scholarly-texts/">Additional Markdown We Need in Scholarly Texts</a> by Martin Fenner;</li>
+<li>
+<a href="http://fountain.io/syntax">Fountain</a>, a plain text markup language for screenwriting based on Markdown;</li>
+<li>
+<a href="http://semantic-mediawiki.org/wiki/Help:Introduction_to_Semantic_MediaWiki">Introduction to Semantic MediaWiki</a>.</li>
+</ul>
+								</section>
+								</article>

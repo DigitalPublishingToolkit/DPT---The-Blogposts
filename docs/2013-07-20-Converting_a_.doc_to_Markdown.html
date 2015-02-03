@@ -1,0 +1,58 @@
+<article id="post-601" class="post-601 post type-post status-publish format-standard hentry category-development category-standards tag-conversion tag-markdown tag-text tag-workflow clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">Converting a .doc to Markdown</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/silviolorusso/" title="Posts by Silvio Lorusso" rel="author">Silvio Lorusso</a></span>, <time class="updated" datetime="2013-07-20" pubdate>July 20, 2013 at 4:55 pm</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<p>This posts gathers the preliminary reflections on including Markdown into the publishing workflow of INC. INC often receives papers and articles in .doc format. That’s why it is necessary to test the possibilities for automated conversion from .doc to Markdown.</p>
+<div id="attachment_620" style="width: 714px" class="wp-caption alignnone">
+<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/07/lodi-doc-in-libreoffice.png"><img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/07/lodi-doc-in-libreoffice.png" alt=".doc as rendered by LibreOffice" width="704" height="751" class="size-full wp-image-620"></a><p class="wp-caption-text">.doc as rendered by LibreOffice</p>
+</div>
+<p>The test document chosen is in .doc format and it contains:</p>
+<ul>
+<li>Basic formatting (e.g. bold and italic);</li>
+<li>Footnotes;</li>
+<li>References;</li>
+<li>Blockquotes;</li>
+<li>Hyperlinks;</li>
+<li>Images.</li>
+</ul>
+<h1>First Method: Textutil (Mac only) + Pandoc</h1>
+<p>The first method employs the command line tool <strong>textutil</strong> (only available on Mac), to convert the document to HTML, and the command line tool <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a>.</p>
+<p>The advantage of this method is the fact that it only requires a one-liner:<code>textutil -convert html file.doc -stdout | pandoc -f html -t markdown -o file.md</code></p>
+<h3>Outcomes</h3>
+<div id="attachment_622" style="width: 635px" class="wp-caption alignnone"><figure><img src="imgs/lodi-markdown-mou.png"><ficaption>Resulting Markdown as rendered by Mou</ficaption></figure></div>
+<p><strong>Pros</strong></p>
+<ul>
+<li>Basic formatting is preserved;</li>
+</ul>
+<p><strong>Cons</strong></p>
+<ul>
+<li>Images are missing;</li>
+<li>Line breaks are converted into backslashes;</li>
+<li>Footnotes are put at the end of the document without keeping the link within the text;</li>
+<li>No formatting for blockquotes;</li>
+<li>There is formatting for hyperlinks, but is not compatible with Markdown.</li>
+</ul>
+<h1>Second Method: LibreOffice (4.0.4.2) + Pandoc</h1>
+<p>The second methods consists in exporting the .doc to XHTML via LibreOffice and then…</p>
+<h3>Outcomes</h3>
+<div id="attachment_635" style="width: 635px" class="wp-caption alignnone"><figure><img src="imgs/lodi-html-from-libreoffice.png"><ficaption>The test document converted to HTML via LibreOffice</ficaption></figure></div>
+<p>The HTML code outputted by LibreOffice has a CSS style applied in a paragraph-specific way, this makes it pretty unreadable.</p>
+<p>The HTML is then converted to Markdown via Pandoc:<code>pandoc file.html -f html -t markdown -o file.md</code></p>
+<p><strong>Pros</strong></p>
+<ul>
+<li>Hyperlinks are preserved;</li>
+</ul>
+<p><strong>Cons</strong></p>
+<ul>
+<li>Basic formatting is not preserved;</li>
+<li>Images are included in the markdown but formatted as text, making the file impossible to open;</li>
+<li>There is formatting for footnotes, but is not compatible with Markdown.</li>
+<li>No formatting for blockquotes;</li>
+<li>There is formatting for hyperlinks, but is not compatible with Markdown.</li>
+</ul>
+<h1>Conclusions</h1>
+<p>The first method, Textutil (Mac only) + Pandoc, seems to be more convenient time-wise. However it is still necessary to add images, blockquotes, footnotes by hand. Furthermore hyperlinks need to be reformatted and slashes needs to be deleted.</p>
+								</section>
+								</article>

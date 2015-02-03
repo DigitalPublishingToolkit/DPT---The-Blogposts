@@ -1,0 +1,71 @@
+<article id="post-2276" class="post-2276 post type-post status-publish format-standard hentry category-design category-development category-nai010uitgevers category-publishing_platforms tag-application tag-highlights clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">Building My Highlights</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/marcdebruijn/" title="Posts by Marc de Bruijn" rel="author">Marc de Bruijn</a></span>, <time class="updated" datetime="2014-11-19" pubdate>November 19, 2014 at 3:28 pm</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<figure><img src="imgs/highlights-01.png"></figure><p>This is a short overview of the process of building a proof-of-concept application. Requirements shifted during the development of the project which, combined with a lot of uncertainty regarding the datasources to be used, partly explains the technical exploratory process and the way the final proof-of-concept was developed.</p>
+<p><em>My Highlights</em> was conceived as a mobile application allowing the user to easily browse and filter a large collection of objects from Highlights catalogue of the Stedelijk Museum. After the user selects optional additional material (essay, interview, images, etc.) one is able to generate an EPUB based on the selection, available for offline use – for example on a smartphone while visiting the museum itself.</p>
+<p>Apart from the technical development of the Highlights application, we also designed the structure of the application and provided the basis of the user interface in collaboration with Medamo. The application is split into different sections, apart from the overview of a collection, the application contains search, filters, guides and a section showing a personal selection of content from the Highlights catalogue. All of the sections are reached by selecting a series of four buttons contained in a tabbar on the bottom of the screen. A common usage scenario involves working from left to right in the tabbar, by first browsing the entirety of the collection (the leftmost button), searching and filtering the content (second and third button) and reviewing the selected choices in the last section (available by selecting the button on the far right). A basic interface design was developed based on the aforementioned scenario and further developed and designed by Medamo.</p>
+<p>In our day to day practice we mostly develop websites and site-specific web-applications for use in exhibitions. Building native applications for smartphones and tablets on multiple platforms (iOS, Android) is a whole field entirely. There is the learning curve to consider for each SDK, not to mention the difference in programming language (Objective-C for iOS, Java for Android, etc.) and the breadth of devices to support. Building an application using the Android SDK doesn’t guarantee it will work on any given Android device and the same holds true to a lesser extent when using iOS (though the device range is smaller). For developers who work predominantly with web technologies this isn’t the most straightforward method available, so at first we examined two possible solutions; <a href="http://phonegap.com"><em>PhoneGap</em></a> and <a href="http://www.sencha.com/products/touch"><em>Sencha Touch</em></a>.</p>
+<h2>PhoneGap</h2>
+<p>The promise of HTML5 web applications packaged as native apps is an intriguing one, as it seemingly allows a web developer to ignore most of the problems related to development using native SDKs. This is the promise of <em>PhoneGap</em>, which gives a developer the tools to package an HTML5 application and even – with some extra work – use some of the native features of the targeted device (i.e. camera, compass, etc.) The foundation of <em>PhoneGap</em> is <a href="http://cordova.apache.org"><em>Apache Cordova</em></a> and it allows developers to package HTML, JavaScript and CSS as native application binaries. In theory one would create one application in HTML and use <em>PhoneGap</em> to generate all the required application binaries based on that HTML master for the platforms one wants to support. <em>Apache Cordova</em> also gives access to device specific functions (camera, compass, accelerometer, etc.) normally only available to applications built using the official SDKs. Using <em>PhoneGap</em> a HTML application may interface with these services through <em>Apache Cordova</em> in a unified way. As an example, the procedure for accessing photo’s in the HTML context via <em>Apache Cordova</em> is theoretically the same, whether the generated application binaries are intended for distribution on an iPhone, Android or Windows phone or even a Blackberry.<em>PhoneGap</em> in itself only offers the tools to create the binaries, the actual application can be build using any client-side application frameworks.</p>
+<h2>Sencha Touch</h2>
+<p><em>Sencha</em> offers a suite of tools, from a UI framework for building mobile interfaces (<em>Sencha Touch</em>) to a JavaScript framework (<em>Ext JS</em>) and an application (<em>Sencha Cmd</em>) which handles the packaging of the code into native binaries. Due to the tight integration of the individual components and the promise of speed rivaling that of native applications Sencha appeared to be a viable solution at first sight. As <em>Sencha Touch</em> is heavily integrated with <em>Ext JS</em> the learning curve is quite high when unfamiliar with both frameworks. <em>Sencha</em> might have been a viable option when developing a fully-fledged mobile application to be deployed commercially, although many other competing options – like <em>Ionic</em> – exist in that regard.</p>
+<h2>jQuery Mobile</h2>
+<p>As the learning curve of <em>Sencha</em> proved to be a little too steep, we turned to another HTML5 framework: <a href="http://jquerymobile.com"><em>jQuery Mobile</em></a>. As the name suggests the framework is build on <em>jQuery</em> and therefore closely tied to the concepts used in that particular library. <em>jQuery Mobile</em> mainly focuses on a consistent UI experience on any platform (smartphone, tablet or desktop) and is less (or not at all) concerned about speed or integration. Frameworks like <em>Sencha</em> and <a href="http://ionicframework.com"><em>Ionic</em></a> try to mimic the native UI widgets (lists, buttons, etc.) of each platform as close as possible, while <em>jQuery Mobile</em> uses one style of widgets and aims at rendering them as consistently as possible across multiple platforms.<em>jQuery Mobile</em> is fairly easy and the integration with <em>jQuery</em> certainly helps. However, for the <em>My Highlights</em> application a custom design was created which didn’t really mesh with the default widgets of the framework. Manipulating and overriding large portions the framework’s CSS in order to support the design of the <em>My Highlights</em> application, combined with the framework’s many quirks, conventions and spotty documentation, made us abandon the framework after building a portion of the application. <em>jQuery Mobile</em> offers a lot of options which we didn’t necessarily need and the way some of the features have been implemented were more of a hassle to support than actually speeding up development.</p>
+<h2>No specific framework</h2>
+<p>Ultimately we considered a more barebones scenario using only <em>jQuery</em>, a library to handle URL routing (<a href="https://github.com/flatiron/director" class="broken_link"><em>Flatiron Director</em></a>) and a way to store client-side data (<a href="https://github.com/andris9/jStorage" class="broken_link"><em>jStorage</em></a>). The application communicates with an external <em>WordPress</em> installation, in lieu of a datasource like <em>Adlib</em>, in order to receive collection data (via the newfangled <a href="https://wordpress.org/plugins/json-rest-api/" class="broken_link"><em>WordPress JSON REST API</em></a>) and generate an EPUB based on the selections made in the <em>My Highlights</em> application. This barebones setup, using only relatively small, individual JavaScript libraries, allowed us to quickly develop a proof-of-concept application which may be packaged as a <em>PhoneGap</em> binary or used as a web application.</p>
+<p>The code of the application and two WordPress plugins <a href="https://github.com/DigitalPublishingToolkit/my-highlights" class="broken_link">are available on GitHub</a>.</p>
+
+		
+		<div id="gallery-1" class="gallery galleryid-2276 gallery-columns-3 gallery-size-thumbnail">
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-01.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-03.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-04.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-05.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-06.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-07.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-08.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-09.png"></figure>
+</dt>
+</dl>
+<dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<figure><img src="imgs/highlights-10.png"></figure>
+</dt>
+</dl>
+</div>
+
+</section>
+								</article>

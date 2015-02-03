@@ -1,0 +1,856 @@
+<article id="post-192" class="post-192 post type-post status-publish format-standard hentry category-design category-development category-inc category-standards category-tools tag-convert tag-epub tag-experimentation tag-export tag-how-to tag-indesign tag-metadata tag-tutorial clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/silviolorusso/" title="Posts by Silvio Lorusso" rel="author">Silvio Lorusso</a></span>, <time class="updated" datetime="2013-05-21" pubdate>May 21, 2013 at 9:16 am</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<header>
+<div class="date">
+			Version: 0.1 – <date>May 11th, 2013</date>
+		</div>
+<h3>Abstract</h3>
+<p>These notes focus on the ways an InDesign CS6 file should be arranged in order to be appropriately exported as ePub. Further insights are provided in order to improve quality of the exported ePub in terms of file size, metadata, layout.</p>
+<h3>Required Knowledge</h3>
+<ul>
+<li>Adobe InDesign CS6</li>
+<li>Basic HTML and CSS</li>
+</ul></header>
+<article>
+<span id="more-192"></span>
+<nav>
+<h2>Contents</h2>
+<ul id="toc">
+<li><a href="#1" id="toc-1">1: Premises</a></li>
+<ul>
+<li><a href="#1-1" id="toc-1-1">1.1: Legend</a></li>
+<li><a href="#1-2" id="toc-1-2">1.2: Wait, weren’t we supposed to use open source tools?</a></li>
+<li><a href="#1-3" id="toc-1-3">1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…</a></li>
+<li><a href="#1-4" id="toc-1-4">1.4: Is Indesign enough to develop a high quality ePub?</a></li>
+<li><a href="#1-5" id="toc-1-5">1.5: May I use the same structure of the InDesign file for both print and ePub?</a></li>
+<li><a href="#1-6" id="toc-1-6">1.6: Resources</a></li>
+<li><a href="#1-7" id="toc-1-7">1.7: Softwares</a></li>
+<li><a href="#1-8" id="toc-1-8">1.8: Attachments</a></li>
+</ul>
+<li><a href="#2" id="toc-2">2: General</a></li>
+<ul>
+<li><a href="#2-1" id="toc-2-1">2.1: No Local Overrides!</a></li>
+<li><a href="#2-2" id="toc-2-2">2.2: Use Master Pages</a></li>
+<li><a href="#2-3" id="toc-2-3">2.3: Paragraph Means Paragraph</a></li>
+<li><a href="#2-4" id="toc-2-4">2.4: Paragraph Really Means Paragraph</a></li>
+<li><a href="#2-5" id="toc-2-5">2.5: Paragraph = Paragraph</a></li>
+<li><a href="#2-6" id="toc-2-6">2.6: ALL CAPS hide Actual Caps</a></li>
+<li><a href="#2-7" id="toc-2-7">2.7: Letters Aren’t Meant to be Stretched</a></li>
+<li><a href="#2-8" id="toc-2-8">2.8: Fonts</a></li>
+<li><a href="#2-9" id="toc-2-9">2.9: Export Early, Export Often</a></li>
+<li><a href="#2-10" id="toc-2-10">2.10: How do I open an EPUB file?</a></li>
+</ul>
+<li><a href="#3" id="toc-3">3: Cover and Images</a></li>
+<ul>
+<li><a href="#3-1" id="toc-3-1">3.1: Formats and Resolution</a></li>
+<li><a href="#3-2" id="toc-3-2">3.2: Colour Over Greyscale</a></li>
+<li><a href="#3-3" id="toc-3-3">3.3: Two Covers?</a></li>
+<li><a href="#3-4" id="toc-3-4">3.4: Optimal Cover Size</a></li>
+<li><a href="#3-5" id="toc-3-5">3.5: Groups for Complex Layout</a></li>
+<li><a href="#3-6" id="toc-3-6">3.6: Images as Part of the Text</a></li>
+<li><a href="#3-7" id="toc-3-7">3.7: Manage the Layout of the Image</a></li>
+<li><a href="#3-8" id="toc-3-8">3.8: Alt Text for Every Picture</a></li>
+</ul>
+<li><a href="#4" id="toc-4">4: Organizing the File for ePub Export</a></li>
+<ul>
+<li><a href="#4-1" id="toc-4-1">4.1: The Articles Panel</a></li>
+<li><a href="#4-2" id="toc-4-2">4.2: No Tags, Text Repetitions, Etc.</a></li>
+<li><a href="#4-3" id="toc-4-3">4.3: Split the Document</a></li>
+</ul>
+<li><a href="#5" id="toc-5">5: General TOC and Inner TOC</a></li>
+<ul>
+<li><a href="#5-1" id="toc-5-1">5.1: The General TOC</a></li>
+<li><a href="#5-2" id="toc-5-2">5.2: Modify the General TOC</a></li>
+<li><a href="#5-3" id="toc-5-3">5.3: The Inner TOC</a></li>
+<li><a href="#5-4" id="toc-5-4">5.4: No Page Numbers!</a></li>
+</ul>
+<li><a href="#6" id="toc-6">6: Lists and Tables</a></li>
+<ul>
+<li><a href="#6-1" id="toc-6-1">6.1: Lists</a></li>
+<li><a href="#6-2" id="toc-6-2">6.2: Tables</a></li>
+</ul>
+<li><a href="#7" id="toc-7">7: External and Internal Hyperlinks</a></li>
+<ul>
+<li><a href="#7-1" id="toc-7-1">7.1: External Hyperlinks</a></li>
+<li><a href="#7-2" id="toc-7-2">7.2: Internal Hyperlinks</a></li>
+</ul>
+<li><a href="#8" id="toc-8">8: Cleaning the file and Adding Main Metadata</a></li>
+<ul>
+<li><a href="#8-1" id="toc-8-1">8.1: No Unused Styles</a></li>
+<li><a href="#8-2" id="toc-8-2">8.2: No Local Overrides</a></li>
+<li><a href="#8-3" id="toc-8-3">8.3: No Spaces in Filenames</a></li>
+<li><a href="#8-4" id="toc-8-4">8.4: No Useless nor Print-oriented Characters</a></li>
+<li><a href="#8-5" id="toc-8-5">8.5: No References to the Printed Edition</a></li>
+<li><a href="#8-6" id="toc-8-6">8.6: Add Links and E-Version Specific Elements to Colophon</a></li>
+<li><a href="#8-7" id="toc-8-7">8.7: InDesign Errors and Layout Problems</a></li>
+<li><a href="#8-8" id="toc-8-8">8.8: Check Both Internal and External Hyperlinks</a></li>
+<li><a href="#8-9" id="toc-8-9">8.9: Assign HTML Tags</a></li>
+<li><a href="#8-10" id="toc-8-10">8.10: Metadata</a></li>
+</ul>
+<li><a href="#9" id="toc-9">9: Export</a></li>
+<ul>
+<li><a href="#9-1" id="toc-9-1">9.1: Export Options</a></li>
+<li><a href="#9-2" id="toc-9-2">9.2: General Panel</a></li>
+<li><a href="#9-3" id="toc-9-3">9.3: Image Panel</a></li>
+<li><a href="#9-4" id="toc-9-4">9.4: Advanced Panel</a></li>
+<li><a href="#9-5" id="toc-9-5">9.5: Validate your EPUB</a></li>
+</ul>
+<li><a href="#10" id="toc-10">10: Fix HTML and CSS</a></li>
+<ul>
+<li><a href="#10-1" id="toc-10-1">10.1: Access the ePub</a></li>
+<li><a href="#10-2" id="toc-10-2">10.2: Cover</a></li>
+<li><a href="#10-3" id="toc-10-3">10.3: CSS and XHTML</a></li>
+<ul>
+<li><a href="#10-3-1" id="toc-10-3-1">10.3.1: Padding or Margin?</a></li>
+<li><a href="#10-3-2" id="toc-10-3-2">10.3.2: Delete Defaults</a></li>
+<li><a href="#10-3-3" id="toc-10-3-3">10.3.3: Delete Font Colour if not Necessary</a></li>
+<li><a href="#10-3-4" id="toc-10-3-4">10.3.4: Delete Redundant Classes</a></li>
+<li><a href="#10-3-5" id="toc-10-3-5">10.3.5: Use Page Breaks</a></li>
+<li><a href="#10-3-6" id="toc-10-3-6">10.3.6: Images with Captions</a></li>
+<li><a href="#10-3-7" id="toc-10-3-7">10.3.7: No “char-style-override” Class</a></li>
+<li><a href="#10-4" id="toc-10-4">10.4: The OPF File</a></li>
+<ul>
+<li><a href="#10-4-1" id="toc-10-4-1">10.4.1: Metadata</a></li>
+<ul>
+<li><a href="#10-4-1-1" id="toc-10-4-1-1">10.4.1.1: Namespaces</a></li>
+<li><a href="#10-4-1-2" id="toc-10-4-1-2">10.4.1.2: Title</a></li>
+<li><a href="#10-4-1-3" id="toc-10-4-1-3">10.4.1.3: Authors and Roles</a></li>
+<li><a href="#10-4-1-4" id="toc-10-4-1-4">10.4.1.4: Publisher</a></li>
+<li><a href="#10-4-1-5" id="toc-10-4-1-5">10.4.1.5: Subjects</a></li>
+<li><a href="#10-4-1-6" id="toc-10-4-1-6">10.4.1.6: Description</a></li>
+<li><a href="#10-4-1-7" id="toc-10-4-1-7">10.4.1.7: Date</a></li>
+<li><a href="#10-4-1-8" id="toc-10-4-1-8">10.4.1.8: Language</a></li>
+<li><a href="#10-4-1-9" id="toc-10-4-1-9">10.4.1.9: Rights</a></li>
+<li><a href="#10-4-1-10" id="toc-10-4-1-10">10.4.1.10: Identifier</a></li>
+<li><a href="#10-4-1-11" id="toc-10-4-1-11">10.4.1.11: Other Metadata</a></li>
+</ul>
+<li><a href="#10-4-2" id="toc-10-4-2">10.4.2: Spine</a></li>
+<li><a href="#10-4-3" id="toc-10-4-3">10.4.3: Guide (Optional)</a></li>
+</ul>
+<li><a href="#10-5" id="toc-10-5">10.5: The General Table of Contents: the NCX file</a></li>
+</ul>
+</ul>
+</ul></nav>
+<section>
+<h2 id="1"><a href="#toc-1">1: Premises</a></h2>
+</section>
+<section>
+<h3 id="1-1"><a href="#toc-1-1">1.1: Legend</a></h3>
+<ul>
+<li><span class="sw">Software Command</span></li>
+<li><span class="cmd">Shortcut</span></li>
+<li><span class="code">Code Snippet</span></li>
+</ul>
+</section>
+<section>
+<h3 id="1-2"><a href="#toc-1-2">1.2: Wait, weren’t we supposed to use open source tools?</a></h3>
+<p>We all love opes source, but in some cases a pragmatic approach it’s needed: a perspective that takes into account the actual workflow without denying it beforehand. Not every designer would be happy to give up the softwares used for the last five years for the sake of open source.</p>
+<p>Developing an EPUB through InDesign could be considered a transitional process, in doing so the designer will anyway acquire a know-how that could be invested in open source tools and procedures.</p>
+</section>
+<section>
+<h3 id="1-3"><a href="#toc-1-3">1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…</a></h3>
+<p>Exactly, it really depends on the context. This procedure could be useful whether:</p>
+<ul>
+<li>you, or your collaborators, don’t have any HTML or CSS knowledge (but in this case you won’t be able to go through the whole tutorial and this will heavily impact the quality of your final ePub, check <a href="#1-4">1.4</a>);</li>
+<li>you have an articulated publication already set as an InDesign file;</li>
+<li>you want to convert your backlist to ePub and the books are archived as InDesign packages.</li>
+</ul>
+</section>
+<section>
+<h3 id="1-4"><a href="#toc-1-4">1.4: Is Indesign enough to develop a high quality ePub?</a></h3>
+<p>No, it’s not enough. There are strong limitations for ePub development within InDesign, this is because its primary function is to set files for print.</p>
+<p>Therefore if you want a high quality ePub you need to tweak the code produced by the software, in order to do so you will need HTML and CSS skills.</p>
+</section>
+<section>
+<h3 id="1-5"><a href="#toc-1-5">1.5: May I use the same structure of the InDesign file for both print and ePub?</a></h3>
+<p>Rarely the InDesign file ready for print will work fine to be exported “as is” to ePub. But in case you want to produce an ePub version of the printed ducument, setting the file as follows will save you a lot of work. In this sense this tutorial proposes an ePub-first approach.</p>
+</section>
+<section>
+<h3 id="1-6"><a href="#toc-1-6">1.6: Resources</a></h3>
+<ul>
+<li>“InDesign CS6 to EPUB, Kindle, and iPad” course by Anne-Marie Concepcion on <a href="http://www.lynda.com/EPUB-tutorials/InDesign-CS6-EPUB-Kindle-iPad/98834-2.html">Lynda.com</a>;</li>
+<li>
+<a href="http://www.apogeonline.com/libri/9788850314126/scheda"><em>La pratica dell’ePub</em></a> (<em>The ePub Practice</em>) by Ivan Rachieli, 2011;</li>
+<li>
+<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm">Open Packaging Format (OPF) 2.0.1 v1.0.1 Recommended Specification</a>.</li>
+</ul>
+</section>
+<section>
+<h3 id="1-7"><a href="#toc-1-7">1.7: Softwares</a></h3>
+<ul>
+<li><a href="https://creative.adobe.com/apps?trial=IDSN&amp;promoid=JZXRC">Adobe InDesign CS6</a></li>
+<li><a href="https://code.google.com/p/epubcheck/">EpubCheck</a></li>
+<li><a href="http://www.mobileread.com/forums/showpost.php?p=1181614&amp;postcount=18">EPUB zip/unzip apps</a></li>
+<li><a href="http://calibre-ebook.com/">Calibre</a></li>
+<li><a href="http://www.adobe.com/it/products/digital-editions.html">Adobe Digital Editions</a></li>
+</ul>
+</section>
+<section>
+<h3 id="1-8"><a href="#toc-1-8">1.8: Attachments</a></h3>
+<ul>
+<li><a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/package.zip">InDesign package with example content</a></li>
+<li>
+<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/unlike-us-reader.css">CSS file to be included when exporting the ePub via InDesign</a>, check <a href="#9-4">9.4</a>
+</li>
+<li><a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/10/unlike-us-reader.epub">ePub example</a></li>
+</ul>
+</section>
+<section>
+<h2 id="2"><a href="#toc-2">2: General</a></h2>
+</section>
+<section>
+<h3 id="2-1"><a href="#toc-2-1">2.1: No Local Overrides!</a></h3>
+<p>This simply means that you should set everything in your document either as a <span class="sw">Paragraph Style</span> or a <span class="sw">Charachter Style</span>. When you have set one of those and change a setting locally a plus sign (+) appears next to the name of the syle. You should avoid this because it would heavily affect the cleanness of the ePub code.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WS9D351498-DAAC-4be1-B4B8-2B6C72FF6CEDa.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/1.png">
+<p class="caption">The <span class="sw">Paragraph Styles</span> panel</p>
+</div>
+</section>
+<section>
+<h3>2.2: Use Master Pages</h3>
+<p>Keep all the repeating elements such as title, page number, article title in <span class="sw">Master pages</span>. In this way they won’t be rendered in the ePub.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-7105a.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/2.png">
+<p class="caption">Example of master page</p>
+</div>
+</section>
+<section>
+<h3 id="2-3"><a href="#toc-2-3">2.3: Paragraph Means Paragraph</a></h3>
+<p>Don’t use paragraph breaks to space elements, use instead the bounding box itself.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/3.png">
+<p class="caption">Wrong use of paragraphs</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/4.png">
+<p class="caption">Correct use of paragraphs</p>
+</div>
+</section>
+<section>
+<h3 id="2-4"><a href="#toc-2-4">2.4: Paragraph Really Means Paragraph</a></h3>
+<p>Use the <span class="sw">Space After</span> feature in the <span class="sw">Paragraph Style</span> instead of a double paragraph break, except in the case of colophon and exceptional layouts.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/5.png">
+<p class="caption">Paragraphs spaced via <span class="sw">Space After</span></p>
+</div>
+</section>
+<section>
+<h3 id="2-5"><a href="#toc-2-5">2.5: Paragraph = Paragraph</a></h3>
+<p>Use soft returns (<span class="cmd">Shift+Return</span>) instead of paragraph breaks (<span class="cmd">Return</span>) when you work on the visual appearance of text. A paragraph break could cause problems in a reflowable context, while the soft returns could be automatically stripped out when exporting.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-6f77a.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/6.png">
+<p class="caption">Soft returns used to break the title for visual purposes.</p>
+</div>
+</section>
+<section>
+<h3 id="2-6"><a href="#toc-2-6">2.6: ALL CAPS hide Actual Caps</a></h3>
+<p>Even if you have an ALL CAPS setting remember to use Capitals when you write the text: it may happen that in the ePub version the setting is ignored, the result would be for instance a lowercase title.</p>
+</section>
+<section>
+<h3 id="2-7"><a href="#toc-2-7">2.7: Letters Aren’t Meant to be Stretched</a></h3>
+<p>Do not use <span class="sw">Vertical Scale</span> to adjust the paragraphs (for instance when you have a single word going to the next line), use instead the <span class="sw">Justification</span> settings in the <span class="sw">Paragraph Style</span>.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/7.png">
+<p class="caption"><span class="sw">Vertical Scale</span> setting</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/8.png">
+<p class="caption"><span class="sw">Justification</span> settings in the <span class="sw">Paragraph Style</span></p>
+</div>
+</section>
+<section>
+<h3 id="2-8"><a href="#toc-2-8">2.8: Fonts</a></h3>
+<p>Embed a font only if you consider it necessary. On some devices only the headings’ fonts will be preserved. Also, only the fonts licensed for “e-use will” be actually embedded by InDesign, therefore if you want to embed a font make sure you own the license. An <a href="http://en.wikipedia.org/wiki/OpenType">OpenType</a> font is preferrable.</p>
+<p>In order to embed fonts just check <span class="sw">Include Embeddable Fonts</span> from the <span class="sw">EPUB Export Options</span> (<span class="cmd">Cmd+E</span>).</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/9.png">
+<p class="caption"><span class="sw">Include Embeddable Fonts</span> checked in the <span class="sw">EPUB Export Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="2-9"><a href="#toc-2-9">2.9: Export Early, Export Often</a></h3>
+<p>You can find the export option from <span class="sw">File &gt; Export</span> (or <span class="cmd">Cmd+E</span>). Of course you need to choose EPUB as the resulting format. A detail explanation of all the options available can be found at <a href="#9-1">9.1</a>.</p>
+</section>
+<section>
+<h3 id="2-10"><a href="#toc-2-10">2.10: How do I open an EPUB file?</a></h3>
+<p>There are several softwares and online applications available. Among the most used there are <a href="http://calibre-ebook.com/">Calibre</a> and <a href="http://www.adobe.com/it/products/digital-editions.html">Adobe Digital Editions</a>.</p>
+</section>
+<section>
+<h2 id="3"><a href="#toc-3">3: Cover and Images</a></h2>
+</section>
+<section>
+<h3 id="3-1"><a href="#toc-3-1">3.1: Formats and Resolution</a></h3>
+<p>As we will see afterwards (see <a href="#9-3">9.3</a>), from InDesign is it possible to export images in 3 formats:</p>
+<ul>
+<li>JPEG</li>
+<li>GIF</li>
+<li>PNG</li>
+</ul>
+<p>JPEG could be used in any case, except for images with transparent background (such as logos). In this case PNG is preferable.</p>
+<p>150ppi is generally considered to be a good compromise in terms of resolution and file size. File size is important cause it directly affects loading time on limited computing capacity such as mobiles and e-readers.</p>
+</section>
+<section>
+<h3 id="3-2"><a href="#toc-3-2">3.2: Colour Over Greyscale</a></h3>
+<p>Consider that your book could be seen on a E Ink device as well as on a tablet, therefore it makes sense to include your images in colours. On an e-reader they will automatically set as greyscale.</p>
+</section>
+<section>
+<h3 id="3-3"><a href="#toc-3-3">3.3: Two Covers?</a></h3>
+<p>In InDesign there are 2 choices for including the cover in the <span class="sw">EPUB Export Options</span>(<span class="cmd">Cmd+E</span>):</p>
+<ol>
+<li>Include the cover of your book in the InDesign file as the first page. Consider that in this way, it will be exported as both as cover and first page of the book.</li>
+<li>Choose an image from your computer.</li>
+</ol>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/10.png">
+<p class="caption"><span class="sw">Cover</span> settings in the <span class="sw">EPUB Export Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="3-4"><a href="#toc-3-4">3.4: Optimal Cover Size</a></h3>
+<p>There is no clear answer, but it is suggested to keep the size less than 1000px in width and height.</p>
+<p>			<a href="http://blog.threepress.org/2009/11/20/best-practices-in-epub-cover-images/">More info</a></p></section>
+<section>
+<h3 id="3-5"><a href="#toc-3-5">3.5: Groups for Complex Layout</a></h3>
+<p>Group elements and rasterize if you want to preserve complex text layouts. Consider that this will be rendered as image, so it’s better to have a text version of the same content as well.</p>
+<ol>
+<li>Select and group elements (<span class="cmd">Cmd+G</span>);</li>
+<li>While selected go to <span class="sw">Object &gt; Object Export Options</span>;</li>
+<li>Click on <span class="sw">EPUB and HTML</span>, then check <span class="sw">Custom Rasterization</span>;</li>
+<li>Choose PNG if you want a transparent background;</li>
+<li>If you want to have it as a fullpage image check <span class="sw">Insert Page Break</span> and select <span class="sw">Before and After Image</span>;</li>
+<li>Add a description of the picture as an <span class="sw">Alt Text</span>, in this way if the image is not shown people will still be able to know what it is about.</li>
+</ol>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/11.png">
+<p class="caption">Group for complex text layout</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/12.png">		
+<p class="caption">Group for images that are connected</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/13.png">	
+<p class="caption"><span class="sw">Object Export Options, , <span class="sw">Custom Rasterization</span> checked</span></p>
+</div>
+</section>
+<section>
+<h3 id="3-6"><a href="#toc-3-6">3.6: Images as Part of the Text</a></h3>
+<p>Images need to be inserted in the flow of text in order to be shown at the right place. Otherwise they will be shown after the whole text. There are 2 ways to insert the images:</p>
+<ol>
+<li>Click on the small blue square on the top right and drag it to the point the picture belong in the text;</li>
+<li>Cut the image and paste it while you’re inside the textbox, do the same with the caption.</li>
+</ol>
+<p>With the first method there are some known problems: both the picture and the caption will be included in a bounding box (<span class="code">&lt;div&gt;</span>). In order to fix this you will need to work on the HTML and CSS.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/14.png">	
+<p class="caption">First method: image linked to the text</p>
+</div>
+</section>
+<section>
+<h3 id="3-7"><a href="#toc-3-7">3.7: Manage the Layout of the Image</a></h3>
+<p>Go to <span class="sw">Object &gt; Object Export Options</span> to manage the layout of the image.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-6f2fa.html#WS8c5bc4f64c7a4a3d-7cbbfcee12dbd4ad69f-8000">More info</a></p></section>
+<section>
+<h3 id="3-8"><a href="#toc-3-8">3.8: Alt Text for Every Picture</a></h3>
+<p>As said in <a href="#3-6">3.6</a>, it’s important to have an Alt Text for every image included in the document.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/15.png">	
+<p class="caption"><span class="sw">Alt Text</span> box in <span class="sw">Object Export Options</span>.</p>
+</div>
+</section>
+<section>
+<h2 id="4"><a href="#toc-4">4: Organizing the File for ePub Export</a></h2>
+</section>
+<section>
+<h3 id="4-1"><a href="#toc-4-1">4.1: The Articles Panel</a></h3>
+<p>Use the Articles Panel (<span class="sw">Window &gt; Articles</span>) to manage the contents and the order of your publication. Add content to your articles by drag and drop content into it. When export to ePub (<span class="cmd">Cmd+E</span>) set <span class="sw">Content Order</span> as <span class="sw">Same as Articles Panel</span> to make your changes effective.</p>
+<p>When you add a text box to an article, the whole text will be rendered in the ePub even if it’s oversetting in the InDesign document.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WS8c5bc4f64c7a4a3d78b7a8b312dbccaf5b2-8000.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/16.png">	
+<p class="caption"><span class="sw">Window &gt; Articles</span>.</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/17.png">	
+<p class="caption">The <span class="sw">Articles</span> Panel.</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/18.png">	
+<p class="caption"><span class="sw">Same as Articles Panel</span> as <span class="sw">Content Order</span> in the <span class="sw">EPUB Export Options</span>.</p>
+</div>
+</section>
+<section>
+<h3 id="4-2"><a href="#toc-4-2">4.2: No Tags, Text Repetitions, Etc.</a></h3>
+<p>Don’t include in neither in the <span class="sw">Articles</span> panel nor in the flow of text unnecessary elements such as tags or repeated text.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/19.png">	
+<p class="caption">A list of tags, not to be included in the articles.</p>
+</div>
+</section>
+<section>
+<h3 id="4-3"><a href="#toc-4-3">4.3: Split the Document</a></h3>
+<p>Splitting the document (in different XHTML files) is important because having a too big document would mean a quite big load for a device in order to quickly navigate it, for instance when one wants to check a footnote and then go back to the text.</p>
+<p>In order to split the document, check the <span class="sw">Split Document</span> option in the <span class="sw">Export Tagging</span> options for each paragraph style you want to break the document, such as the title of the TOC (Table of Contents), or the titles of articles.</p>
+<p>Then you will need to select Split Document based on <span class="sw">Based on Paragraph Style Export Tags</span> from the <span class="sw">Export</span>(<span class="cmd">Cmd+E</span>) panel.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/20.png">	
+<p class="caption"><span class="sw">Split Document</span> checked in the <span class="sw">Paragraph Style Options</span></p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/21.png">	
+<p class="caption"><span class="sw">Split Document</span> based on <span class="sw">Based on Paragraph Style Export Tags</span> from the <span class="sw">Export</span>(<span class="cmd">Cmd+E</span>) panel.</p>
+</div>
+</section>
+<section>
+<h2 id="5"><a href="#toc-5">5: General TOC and Inner TOC</a></h2>
+</section>
+<section>
+<h3 id="5-1"><a href="#toc-5-1">5.1: The General TOC</a></h3>
+<p>Any ePub document has a general TOC (Table of Contents) that isn’t included in the actual pages of the document. Even if you don’t do anything, it will be automatically created and it will include a single voice which is the whole document.</p>
+</section>
+<section>
+<h3 id="5-2"><a href="#toc-5-2">5.2: Modify the General TOC</a></h3>
+<p>In order to create a general TOC for the ePub go to <span class="sw">Layout &gt; Table of Content</span>:</p>
+<ol>
+<li>Include the paragraph style that you want to use as title of the TOC element;</li>
+<li>You can add other styles to create a hierarchic TOC;</li>
+<li>Save the style;</li>
+<li>When you export the ePub choose the style you created as <span class="sw">TOC Style</span>.</li>
+</ol>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WS49FB9AF6-38AB-42fb-B056-8DACE18DDF63a.html">More Info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/22.png">	
+<p class="caption">TOC based on <span class="sw">article-title</span> as <span class="sw">Paragraph Style</span>.</p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/23.png">	
+<p class="caption"><span class="sw">TOC Style</span> selection in the <span class="sw">EPUB Export Options</span>.</p>
+</div>
+</section>
+<section>
+<h3 id="5-3"><a href="#toc-5-3">5.3: The Inner TOC</a></h3>
+<p>Even if it’s not mandatory, it could be useful for readers to have an inner TOC, it could be different from the general one: other contents could be added and in a more articulate way.</p>
+<p>If there is already one, the TOC prepared for the printed version can be preserved. In this case it’s needed to add an internal hyperlink for each voice (see <a href="#7-2">7.2</a>).</p>
+</section>
+<section>
+<h3 id="5-4"><a href="#toc-5-4">5.4: No Page Numbers!</a></h3>
+<p>Remember not to include any reference to page numbers in the Inner TOC. You could for instance not include them in the <span class="sw">Articles</span> panel (check <a href="#4-1">4.1</a>).</p>
+</section>
+<section>
+<h2 id="6"><a href="6">6: Lists and Tables</a></h2>
+</section>
+<section>
+<h3 id="6-1"><a href="#toc-6-1">6.1: Lists</a></h3>
+<p>For each list create a paragraph style from <span class="sw">Window &gt; Styles &gt; Paragraph Styles</span>. The options specifically referred to lists are the one under <span class="sw">Bullets and Numberings</span>.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-6da6a.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/24.png">	
+<p class="caption"><span class="sw">Bullets and Numberings</span> panel in the <span class="sw">Paragraph Style Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="6-2"><a href="#toc-6-2">6.2: Tables</a></h3>
+<p>For each table create a table style from <span class="sw">Window &gt; Styles &gt; Table Styles</span>. If you have a table with a complex layout is better to rasterize it (see <a href="#3-6">3.6</a>).</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-6ff5a.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/25.png">
+			</div>
+</section>
+<section>
+<h2 id="7"><a href="#toc-7">7: External and Internal Hyperlinks</a></h2>
+</section>
+<section>
+<h3 id="7-1"><a href="#toc-7-1">7.1: External Hyperlinks</a></h3>
+<p>Add external hyperlinks via <span class="sw">Windows &gt; Interactive &gt; Hyperlinks</span>. You can search them looking for “www”, “http”, etc. You can also attribute a specific <span class="sw">Character Style</span> to links.</p>
+<p>The task can be done automatically using the option <span class="sw">Convert URLs to Hyperlinks</span> findable clicking on the right top triangle. Usually this method doesn’t work perfectly because the ”http://” is not automatically added.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/26.png">	
+<p class="caption"><span class="sw">Hyperlinks</span> panel</p>
+</div>
+</section>
+<section>
+<h3 id="7-2"><a href="#toc-7-2">7.2: Internal Hyperlinks</a></h3>
+<p>Add internal hyperlinks to the inner TOC and to the whole document via <span class="sw">Windows &gt; Interactive &gt; Hyperlinks</span>. In oder to do so you need to select the text you want your link to go to and select <span class="sw">New Hyperlink Destination</span>. Give it a name and save it.</p>
+<p>After that you need to go to the text that links to the previous text and to <span class="sw">Create a New Hyperlink</span>. It should link to <span class="sw">Text Anchor</span>, in particular the one you just created.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/27.png">
+<p class="caption">Adding a <span class="sw">New Hyperlink Destination</span></p>
+</div>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/28.png">		
+<p class="caption">Linking to <span class="sw">Text Anchor</span></p>
+</div>
+</section>
+<section>
+<h2 id="8"><a href="#toc-8">8: Cleaning the file and Adding Main Metadata</a></h2>
+</section>
+<section>
+<h3 id="8-1"><a href="#toc-8-1">8.1: No Unused Styles</a></h3>
+<p>Delete all the unused styles. You can look for them via <span class="sw">Edit &gt; Find/Change</span>. There you need to look for a specific style from <span class="sw">Find Format</span>.</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSFB3603CC-8D84-48d8-9F77-F3E0644CB0B6a.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/29.png">		
+<p class="caption"><span class="sw">Find/Change</span> panel</p>
+</div>
+</section>
+<section>
+<h3 id="8-2"><a href="#toc-8-2">8.2: No Local Overrides</a></h3>
+<p>As said before (see <a href="#2-1">2.1</a>) it’s preferable not to have local overrides, in order to keep the ePub clean. Find and remove any local overrides, indicated by the plus sign(+) next to the style. You can use the <a href="http://in-tools.com/article/scripts-blog/showing-text-formatting-overrides/">Show Text Overrides plugin</a> to highlight them.</p>
+</section>
+<section>
+<h3 id="8-3"><a href="#toc-8-3">8.3: No Spaces in Filenames</a></h3>
+<p>Make sure that all linked files (and the InDesign file itself) don’t have spaces nor special characters in their names.</p>
+</section>
+<section>
+<h3 id="8-4"><a href="#toc-8-4">8.4: No Useless nor Print-oriented Characters</a></h3>
+<p>Make sure there are no double spaces and all the typical formatting errors. Check misspells and useless characters (this should be already done for the printed version).</p>
+</section>
+<section>
+<h3 id="8-5"><a href="#toc-8-5">8.5: No References to the Printed Edition</a></h3>
+<p>Make sure there are no references to the printed edition such as “printed in…”, etc. Also make sure there are no references to inner pages (such as “p. 23”), in notes as well. Lastly, make sure that there are no repetitions of the the title in pages such as frontispiece, etc.</p>
+</section>
+<section>
+<h3 id="8-6"><a href="#toc-8-6">8.6: Add links and e-version specific elements to colophon.</a></h3>
+<p>You’ll probably mention the publishing house, so add a link to its website. Remember to use an ISBN specific for the ePub. Remember also to add the rights for your publication.</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/30.png">
+<p class="caption">Creative Commons as the rights in the text of the publication</p>
+</div>
+</section>
+<section>
+<h3 id="8-7"><a href="#toc-8-7">8.7: InDesign Errors and Layout Problems</a></h3>
+<p>InDesign automatically detect errors in the document (such as missing fonts). You can find the alert on the bottom left of the software’s window. Make sure there are no problems with pictures and with the layout in general (missing fonts, broken paragraphs, etc).</p>
+<p>			<a href="http://help.adobe.com/en_US/indesign/cs/using/WSa285fff53dea4f8617383751001ea8cb3f-7060a.html">More info</a></p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/31.png">
+<p class="caption">The <span class="sw">Preflight</span> panel showing there are no errors</p>
+</div>
+</section>
+<section>
+<h3 id="8-8"><a href="#toc-8-8">8.8: Check Both Internal and External Hyperlinks</a></h3>
+<p>As above. Make sure that internal links are bidirectional. If you added them automatically, consider that you’ll probably get external links where you don’t want them.</p>
+</section>
+<section>
+<h3 id="8-9"><a href="#toc-8-9">8.9: Assign HTML Tags</a></h3>
+<p>By default InDesign will export each paragraph style as a <span class="code">&lt;p&gt;</span> (paragraph in HTML) and characters as <span class="code">&lt;span&gt;</span>. HTML allows to tag elements in a more  specific way, hierarchically defining headlines for instance (<span class="code">&lt;h1&gt;</span>, <span class="code">&lt;h2&gt;</span>, etc.).</p>
+<p>You can set what tag you want to use and what class from the <span class="sw">Export Tagging</span> panel from <span class="sw">Paragraph Style Options</span>. It is also useful to merge style that are similar under a single class.</p>
+<p>Remember to do so for bold (<span class="code">&lt;strong&gt;</span>), italic (<span class="code">&lt;em&gt;</span>) and superscript (<span class="code">&lt;sup&gt;</span>).</p>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/32.png">
+<p class="caption"><span class="sw">Export Tagging</span> options in <span class="sw">Paragraph Style Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="8-10"><a href="#toc-8-10">8.10: Metadata</a></h3>
+<p>Add the basic metadata (data about other data) from <span class="sw">File &gt; File Info</span>, other ones will be implemented directly in the ePub code (see <a href="#10-4-1">10.4.1</a>).</p>
+<ul>
+<li>Title;</li>
+<li>Author(s);</li>
+<li>Description;</li>
+<li>Keywords;</li>
+<li>Rights.</li>
+</ul>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/33.png">
+<p class="caption"><span class="sw">File Info</span> options.</p>
+</div>
+</section>
+<section>
+<h2 id="9"><a href="#toc-9">9: Export</a></h2>
+</section>
+<section>
+<h3 id="9-1"><a href="#toc-9-1">9.1: Export Options</a></h3>
+<p>You can export from <span class="sw">File &gt; Export</span> (<span class="cmd">Cmd+E</span>).</p>
+<p>			<a href="http://helpx.adobe.com/indesign/using/export-content-epub-cs6.html">More info</a></p></section>
+<section>
+<h3 id="9-2"><a href="#toc-9-2">9.2: General Panel</a></h3>
+<ol>
+<li>Even though the official current version for EPUB is 3.0, the <em>de facto</em> is 2.0.1 as it’s widely supported.</li>
+<li>As said before (see <a href="#2-4">2.4</a>) there are two possibilities for the cover.</li>
+<li>Choose the style you created before (see <a href="#5-2">5.2</a>) as <span class="sw">TOC Style</span>.</li>
+<li>You can add margins to your page even though most e-readers will overwrite this setting.</li>
+<li>Choose <span class="sw">Same as Articles Panel</span> as <span class="sw">Content Order</span>.</li>
+<li>The default for footnotes is at the end of the story. If you prefer you can add footnotes after paragraph.</li>
+<li>Check <span class="sw">Remove Forced Line Breaks</span> to remove those breaks used for print layout.</li>
+<li>Finally you can map bullet and numbers respectively to unordered and ordered lists.</li>
+</ol>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/34.png">
+<p class="caption"><span class="sw">General</span> options in <span class="sw">EPUB Export Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="9-3"><a href="#toc-9-3">9.3: Image Panel</a></h3>
+<ol>
+<li>Check <span class="sw">Preserve Appearance from Layout</span> if you want to keep the way images are cropped, etc.</li>
+<li>Choose <span class="sw">Relative to Page</span> as <span class="sw">Image Size</span> if you want a value expressed in percentage (e.g. 40% of the page width);</li>
+<li>Choose <span class="sw">Image Alignment and Spacing</span>;</li>
+<li>You can insert a page break before, after or both before and after you images;</li>
+<li>Choose JPEG as <span class="sw">Image Conversion’s format</span>;</li>
+<li>Choose the <span class="sw">Image Quality</span> and the <span class="sw">Format Method</span> for your images;</li>
+<li>If you check <span class="sw">Ignore Object Export Settings</span> the settings for specific images will be overwritten.</li>
+</ol>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/35.png">
+<p class="caption"><span class="sw">Image</span> options in <span class="sw">EPUB Export Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="9-4"><a href="#toc-9-4">9.4: Advanced Panel</a></h3>
+<ol>
+<li>You can choose to <span class="sw">Include Document Metadata</span>;</li>
+<li>Also you can add the <span class="sw">Publisher</span> and a <span class="sw">Unique ID</span> that could be the ISBN;</li>
+<li>Check <span class="sw">Include Style Definitions</span> if you want InDesign to generate a CSS for you;</li>
+<li>You shouldn’t have any local override, so you don’t need to check <span class="sw">Preserve Local Overrides</span>;</li>
+<li>
+<span class="sw">Include Embeddable Fonts</span> only if you need them;</li>
+<li>You can add <span class="sw">Additional CSS</span>, such as the one attached to this tutorial, this could be useful if you have a whole series with the same style.</li>
+</ol>
+<div class="img">
+				<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/05/36.png">
+<p class="caption"><span class="sw">Advanced</span> options in <span class="sw">EPUB Export Options</span></p>
+</div>
+</section>
+<section>
+<h3 id="9-5"><a href="#toc-9-5">9.5: Validate your EPUB</a></h3>
+<p>In order to validate you EPUB you need EpubCheck. You can use either the <a href="http://www.google.com/url?q=http%3A%2F%2Fvalidator.idpf.org%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGFdp5mf_sMg3HV2Fr2hy9eM2YbcA">online validator</a> or the <a href="https://code.google.com/p/epubcheck/">desktop app</a>. Correct the errors if there are.</p>
+</section>
+<section>
+<h2 id="10"><a href="#toc-10">10: Fix HTML and CSS</a></h2>
+<p>An ePub file is basically a ZIP file containing, beside other structure files, all the contents in XHTML documents and the style in one or more CSS files. You can make changes to those files using any Text Editor. Of course you can use editors with syntax highlight such as <a href="http://projects.gnome.org/gedit/">gedit</a> or <a href="http://panic.com/coda/">Coda</a>.</p>
+</section>
+<section>
+<h3 id="10-1"><a href="#toc-10-1">10.1: Access the ePub</a></h3>
+<p>In order to access the inner files of your ePub you need to unzip it. To do so you can use this <a href="http://www.mobileread.com/forums/showpost.php?p=1181614&amp;postcount=18">ePub unzip app</a>. From the same link you can download the ePub zip app that you will need to compact your ePub again after you made your changes.</p>
+</section>
+<section>
+<h3 id="10-2"><a href="#toc-10-2">10.2: Cover</a></h3>
+<p>			Keith Falgren <a href="http://blog.threepress.org/2009/11/20/best-practices-in-epub-cover-images/">suggests</a> the following solution as the best practice for the cover. The following code should be included in a specific XHTML file.</p>
+<pre class="code">
+&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+	&lt;head&gt;
+		&lt;title&gt;Cover&lt;/title&gt;
+		&lt;style type="text/css"&gt;
+			body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+				margin: 0;
+				padding: 0;
+				border-width: 0;
+			}
+			p#cover {
+				margin: 0;
+				padding: 0;
+				text-align: center;
+			}
+			img#cover-image {
+				height: 100%;
+				max-width: 100%;
+			}
+		&lt;/style&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+		&lt;p id="cover"&gt;
+			&lt;img id="cover-image" src="image/cover.jpg" alt="Unlike Us Reader"  /&gt;
+		&lt;/p&gt;
+	&lt;/body&gt;
+&lt;/html&gt;
+			</pre>
+</section>
+<section>
+<h3 id="10-3"><a href="#toc-10-3">10.3: CSS and XHTML</a></h3>
+</section>
+<section>
+<h4 id="10-3-1"><a href="#toc-10-3-1">10.3.1: Padding or Margin?</a></h4>
+<p>There are two possibilities to space elements vertically:</p>
+<ol>
+<li>using margin (<span class="code">margin-bottom: 3em;</span>);</li>
+<li>using padding (<span class="code">padding-bottom: 3em;</span>);</li>
+</ol>
+<p>Apparently they act the same, but actually padding is suggested because it works better when near to the bottom of the page.</p>
+</section>
+<section>
+<h4 id="10-3-2"><a href="#toc-10-3-2">10.3.2: Delete Defaults</a></h4>
+<p>InDesign will automatically add CSS settings that are not rendered because they are defaults. Examples are:</p>
+<ul>
+<li><span class="code">margin: 0;</span></li>
+<li><span class="code">padding: 0;</span></li>
+<li><span class="code">font-style: normal;</span></li>
+</ul>
+</section>
+<section>
+<h4 id="10-3-3"><a href="#toc-10-3-3">10.3.3: Delete Font Colour if not necessary</a></h4>
+<p>InDesign will automatically add a colour for the text in the CSS. In several cases this attribute is useless therefore it can be deleted.</p>
+</section>
+<section>
+<h4 id="10-3-4"><a href="#toc-10-3-4">10.3.4: Delete Redundant Classes</a></h4>
+<p>Such tags as superscripts or italics (<span class="code">&lt;sup&gt;</span>, <span class="code">&lt;em&gt;</span>) automatically get a class from InDesign:</p>
+<ul>
+<li><span class="code">&lt;sup class=”superscript”&gt;</span></li>
+<li><span class="code">&lt;em class=”italic”&gt;</span></li>
+</ul>
+<p>The class can be deleted as long it’s not there to differentiate tags.</p>
+</section>
+<section>
+<h4 id="10-3-5"><a href="#toc-10-3-5">10.3.5: Use Page Breaks</a></h4>
+<p>Page breaks are useful to break a page before or after a certain element. It’s also possible to avoid that automatic page breaks happen within some elements bound together. The CSS attributes are:</p>
+<ul>
+<li><span class="code">page-break-before: always;</span></li>
+<li><span class="code">page-break-after: before;</span></li>
+<li><span class="code">page-break-inside: avoid;</span></li>
+</ul>
+<p>			<a href="http://www.w3schools.com/cssref/pr_print_pageba.asp">More info</a></p></section>
+<section>
+<h4 id="10-3-6"><a href="#toc-10-3-6">10.3.6: Images with Captions</a></h4>
+<p>It’s useful to bind together images with their captions. In order to do so set the images as follows in the XHTML files.</p>
+<pre class="code">
+&lt;div class="img"&gt;
+	&lt;img src="image/Lonneke_image1_fmt.jpeg" alt="Description" /&gt;
+	&lt;p class="caption"&gt;Caption&lt;/p&gt;
+&lt;/div&gt;
+			</pre>
+</section>
+<section>
+<h4 id="10-3-7"><a href="#toc-10-3-7">10.3.7: No “char-style-override” class</a></h4>
+<p>Often InDesign adds a <span class="code">char-style-override</span> class to certain tags. Make sure the class doesn’t add anything and delete it both from the XHTML than CSS files.</p>
+</section>
+<section>
+<h3 id="10-4"><a href="#toc-10-4">10.4: The OPF file</a></h3>
+<p>The OPF file is basically divided in 4 parts:</p>
+<ul>
+<li>metadata;</li>
+<li>manifest;</li>
+<li>spine;</li>
+<li>guide.</li>
+</ul>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#TOC2.0">More info</a></p></section>
+<section>
+<h4 id="10-4-1"><a href="#toc-10-4-1">10.4.1: Metadata</a></h4>
+<p>Metadata are data about other data. They are used to provide information about the publication as a whole.</p>
+<p>			<a href="http://en.wikipedia.org/wiki/Metadata">More info</a></p></section>
+<section>
+<h5 id="10-4-1-1"><a href="10-4-1-1" class="broken_link">10.4.1.1: Namespaces</a></h5>
+<p>InDesign will automatically set the XML namespace to the following:</p>
+<pre class="code">
+&lt;metadata xmlns:dc="http://purl.org/dc/elements/1.1/"&gt;
+			</pre>
+<p>Add the following to have the possibility to add futher info in the metadata:</p>
+<pre class="code">
+&lt;metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf"&gt;
+			</pre>
+</section>
+<section>
+<h5 id="10-4-1-2"><a href="10-4-1-2" class="broken_link">10.4.1.2: Title</a></h5>
+<p>The title should be already included in the following form:</p>
+<pre class="code">
+&lt;dc:title&gt;Unlike Us Reader&lt;/dc:title&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.1">More info</a></p></section>
+<section>
+<h5 id="10-4-1-3"><a href="10-4-1-3" class="broken_link">10.4.1.3: Authors and Roles</a></h5>
+<p>Author set in InDesign should be already there. More than one authors could be added and through the <span class="code">opf:role</span> attribute their role could be specified.</p>
+<pre class="code">
+&lt;dc:creator opf:role="edt" opf:file-as="Lovink, Geert"&gt;Geert Lovink&lt;/dc:creator&gt;
+&lt;dc:creator opf:role="edt" opf:file-as="Rasch, Miriam"&gt;Miriam Rasch&lt;/dc:creator&gt;
+&lt;dc:creator opf:role="aut" opf:file-as="Barocas, Solon"&gt;Solon Barocas&lt;/dc:creator&gt;
+&lt;dc:creator opf:role="aut" opf:file-as="Bassett, Caroline"&gt;Caroline Bassett&lt;/dc:creator&gt;
+[...]
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.2">More info</a></p></section>
+<section>
+<h5 id="10-4-1-4"><a href="10-4-1-4" class="broken_link">10.4.1.4: Publisher</a></h5>
+<p>The publisher should be already included in the following form:</p>
+<pre class="code">
+&lt;dc:publisher&gt;Institute of Network Cultures&lt;/dc:publisher&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.5">More info</a></p></section>
+<section>
+<h5 id="10-4-1-5"><a href="10-4-1-5" class="broken_link">10.4.1.5: Subjects</a></h5>
+<p>Subjects can be added in form of keywords.</p>
+<pre class="code">
+&lt;dc:subject&gt;social, media, monopolies, alternatives, internet, web, online, digital, Facebook, twitter, Mark Zuckerberg, unlike us, critique, theory, art, practice, economy, political, philosophy, social sciences, essays, network, privacy, database, web 2.0, individuation, collective, Lorea, Foursquare, design, program, code, graph, business, intervention, resistance, occupy, protest, Diaspora, hackers, hacking, federation, Distribution, centralization, decentralization, architecture&lt;/dc:subject&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.3">More info</a></p></section>
+<section>
+<h5 id="10-4-1-6"><a href="10-4-1-6" class="broken_link">10.4.1.6: Description</a></h5>
+<p>A short description of the content could be added.</p>
+<pre class="code">
+&lt;dc:description&gt;The Unlike Us Reader offers a critical examination of social media, bringing together theoretical essays, personal discussions, and artistic manifestos. How can we understand the social media we use everyday, or consciously choose not to use? We know very well that monopolies control social media, but what are the alternatives? While Facebook continues to increase its user population and combines loose privacy restrictions with control over data, many researchers, programmers, and activists turn towards designing a decentralized future. Through understanding the big networks from within, be it by philosophy or art, new perspectives emerge.&lt;/dc:description&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.3">More info</a></p></section>
+<section>
+<h5 id="10-4-1-7"><a href="10-4-1-7" class="broken_link">10.4.1.7: Date</a></h5>
+<p>A date relative to the publication could be added in the following form; month and day are not mandatory.</p>
+<pre class="code">
+&lt;dc:date opf:event="publication"&gt;2013-02&lt;/dc:date&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.10">More info</a></p></section>
+<section>
+<h5 id="10-4-1-8"><a href="10-4-1-8" class="broken_link">10.4.1.8: Language</a></h5>
+<p>The language of the publication could be added in the following form:</p>
+<pre class="code">
+&lt;dc:language&gt;en-GB&lt;/dc:language&gt;
+			</pre>
+</section>
+<section>
+<h5 id="10-4-1-9"><a href="10-4-1-9" class="broken_link">10.4.1.9: Rights</a></h5>
+<p>Rights of the publication could be added in the following form:</p>
+<pre class="code">
+&lt;dc:rights&gt;This publication is licensed under Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).&lt;/dc:rights&gt;
+			</pre>
+</section>
+<section>
+<h5 id="10-4-1-10"><a href="10-4-1-10" class="broken_link">10.4.1.10: Identifier</a></h5>
+<p>At least one unique identifier must be included. This could be the ISBN number.</p>
+<pre class="code">
+&lt;dc:identifier opf:scheme="ISBN"&gt;978-90-818575-5-0&lt;/dc:identifier&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.2.10">More info</a></p></section>
+<section>
+<h5 id="10-4-1-11"><a href="10-4-1-11" class="broken_link">10.4.1.11: Other Metadata</a></h5>
+<p>It is possible to add other metadata.</p>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#TOC2.2">More info</a></p></section>
+<section>
+<h4 id="10-4-2"><a href="#toc-10-4-2">10.4.2: Spine</a></h4>
+<p>The spine defines the linear order of the publication. The <span class="code">linear</span> attribute is useful for items that are part of the publication but are not actual content (such as cover, colophon, etc.)</p>
+<pre class="code">
+&lt;spine toc="ncx"&gt;
+	&lt;itemref idref="cover" linear="no" /&gt;
+	&lt;itemref idref="unlike-us-reader" /&gt;
+	&lt;itemref idref="unlike-us-reader-1" /&gt;
+	[...]
+&lt;/spine&gt;
+			</pre>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.4">More info</a></p></section>
+<section>
+<h4 id="10-4-3"><a href="#toc-10-4-3">10.4.3: Guide (optional)</a></h4>
+<p>The guide element identifies fundamental structural components of the publication such as cover, list of illustrations, etc.</p>
+<p>			<a href="http://www.idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.6">More info</a></p></section>
+<section>
+<h3 id="10-5"><a href="#toc-10-5">10.5: The General Table of Contents: the NCX file</a></h3>
+<p>The NCX file structures the TOC that will be automatically displayed by the reading software. InDesign doesn’t allow complex structures, therefore if you need a nested TOC you’ll need to organize it in the following way.</p>
+<pre class="code">
+&lt;navPoint id="navpoint-2" playOrder="2"&gt;
+		&lt;navLabel&gt;
+				&lt;text&gt;Theory of Social Media&lt;/text&gt;
+			&lt;/navLabel&gt;
+			&lt;content src="unlike-us-reader-3.xhtml#toc_marker-2" /&gt;
+				&lt;navPoint id="navpoint2" playOrder="2"&gt;
+					&lt;navLabel&gt;
+						&lt;text&gt;The Most Precious Good in the Era of Social Technologies&lt;/text&gt;
+					&lt;/navLabel&gt;
+					&lt;content src="unlike-us-reader-3.xhtml#toc_marker-2" /&gt;
+				&lt;/navPoint&gt;
+&lt;/navPoint&gt;
+			</pre>
+<p>ID’s should not be repeated more than once and the <span class="code">playOrder</span> attribute should be consistent with the actual order of the XHTML files.</p>
+</section>
+</article>
+								</section>
+								</article>

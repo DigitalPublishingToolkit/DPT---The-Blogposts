@@ -1,0 +1,95 @@
+<article id="post-1430" class="post-1430 post type-post status-publish format-standard hentry category-uncategorized clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">DPT Hackathon Results</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/" title="Posts by Michael Murtaugh" rel="author">Michael Murtaugh</a></span>, <time class="updated" datetime="2014-04-30" pubdate>April 30, 2014 at 12:49 am</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<figure><img src="imgs/IMAG0554.jpg"></figure><p>Thursday and Friday April 24 &amp; 25 a hackathon took place at the Piet Zwart Institute in Rotterdam. Over the course of 2 days, some of the developers of the Digital Publishing Toolkit initiative gathered to work on their projects and to share experiences, code and tools and discuss the (devil-is-in-the) details of developing for digital publications.</p>
+<p>present (left to right in photo): Michael Murtaugh, Marc de Bruijn, Sauli Warmenhoven, Florian Cramer, Andre Castro, Kimmy Spreeuwenberg (facilitating and taking the photo ;), , and Miriam Rasch dropped by for a bit.</p>
+<p><span id="more-1430"></span></p>
+<h2 id="an-overview-of-the-projects">An overview of the projects</h2>
+<h3 id="marc-de-bruijn---valiz">Marc de Bruijn / Valiz</h3>
+<p>Marc is working on an ePub generator for the Valiz publication ”Context without Walls”. This web-based generator allows the publisher to generate (and edit) epubs based on text structured with Markdown. The EPUBs may be styled by selecting from a list of available styles packages. These style packages are basically a zipped collection of CSS and other resources like font files. Over the last couple of weeks they have been adding functions, and a more user friendly interface. The project can be found on the <a href="https://github.com/DigitalPublishingToolkit/epubster" class="broken_link">DPT github page</a>.</p>
+<p>Another (future) part of the generator will be the possiblity to generate a cover based on the CSS of the ePub. </p>
+<h4 id="the-current-worflow-of-the-generator-is-as-follows">The current worflow of the generator is as follows:</h4>
+<ul>
+<li>Create a new edition by filling in the mandatory form field;</li>
+<li>Add the necessary sections which will form the structure of the edition. Sections have a title and a body of text structured with Markdown. The order of the sections can be changed after creating them;</li>
+<li>A cover can be added and a style package may be chosen;</li>
+<li>After all these steps have been completed an EPUB can be generated or previewed within the application</li>
+</ul>
+<h4 id="the-generator-already-includes">The generator already includes:</h4>
+<ul>
+<li>The possibility to use custom fonts </li>
+<li>It makes sure the epub includes all the necessary metadata </li>
+<li>Chapters can be ordered, each chapter is a separate HTML file</li>
+<li>It is possible to view the epub in the application itself</li>
+<li>They’ve added an interface to add covers to the publication</li>
+<li>Possibility to choose between different CSS via an upload function to add custom styles is planned</li>
+</ul>
+<h4 id="software-used">Software used:</h4>
+<ul>
+<li>CakePHP – <a href="http://cakephp.org/">http://cakephp.org/</a>
+</li>
+<li>epub.js – <a href="http://fchasen.github.io/epub.js/">http://fchasen.github.io/epub.js/</a> epub reader in browser for preview functionality</li>
+<li>PHPePub <a href="https://github.com/Grandt/PHPePub" class="broken_link">https://github.com/Grandt/PHPePub</a>
+</li>
+<li>
+<a href="http://validator.idpf.org">http://validator.idpf.org</a>  Validator/ &amp; EPUB-Checker (standalone of the website)</li>
+</ul>
+<h4 id="problemsissues-to-look-into">Problems/Issues to look into</h4>
+<ul>
+<li>At the moment the main problem is that the generator doesn’t produce valid EPUBs. The files can be viewed in an EPUB reader, but do not validate against the EPUB 3 standard</li>
+<li>The usage of endnotes causes validation problems, a fix is forthcoming</li>
+<li>The EPUBs should play nicel with major epub readers, as of yet the generated EPUBs do not display their cover in Apple’s iBooks, for example.</li>
+<li>The generator might include functions to generate a cover based on the chosen style package, this ties into the requirements for the Stedelijk Museum project, where the resulting EPUB should have a composited cover containing artworks chosen by the user.</li>
+</ul>
+<h4 id="resultsconclusions">Results/Conclusions</h4>
+<p>Some progress made resolving the many validation errors, most of them stemming from duplicate footnote IDs. The code responsible for parsing the footnotes should be changed, this will eliminate most, if not all, validation errors.</p>
+<p>A first attempt at a generated EPUB cover has been made, but the difficulties of automatically generating any sort of simple design involving text were encountered. Text positioning and wrapping is hard, especially in a barebones library like GD2 (ImageMagick supposedly offers more advanced functions in this regard). Sauli proposed a different approach using an image export of the HTML5 canvas element, which is worth looking into as well (as javascript libraries like paper.js or processing.js could be employed).</p>
+<h3 id="michael-murtaugh-institute-of-network-cultures-inc">Michael Murtaugh / Institute of Network Cultures (INC)</h3>
+<p>Michael as been researching the different tools/platforms that can play a role in the Institute of Network Cultures projects workflow for hybrid publishing, which at the same time allows to create personalized epubs. It tries to find a balance between complex HTML based editors, and the actual knowledge/skills publishers have to work with these tools. The focus is on a modular approach in which different choices for tools or programs can be made. Working the classic way from Word, and converting this to HTML with <em>pandoc</em>, or starting from a (multi)markdown structured document. Rather than aiming for creating (yet another) ideal platforms, the intent is to develop flexible workflows that allow mixed-toolsets: editors, version control and repositories, (commandline) document converters, epub reader software. The Society of the Query Reader, just released in print form by the INC, is being used as in an-process test case. </p>
+<p>Michael showed a working sketch interface for a <strong>personalized epub generator</strong> for the Society of the Query online reader. The idea is that the results from a search engine query can be compiled and downloaded to custom epub. The essays of the reader are indexed, using the Python search engine <a href="https://bitbucket.org/mchaput/whoosh/wiki/Home" class="broken_link">Whoosh</a>. In addition, a separate scraper script (taken from the earlier Hackathon in Utrecht) downloads images from the SotQ2 event Flickr stream along with their captions and adds these to the search index. The plan is to use Calibre’s ebook-converter then to convert the search results and linked content into a downloadable epub.</p>
+<h4 id="current-workflow">Current Workflow</h4>
+<p>The documents of this publication have been developed in a classic workflow – starting from Word files collected from authors. The following steps have already been taking to get from this stage to the eventual digital publication: * Conversion doc to docx by LibreOffice (manually done) * docx converted to HTML by Calibre’s ebook-convert script (batch) * Python scripts to clean up (strip "invisible" markup like non-breaking spaces), validating and sensibly indenting the resulting XHTML (using html5lib &amp; ElementTree). These <a href="https://github.com/DigitalPublishingToolkit/SotQ2/tree/master/scripts" class="broken_link">scripts can be found in the SotQ2 repo</a>.</p>
+<h4 id="html-editor">HTML editor?</h4>
+<p>We began with a hypothetical workflow for editing the HTML directly in the browser using the browser’s own integrated inspection tools (Firefox’s DOM inspector and style editor) &amp; HTML5’s contenteditable attribute and javascript in combination with a simple local python webserver to save the live documents content back to the local filesystem as an HTML file. Marc suggested we also look into using javascript extensions such as the <a href="http://daviferreira.github.io/medium-editor/">medium editor</a> (free software recode of the popular proprietary platform’s interface) as an example of the "state of the art" of non-intrusive in-browser editing widgets.</p>
+<p>In general, "live" editing of the HTML in the browser offers the directness of "WYSIWYG" and taps into the many free software efforts to make editing in the browser better. We discussed other possibilities like integration with git, and some kind of simple means of applying the various cleanup scripts (typically performed on the commandline) via buttons in the browser interface.</p>
+<p>This approach turned out to be contentious (Will publishers actually work with this? It is easier to do corrections, but the structure in html can be overwhelming. With this model you still need specialist to help with certain problems. ) and led to a <a href="http://networkcultures.org/digitalpublishing/2014/04/mark-me-up-mark-me-down/">fruitful discussion with Florian Cramer for why a Markdown approach might be better suited</a>.</p>
+<h5 id="problemsissues-to-look-into-1">Problems/Issues to look into</h5>
+<p>For the SotQ front end interface, one issue is how to adjust the search result algorithm to include images related to articles that match the search (but are possibly not directly linked). In other words, when searching for the term "keyword", the search results include the article Is Small Really Beautiful? Big Search and Its Alternatives by Astrid Mager, and then the results include images with Astrid Mager included in their caption. The code for the proof of concept is included in the SotQ2 repository (though not yet in a form viewable online).</p>
+<h3 id="andre-castro---inc-notebooks">Andre Castro / INC Notebooks</h3>
+<p>Many of the INC project issues and questions overlap with Andre Castro’s work developing epubs for the INC netbooks series from word documents.</p>
+<p><strong>Problems/Questions he came accross so far:</strong> * Calibre converter: how to make clear and structured conversions from docx  to html? Calibre  creates a series of artifacts in the conversion process: <em>* empty tags (again) </em>* Losing table of contents hierarchy</p>
+<p>In this workflow that starts with docx there is the necessity to enforce a style guide / protocol for the docx e.g.:  Asign a style (like h6) to blockquotes, sections tiltes as heading, so these can be seamingless converted. And if they are not well converted one can go back to .docx document and search for the particular style, quickly finding the content contained under that style. Yet, this remains difficult.</p>
+<ul>
+<li>(Libre) Open Office &gt;&gt;&gt; why is the html export so bad?</li>
+</ul>
+<h4 id="resultsconclusions-1">Results/Conclusions</h4>
+<p>My initial idea was to work on the preparation of the master HTML file that will give birth to the epub.</p>
+<p>I aimed to developed scripts to : * clean html artifacts from calibre conversion * create an indented strucutred TOC – based on the document headings the work-flow what was I aiming for:</p>
+<p>docx –(calibre)–&gt; epub(html) –(clean scripts)–&gt; clean html</p>
+<p>From the discussion with Florian it was clear that there was a necessity to have as the master/source file of the book, very lean and robust, with only the essential structure and clear to read. Markdown was an answer, since it has a very strict syntax, readable, and when converting a messy html into markdown it  cleans it out of the calibre artifacts.   </p>
+<p>The ”’drawback”’ is that footnotes are going to be broken. They have to be ”prepared” before hand (using a script).</p>
+<p>To create a  structured  TOC I used: using calibre conversion tool:</p>
+<p>ebook-convert IN_FILE.docx OUT_FILE.epub –dont-split-on-page-breaks –pretty-print –toc-title "Table of Contents" –level1-toc="//<em>[name()=’h1′]" –level2-toc="//</em>[name()=’h2′]" –level3-toc="//*[name()=’h3′]" –epub-inline-toc</p>
+<p>The important bit is: –level1-toc="//<em>[name()=’h1′]" –level2-toc="//</em>[name()=’h2′]" –level3-toc="//*[name()=’h3′]" which translates to: all the level 1  of toc = to  the name of the all the headings 1, and so forth for the other levels.</p>
+<h3 id="sauli-warmenhoven-bis-publishers">Sauli Warmenhoven / BIS publishers</h3>
+<p>Sauli is working on a digital version of Sketching, a tutorial publication for designers in which they learn to draw design objects. It is divided between different exercises that refer to different skills. Starting point of the project was to explore the possibilities of designing a highly interactive publication using open standards like HTML5 rather than rely on the proprietary nature of the iBooks format. As such they decided to develop a standalone web application, and developed, in a sense their own custom reader experience using html5 and javascript. The exercises and skills are two separate tracks of chapters, that are interlinked. Building their own reading application allows us to create a custom built reader for this specific publication. </p>
+<h4 id="tools-used">Tools used</h4>
+<p><em>jQuery</em> for javascript development, with the touch events from <em>jQuery Mobile</em> which normalizes browser implementations of javascript and touch events and provides a consistent way of writing code. Once everything is working, we will then package the webapplication in a platform-specific shell using <em>phonegap</em> a mobile development framework. Phonegap allows us to tap into device specific features, such as locking the screen orientation.</p>
+<h4 id="problemquestion-to-look-into">Problem/Question to look into</h4>
+<ul>
+<li>HTML5 gives new possibilities for digital publishing, also compared to iBook/epub, but there isn’t really a clear overview of these possiblities and issues. A blogpost what they. html5 vs API compare what the possibilities or problems are? for instance Orientation: Javascript/CSS knows about it (but not consistent), but need API to lock it</li>
+<li>Could we make a table of functionalities that are HTML5 vs API only to illustrate how this project is really pushing the boundaries of HTML5 + Javascript to build highly customized apps </li>
+</ul>
+<h3 id="florian-cramer">Florian Cramer</h3>
+<ul>
+<li>Footnote renumbering tool (linebased, doesn’t renumber it if they are on the same line) : this has been solved by using pandoc to convert from and to markdown; </li>
+<li>Markdown pretty printer / tidy markdown see above; pandoc can also be used for this purpose</li>
+</ul>
+<p>The three Toolkit sections introducing Markdown and explaining its relative advantages and disadvantages (relative to XML, for visual and interactive publishing, for multi-channel publishing, extensibility vs. human readability and ease-of-use), have been written and submitted to the GitHub repository: docs/markdown-advantages.md docs/markdown-tips.md docs/markdown-vs-xml.md</p>
+<p><strong>Results/Conclusions</strong> * footnote fixer also works as a numbered list fixer.  * Markdown introductions for Toolkit reflect our discussion on Markdown this morning * will still write a tool to track orphaned footnotes</p>
+<p>See also the <a href="http://networkcultures.org/digitalpublishing/2014/04/mark-me-up-mark-me-down/">Markup vs. Markdown Discussion</a>.</p>
+								</section>
+								</article>

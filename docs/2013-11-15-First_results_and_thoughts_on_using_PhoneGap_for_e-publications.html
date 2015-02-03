@@ -1,0 +1,45 @@
+<article id="post-980" class="post-980 post type-post status-publish format-standard hentry category-development clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">First results and thoughts on using PhoneGap for e-publications</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/timoklok/" title="Posts by timoklok" rel="author">timoklok</a></span>, <time class="updated" datetime="2013-11-15" pubdate>November 15, 2013 at 5:52 pm</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<p>For the SketchingBook project, we (Restruct, Mr.Sauli, Arjen De Jong) decided to explore the possibilities of producing a publication in app form through PhoneGap. These are the first results:</p>
+<p><span id="more-980"></span></p>
+<p><strong>Why &amp; What PhoneGap</strong></p>
+<blockquote>
+<p>” PhoneGap is a mobile development framework that enables software programmers to build applications for mobile devices using JavaScript, HTML5, and CSS3, instead of device-specific languages such as Objective-C or Java. The resulting applications are hybrid, meaning that they are neither truly native (because all layout rendering is done via web views instead of the platform’s native UI framework) nor purely web-based (because they are not just web apps, but are packaged as apps for distribution and have access to native device APIs). “</p>
+</blockquote>
+<p>(<a href="http://en.wikipedia.org/wiki/PhoneGap">wikipedia</a>)</p>
+<p><strong>Why did we decide on PhoneGap:</strong></p>
+<p>This decision was made based on requirements for the publication:</p>
+<ul>
+<li>Offering a richer environment than the existing paper book: embedded video, smooth (swipe) interaction </li>
+<li>We wanted to explore the possibilities of a modular purchase model, allowing for individual chapters to be bought (or added to the publication later on).</li>
+<li>Some ‘smart’ components, for instance having the publication store which chapters have been read by the viewer.</li>
+<li>Allow for a non-linear navigation, that would also store the path the viewer has taken through the chapters, so they could take a side-step into a different chapter but always be able to return to their starting point.</li>
+<li>The publication relies heavily on full color image media, and less on text, there’s no need for reflowable pages. Tablets – rather the e-readers – are the obvious end-device for reading this publication.</li>
+</ul>
+<p>In the scope of digital publication options, ranging from simple pdf’s to full native apps, producing through PhoneGap seems a viable option for this publication since:</p>
+<ul>
+<li>It, in principle, allows the interaction listed in the requirements.</li>
+<li>Is written in HTML/JS/CSS, so (within our team there’s) no need to learn new languages. The code is easy to share and adapt.</li>
+<li>There’s no need for heavy interaction with hardware components such as camera, sensors etc (for which native code would be more suitable) </li>
+<li>Producing a native app would probably be more expensive, less durable, with fewer reusable components.</li>
+<li>It is (ideally) easy to produce a publication for different platforms. </li>
+<li>For future publications, it seems easier to link such a HTML project to a database from which other publication forms are created (pdf’s, ePub, sites) then with a native app.</li>
+</ul>
+<p>However, PhoneGap is also known to render slower in comparison to native apps (because of the web view rendering), so test are needed to see how far we can push the interaction.</p>
+<p><strong>First results -&gt; PhoneGap Build</strong></p>
+<p>After Adobe purchased PhoneGap, they have released the online <a href="https://build.phonegap.com/">PhoneGap Build</a> system. This allows user to upload a zip file containing the HTML/JS/CSS files, and produces an app for iOS and Android. This service for free for every user that only maintains a single project, afterwards a subscription is required (but free for unlimited open source projects).</p>
+<p>To produce an iOS app (which is our first focus for this project), an Apple developer account is always required (costing around 90e year).</p>
+<p>The first results with this service were promising: after <a href="http://phonegap-tips.com/articles/force-hardware-acceleration-with-translate3d-sometimes.html">enabling hardware acceleration</a> for elements that move via CSS, and making sure video files were <a href="https://developer.apple.com/library/ios/technotes/tn2224/_index.html">correctly encoded</a>, sliding to the next page appeared reasonably smooth (through buttons as well as swipe gestures). Those different ‘pages’ are actually elements on a single HTML document. Storing user data via <a href="http://diveintohtml5.info/storage.html">localstorage</a> also worked as expected.</p>
+<p>In anticipation of the final design &amp; content, next step was to test the possibilities of in app purchases for the different chapters:</p>
+<p><strong>Progressing &amp; moving to Xcode</strong></p>
+<p>At this moment, the PhoneGap Build service doesn’t provide the plugins needed to connect to the iOS store for in app purchases. Those plugins do exists, but it means the ‘compiling’ of the app must be done locally, using Apple development environment XCode, allowing the use of custom plugins.</p>
+<p>Switching from PhoneGap Build to Xcode was a painstaking experience, since developing for the latest iOS version (7), requires besides all the iOS SDK en PhoneGap libraries the latest Xcode version, which in turn only runs on OSX Mavericks, so a complete system update was needed before we could reach the same results as with PhoneGap Build.</p>
+<p>After adding a dummy purchase option to the app (registering this on the Apple Dev. centre) it was fairly simple to complete a purchase by using <a href="https://github.com/j3k0/PhoneGap-InAppPurchase-iOS/blob/master/README.md">this</a> Javascript sample. This however was only possible after providing Apple with all our bank and tax details, even for test purposes. Since the purchase consists only of a payment and callback through the Apple store, the action following the purchase is completely customisable. In our case, we succeeded downloading a new file into the app from our server. Because of Apple’s policy of checking all apps before releasing them to the Apple store, such an action would probably mean this app would be rejected. Alternatives are to have Apple host the downloadable content for you, or packaging the complete content within the initial app, and unlocking that content partly when purchased.</p>
+<p>The latter option is the most simple, because there’s no need to download a new series of files into the app and correctly linking them to the existing content. Downside would be that all the content has to be ready on the first launch of the app, and the total filesize would increase dramatically. On the other hand, users would never have to download new (large) packages (for instance if they are on a 3G network). Also, we estimate a total size under 500MB for all content which is not that large in comparison to other rich media publications/apps.</p>
+<p>More results will follow as soon as further decisions have been made concerning content and design!</p>
+								</section>
+								</article>

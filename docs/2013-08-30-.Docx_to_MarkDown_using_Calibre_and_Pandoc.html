@@ -1,0 +1,67 @@
+<article id="post-751" class="post-751 post type-post status-publish format-standard hentry category-development category-inc category-standards category-tools tag-calibre tag-conversion tag-docx tag-pandoc tag-process tag-tutorial clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">.Docx to MarkDown using Calibre and Pandoc</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/silviolorusso/" title="Posts by Silvio Lorusso" rel="author">Silvio Lorusso</a></span>, <time class="updated" datetime="2013-08-30" pubdate>August 30, 2013 at 2:30 pm</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<figure><img src="imgs/Screen-Shot-2013-08-30-at-12.39.21-PM.png"></figure><p>This post documents the outcomes of a new feature of <a href="http://calibre-ebook.com/">Calibre</a> available in version 1.0: docx conversion. The docx file is firstly converted to HTMLZ in order to be converted again to MarkDown through <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a>. An automated version of the process (bash script) is available at the bottom.</p>
+<p>We are going to use a test document provided by <strong>Calibre</strong> team, downloadable <a href="http://calibre-ebook.com/downloads/demos/demo.docx">here</a>. The document has the following features:</p>
+<div id="attachment_752" style="width: 786px" class="wp-caption alignnone">
+<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/08/Screen-Shot-2013-08-30-at-12.26.17-PM.png"><img class="size-full wp-image-752" alt="Test Document in .docx, shown in LibreOffice" src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/08/Screen-Shot-2013-08-30-at-12.26.17-PM.png" width="776" height="666"></a><p class="wp-caption-text">Test Document in .docx, shown in LibreOffice</p>
+</div>
+<ul>
+<li>Inline formatting</li>
+<li>Fonts</li>
+<li>Paragraph level formatting</li>
+<li>Tables</li>
+<li>Footnotes &amp; Endnotes</li>
+<li>Dropcaps</li>
+<li>Links</li>
+<li>Table of Contents</li>
+<li>Images</li>
+<li>Lists</li>
+</ul>
+<p>First, we convert the .docx to HTMLZ using <strong>Calibre</strong>. To do so add the test document to Calibre and right-click to convert it individually.</p>
+<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/08/Screen-Shot-2013-08-30-at-12.34.33-PM.png"><img class="alignnone size-full wp-image-754" alt="Screen Shot 2013-08-30 at 12.34.33 PM" src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/08/Screen-Shot-2013-08-30-at-12.34.33-PM.png" width="822" height="502"></a>
+<p>Choose HTMLZ as output format click OK. You will then find your .htmlz in the containing folder of your document (right-click on the element &gt; Open containing folder).</p>
+<p>The HTMLZ is a <a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/08/DOCX-Demo-Kovid-Goyal.zip">zip</a> file containing an HTML file along with images, style, etc. Therefore in order to access those files simply change the extensions from .htmlz to .zip and uncompress.</p>
+<p>The result of the conversion is pretty decent: except for “Paragraph level formatting”, everything else is preserved, especially footnotes (that were the most labour intensive issue in the <a href="http://networkcultures.org/digitalpublishing/2013/07/notes-on-converting-a-doc-to-multimarkdown/">previous processes</a> and still not solved).</p>
+<div id="attachment_762" style="width: 635px" class="wp-caption alignnone"><figure><img src="imgs/Screen-Shot-2013-08-30-at-12.46.02-PM.png"><ficaption>The HTML document</ficaption></figure></div>
+<p>Let’s now use <strong>Pandoc</strong> to convert the .html to MarkDown.</p>
+<pre><code>pandoc -f html -t markdown -o output.html your_forlder/index.html 
+</code></pre>
+<p>Here you can download the <a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/08/output.md">output MarkDown file</a>.</p>
+<div id="attachment_766" style="width: 635px" class="wp-caption alignnone"><figure><img src="imgs/Screen-Shot-2013-08-30-at-1.02.25-PM.png"><ficaption>The MarkDown output as shown in Mou</ficaption></figure></div>
+<p>Let’s now go through the features.</p>
+<p><strong>Inline formatting</strong></p>
+<ul>
+<li>Bold and italic are preserved, even though there are problems when they are one next to each other;</li>
+<li>Underlined, struck out, superscript, subscript, colors, highlight are not preserved.</li>
+</ul>
+<p><strong>Fonts</strong></p>
+<p><strong>Paragraph level formatting</strong></p>
+<p><strong>Tables</strong></p>
+<p><strong>Footnotes &amp; Endnotes</strong></p>
+<p><strong>Dropcaps</strong></p>
+<p><strong>Links</strong></p>
+<p><strong>Table of Contents</strong></p>
+<p><strong>Images</strong></p>
+<p><strong>Lists</strong></p>
+<h3>Automated version of the process (bash script)</h3>
+<p>In order to use the automated version you need:</p>
+<ol>
+<li>Calibre’s Command Line Interface activated: On OS X you have to go to Preferences-&gt;Advanced-&gt;Miscellaneous and click install command line tools to make the command line tools available. On other platforms, just start a terminal and type the command.</li>
+<li>An unzip tool: on OS X I use “unzip”.</li>
+</ol>
+<pre><code>#!/bin/bash
+mkdir temp
+cp $1 temp
+cd temp
+ebook-convert $1 output.htmlz
+unzip output.htmlz
+cd ..
+pandoc -f html -t markdown -o output.md temp/index.html
+rm -R temp
+</code></pre>
+								</section>
+								</article>

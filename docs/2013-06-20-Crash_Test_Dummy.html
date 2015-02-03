@@ -1,0 +1,116 @@
+<article id="post-279" class="post-279 post type-post status-publish format-standard hentry category-development category-publishing_platforms category-tools category-valiz tag-adobe-digital-editions tag-aldiko tag-amazon tag-amazon-bookstore tag-apple tag-apple-app-store tag-azardi tag-azw tag-bluefire tag-calibre tag-css tag-ehon tag-epub tag-epub3 tag-ibooks tag-idpf tag-javascript tag-kf8 tag-kindle tag-kitabu tag-kobo tag-lektz tag-mantano tag-moon tag-readium tag-readmill tag-sony tag-universal-book-reader clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">Crash Test Dummy</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/marcdebruijn/" title="Posts by Marc de Bruijn" rel="author">Marc de Bruijn</a></span>, <time class="updated" datetime="2013-06-20" pubdate>June 20, 2013 at 11:18 am</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<p>In order to test the capabilities of the various EPUB readers we created a dummy EPUB containing a couple of features often requested by designers and publishers. While EPUB 3 is a modern standard with a lot of possibilities, the utilisation of a relatively simple design and the inclusion of rich media is seriously hampered by the limitations of the EPUB readers. Most readers place restrictions on style and content, often showing a mangled version of the original or something wholly different. As such there is no uniform way in which EPUB is interpreted by readers and the situation is more or less comparable to developing websites a few years ago, and having to support older iterations of Internet Explorer (notably version 6) by resorting to ugly hacks (the lack alpha transparency in PNG images ((<a href="http://support.microsoft.com/kb/294714">http://support.microsoft.com/kb/294714</a>, more wonderful quirks here: <a href="http://www.positioniseverything.net/explorer.html">http://www.positioniseverything.net/explorer.html</a>)) comes to mind, for example) or opting out of certain technical innovations. The situation regarding EPUB interpretation is more or less the same – viz. faulty support of the standard by major EPUB readers. ((See: <a href="http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls">http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls</a> for a detailed comparison.)) The landscape is even more fragmented, however, there are a great many EPUB readers for various platforms out there compared to the relatively small amount of browsers (courtesy of three major players ((Internet Explorer (Microsoft), Firefox (Mozilla) and Safari (Apple).))) a developer had to support.</p>
+<p> </p>
+<h2>About the Dummy EPUB</h2>
+<p>We started out rather traditionally by creating an initial design in Adobe Illustrator, containing various ideas partly based on the wishlist of one of the publishers we work for (Valiz).</p>
+<p>The ideas consist of the following:</p>
+<ol>
+<li>The content is divided into two sections, a normal text section and a black one containing related content (images, notes, other media, etc.) The user may slide the black section into view by tapping/clicking on an image or footnote. From a technical standpoint this requires some JavaScript animation and CSS styling. For convenience sake this point will be referred to in our test results and tables simply as <em>“JavaScript”</em>.</li>
+<li>The text section has a left margin containing notes, images and quotes from related publications. For this to work a reader has to support more complex CSS styles, as opposed to styling or colouring text – appears in test results and tables as <em>“Complex Styles”</em>;</li>
+<li>Multiple custom typefaces (test results and tables: <em>“Fonts”</em>);</li>
+<li>Coloured text elements and blocks, text styles (<em>“Basic Styles”</em>);</li>
+<li>The inclusion of video and audio;</li>
+</ol>
+<div id="attachment_314" style="width: 310px" class="wp-caption alignright"><figure><img src="imgs/05.jpg"><ficaption>The top section of the original, static design in Adobe Illustrator.</ficaption></figure></div>
+<p>The static Illustrator design was then converted into an HTML page adhering to the EPUB 3 standard. After some initial tests in various EPUB readers and finding that support for JavaScript isn’t widespread for example, we decided to simplify the design by eliminating the two section layout – we aim to implement a variation of this concept at a later date, however. The JavaScript in the dummy EPUB consists of two simple scripts, one animating images and another toggling the stack order of an element.</p>
+<p>Some additional images of the design <a href="https://plus.google.com/photos/113897703800209573412/albums/5891201595830168561?authkey=CKj5zZvJ7dvElQE" class="broken_link">can be found here</a>.</p>
+<p>The EPUB we prepared contains custom fonts, <a href="http://www.google.com/fonts/specimen/Neuton">Neuton</a> and <a href="http://www.google.com/fonts/specimen/Lato">Lato</a>, both released under the SIL Open Font License (OFL), offering multiple weights and styles and suitable for use with the CSS3 @font-face rule. Also contained within the EPUB are sound and video samples MP3/OGG and MP4/WebM ((Consistent video playback might be helped by including the OGG/Vorbis video format.)) format respectively. CSS styling is applied to the whole document, ranging from simple styling (headers, coloured blocks, bolds and italics, etc.) to more complex positioning of images and notes in the margin.</p>
+<div id="attachment_321" style="width: 310px" class="wp-caption alignleft"><figure><img src="imgs/Chrome01.png"><ficaption>The HTML portion of the EPUB as rendered by Google Chrome.</ficaption></figure></div>
+<p>Lastly, the document contains endnotes as per the IDPF <a href="http://www.idpf.org/accessibility/guidelines/content/xhtml/notes.php">accessibility guidelines</a> regarding notes. Footnotes are also mentioned in these guidelines, but as most EPUB readers forgo with displaying the traditional page structure the inclusion of footnotes might not be a very viable strategy. Unfortunately endnotes do not seem to work correctly in the EPUB we prepared, we’re not certain if this is due to a syntactical error on our part or lack of support by EPUB readers – this is something we intend to investigate further in the future.</p>
+<p>We tested our dummy EPUB on several platforms (desktop, tablet and smartphone), making sure to include the major EPUB readers of the respective platforms. A complete collection of application screenshots <a href="https://plus.google.com/photos/113897703800209573412/albums/5890421128762040017?authkey=CP_w1-Hlg4ufyAE" class="broken_link">can be found on Google+</a>.</p>
+<p>The EPUB itself <a href="https://docs.google.com/file/d/0B1ynUAxdZ4oUMnAzRTU1UDNIaTg/edit?usp=sharing">is hosted here</a>. Below is a screenshot of Google Chrome showing what the first part of the EPUB should look like.</p>
+<p> </p>
+<h2>On the desktop (Mac)</h2>
+<p>The desktop/notebook is probably not the most popular platform to peruse ebooks, as it doesn’t have the portability of a tablet or smartphone. There exist some applications for this platform, notably Kindle. iBooks <a href="http://www.apple.com/osx/preview/#ibooks">is also being ported</a> to the bigger screen.</p>
+<h3>Kindle</h3>
+<p><small><em>Developer:</em> Amazon<em>Version:</em> 1.10.3<em>Website:</em> <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000464931">http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000464931</a></small></p>
+<div id="attachment_317" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Amazon02.png"><ficaption>Kindle for Mac</ficaption></figure></div>
+<p>Kindle of course doesn’t support EPUB, so the document has to be converted to an AZW3 file – this process is rather trivial and can be done by Calibre. ((Calibre seems to strip audio and video, for some reason. So another method of conversion (with KindleGen, for example) might be worth investigating.)) Support for anything more than images is seriously lacking. No styling (CSS is simply not parsed), video and audio do not work and fonts are overridden. This all wouldn’t be a problem if Kindle wasn’t one of the biggest ebook platforms in the world.</p>
+<h3>Calibre</h3>
+<p><small><em>Developer:</em> Kovid Goyal<em>Version:</em> 0.9.35<em>Website:</em> <a href="http://calibre-ebook.com">http://calibre-ebook.com</a></small></p>
+<div id="attachment_320" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Calibre01.png"><ficaption>Calibre</ficaption></figure></div>
+<p>The cross platform solution for Linux, Mac and Windows. Due to its open source nature it characteristically supports an impressive range of features and functionality – managing an ebook library and exporting to different ebook formats is also possible with Calibre. The EPUB viewer is rather slow, it takes several seconds to load an EPUB, and has CSS isn’t fully supported it seems, bolder or lighter variations of the font are not displayed, for example.</p>
+<h3>Adobe Digital Editions</h3>
+<p><small><em>Developer:</em> Adobe<em>Version:</em> 2.0.6<em>Website:</em> <a href="http://www.adobe.com/products/digital-editions.html">http://www.adobe.com/products/digital-editions.html</a></small></p>
+<div id="attachment_315" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Adobe-Digital-Editions02.png"><ficaption>Adobe Digital Editions</ficaption></figure></div>
+<p>Adobe Digital Editions is comparable with Kindle regarding the lack support for various EPUB features. The application accepts EPUB, but strips it of anything except images.</p>
+<h3>Kitabu</h3>
+<p><small><em>Developer:</em> Sixty Four<em>Version:</em> 1.0.7<em>Website:</em> <a href="https://www.facebook.com/pages/Kitabu/242717922467492" class="broken_link">https://www.facebook.com/pages/Kitabu/242717922467492</a></small></p>
+<div id="attachment_326" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Kitabu02.png"><ficaption>Kitabu</ficaption></figure></div>
+<p>A very simple, free EPUB reader. Fonts and most styling are overridden and the application insists on dividing the content into columns. This may be disabled by the user, though the application still retains the concept of pagination at all times, this differs from other readers like Ehon or Kindle.</p>
+<h3>Ehon</h3>
+<p><small><em>Developer:</em> Pierre Oleo<em>Version:</em> 1.0.1<em>Website:</em> <a href="http://ehonapp.com">http://ehonapp.com</a></small></p>
+<div id="attachment_322" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Ehon02.png"><ficaption>Ehon</ficaption></figure></div>
+<p>This application is relatively unknown and isn’t actively developed, it seems. Probably some version of WebKit is used for rendering the ePub, hence the full support for all the features of the publication.</p>
+<h3>Azardi</h3>
+<p><small><em>Developer:</em> Infogrid Pacific<em>Version:</em> 20.0<em>Website:</em> <a href="http://azardi.infogridpacific.com">http://azardi.infogridpacific.com</a></small></p>
+<div id="attachment_318" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Azardi02.png"><ficaption>Azardi</ficaption></figure></div>
+<p>Despite the very awkward interface, Azardi renders the EPUB reasonably well. No support for custom fonts and the structure is slightly mangled due to the application’s insistence on displaying facing pages. JavaScript support is present and audio and video work.</p>
+<p> </p>
+<h2>On tablets and smartphones</h2>
+<p>Most of the applications mentioned below are available for both tablets and smartphones. The differences between EPUB display on tablets and smartphones are rather trivial. Of course the screen sizes of smartphones are significantly smaller, but in terms of technical possibilities (or lack thereof) both platforms are the same.</p>
+<h3>iBooks</h3>
+<p><small><em>Developer:</em> Apple<em>Version:</em> 3.1<em>Website:</em> <a href="https://itunes.apple.com/us/app/id364709193" class="broken_link">https://itunes.apple.com/us/app/id364709193</a><em>Environment:</em> iOS</small></p>
+<div id="attachment_324" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/iBooks02.png"><ficaption>iBooks</ficaption></figure></div>
+<p>The EPUB support of iBooks is a pleasant surprise. Custom fonts work as does the CSS styling and JavaScript. Unfortunately everything in the application is wrapped in the skeuomorphic GUI which clashes rather violently on a visual level. The amount of space devoted to the actual content is relatively small as the book margins are defined by the application, not the EPUB.</p>
+<h3>Kindle</h3>
+<p><small><em>Developer:</em> AMZN Mobile<em>Version:</em> 3.8<em>Website:</em> <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000301301">http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000301301</a><em>Environment:</em> iOS, Android</small></p>
+<div id="attachment_325" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/KindleiOS02.png"><ficaption>Kindle on iOS</ficaption></figure></div>
+<p>The experience is roughly comparable to the desktop version of the application. Content is divided into two columns here, no styling or custom fonts. Audio and video were stripped during the conversion by Calibre.</p>
+<h3>Bluefire Reader</h3>
+<p><small><em>Developer:</em> Bluefire Productions<em>Version:</em> 1.9.7<em>Website:</em> <a href="http://www.bluefirereader.com">http://www.bluefirereader.com</a><em>Environment:</em> iOS</small></p>
+<div id="attachment_319" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Bluefire-Reader02.png"><ficaption>Bluefire Reader</ficaption></figure></div>
+<p>Bluefire renders the EPUB as expected from most tablet readers, no styling or media.</p>
+<h3>Readmill</h3>
+<p><small><em>Developer:</em> Readmill Network<em>Version:</em> 3.2<em>Website:</em> <a href="https://readmill.com" class="broken_link">https://readmill.com</a><em>Environment:</em> iOS</small></p>
+<div id="attachment_331" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Readmill02.png"><ficaption>Readmill</ficaption></figure></div>
+<p>This application doesn’t allow to load EPUB files directly and instead requires the user to upload files (PDF or EPUB) to their personal library which can then be synced across other devices. Readmill’s website proudly touts a focus on design and typography, which in practice means that any CSS styling in an EPUB is ignored and the Readmill ebook styles are applied to the entirety of the document.</p>
+<h3>Kobo Books</h3>
+<p><small><em>Developer:</em> Kobo<em>Version:</em> 5.12<em>Website:</em> <a href="http://www.kobo.com/apps">http://www.kobo.com/apps</a><em>Environment:</em> iOS, Android</small></p>
+<div id="attachment_327" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Kobo02.png"><ficaption>Kobo Books</ficaption></figure></div>
+<p>It’s telling that Kobo Books is a pleasant surprise, although it mangles several aspects of the design and doesn’t display the custom typography, it’s because the other readers are just really bad at interpreting anything more than simple text and displaying imagery.</p>
+<h3>Lektz</h3>
+<p><small><em>Developer:</em> AEL Data Services<em>Version:</em> 3.1<em>Website:</em> <a href="http://lektz.com">http://lektz.com</a><em>Environment:</em> iOS, Android</small></p>
+<div id="attachment_328" style="width: 310px" class="wp-caption alignnone"><figure><img src="imgs/Lektz02.png"><ficaption>Lektz</ficaption></figure></div>
+<p>This reader is one of the applications to (at least partly) implement the Readium SDK. Readium is a non profit organisations backed by the IDPF and several partners aiming to develop a cross-platform SDK for developers. In practice this means Readium provides the interpreter for EPUBs on various platforms, including the web. Partners include Sony, Kobo and three large French publishing houses (Gallimard, La Martinière and Flammarion). Support of large commercial parties is vital for the emergence of Readium as a standard SDK for EPUB readers, so the initial roster of backers is a good start. Lektz supports all features of the dummy EPUB, except for audio and video.</p>
+<h3>Aldiko Book Reader</h3>
+<p><figure><img src="imgs/Aldiko02.png"></figure><small><em>Developer:</em> Aldiko<em>Version:</em> 2.2.3<em>Website:</em> <a href="http://www.aldiko.com">http://www.aldiko.com</a><em>Environment:</em> Android</small></p>
+<p>Barebones presentation of text and images. No video, audio or any styling.</p>
+<p> </p>
+<h3>ePub Reader</h3>
+<p><figure><img src="imgs/ePub-Reader02.png"></figure><small><em>Developer:</em> Graphilos Studio<em>Version:</em> 1.5.3<em>Website:</em> <a href="http://www.graphilos.com">http://www.graphilos.com</a><em>Environment:</em> Android</small></p>
+<p>The “best” of the Android applications in terms of CSS styling. However, all the pages seem to exceed the available screen size.</p>
+<p> </p>
+<h3>Mantano Reader Lite</h3>
+<p><figure><img src="imgs/Mantano02.png"></figure><small><em>Developer:</em> Mantano SAS<em>Version:</em> 1.2.9<em>Website:</em> <a href="http://www.mantano.com">http://www.mantano.com</a><em>Environment:</em> Android</small></p>
+<p>Presentation quite similar to Aldiko: just text and images, no video, audio or styling (except font sizes).</p>
+<p> </p>
+<h3>Moon+ Reader</h3>
+<p><figure><img src="imgs/Moon02.png"></figure><small><em>Developer:</em> Moon+<em>Version:</em> 1.9.7.0<em>Website:</em> <a href="http://www.moondownload.com">http://www.moondownload.com</a><em>Environment:</em> Android</small></p>
+<p>Moon+ applies its own styling to the background of the publication and ignores any CSS styling (except for texts that are defined as bold or italic). No support for video or audio.</p>
+<p> </p>
+<h3>Universal Book Reader</h3>
+<p><figure><img src="imgs/UBReader02.png"></figure><small><em>Developer:</em> Mobile Systems<em>Version:</em> 2.1.260<em>Website:</em> <a href="http://www.ubreader.com">http://www.ubreader.com</a><em>Environment:</em> Android</small></p>
+<p>No CSS styling (font sizes excepted) or custom fonts. No support for video or audio.</p>
+<p> </p>
+<h2>Summary</h2>
+<p>Below are three tables to compare the tested featured across platforms. The lack of support for the more advanced features of EPUB 3 on tablets and smartphones is worrying, in our opinion. The lack of any real support hampers the production of media rich publications and any efforts regarding (visual) design. At the moment, any innovations, technical or otherwise, will only be usable or visible in a very small subset of applications which aren’t widely used nor connected to viable commercial outlets (Amazon Bookstore, Apple App Store, etc.)</p>
+<h3>Desktop</h3>
+<p>[table id=1 /]</p>
+<h3>Tablet &amp; Smartphone</h3>
+<h4>iOS</h4>
+<p>[table id=2 /]</p>
+<h4>Android</h4>
+<p>[table id=3 /]</p>
+<h2>So… What now?</h2>
+<p>After surveying the field of current EPUB readers we may conclude that the impossibilities surpass the possibilities when it comes to the EPUB 3 standard at the moment. The efforts of the Readium foundation are a good sign for the future, especially because the foundation is backed by commercial vendors and publishers. Apple’s iBooks might even become a rather good EPUB reader, but only if the GUI is significantly less in the way of the content in coming iterations of the application – hopefully the release iOS 7 will introduce those changes. Amazon’s Kindle is a bigger problem, as they insist on using their own file format (KF8/AZW) and the lack of support in our tests on both iPad and desktop. The AZW format merits further investigation though, as KF8/AZW is commonly referred to as a wrapper format of EPUB 3, so some of the features (fonts, basic styles, video, audio, etc.) should be supported. We intend to prepare some further tests regarding the conversion of EPUB 3 to KF8/AZW and interpretation of the resulting files in various versions of Kindle.</p>
+<p>In relation to the Digital Publishing Toolkit project we’ve decided, together with Valiz Publishers, to produce two EPUBs based on a printed entry from Valiz’ “Context Without Walls” series.</p>
+<p>The first version is a “conventional” EPUB, utilising only the features supported by the broadest range of readers. This version will be distributed through the common commercial channels (Amazon Bookstore, App Store Books, etc.)</p>
+<p>The second version is the “EPUB of the future”, which can only be perused in conjunction with readers that fully implement the EPUB 3 standard. As such readers are scarce and relatively unpopular compared to the applications provided by larger commercial parties (Apple, Amazon, Sony, etc.), we also aim to use one of the libraries offered by Readium – probably Readium.js – to present the EPUB to a larger audience.</p>
+								</section>
+								</article>

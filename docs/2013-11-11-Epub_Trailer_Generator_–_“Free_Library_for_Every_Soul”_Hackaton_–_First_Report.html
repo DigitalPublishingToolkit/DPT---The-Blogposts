@@ -1,0 +1,37 @@
+<article id="post-960" class="post-960 post type-post status-publish format-standard hentry category-inc category-tools tag-book tag-book-trailer tag-epub tag-output tag-python tag-script tag-trailer clearfix" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+								<header class="article-header">
+									<h1 class="entry-title single-title" itemprop="headline">Epub Trailer Generator – “Free Library for Every Soul” Hackaton – First Report</h1>
+									<p class="byline vcard">By <span class="author"><a href="http://networkcultures.org/digitalpublishing/author/silviolorusso/" title="Posts by Silvio Lorusso" rel="author">Silvio Lorusso</a></span>, <time class="updated" datetime="2013-11-11" pubdate>November 11, 2013 at 1:02 pm</time>.</p>
+								</header>
+								<section class="entry-content clearfix" itemprop="articleBody">
+									<div id="attachment_967" style="width: 610px" class="wp-caption alignnone">
+<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-Unlike-Us-Reader.gif" alt="Unlike Us Reader Epub Trailer" width="600" height="480" class="size-full wp-image-967"><p class="wp-caption-text">]<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-Unlike-Us-Reader.gif">1</a>“Unlike Us Reader” Epub Trailer</p>
+</div>
+<p><a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/dpt2013.jpg"><img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/dpt2013.jpg" alt="hackethon during Impakt" width="3264" height="2448" class="alignnone size-full wp-image-982"></a><a href="https://www.facebook.com/postdigitalpublishingarchive?fref=ts">3</a>“Working table during the hackethon[/caption]</p>
+<p>On the 2nd and 3rd of November, the INC subgroup (<a href="https://www.facebook.com/postdigitalpublishingarchive?fref=ts">Silvio Lorusso</a>, <a href="http://automatist.org/kiss/">Michael Murtaugh</a>, Kimmy Spreeuwenberg, Margreet Riphagen) attended the hackathon <a href="http://monnik.org/Free-Libraries-for-Every-Soul/solo">Free Libraries for Every Soul</a>, in Utrecht, which was part of the Impakt festival. Here’s the description of the project proposed by us:</p>
+<blockquote>
+<p>Situated in the “Digital Publishing Toolkit” project the subgroup ‘Book as Directory’ concerns itself with workflows for digital publications that move beyond putting a print PDF online. We want to explore the creative tension between the strict constraints and particularities of epub as an output format and the diversity of possible tools and practices that can be employed to produce them. Starting from specific materials from the Institute of Network Cultures (INC) including publications (in both word processor and page layout formats), web blogs, and video event recordings, we will be using the diversity of the participants knowledge and work practices to produce as many different workflows (and their resulting outcomes) as possible. In doing so, we will make use of a diverse toolbox of free software tools taken from different practices (graphic design, informatics, linguistics, text editing, blogging, library sciences, statistics, reverse engineering). The final outcome will be compiled into an epub cookbook demonstrating a tasty palette of possible digital publishing workflows.</p>
+</blockquote>
+<p><span id="more-960"></span></p>
+<p>Starting from the main goal of diversifying the array of digital publishing workflows for epub, we worked on several concepts that explored both the production of a publication in a digital format and the management and manipulation of ready made e-books.</p>
+<p>This post represents the first report on the concept developed during the hackathon. More will follow!</p>
+<p>(For a comprehensive overview on each project developed during the hackaton, check <a href="http://www.andrecastro.info/a/blog.html">André Castro’s report</a>.)</p>
+<h2>Epub Trailer Generator</h2>
+<p>During the hackaton we discussed the possible outputs that could derive from well-structured content. Thinking beforehand of those outputs would influence the structuring of the content.</p>
+<p>In our discussion we didn’t limit the outputs and the sources to what is generally considered a publication: we considered as well Flickr streams, contact spreadsheets, etc.</p>
+<p>We also realize that open format like Epub could be easily accessed and harvested for content, in other ways than the mere linear reading. So we started to think of ePub as an input/source that could be manipulated by scripts.</p>
+<p>In order to take the idea of Epub as input to the extreme, we needed a very different output from an e-book. Therefore we chose the “book trailer” relatively new genre, different from a theory publication both as format and as attitude.</p>
+<p>We developed a small <a href="https://github.com/DigitalPublishingToolkit/Epub-Trailer/blob/master/epubtrailer.py">python script</a> that: 1. unzips the epub; 2. searches the metadata for informations such as: title, authors, publisher, publication date; 3. gathers all the pictures in the book; 4. get a font if it’s embedded in the ePub; 5. creates an animated gif out of those contents.</p>
+<p>The scripts employs the <a href="http://www.pythonware.com/products/pil/">PIL library</a> to handle the images (resizing, creating text, etc.) and <a href="https://pypi.python.org/pypi/images2gif">images2gif</a> to convert all the images to an animated gif.</p>
+<p><strong>Usage</strong></p>
+<pre><code>python epubtrailer.py file-name.epub
+</code></pre>
+<p>Here’s a couple of examples.</p>
+<div id="attachment_969" style="width: 610px" class="wp-caption alignnone">
+<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-A-Neoist-Research-Project.gif" alt="“A Neoist Research Project ” Epub Trailer" width="600" height="480" class="size-full wp-image-969"><p class="wp-caption-text">]<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-A-Neoist-Research-Project.gif">9</a> “A Neoist Research Project ” Epub Trailer</p>
+</div>
+<div id="attachment_970" style="width: 610px" class="wp-caption alignnone">
+<img src="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-B00B3M3X2G-EBOK.gif" alt="“To Save Everything, Click Here” Epub Trailer" width="600" height="480" class="size-full wp-image-970"><p class="wp-caption-text">]<a href="http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-B00B3M3X2G-EBOK.gif">10</a> “To Save Everything, Click Here” Epub Trailer</p>
+</div>
+								</section>
+								</article>
