@@ -66,7 +66,7 @@ stream, from top to bottom.
 
 
 
-[![Parallel workflows](imgs/workflow_02.png)]()
+![caption](imgs/workflow_02.png)
 Parallel workflows
 
 
@@ -89,7 +89,7 @@ possible visual representation of such collaborative workflow.
 
 
 
-[![Collaborative workflow](imgs/workflow_01.png)]()
+![caption](imgs/workflow_01.png)
 Collaborative workflow
 
 

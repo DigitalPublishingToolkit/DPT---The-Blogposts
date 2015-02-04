@@ -10,7 +10,7 @@ By [Marc de
 Bruijn](http://networkcultures.org/digitalpublishing/author/marcdebruijn/ "Posts by Marc de Bruijn"),
 November 19, 2014 at 3:26 pm.
 
-[![epubster-04](imgs/epubster-04.png)]()
+![caption](imgs/epubster-04.png)
 
 With *EPUBster* (for lack of a better name) we tried to develop a web
 application allowing publishers to edit and create EPUBs. We us the term
@@ -123,12 +123,12 @@ fully-fledged EPUB 3 without much trouble using the tools provided by
 
 
 
-[![epubster-02](imgs/epubster-02.png)]()
-[![epubster-05](imgs/epubster-05.png)]()
-[![epubster-07](imgs/epubster-07.png)]()
-[![epubster-04](imgs/epubster-041.png)]()
-[![epubster-06](imgs/epubster-06.png)]()
-[![epubster-08](imgs/epubster-08.png)]()
-[![epubster-03](imgs/epubster-03.png)]()
+![caption](imgs/epubster-02.png)
+![caption](imgs/epubster-05.png)
+![caption](imgs/epubster-07.png)
+![caption](imgs/epubster-041.png)
+![caption](imgs/epubster-06.png)
+![caption](imgs/epubster-08.png)
+![caption](imgs/epubster-03.png)
 
 

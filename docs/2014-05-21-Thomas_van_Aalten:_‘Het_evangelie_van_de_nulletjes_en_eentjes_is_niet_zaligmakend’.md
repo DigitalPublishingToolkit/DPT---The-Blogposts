@@ -18,7 +18,7 @@ definition* the same thing and he certainly sees a future for e-books or
 new ways of storytelling. At the same he proves to be a critic of flashy
 revenue models. The interview is in dutch.
 
-[![](imgs/476002196_640.jpg)](http://vimeo.com/95953457)
+![Video: http://vimeo.com/95953457](imgs/476002196_640.jpg)
 
 [Thomas van Aalten: ‘Het evangelie van de nulletjes en eentjes is niet
 zaligmakend’](http://vimeo.com/95953457) from [network

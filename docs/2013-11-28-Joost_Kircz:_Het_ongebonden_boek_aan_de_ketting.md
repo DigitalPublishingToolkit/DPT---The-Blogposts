@@ -97,7 +97,7 @@ kent het ongebonden boek?
 
 Bekijk de volledige presentatie hieronder
 
-[![](imgs/456793688_640.jpg)](http://vimeo.com/80800588)
+![Video: http://vimeo.com/80800588](imgs/456793688_640.jpg)
 
 [Joost Kircz – Het ongebonden boek aan de ketting, met introductie van
 Geert Lovink](http://vimeo.com/80800588) from [network

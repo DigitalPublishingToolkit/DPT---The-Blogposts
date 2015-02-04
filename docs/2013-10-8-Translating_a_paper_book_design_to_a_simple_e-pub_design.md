@@ -10,6 +10,10 @@ By [Miriam
 Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
 October 8, 2013 at 2:15 pm.
 
+![caption](imgs/CWW_ontwerp16.jpg)
+
+![caption](imgs/CWW_ontwerp7.jpg)
+
 *A contribution by Meeusontwerpt*
 
 The subgroup of Valiz, Meeus Ontwerpt and Puntpixel has set out to
@@ -79,27 +83,16 @@ version won’t be able to work on all the readers / devices. What we
 would like from such an elaborate e-pub we don’t know yet, that’s
 something we still have to decide together.
 
-[![CWW\_omslag\_papier](imgs/CWW_omslag_papier.jpg)]() Cover design for
-the bilingual paper book (with back and spine)
+![caption](imgs/CWW_omslag_papier.jpg)
 
-[![CWW\_ontwerp](imgs/CWW_ontwerp.jpg)]() Cover design for the
-monolingual e-pub (with RGB colors)
+![caption](imgs/CWW_ontwerp.jpg)
 
-[![CWW\_Binnenwerk\_papier4](imgs/CWW_Binnenwerk_papier4.jpg)]() Design
-for the inside of the paper book (with margin, images, footnotes and
-keywords)
+![caption](imgs/CWW_Binnenwerk_papier4.jpg)
 
-[![CWW\_ontwerp5](imgs/CWW_ontwerp5.jpg)]() Design for the inside of the
-e-pub (with solutions for the images, footnotes and keywords)
+![caption](imgs/CWW_ontwerp5.jpg)
 
-[![CWW\_ontwerp7](imgs/CWW_ontwerp7.jpg)]()
-[![CWW\_ontwerp16](imgs/CWW_ontwerp16.jpg)]()
+![caption](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
 
-[![CWW\_binnenwerk\_papier\_beeldcahier2](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)]()
-Design of the visual essay in the paper book (with black as a background
-color)
+![caption](imgs/CWW_ontwerp20.jpg)
 
-[![CWW\_ontwerp20](imgs/CWW_ontwerp20.jpg)]() Design of the visual essay
-in the e-pub (with white as a background color)
-
-[![CWW\_ontwerp2](imgs/CWW_ontwerp2.jpg)]() Endpaper for the e-pub
+![caption](imgs/CWW_ontwerp2.jpg)

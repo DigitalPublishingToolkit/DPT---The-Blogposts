@@ -11,7 +11,7 @@ May 27, 2014 at 6:48 pm.
 
 
 
-[![Michelle Kasprzak ](imgs/14058080799_ac4cbe88fd_z.jpg)]()
+![caption](imgs/14058080799_ac4cbe88fd_z.jpg)
 Michelle Kasprzak
 
 
@@ -24,8 +24,7 @@ activities of the institute.
 
 
 
-[![Vughterstraat 234 (short: V2\_) in 's-Hertogenbosch, the first abode.
-](imgs/leadImage.jpg)]()
+![caption](imgs/leadImage.jpg)
 Vughterstraat 234 (short: V2\_) in ‘s-Hertogenbosch, the first abode.
 
 
@@ -52,17 +51,18 @@ stated that their two main approaches – mixing old and new content, and
 reframing – allows V2\_ to remain agile and be flexible to adjust to the
 hot topic of the time.
 
-[![Bez tytułu](imgs/Bez-tytu%C5%82u.jpg)]()On top of that, Institute for
-the Unstable Media organises [Book Sprints](http://www.booksprints.net/)
-– time-limited (5 days) collaborative book writing. Michelle is
-responsible for curating participating groups and choosing participants
-from different backgrounds to come together as an efficient writing
-group. Michelle remarked that Book Sprints are like weddings : they
-bring best and worst in people.
+![caption](imgs/Bez-tytu%C5%82u.jpg)
+
+[Book Sprints](http://www.booksprints.net/) – time-limited (5 days)
+collaborative book writing. Michelle is responsible for curating
+participating groups and choosing participants from different
+backgrounds to come together as an efficient writing group. Michelle
+remarked that Book Sprints are like weddings : they bring best and worst
+in people.
 
 
 
-[![dhr. M.J. Dieter during Book Sprint](imgs/Mike.jpg)]()
+![caption](imgs/Mike.jpg)
 dhr. M.J. Dieter during Book Sprint
 
 
@@ -81,4 +81,4 @@ You can find a PDF of her original presentation here: [Presentation
 Michelle
 Kasprzak](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_02_MichelleKasprzak.pdf)
 
-[![](imgs/477911262_640.jpg)](http://vimeo.com/96562225)
+![Video: http://vimeo.com/96562225](imgs/477911262_640.jpg)

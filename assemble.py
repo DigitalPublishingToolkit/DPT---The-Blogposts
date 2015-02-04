@@ -7,7 +7,7 @@ Script aims to:
 '''
 
 
-import os, re
+import os, re, glob
 regex_img = re.compile('(\!\[.*\]\()\.\.\/\.\./(.*)(\))')
 
 
@@ -18,24 +18,20 @@ md_all.close()
 md_all = open('Blogposts.md', 'a') #'a' = append
 
 
-
-md_posts = os.listdir("docs/")
+md_posts = glob.glob('docs/*.md')
 md_posts.sort()
 md_posts.reverse()
 
 for post in md_posts:
     print post
-    md_post = open("docs/{}".format(post), 'r')
+    md_post = open(post, 'r')
     md_post_content = md_post.readlines()
     content = ""
-    for line in md_post_content:
+    for i, line in enumerate(md_post_content):
 
-        # if re.search(regex_img, line): # re.search() checks for matches anywhere in the string
-        #     found = re.findall(regex_img, line)
-        #     print found
-
-
-        content = content + line
+        if i > 4: # prevent YAML to go to be concat
+            content = content + line
+        
     md_all.write(content)
         
 

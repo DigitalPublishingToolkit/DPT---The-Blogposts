@@ -124,7 +124,7 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/03_DPT_fcramer.pdf)
 **Watch the full presentation below (in Dutch)**
 
-[![](imgs/458628018_640.jpg)](http://vimeo.com/80873921)
+![Video: http://vimeo.com/80873921](imgs/458628018_640.jpg)
 
 [Florian Cramer – E-publishing voor kunst en design (uitdagingen
 2013)](http://vimeo.com/80873921) from [network

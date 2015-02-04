@@ -9,6 +9,8 @@ date: 2014-06-5
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 June 5, 2014 at 1:08 am.
 
+![caption](imgs/Joost.jpg)
+
 *A post by Mathijs Weijers*
 
 Joost Kircz was the first speaker of the 2-day conference “Off the Press
@@ -18,8 +20,6 @@ electronic publishing within the Amsterdam University of Applied
 Sciences (Hogeschool van Amsterdam), and currently he is involved with
 the Digital Publishing Toolkit research project. He regularly publishes
 his findings on his personal website, [www.kra.nl](http://www.kra.nl/).
-
-[![Joost](imgs/Joost.jpg)]()
 
 Kircz’s presentation was about the various technical requirements and
 design standards that different types of electronic books need.
@@ -92,4 +92,4 @@ You can find a PDF of his original presentation here: [Presentation
 Joost
 Kircz](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_01_JoostKircz.pdf)
 
-[![](imgs/477909407_640.jpg)](http://vimeo.com/96562227)
+![Video: http://vimeo.com/96562227](imgs/477909407_640.jpg)

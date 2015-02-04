@@ -11,7 +11,7 @@ May 28, 2014 at 12:28 am.
 
 
 
-[![Miriam Rasch](imgs/14057602360_c654d55103_z.jpg)]()
+![caption](imgs/14057602360_c654d55103_z.jpg)
 Miriam Rasch
 
 
@@ -51,19 +51,7 @@ materials, including pictures and video clips are available on
 [Vimeo](http://vimeo.com/networkcultures/videos). More information can
 be found on [INC’s website.](http://networkcultures.org/wpmu/portal/)
 
-[![14240898741\_0dd918cefb\_z](imgs/14240898741_0dd918cefb_z.jpg)]()Society
-of the Query reader was put together following a print
-oriented workflow. The first step was the design of the PDF file,
-followed by the print version and an online PDF version on Issuu. Due to
-its format specificity, the EPUB file was created last, autonomously
-from the previous three. Miriam explained how her team changed their
-usual ‘print’ workflow to a hybrid workflow which is more sensitive to
-the several possible outputs, print or digital, which makes the proces
-of digital publishing easier and more efficient. In this proces the
-contents of the book were compiled into a single Word document and then
-formatted using Markdown syntax, which was then converted into HTML. The
-use of Markdown coding allows for easy and non-invasive conversion
-between different output formats.
+![caption](imgs/14240898741_0dd918cefb_z.jpg)
 
 You can find a PDF of her original presentation here: [Presentation
 Miriam
@@ -72,4 +60,4 @@ Rasch](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/
 Miriam writes books reviews and guest posts for different websites and
 magazines. Look up her [personal blog](http://www.miriamrasch.nl/).
 
-[![](imgs/477910524_640.jpg)](http://vimeo.com/96562332)
+![Video: http://vimeo.com/96562332](imgs/477910524_640.jpg)

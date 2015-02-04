@@ -97,7 +97,7 @@ Het originele presentatie document (PDF) kan
 [hier](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/12/06_nai010_0119-DPT-presentatie-visuals.pdf)
 gevonden worden.**Bekijk de volledige presentatie hieronder**
 
-[![](imgs/457024932_640.jpg)](http://vimeo.com/80985297)
+![Video: http://vimeo.com/80985297](imgs/457024932_640.jpg)
 
 [Showcase nai010 uitgevers – Verzamelen
 Highlights](http://vimeo.com/80985297) from [network

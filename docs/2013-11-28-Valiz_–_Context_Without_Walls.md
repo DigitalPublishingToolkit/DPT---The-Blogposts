@@ -82,7 +82,7 @@ systeem worden aangepast.
 The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/05_VALIZ_28112013.pdf)
 
-[![](imgs/458628196_640.jpg)](http://vimeo.com/80883774)
+![Video: http://vimeo.com/80883774](imgs/458628196_640.jpg)
 
 [Showcase Valiz – Context Without Walls – genereren van een serie
 ontworpen ePubs](http://vimeo.com/80883774) from [network

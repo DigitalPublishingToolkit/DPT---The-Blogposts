@@ -18,8 +18,7 @@ accessible on multiple devices at a reasonable cost?**
 
 
 
-[![Arjen de Jong presenting for
-Essense](imgs/15712746169_68c3084661_o.jpg)]()
+![caption](imgs/15712746169_68c3084661_o.jpg)
 Arjen de Jong presenting for Essense
 
 

@@ -18,8 +18,9 @@ Us Reader” Epub Trailer
 
 
 
-[![hackethon during
-Impakt](imgs/dpt2013.jpg)]()[3](https://www.facebook.com/postdigitalpublishingarchive?fref=ts)“Working
+![caption](imgs/dpt2013.jpg)
+
+[3](https://www.facebook.com/postdigitalpublishingarchive?fref=ts)“Working
 table during the hackethon[/caption]
 
 On the 2nd and 3rd of November, the INC subgroup ([Silvio

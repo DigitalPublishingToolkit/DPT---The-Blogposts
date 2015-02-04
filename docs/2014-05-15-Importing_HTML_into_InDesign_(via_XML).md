@@ -10,6 +10,18 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 May 15, 2014 at 3:35 pm.
 
+![caption](imgs/Screen-Shot-2014-05-15-at-15.54.29.png)
+
+![caption](imgs/Screen-Shot-2014-05-15-at-15.51.56.png)
+
+![caption](imgs/Screen-Shot-2014-05-15-at-15.46.26.png)
+
+![caption](imgs/Screen-Shot-2014-05-15-at-15.43.21.png)
+
+![caption](imgs/Screen-Shot-2014-05-15-at-15.41.37.png)
+
+![caption](imgs/Screen-Shot-2014-05-15-at-15.30.22.png)
+
 As part of the INC subgroup research, we are looking into hybrid
 workflows that employ Markdown/HTML. While Markdown remains the source,
 it is also used to generate HTML files that form the EPUB files.
@@ -33,9 +45,6 @@ In order to be able to import the file into InDesign, it is necessary to
 delete the headers (eg. *\<!DOCTYPE html\>*) and the head tag. Also the
 upper html tag should be deleted. Finally you will have only body of
 your document, like in the following image.
-
-[![Screen Shot 2014-05-15 at
-15.30.22](imgs/Screen-Shot-2014-05-15-at-15.30.22.png)]()
 
 ### 3. Remove Redundant Line Breaks
 
@@ -66,20 +75,11 @@ and will substitute them with a white space.
 You can now import the clean file into InDesign from *File \> Import
 XML*.
 
-[![Screen Shot 2014-05-15 at
-15.41.37](imgs/Screen-Shot-2014-05-15-at-15.41.37.png)]()
-
 By checking the *Create Link* box you will be able to modify the content
 of the xml file and it will be automatically updated into InDesign.
 
-[![Screen Shot 2014-05-15 at
-15.43.21](imgs/Screen-Shot-2014-05-15-at-15.43.21.png)]()
-
 A window with the structure of your document will appear on the left. By
 drag-and-dropping the body tag into the pages, the content will appear.
-
-[![Screen Shot 2014-05-15 at
-15.46.26](imgs/Screen-Shot-2014-05-15-at-15.46.26.png)]()
 
 ### 5. Create Paragraph and Character Styles
 
@@ -91,14 +91,8 @@ HTML tag (eg. *p* to be used with *\* tag).
 The final step is to connect the HTML tags to the relative paragraph and
 character styles. To do so click on *Map Tags to Styles*.
 
-[![Screen Shot 2014-05-15 at
-15.51.56](imgs/Screen-Shot-2014-05-15-at-15.51.56.png)]()
-
 By clicking on *Map by Name* tags and styles will be automatically
 associated.
-
-[![Screen Shot 2014-05-15 at
-15.54.29](imgs/Screen-Shot-2014-05-15-at-15.54.29.png)]()
 
 ### Notes
 

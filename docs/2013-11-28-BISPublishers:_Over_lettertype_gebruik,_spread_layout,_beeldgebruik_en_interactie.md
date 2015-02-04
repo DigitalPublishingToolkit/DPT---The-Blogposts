@@ -147,7 +147,7 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/04_BIS-Publisherssmallpdf.com_.pdf)**Watch
 the full presentation below**
 
-[![](imgs/456897264_640.jpg)](http://vimeo.com/80883773)
+![Video: http://vimeo.com/80883773](imgs/456897264_640.jpg)
 
 [Showcase BISPublishers – Over lettertype gebruik, spread layout,
 beeldgebruik en interactie](http://vimeo.com/80883773) from [network

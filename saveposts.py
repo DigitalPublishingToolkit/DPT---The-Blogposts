@@ -159,14 +159,16 @@ def post_imgs(images):
         parent = (img.xpath('..'))[0]  # remove <a> wrapping <img>
         if parent.tag is 'a' and img_class != 'video': 
             grandparent = (img.xpath('../..'))[0]
+            caption = (grandparent.xpath('p[@class="wp-caption-text"]'))            
             fig = lxml.etree.Element('figure')
-            img = lxml.etree.Element('img', attrib={'alt': 'caption'})
+            img = lxml.etree.Element('img')
             figcaption = lxml.etree.Element('figcaption')                
-            caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
+
             if len(caption) > 0:
                 grandparent.remove(caption[0])
                 fig.insert(0, figcaption)
                 figcaption.text = caption[0].text
+                img.text = caption[0].text
 
             grandparent.remove(parent)
             grandparent.insert(0, fig)

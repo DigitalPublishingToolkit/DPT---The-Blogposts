@@ -11,8 +11,7 @@ May 28, 2014 at 10:22 am.
 
 
 
-[![Oliver Wise presenting how to use The People's E-book.
-](imgs/14056853788_e5e6b2ba54_z.jpg)]()
+![caption](imgs/14056853788_e5e6b2ba54_z.jpg)
 Oliver Wise presenting how to use The People’s E-book.
 
 
@@ -47,8 +46,7 @@ The choice of EPUB as the format was justified by the following :
 
 
 
-[![Oliver Wise demonstrates the use of The People's
-E-book](imgs/14241288482_544cb9c4f8_z.jpg)]()
+![caption](imgs/14241288482_544cb9c4f8_z.jpg)
 Oliver Wise demonstrates the use of The People’s E-book
 
 
@@ -100,4 +98,4 @@ Wise](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2
 
 Follow Oliver on Twitter : @owise1oliver@thepresentgroup.comgithub.com/peoples-ethepresentgroup.comhttp://beta.thepeoplesebook.net/
 
-[![](imgs/477910338_640.jpg)](http://vimeo.com/96562327)
+![Video: http://vimeo.com/96562327](imgs/477910338_640.jpg)

@@ -61,8 +61,7 @@ The ideas consist of the following:
 
 
 
-[![The top section of the original, static design in Adobe
-Illustrator.](imgs/05.jpg)]()
+![caption](imgs/05.jpg)
 The top section of the original, static design in Adobe Illustrator.
 
 
@@ -93,8 +92,7 @@ the margin.
 
 
 
-[![The HTML portion of the EPUB as rendered by Google
-Chrome.](imgs/Chrome01.png)]()
+![caption](imgs/Chrome01.png)
 The HTML portion of the EPUB as rendered by Google Chrome.
 
 
@@ -137,7 +135,7 @@ bigger screen.
 
 
 
-[![Kindle for Mac](imgs/Amazon02.png)]()
+![caption](imgs/Amazon02.png)
 Kindle for Mac
 
 
@@ -159,7 +157,7 @@ world.
 
 
 
-[![Calibre](imgs/Calibre01.png)]()
+![caption](imgs/Calibre01.png)
 Calibre
 
 
@@ -179,7 +177,7 @@ are not displayed, for example.
 
 
 
-[![Adobe Digital Editions](imgs/Adobe-Digital-Editions02.png)]()
+![caption](imgs/Adobe-Digital-Editions02.png)
 Adobe Digital Editions
 
 
@@ -195,7 +193,7 @@ strips it of anything except images.
 
 
 
-[![Kitabu](imgs/Kitabu02.png)]()
+![caption](imgs/Kitabu02.png)
 Kitabu
 
 
@@ -212,7 +210,7 @@ Ehon or Kindle.
 
 
 
-[![Ehon](imgs/Ehon02.png)]()
+![caption](imgs/Ehon02.png)
 Ehon
 
 
@@ -228,7 +226,7 @@ hence the full support for all the features of the publication.
 
 
 
-[![Azardi](imgs/Azardi02.png)]()
+![caption](imgs/Azardi02.png)
 Azardi
 
 
@@ -255,7 +253,7 @@ possibilities (or lack thereof) both platforms are the same.
 
 
 
-[![iBooks](imgs/iBooks02.png)]()
+![caption](imgs/iBooks02.png)
 iBooks
 
 
@@ -275,7 +273,7 @@ iOS, Android
 
 
 
-[![Kindle on iOS](imgs/KindleiOS02.png)]()
+![caption](imgs/KindleiOS02.png)
 Kindle on iOS
 
 
@@ -292,7 +290,7 @@ Calibre.
 
 
 
-[![Bluefire Reader](imgs/Bluefire-Reader02.png)]()
+![caption](imgs/Bluefire-Reader02.png)
 Bluefire Reader
 
 
@@ -307,7 +305,7 @@ styling or media.
 
 
 
-[![Readmill](imgs/Readmill02.png)]()
+![caption](imgs/Readmill02.png)
 Readmill
 
 
@@ -326,7 +324,7 @@ Readmill ebook styles are applied to the entirety of the document.
 
 
 
-[![Kobo Books](imgs/Kobo02.png)]()
+![caption](imgs/Kobo02.png)
 Kobo Books
 
 
@@ -343,7 +341,7 @@ anything more than simple text and displaying imagery.
 
 
 
-[![Lektz](imgs/Lektz02.png)]()
+![caption](imgs/Lektz02.png)
 Lektz
 
 
@@ -361,9 +359,10 @@ dummy EPUB, except for audio and video.
 
 ### Aldiko Book Reader
 
-[![Aldiko Book Reader](imgs/Aldiko02.png)]() *Developer:*
-Aldiko*Version:* 2.2.3*Website:* <http://www.aldiko.com>*Environment:*
-Android
+![caption](imgs/Aldiko02.png)
+
+*Developer:* Aldiko*Version:* 2.2.3*Website:*
+<http://www.aldiko.com>*Environment:* Android
 
 Barebones presentation of text and images. No video, audio or any
 styling.
@@ -372,8 +371,9 @@ styling.
 
 ### ePub Reader
 
-[![ePub Reader02](imgs/ePub-Reader02.png)]() *Developer:* Graphilos
-Studio*Version:* 1.5.3*Website:*
+![caption](imgs/ePub-Reader02.png)
+
+*Developer:* Graphilos Studio*Version:* 1.5.3*Website:*
 <http://www.graphilos.com>*Environment:* Android
 
 The “best” of the Android applications in terms of CSS styling. However,
@@ -383,8 +383,10 @@ all the pages seem to exceed the available screen size.
 
 ### Mantano Reader Lite
 
-[![Mantano02](imgs/Mantano02.png)]() *Developer:* Mantano SAS*Version:*
-1.2.9*Website:* <http://www.mantano.com>*Environment:* Android
+![caption](imgs/Mantano02.png)
+
+*Developer:* Mantano SAS*Version:* 1.2.9*Website:*
+<http://www.mantano.com>*Environment:* Android
 
 Presentation quite similar to Aldiko: just text and images, no video,
 audio or styling (except font sizes).
@@ -393,8 +395,10 @@ audio or styling (except font sizes).
 
 ### Moon+ Reader
 
-[![Moon02](imgs/Moon02.png)]() *Developer:* Moon+*Version:*
-1.9.7.0*Website:* <http://www.moondownload.com>*Environment:* Android
+![caption](imgs/Moon02.png)
+
+*Developer:* Moon+*Version:* 1.9.7.0*Website:*
+<http://www.moondownload.com>*Environment:* Android
 
 Moon+ applies its own styling to the background of the publication and
 ignores any CSS styling (except for texts that are defined as bold or
@@ -404,8 +408,9 @@ italic). No support for video or audio.
 
 ### Universal Book Reader
 
-[![UBReader02](imgs/UBReader02.png)]() *Developer:* Mobile
-Systems*Version:* 2.1.260*Website:*
+![caption](imgs/UBReader02.png)
+
+*Developer:* Mobile Systems*Version:* 2.1.260*Website:*
 <http://www.ubreader.com>*Environment:* Android
 
 No CSS styling (font sizes excepted) or custom fonts. No support for

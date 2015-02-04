@@ -15,4 +15,5 @@ Literatura e Informatica, with a focus on the INC project. You can find
 the program, blog and videos of the symposium
 [here](http://simposiodeliteraturaeinformatica.blogspot.com.br/).
 
-[![](imgs/_DxW20_hbZo.jpg)](https://www.youtube.com/watch?v=_DxW20_hbZo)
+![Video:
+https://www.youtube.com/watch?v=\_DxW20\_hbZo](imgs/_DxW20_hbZo.jpg)

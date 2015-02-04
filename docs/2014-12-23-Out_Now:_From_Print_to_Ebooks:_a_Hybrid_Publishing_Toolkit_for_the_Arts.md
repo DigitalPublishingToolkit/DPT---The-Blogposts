@@ -10,12 +10,9 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 December 23, 2014 at 2:22 pm.
 
-[![0419
-HVA\_DPT\_from\_print\_to\_ebooks\_OS\_epub](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub-e1419344387128.png)]()The
-last year within the Digital Publishing Toolkit research project,
-Hogeschool van Amsterdam and Hogeschool Rotterdam together with various
-designers and developers, collaboratively worked on the EPUB *From Print
-to Ebooks: a Hybrid Publishing Toolkit for the Arts*.
+![caption](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub-e1419344387128.png)
+
+*From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts*.
 
 This Toolkit is meant for everyone working in art and design publishing.
 No specific expertise of digital technology, or indeed traditional

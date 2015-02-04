@@ -10,7 +10,8 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 March 5, 2014 at 2:35 pm.
 
-Institute of Network Cultures presents:
+![caption](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)
 
-[![A5\_OFF\_THE\_PRESS\_web\_flyer\_front](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)]()
-[![A5\_OFF\_THE\_PRESS\_web\_flyer\_back](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)]()
+![caption](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)
+
+Institute of Network Cultures presents:

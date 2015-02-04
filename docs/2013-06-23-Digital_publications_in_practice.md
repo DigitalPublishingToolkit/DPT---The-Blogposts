@@ -9,6 +9,10 @@ date: 2013-06-23
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 June 23, 2013 at 2:08 pm.
 
+![caption](imgs/02_Top5SmartphoneOS.png)
+
+![caption](imgs/01_Top5Vendors.png)
+
 ## Jargon, Platforms & Publication Formats
 
 *By Marc de Bruijn and Jorrit Sybesma (PUNTPIXEL)*
@@ -132,8 +136,6 @@ the biggest market-share.
 (Kindle Fire HD) and Barnes & Noble (Nook HD+), these are discussed
 under the header [eReaders](#id.ok66hvpvpzwy).
 
-[![01\_Top5Vendors](imgs/01_Top5Vendors.png)]()
-
 For tablets the situation is comparable to that of the PC, with the
 exception of browser extensions.
 
@@ -199,8 +201,6 @@ However, the market is focussed (heavily) on Android ((
 Most of the applications for tablets are available for smartphones. The
 interface is scaled to the smaller size of the telephone – the same is
 true for the web-based platforms.
-
-[![02\_Top5SmartphoneOS](imgs/02_Top5SmartphoneOS.png)]()
 
 
 

@@ -32,4 +32,4 @@ You can find a PDF of her original presentation here: [Presentation
 Angie
 Keefer](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_04_AngieKeefer.pdf).
 
-[![](imgs/436281081_640.jpg)](http://vimeo.com/65248695)
+![Video: http://vimeo.com/65248695](imgs/436281081_640.jpg)

@@ -9,6 +9,12 @@ date: 2014-09-17
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 September 17, 2014 at 2:19 pm.
 
+![caption](imgs/IMG_2544.jpg)
+
+![caption](imgs/IMG_2534.jpg)
+
+![caption](imgs/IMG_2541.jpg)
+
 On the 12th of September the Institute of Network Cultures subgroup
 organized a meeting to test  the initial results of their research.
 Their project focuses on optimalising the publishing workflow for print
@@ -30,7 +36,3 @@ and published on the blog as soon as possible.
 
 The results of this test day will be implemented, and published on the
 blog as soon as possible!
-
-[![INC subgroup Testmeeting 12th of Sept](imgs/IMG_2541.jpg)]() [![INC
-subgroup Testmeeting 12th of Sept](imgs/IMG_2534.jpg)]() [![INC subgroup
-Testmeeting 12th of Sept](imgs/IMG_2544.jpg)]()

@@ -10,6 +10,10 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 October 8, 2014 at 5:37 pm.
 
+![caption](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
+
+![caption](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
+
 As part of the hybrid workflow for the Institute of Network Cultures
 developed by the INC subgroup, I started a collaboration with Italian
 graphic designer [Roberto Arista](http://projects.robertoarista.it/) in
@@ -66,9 +70,6 @@ Reader](http://networkcultures.org/blog/publication/society-of-the-query-reader-
 
 Both Paragraph Styles and Character Styles are automatically generated.
 
-[![Screen Shot 2014-10-08 at
-17.02.19](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)]()
-
 Here’s a tentative list of preserved entities:
 
 -   bold;
@@ -81,9 +82,6 @@ Here’s a tentative list of preserved entities:
 -   lists.
 
 In addition, a placeholder for each image is created.
-
-[![Screen Shot 2014-10-08 at
-17.29.26](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)]()
 
 In this sense, pandoc seems to provide a pretty robust conversion system
 that straightforwardly connects the production and editing of Markdown

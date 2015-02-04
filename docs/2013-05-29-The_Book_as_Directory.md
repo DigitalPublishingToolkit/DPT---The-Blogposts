@@ -16,8 +16,7 @@ with the title “Quando il lettore diventa utente”]*
 
 
 
-[![The Inside of a Kindle 3. Source:
-https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg](imgs/Inside_the_Kindle_3.jpg)]()
+![caption](imgs/Inside_the_Kindle_3.jpg)
 The Inside of a Kindle 3. Source:
 https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg
 

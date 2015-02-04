@@ -150,7 +150,7 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/07.INC_presentation_toolkit.pdf)**Watch
 the full presentation below**
 
-[![](imgs/456897599_640.jpg)](http://vimeo.com/80884524)
+![Video: http://vimeo.com/80884524](imgs/456897599_640.jpg)
 
 [Showcase Institute of Network Cultures – One thousand and One
 workflows](http://vimeo.com/80884524) from [network

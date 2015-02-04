@@ -9,7 +9,7 @@ date: 2014-05-27
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:54 pm.
 
-[![so](imgs/so.jpg)]()
+![caption](imgs/so.jpg)
 
 Matthew So handles sales, distribution and inventory operations at
 Badlands Unlimited. Founded in 2010 Badlands Unlimited publishes
@@ -85,4 +85,4 @@ So](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/201
 
 [Badlands Unlimited website](http://badlandsunlimited.com)
 
-[![](imgs/477911432_640.jpg)](http://vimeo.com/96562223)
+![Video: http://vimeo.com/96562223](imgs/477911432_640.jpg)

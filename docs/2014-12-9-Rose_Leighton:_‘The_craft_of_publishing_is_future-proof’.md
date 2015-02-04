@@ -19,4 +19,4 @@ digitize it? Or does it become something else? And íf a book for
 instance becomes something like a game does that make a publisher still
 a publisher or a producer of media?
 
-[![](imgs/496311849_640.jpg)](http://vimeo.com/108984162)
+![Video: http://vimeo.com/108984162](imgs/496311849_640.jpg)

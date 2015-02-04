@@ -26,8 +26,8 @@ and images.
 
  
 
-[![15279147793\_28b308f45e\_z](imgs/15279147793_28b308f45e_z.jpg)]()Pia
-Pol from Valiz introduced the project by immediately clarifying that
+![caption](imgs/15279147793_28b308f45e_z.jpg)
+
 **the process of digitalising *Common Skin* was very challenging and
 ambitious.** As part of a series with meticulous and extensive design,
 it was difficult to do the publication the same justice in a digital
@@ -40,8 +40,8 @@ digital publications.
 
  
 
-[![15711295808\_a30cb2552d\_z](imgs/15711295808_a30cb2552d_z.jpg)]()Jorrit
-Sybesma from PUNTPIXEL further elaborated on their creation of
+![caption](imgs/15711295808_a30cb2552d_z.jpg)
+
 *EPUBster* as a web application for the creation and editing of digital
 publications. The tool was developed as a general purpose tool, although
 it does have some specific functionalities for Valiz and Meeus
@@ -66,9 +66,9 @@ can read more about the development of EPUBster
 
  
 
-[![15898137982\_08b8b11a73\_z](imgs/15898137982_08b8b11a73_z.jpg)]()Janna
-and Hilde Meeus from Meeus Ontwerpt designed the original print version
-of *Common Skin* to demonstrate the rich layers of text and imagery they
+![caption](imgs/15898137982_08b8b11a73_z.jpg)
+
+*Common Skin* to demonstrate the rich layers of text and imagery they
 were presented with. As an academic text, there were a lot of footnotes,
 quotes and index words. Therefore, **they created a book that showed
 this rich layered text by incorporating many layers around the core

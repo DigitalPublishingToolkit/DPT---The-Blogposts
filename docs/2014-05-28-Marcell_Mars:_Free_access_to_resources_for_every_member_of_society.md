@@ -9,6 +9,8 @@ date: 2014-05-28
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 28, 2014 at 1:16 pm.
 
+![caption](imgs/Marcell-Mars-photo.jpg)
+
 The final session of the “Off the Press: Electronic Publishing in Arts”
 conference approached another side of the e-publishing field, namely
 what happens after the e-books are launched: where do we distribute,
@@ -25,8 +27,6 @@ copyrights and censorship. Mars, alongside with the other speakers of
 this session, discussed the existing alternatives: open, collaborative,
 non-proprietary platforms. How can they be designed to best fit the role
 of public libraries, and how should they adapt this role online?
-
-[![Marcell Mars photo](imgs/Marcell-Mars-photo.jpg)]()
 
 
 
@@ -96,4 +96,4 @@ sharing’s satellites g33koskop, ‘Nothing will happen’ and ‘The Fair of
 Mean Equipment’. His full biography
 [here](http://networkcultures.org/digitalpublishing/22-23-may-2014/biographies/).*
 
-[![](imgs/477911980_640.jpg)](http://vimeo.com/97508731)
+![Video: http://vimeo.com/97508731](imgs/477911980_640.jpg)

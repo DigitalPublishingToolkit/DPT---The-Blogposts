@@ -10,7 +10,9 @@ By [Katía
 Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
 December 7, 2014 at 3:33 pm.
 
-[![15872825926\_679111649e\_z](imgs/15872825926_679111649e_z.jpg)]()
+![caption](imgs/15276371604_5a8777d6b8_z.jpg)
+
+![caption](imgs/15872825926_679111649e_z.jpg)
 
 Geert Lovink and Florian Cramer conclude the afternoon by looking back
 on two years of researching digital publishing; a succesful
@@ -65,8 +67,6 @@ movies. But some of the obstacles also bring new opportunities. For
 example, digital publishing allows for the creation of very small
 formats that would never be printed as a book, like a
 one-poem-publication.
-
-[![15276371604\_5a8777d6b8\_z](imgs/15276371604_5a8777d6b8_z.jpg)]()
 
 > *3. The publishing triangle has become a square*
 

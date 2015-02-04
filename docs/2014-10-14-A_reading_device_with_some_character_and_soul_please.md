@@ -16,7 +16,7 @@ better than the real thing.
 
  
 
-[![](imgs/492038655_640.jpg)](http://vimeo.com/108371598)
+![Video: http://vimeo.com/108371598](imgs/492038655_640.jpg)
 
 [Frank Kloos on digital publishing: ‘Vooralsnog vind ik tablets
 karakterloos.’](http://vimeo.com/108371598) from [network

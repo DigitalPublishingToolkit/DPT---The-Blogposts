@@ -24,8 +24,9 @@ Circle](http://eu.art.com/asp/landing/artcircles/default.asp) – an
 impressive application that brings entire art collections to readers via
 beautiful visuals, sound and interactivity – support this ideal.
 
-[![Florian Cramer](imgs/Florian-Cramer.jpg)]()*photo credits: Martin
-Risseeuw*
+![caption](imgs/Florian-Cramer.jpg)
+
+*photo credits: Martin Risseeuw*
 
 
 
@@ -114,4 +115,4 @@ Institute of Avantgardistic Recreation. Last publication: Anti-Media,
 NAi Publishers, 2013; What Is Post-Digital?, A Peer-Review Journal
 About, 2014*.
 
-[![](imgs/477910409_640.jpg)](http://vimeo.com/96562331)
+![Video: http://vimeo.com/96562331](imgs/477910409_640.jpg)

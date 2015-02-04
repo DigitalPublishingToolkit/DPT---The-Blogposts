@@ -11,7 +11,7 @@ November 30, 2014 at 8:55 pm.
 
 
 
-[![Mark de Bruijn of PuntPixel](imgs/15896794701_c77552a06c_o.jpg)]()
+![caption](imgs/15896794701_c77552a06c_o.jpg)
 Mark de Bruin of PuntPixel
 
 
@@ -52,4 +52,4 @@ business of producing ePubs. Upon its launch, we shall see how
 successfully content from within My Highlights can be viewed outside of
 its sleek interface.
 
-[![](imgs/499982559_640.jpg)](http://vimeo.com/114339866)
+![Video: http://vimeo.com/114339866](imgs/499982559_640.jpg)

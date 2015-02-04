@@ -10,8 +10,7 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 April 30, 2014 at 12:49 am.
 
-[![Participants at the DPT Hackathon session, April
-2014](imgs/IMAG0554.jpg)]()
+![caption](imgs/IMAG0554.jpg)
 
 Thursday and Friday April 24 & 25 a hackathon took place at the Piet
 Zwart Institute in Rotterdam. Over the course of 2 days, some of the

@@ -11,8 +11,7 @@ May 28, 2014 at 11:36 am.
 
 
 
-[![Alessandro Ludovico during his talk on day 1 of Off the Press
-2014](imgs/14241082322_e72754dc53_z.jpg)]()
+![caption](imgs/14241082322_e72754dc53_z.jpg)
 Alessandro Ludovico during his talk on day 1 of Off the Press 2014
 
 
@@ -50,7 +49,7 @@ e-publications’ rules.
 
 
 
-[![Paul Soulellis](imgs/Peter_Millson_Weymouth_lo.jpg)]()
+![caption](imgs/Peter_Millson_Weymouth_lo.jpg)
 Paul Soulellis
 
 
@@ -75,8 +74,6 @@ compile a draft taxonomy through three categories:
     search engine articulates the idea. An example of that approach is
     *56 Broken Kindle Screens* – by Silvio Lorusso and Sebastian Schmieg
     (2012)
-
-<!-- -->
 
 -   **Hunting**: The hunter takes a highly specific screen capture that
     functions as evidence to support an idea. They reject almost all of
@@ -125,7 +122,8 @@ introduced individuals and groups which strive to digitise culture in
 order to facilitate the spread of knowledge, free of charge. To further
 illustrate his point, Ludovico used three examples from Italian hacker
 community :
-[![14056684059\_04960903f0\_z](imgs/14056684059_04960903f0_z.jpg)]()
+
+![caption](imgs/14056684059_04960903f0_z.jpg)
 
 1.  The Grafton 9 collective in Bologna which is scanning the political
     cyberpunk culture of
@@ -158,4 +156,4 @@ You can find a PDF of his original presentation here: [Presentation
 Alessandro
 Ludovico](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_02_Alessandro-Ludovico.pdf)
 
-[![](imgs/477909957_640.jpg)](http://vimeo.com/96574475)
+![Video: http://vimeo.com/96574475](imgs/477909957_640.jpg)

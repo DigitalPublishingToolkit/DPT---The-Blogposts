@@ -57,13 +57,9 @@ publishing process through being both structured and yet flexible.
 
 ## The creation of “How-to & Style Guides”:
 
-[![15898637095\_6696785138\_z](imgs/15898637095_6696785138_z.jpg)]()Each
-member of the publishing process (writer, designer, editor, developer)
-generally uses their own tools and their own ways of working, i.e.
-different formats with different kinds of interfaces leading to
-different ways of imagining what the text or book will be. Murtaugh
-explains that through the INC
-subgroup’s **[How-to](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-1/)**
+![caption](imgs/15898637095_6696785138_z.jpg)
+
+**[How-to](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-1/)**
 and **[Style
 Guides](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/),**
 and running workshops in which the roles of editors, designers and
@@ -78,8 +74,9 @@ features that would make the process easier in the long run.
 
 ## Using a set of hybrid tools:
 
-[![15896641151\_4aa3c985f7\_z](imgs/15896641151_4aa3c985f7_z.jpg)]()In
-developing the hybrid workflow, [a set of tools was put
+![caption](imgs/15896641151_4aa3c985f7_z.jpg)
+
+[a set of tools was put
 together](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/)
 (namely, Markdown, Git, Pandoc and Make). These are tools that come from
 a long history of programming practices and are therefore very robust.

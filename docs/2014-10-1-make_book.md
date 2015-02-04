@@ -10,6 +10,8 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 October 1, 2014 at 1:30 pm.
 
+![caption](imgs/SotQreader-trailer.gif)
+
 *Make* is a popular free software tool that helps programmers compile
 their code into programs. Increasingly the tool is finding new uses in
 publishing workflows to compile prose text into electronic formats like
@@ -99,8 +101,6 @@ The [latest version of the
 makefile](https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader/blob/master/makefile)
 is posted on the [project’s online code
 repository](https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader).
-
-[![SotQreader-trailer](imgs/SotQreader-trailer.gif)]()
 
 Beyond just supporting multiple outputs from the same sources, what’s
 really significant about using a *make* in a publishing workflow is that

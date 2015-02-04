@@ -9,9 +9,8 @@ date: 2014-05-28
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 28, 2014 at 5:55 pm.
 
-[![Dusan Barok pic](imgs/Dusan-Barok-pic.jpg)]()Publishing in the
-humanities holds many unrealized potentials online, argues Dušan Barok,
-the artist, writer and cultural activist who founded
+![caption](imgs/Dusan-Barok-pic.jpg)
+
 [Monoskop](http://monoskop.org/Monoskop) (a wiki for art, culture and
 media technology).
 
@@ -94,4 +93,4 @@ reading experiences. The way linking takes place on the web and the way
 scholars reference their works are two perspectives that could unite for
 a better communing of texts in e-publishing.
 
-[![](imgs/477911824_640.jpg)](http://vimeo.com/97508732)
+![Video: http://vimeo.com/97508732](imgs/477911824_640.jpg)

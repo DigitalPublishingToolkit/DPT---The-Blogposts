@@ -11,7 +11,7 @@ May 27, 2014 at 9:18 pm.
 
 
 
-[![Joaquín González](imgs/14058050377_2830bffb1d_z.jpg)]()
+![caption](imgs/14058050377_2830bffb1d_z.jpg)
 Joaquín González
 
 
@@ -45,8 +45,7 @@ yet this extended form is not yet embraced by publishers.
 
 
 
-[![Joaquín González explaining the tough choices Visual Maniac had to
-make](imgs/14244322224_2d120f688b_z.jpg)]()
+![caption](imgs/14244322224_2d120f688b_z.jpg)
 Joaquín González explaining the tough choices Visual Maniac had to make
 
 
@@ -84,4 +83,4 @@ Check out visualMANIAC’s blog : http://visualmaniac.com/visualmag
 
 Contact Teresa and Joaquín :joaquin@visualmaniac.comteresa@visualmaniac.com
 
-[![](imgs/477910696_640.jpg)](http://vimeo.com/96562226)
+![Video: http://vimeo.com/96562226](imgs/477910696_640.jpg)

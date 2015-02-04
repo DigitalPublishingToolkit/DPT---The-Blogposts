@@ -10,7 +10,9 @@ By [Katía
 Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
 December 6, 2014 at 10:07 pm.
 
-[![15279147033\_9216c0be33\_z](imgs/15279147033_9216c0be33_z.jpg)]()
+![caption](imgs/Schermafbeelding-2014-12-05-om-10.27.53.png)
+
+![caption](imgs/15279147033_9216c0be33_z.jpg)
 
 [Silvio Lorusso](http://silviolorusso.com/) is an artist and desiger and
 PhD Candidate in Design Sciences at Iuav University of Venice. He
@@ -19,9 +21,6 @@ has created the [Post-Digital Publishing Archive](http://p-dpa.net/).
 During the Digital Publishing Showcase, Lorusso presented an overview of
 speculative strategies and best practices of experimental digital
 publishing.
-
-[![Schermafbeelding 2014-12-05 om
-10.27.53](imgs/Schermafbeelding-2014-12-05-om-10.27.53.png)]()
 
 The [Post-Digital Publishing Archive](http://p-dpa.net/) is a research
 and curatorial platform aimed at systematically collecting, organizing
@@ -37,7 +36,7 @@ refers to digital rights management, a system that is often used for
 digital books to prevent unlimited sharing. Projects like the DRM Chair
 expose the inner workings of (digital) systems.
 
-[![](imgs/419644379_640.jpg)](http://vimeo.com/60475086)
+![Video: http://vimeo.com/60475086](imgs/419644379_640.jpg)
 
 Lorusso explains that according to [Mike
 Shatzkin](http://www.idealog.com/about-us/about-mike-shatzkin/), digital
@@ -70,8 +69,7 @@ book. Is it Kafka? Microsoft Word? Or Jason Huff?
 
 
 
-[![Just in Time, or A Short History of Production by Xavier
-Antin](imgs/08.jpg)]()
+![caption](imgs/08.jpg)
 Just in Time, or A Short History of Production by Xavier Antin
 
 
@@ -114,4 +112,4 @@ publishing will look like in the (near) future.
 *More speculative strategies can be found in the [Post-Digital
 Publishing Archive](http://p-dpa.net/).*
 
-[![](imgs/499982828_640.jpg)](http://vimeo.com/114339867)
+![Video: http://vimeo.com/114339867](imgs/499982828_640.jpg)

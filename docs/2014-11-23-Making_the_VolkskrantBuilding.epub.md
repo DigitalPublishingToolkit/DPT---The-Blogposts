@@ -10,8 +10,11 @@ By [Andre
 Castro](http://networkcultures.org/digitalpublishing/author/andre/ "Posts by Andre Castro"),
 November 23, 2014 at 3:02 pm.
 
-[![The Volkskrant Building EPUB
-trailer](imgs/trailer-TheVolkskrantBuilding.gif)]()
+![caption](imgs/stream1.jpg)
+
+![caption](imgs/cook_TVB_sml.jpg)
+
+![caption](imgs/trailer-TheVolkskrantBuilding.gif)
 
 Last week [The Institute of Network
 Cultures](http://networkcultures.org/) and [Amsterdam Creative
@@ -96,8 +99,6 @@ just created, I would very simply adjust the ingredients or the recipe.
 I iterates through this circle, fine-tuning ingredients and recipe,
 cooking, and tasting, until I got to a satisfactory EPUB.
 
-[![Cooking the EPUB](imgs/cook_TVB_sml.jpg)]()
-
 The described approach contrasts with my default method for producing
 EPUBs. Usually I create a rough EPUB with Pandoc, unzip it and start
 working on its constituent files – editing the metadata inside
@@ -122,8 +123,6 @@ shorter and direct. Even in cases of more expressive sections, which
 fall outside the scope of Markdown, such as the red quotations blocks
 that permeate TVB, can be handled within Markdown, by adding HTML
 snippets, which will easily do the job.
-
-[![stream](imgs/stream1.jpg)]()
 
 The big downside of this approach is that it leaves one at the mercy of
 the conversion software used. Although Pandoc is an incredibly powerful

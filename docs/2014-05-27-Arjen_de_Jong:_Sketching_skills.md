@@ -9,14 +9,16 @@ date: 2014-05-27
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 27, 2014 at 3:31 pm.
 
+![caption](imgs/Arjen-de-Jong-demo-0.png)
+
+![caption](imgs/Arjen-de-Jong.jpg)
+
 De Jong is a visual designer for design agency
 [Essense](http://essense.eu/about/) and a member of [BIS
 Publishers](http://www.bispublishers.nl/), both located in Amsterdam. He
 attended the conference “Off the Press: Electronic Publishing in the
 Arts” as a representative of the latter and shared the production
 process of two of their recent e-publications.
-
-[![Arjen de Jong](imgs/Arjen-de-Jong.jpg)]()
 
 The first case study he presented was the translation of the best seller
 book titled “[Sketching: The
@@ -34,8 +36,7 @@ to industry experts’ highlights.
 
 This is how the demo of the app looks like:
 
-[![Arjen de Jong demo 0](imgs/Arjen-de-Jong-demo-0.png)]() ![Arjen de
-Jong demo](imgs/Arjen-de-Jong-demo.png)
+![Arjen de Jong demo](imgs/Arjen-de-Jong-demo.png)
 
  
 
@@ -101,4 +102,4 @@ You can find a PDF of his original presentation here: [Presentation
 Arjen de
 Jong](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_05_ArjendeJong.pdf)
 
-[![](imgs/477910652_640.jpg)](http://vimeo.com/96562364)
+![Video: http://vimeo.com/96562364](imgs/477910652_640.jpg)

@@ -9,6 +9,8 @@ date: 2014-06-10
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 June 10, 2014 at 12:37 pm.
 
+![caption](imgs/John-Haltiwinger-photo.jpg)
+
 *A post by Mathijs Weijers*
 
 John Haltiwanger was the third speaker of session 2, which focused on
@@ -45,8 +47,6 @@ the cybernetics theory of Simondon is important, as users are forced to
 simplify or even weaken the content of what they are working on in order
 to get a desired format. Whilst there are so many format options,
 Haltiwanger argued, “we are constrained by liberty”.
-
-[![John Haltiwinger photo](imgs/John-Haltiwinger-photo.jpg)]()
 
 
 
@@ -109,4 +109,4 @@ Haltiwanger](http://networkcultures.org/digitalpublishing/wp-content/uploads/sit
 
  
 
-[![](imgs/477910239_640.jpg)](http://vimeo.com/96562329)
+![Video: http://vimeo.com/96562329](imgs/477910239_640.jpg)

@@ -10,4 +10,4 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 May 13, 2013 at 8:04 am.
 
-[![unlike us reader, mobi version](imgs/2013-05-12-17.35.38.jpg)]()
+![caption](imgs/2013-05-12-17.35.38.jpg)

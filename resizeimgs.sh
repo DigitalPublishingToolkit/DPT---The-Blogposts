@@ -3,9 +3,10 @@ for img in docs/imgs/*;
 do mogrify -quality 80% -strip -resize 700x\> $img;
 done;
 
-# 2nd round: compress pngs
-for img in docs/imgs/*.png;
-do optipng -o5
+# # 2nd round: compress pngs
+# for img in docs/imgs/*.png;
+# do optipng -o5;
+# done;
    
 # -strip Strip any comment or exif tag
 #

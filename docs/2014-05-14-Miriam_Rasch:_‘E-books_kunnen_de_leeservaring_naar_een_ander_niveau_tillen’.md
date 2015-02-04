@@ -20,7 +20,7 @@ Sebald’s](http://www.newyorker.com/online/blogs/books/2011/12/why-you-should-r
 *The Rings of Saturn* she gives us her ideas on the future of digital
 publishing. The interview is in Dutch.
 
-[![](imgs/475137393_640.jpg)](http://vimeo.com/95271818)
+![Video: http://vimeo.com/95271818](imgs/475137393_640.jpg)
 
 [Miriam Rasch: ‘E-books kunnen de leeservaring naar een ander niveau
 tillen’](http://vimeo.com/95271818) from [network

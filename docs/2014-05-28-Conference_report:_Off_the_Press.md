@@ -13,9 +13,11 @@ May 28, 2014 at 12:12 pm.
 During the conference OFF THE PRESS: ELECTRONIC PUBLISHING IN THE ARTS,
 a comprehensive conference report has been written by Arie Altena.
 
-The full report can be downloaded
-here:[![inc\_icon\_pdf\_@2x](imgs/inc_icon_pdf_@2x.png)]()
-[![inc\_icon\_issuu\_@2x](imgs/inc_icon_issuu_@2x.png)]()
+The full report can be downloaded here:
+
+![caption](imgs/inc_icon_issuu_@2x.png)
+
+![caption](imgs/inc_icon_pdf_@2x.png)
 
  
 

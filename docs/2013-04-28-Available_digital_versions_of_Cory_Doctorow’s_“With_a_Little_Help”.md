@@ -10,8 +10,7 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 April 28, 2013 at 5:09 pm.
 
-[![Screen Shot 2013-04-28 at 7.03.30
-PM](imgs/Screen-Shot-2013-04-28-at-7.03.30-PM.png)]()
+![caption](imgs/Screen-Shot-2013-04-28-at-7.03.30-PM.png)
 
 As a strategy for dissemination, the novel “With a Little Help” by Cory
 Doctorow is provided in 5 different official formats. Some fan-converted

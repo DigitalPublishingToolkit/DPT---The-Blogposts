@@ -14,4 +14,4 @@ Alexander Klöpping has come up with the invention of
 [Blendle](http://www.blendle.nl); a platform that combines ‘the best of
 newspapers and magazines’ as it claims. The video is in Dutch.
 
-[![](imgs/500443069_640.jpg)](http://vimeo.com/114679505)
+![Video: http://vimeo.com/114679505](imgs/500443069_640.jpg)

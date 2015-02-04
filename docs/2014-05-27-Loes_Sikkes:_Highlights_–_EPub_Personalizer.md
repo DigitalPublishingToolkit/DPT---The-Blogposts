@@ -9,7 +9,7 @@ date: 2014-05-27
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:43 pm.
 
-[![loes](imgs/loes.jpg)]()
+![caption](imgs/loes.jpg)
 
 The Rotterdam-based graphic designer Loes Sikkes of Medamo, consortium
 partner of the Digital Publishing Toolkit, presents the Highlights
@@ -65,4 +65,4 @@ Over the next coming months they hope to solve these issues.
 You can find a PDF of her original presentation here: [Presentation Loes
 Sikkes](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_04_LoesSikkes.pdf)
 
-[![](imgs/477910646_640.jpg)](http://vimeo.com/96562365)
+![Video: http://vimeo.com/96562365](imgs/477910646_640.jpg)

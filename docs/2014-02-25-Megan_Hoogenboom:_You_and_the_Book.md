@@ -18,7 +18,7 @@ our upcoming
 
  
 
-[![](imgs/465673411_640.jpg)](http://vimeo.com/87566827)
+![Video: http://vimeo.com/87566827](imgs/465673411_640.jpg)
 
 [You and the book; some thoughts on the practice and future of
 ePub](http://vimeo.com/87566827) from [network
