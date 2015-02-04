@@ -105,7 +105,8 @@ def post_videos(iframes):
             newpath = os.path.join('../../imgs', filename)
             if os.path.isfile('docs/imgs'+ filename) != True:
                 img_download(poster_url, 'vimeo_poster', None) #download img if not stored
-            ignore = 0                
+            ignore = 0
+            
         elif 'youtube' in src:
             youtube_id = (src.split('/'))[-1]
             url = 'https://www.youtube.com/watch?v={}'.format(youtube_id)
@@ -119,14 +120,19 @@ def post_videos(iframes):
             ignore = 0            
         else: 
             ignore = 1
+
+            
         parent = iframe.getparent()        
-        if ignore == 1:
+        if ignore == 1: 
             parent.remove(iframe)
-        else:            
-            anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
-            img = lxml.etree.SubElement(anchor, 'img', attrib={'src':newpath, 'class': 'video'}, nsmap=None)
-    #        new_heading.text = heading_text
-            parent.replace(iframe, anchor)
+        else:
+            caption = "Video: {}".format( url ) #videolink_str            
+#            anchor = lxml.etree.Element('a', attrib={'href':url}, nsmap=None)
+            fig = lxml.etree.Element('figure', attrib={'class': 'video'})
+            img = lxml.etree.SubElement(fig, 'img', attrib={'src':newpath, 'class': 'video', 'alt': caption}, nsmap=None)
+#            figcaption = lxml.etree.SubElement(fig, 'figcaption')                
+ #           figcaption.text = caption            
+            parent.replace(iframe, fig)
 
 
 def post_imgs(images):
@@ -147,13 +153,14 @@ def post_imgs(images):
         img_download(src, 'blog_img', None) #download img if not stored
         path, filename = os.path.split(src) # update image path
         newpath = os.path.join('imgs', filename)            
-        img.attrib['src'] = newpath 
+        img.attrib['src'] = newpath
+
         
         parent = (img.xpath('..'))[0]  # remove <a> wrapping <img>
         if parent.tag is 'a' and img_class != 'video': 
             grandparent = (img.xpath('../..'))[0]
             fig = lxml.etree.Element('figure')
-            img = lxml.etree.Element('img')
+            img = lxml.etree.Element('img', attrib={'alt': 'caption'})
             figcaption = lxml.etree.Element('figcaption')                
             caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
             if len(caption) > 0:
