@@ -20,7 +20,7 @@ Relies on: Pandoc
 
 Issues:
 
-
+* image download should be aided by WP API - get original file url 
 
 
 
@@ -131,36 +131,42 @@ def post_imgs(images):
             img_class = ''
             
         if re.match(regex_imgsresize, src):
+            # replace with API query: orginal image url
             src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
             src_original = src_path + src_ext 
             src = src_original
-            src_ext = src_original.split('.')[-1]
-            
-            if src_ext in ('jpg', 'jpeg', 'JPG', 'JPEG', 'png', 'gif' ):            
-                img_download(src, 'blog_img', None) #download img if not stored
-                path, filename = os.path.split(src)
-                newpath = os.path.join('imgs', filename)            
-                img.attrib['src'] = newpath
 
-                if len(img.xpath('../..')) > 0: # if there is element wrapping 
-                    grandparent = (img.xpath('../..'))[0]
-                    parent = (img.xpath('..'))[0] 
-                    fig = lxml.etree.Element('figure')
-                    img = lxml.etree.Element('img')
-                    figcaption = lxml.etree.Element('ficaption')
-                    caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
-                    if len(caption) > 0:
-                        grandparent.remove(caption[0])
-                        fig.insert(0, figcaption)
-                        figcaption.text = caption[0].text
-                    grandparent.remove(parent)
-                    grandparent.insert(0, fig)
-                    fig.insert(0, img)                        
-                    img.set('src', newpath)
-            else:
-                print 'ODD IMAGE:', lxml.etree.tostring(img)                  
+        src_ext = src_original.split('.')[-1]
+            
+        if src_ext in ('jpg', 'jpeg', 'JPG', 'JPEG', 'png', 'gif' ):            
+            img_download(src, 'blog_img', None) #download img if not stored
+            path, filename = os.path.split(src)
+            newpath = os.path.join('imgs', filename)            
+            img.attrib['src'] = newpath
+
+            # if there is parent wrapping the image
+            
+            if len(img.xpath('../..')) > 0: # if there is element wrapping the img
+                grandparent = (img.xpath('../..'))[0]
                 parent = (img.xpath('..'))[0] 
-                parent.remove(img)            
+                fig = lxml.etree.Element('figure')
+                img = lxml.etree.Element('img')
+                figcaption = lxml.etree.Element('ficaption')
+                
+                caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
+                if len(caption) > 0:
+                    grandparent.remove(caption[0])
+                    fig.insert(0, figcaption)
+                    figcaption.text = caption[0].text
+
+                grandparent.remove(parent)
+                grandparent.insert(0, fig)
+                fig.insert(0, img)                        
+                img.set('src', newpath)
+        else:
+            print 'ODD IMAGE:', lxml.etree.tostring(img)                  
+            parent = (img.xpath('..'))[0] 
+            parent.remove(img)            
 
 
 
@@ -219,8 +225,8 @@ def post2markdown(tree): # Process html; Keep only the <article> content - where
     
 def clean_markdown(md_filename):
     '''remove from markdown:
-    * html tags 
-    * \
+    some html tags 
+     \
 
     '''
     md_file = open(md_filename, 'r') 
@@ -233,11 +239,6 @@ def clean_markdown(md_filename):
         regex = re.compile(r'{}'.format(exp), flag)
  #       allbs = re.findall(regex, md_content)
         md_content = re.sub(regex, "", md_content)
-
-    # backslash_exp = re.compile(r'^\\$', re.M) #html elments either opening or closing tags
-    # allbs = re.findall(backslash_exp, md_content)
-    # print allbs
-#    md_content =  re.sub(backslash_exp, "", md_content)
 
     md_file = open(md_filename, 'w') 
     md_file.write(md_content)
@@ -314,5 +315,3 @@ for line in post_urls_file.readlines():
         print 'URL', url
         wget_post(url)
         os.remove('index.html')
-
-        
