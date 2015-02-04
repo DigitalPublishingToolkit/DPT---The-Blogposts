@@ -19,9 +19,10 @@ Relies on: Pandoc
 ----
 
 Issues:
-* image storage in docs/imgs
-
-* Issue iframe 
+* image download
+* external images
+* 
+* add caption: "Video: url" to video iframes 
 
 
 
@@ -69,6 +70,12 @@ def vimeo_api(video_id):
 def img_download(src, img_type, destination):
     '''Download images save in imgs'''
     src = src.encode('utf-8')
+#    blog ima
+
+# vimeo poster
+
+# youtube poster
+
     if img_type in ['blog_img', 'vimeo_poster']:
         wget_img = 'wget --quiet --no-clobber -P docs/imgs {} --quiet'.format(src)        
         subprocess.call(wget_img, shell=True)           
@@ -131,30 +138,33 @@ def post_imgs(images):
             img_class = img.attrib['class']
         else:
             img_class = ''
-            
-        if re.match(regex_imgsresize, src):
+   
+        if re.match(regex_imgsresize, src): # if image is resized, find original name
             src_path, src_ext = (re.findall(regex_imgsresize, src))[0]
             src_original = src_path + src_ext 
             src = src_original
             
         img_download(src, 'blog_img', None) #download img if not stored
-
-        path, filename = os.path.split(src)
+        path, filename = os.path.split(src) # update image path
         newpath = os.path.join('imgs', filename)            
-        img.attrib['src'] = newpath
-
-        parent = (img.xpath('..'))[0] #Note:complicated due to captions as paragraphs #esier to give an empty href to the wrapping <a> 
-        if parent.tag is 'a' and img_class != 'video': # disable <a> wrapping <img>
-            parent.attrib['href']=""
-
+        img.attrib['src'] = newpath 
         
-        # #img src to local source
+        parent = (img.xpath('..'))[0]  # remove <a> wrapping <img>
+        if parent.tag is 'a' and img_class != 'video': 
+            grandparent = (img.xpath('../..'))[0]
+            fig = lxml.etree.Element('figure')
+            img = lxml.etree.Element('img')
+            figcaption = lxml.etree.Element('figcaption')                
+            caption = (grandparent.xpath('p[@class="wp-caption-text"]'))
+            if len(caption) > 0:
+                grandparent.remove(caption[0])
+                fig.insert(0, figcaption)
+                figcaption.text = caption[0].text
 
-        #     print 'NEWPATH', newpath
-        #     if os.path.isfile('docs/imgs'+filename) != True:
-        #         img_download(src, 'blog_img', None) #download img if not stored
-        #     else:
-        #         print 'IMG FOUND', src
+            grandparent.remove(parent)
+            grandparent.insert(0, fig)
+            fig.insert(0, img)                        
+            img.set('src', newpath)
 
 
 
