@@ -1,19 +1,19 @@
 #Arie Altena
+Arie Altena is a Dutch is literary scholar, writer and lecturer. 
+He writes about art, culture, the Internet, and literature for various magazines and publications including Metropolis M. 
+He also works as an editor / researcher for V2, Institute for the Unstable Media, and he is part of the team that organizes the Sonic Acts Festival.
 
 #Marc de Bruijn
-
-
-
-#Becky Cachia
-
+Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being PUNTPIXEL, like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
 
 #Andre Castro
 
 
 #Jakub Dutka
+Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
 #Irena Enache
-
+Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
 #Arjen de Jong
 Arjen de Jong is senior designer at Essense, an Amsterdam based service design agency. He was a founding member of Buro Duplex, a collective of freelance programmers and designers. He also ini- tiated the Stereo Publication project, a cross-media publishing project avant la lettre.
@@ -25,6 +25,7 @@ After science studies at the universities of Amsterdam and Utrecht, Joost joined
 
 
 #Timo Klok
+Media-allrounder, problem solver and frontend developer at VPRO. 
 
 
 #Silvio Lorusso
@@ -41,18 +42,19 @@ Miriam Rasch started working as a publication manager at the Institute of Networ
 # Margreet Riphagen
 Margreet Riphagen started working at the Institute of Network Cultures (INC) in March 2008 and is involved in various research projects. She holds a Master’s degree in Information Science (Human Centered Multimedia), a post-Bachelor’s degree in Business Science, and a Bachelor’s degree in Communication Management. Margreet is the Project Leader of the Digital Publishing Toolkit. Currently Margreet is the coordinator of the PublishingLab, which focuses at the intersection of publishing en digital technologies, both print and digital (hybrid publishing). 
 
-#Rose Rowson
 
 # Kimmy Spreeuwenberg
 Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect.She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the Institute of Network Cultures, with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
 
 
 #Marc Stumpel
+Blogger during the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013
 
 #Katia Truijen
-
+Blogger during the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013
 
 #Patricia de Vries
+Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
 #Sauli Warmerhoven
 
