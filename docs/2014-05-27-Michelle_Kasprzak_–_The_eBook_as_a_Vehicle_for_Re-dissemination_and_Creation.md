@@ -29,9 +29,6 @@ Vughterstraat 234 (short: V2\_) in ‘s-Hertogenbosch, the first abode.
 
 
 
- 
-
- 
 
 The Institute for the Unstable Media started in 1981 as an artist
 collective in ‘s-Hertogenbosch, the Netherlands. The theoretical

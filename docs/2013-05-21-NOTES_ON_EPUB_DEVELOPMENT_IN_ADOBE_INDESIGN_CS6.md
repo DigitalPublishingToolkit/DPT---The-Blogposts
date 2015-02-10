@@ -4,7 +4,7 @@ author: Silvio Lorusso
 date: 2013-05-21
 ...
 
-# NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6 {.entry-title .single-title itemprop="headline"}
+# Notes on EPUB Development in Adobe inDesign CS6 {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
@@ -30,160 +30,15 @@ file size, metadata, layout.
 
 
 
-## Contents
+## [1: Premises
 
-[1: Premises](#1)
-
--   [1.1: Legend](#1-1)
--   [1.2: Wait, weren’t we supposed to use open
-    source tools?](#1-2)
--   [1.3: So you’re saying that obtaining EPUB from
-    Indesign is not necessarily the best practice…](#1-3)
--   [1.4: Is Indesign enough to develop a high
-    quality ePub?](#1-4)
--   [1.5: May I use the same structure of the
-    InDesign file for both print and ePub?](#1-5)
--   [1.6: Resources](#1-6)
--   [1.7: Softwares](#1-7)
--   [1.8: Attachments](#1-8)
-
-[2: General](#2)
-
--   [2.1: No Local Overrides!](#2-1)
--   [2.2: Use Master Pages](#2-2)
--   [2.3: Paragraph Means Paragraph](#2-3)
--   [2.4: Paragraph Really Means
-    Paragraph](#2-4)
--   [2.5: Paragraph = Paragraph](#2-5)
--   [2.6: ALL CAPS hide Actual Caps](#2-6)
--   [2.7: Letters Aren’t Meant to be
-    Stretched](#2-7)
--   [2.8: Fonts](#2-8)
--   [2.9: Export Early, Export Often](#2-9)
--   [2.10: How do I open an EPUB
-    file?](#2-10)
-
-[3: Cover and Images](#3)
-
--   [3.1: Formats and Resolution](#3-1)
--   [3.2: Colour Over Greyscale](#3-2)
--   [3.3: Two Covers?](#3-3)
--   [3.4: Optimal Cover Size](#3-4)
--   [3.5: Groups for Complex Layout](#3-5)
--   [3.6: Images as Part of the Text](#3-6)
--   [3.7: Manage the Layout of the
-    Image](#3-7)
--   [3.8: Alt Text for Every Picture](#3-8)
-
-[4: Organizing the File for ePub Export](#4)
-
--   [4.1: The Articles Panel](#4-1)
--   [4.2: No Tags, Text Repetitions,
-    Etc.](#4-2)
--   [4.3: Split the Document](#4-3)
-
-[5: General TOC and Inner TOC](#5)
-
--   [5.1: The General TOC](#5-1)
--   [5.2: Modify the General TOC](#5-2)
--   [5.3: The Inner TOC](#5-3)
--   [5.4: No Page Numbers!](#5-4)
-
-[6: Lists and Tables](#6)
-
--   [6.1: Lists](#6-1)
--   [6.2: Tables](#6-2)
-
-[7: External and Internal Hyperlinks](#7)
-
--   [7.1: External Hyperlinks](#7-1)
--   [7.2: Internal Hyperlinks](#7-2)
-
-[8: Cleaning the file and Adding Main
-Metadata](#8)
-
--   [8.1: No Unused Styles](#8-1)
--   [8.2: No Local Overrides](#8-2)
--   [8.3: No Spaces in Filenames](#8-3)
--   [8.4: No Useless nor Print-oriented
-    Characters](#8-4)
--   [8.5: No References to the Printed
-    Edition](#8-5)
--   [8.6: Add Links and E-Version Specific Elements
-    to Colophon](#8-6)
--   [8.7: InDesign Errors and Layout
-    Problems](#8-7)
--   [8.8: Check Both Internal and External
-    Hyperlinks](#8-8)
--   [8.9: Assign HTML Tags](#8-9)
--   [8.10: Metadata](#8-10)
-
-[9: Export](#9)
-
--   [9.1: Export Options](#9-1)
--   [9.2: General Panel](#9-2)
--   [9.3: Image Panel](#9-3)
--   [9.4: Advanced Panel](#9-4)
--   [9.5: Validate your EPUB](#9-5)
-
-[10: Fix HTML and CSS](#10)
-
-[10.1: Access the ePub](#10-1)
-
-[10.2: Cover](#10-2)
-
-[10.3: CSS and XHTML](#10-3)
-
-[10.3.1: Padding or Margin?](#10-3-1)
-
-[10.3.2: Delete Defaults](#10-3-2)
-
-[10.3.3: Delete Font Colour if not
-Necessary](#10-3-3)
-
-[10.3.4: Delete Redundant Classes](#10-3-4)
-
-[10.3.5: Use Page Breaks](#10-3-5)
-
-[10.3.6: Images with Captions](#10-3-6)
-
-[10.3.7: No “char-style-override”
-Class](#10-3-7)
-
-[10.4: The OPF File](#10-4)
-
-[10.4.1: Metadata](#10-4-1)
-
--   [10.4.1.1: Namespaces](#10-4-1-1)
--   [10.4.1.2: Title](#10-4-1-2)
--   [10.4.1.3: Authors and
-    Roles](#10-4-1-3)
--   [10.4.1.4: Publisher](#10-4-1-4)
--   [10.4.1.5: Subjects](#10-4-1-5)
--   [10.4.1.6: Description](#10-4-1-6)
--   [10.4.1.7: Date](#10-4-1-7)
--   [10.4.1.8: Language](#10-4-1-8)
--   [10.4.1.9: Rights](#10-4-1-9)
--   [10.4.1.10: Identifier](#10-4-1-10)
--   [10.4.1.11: Other
-    Metadata](#10-4-1-11)
-
-[10.4.2: Spine](#10-4-2)
-
-[10.4.3: Guide (Optional)](#10-4-3)
-
-[10.5: The General Table of Contents: the NCX
-file](#10-5)
-
-## [1: Premises](#toc-1) {#1}
-
-### [1.1: Legend](#toc-1-1) {#1-1}
+### [1.1: Legend
 
 -   Software Command
 -   Shortcut
 -   Code Snippet
 
-### [1.2: Wait, weren’t we supposed to use open source tools?](#toc-1-2) {#1-2}
+### [1.2: Wait, weren’t we supposed to use open source tools?
 
 We all love opes source, but in some cases a pragmatic approach it’s
 needed: a perspective that takes into account the actual workflow
@@ -195,7 +50,7 @@ Developing an EPUB through InDesign could be considered a transitional
 process, in doing so the designer will anyway acquire a know-how that
 could be invested in open source tools and procedures.
 
-### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…](#toc-1-3) {#1-3}
+### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…
 
 Exactly, it really depends on the context. This procedure could be
 useful whether:

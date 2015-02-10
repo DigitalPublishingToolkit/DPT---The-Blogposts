@@ -420,7 +420,6 @@ video or audio.
 
 ## Summary
 
-Below are three tables to compare the tested featured across platforms.
 The lack of support for the more advanced features of EPUB 3 on tablets
 and smartphones is worrying, in our opinion. The lack of any real
 support hampers the production of media rich publications and any
@@ -428,20 +427,6 @@ efforts regarding (visual) design. At the moment, any innovations,
 technical or otherwise, will only be usable or visible in a very small
 subset of applications which aren’t widely used nor connected to viable
 commercial outlets (Amazon Bookstore, Apple App Store, etc.)
-
-### Desktop
-
-[table id=1 /]
-
-### Tablet & Smartphone
-
-#### iOS
-
-[table id=2 /]
-
-#### Android
-
-[table id=3 /]
 
 ## So… What now?
 

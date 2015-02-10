@@ -220,7 +220,7 @@ Alexander Klöpping has come up with the invention of
 [Blendle](http://www.blendle.nl); a platform that combines ‘the best of
 newspapers and magazines’ as it claims. The video is in Dutch.
 
-![Video: <a href="http://vimeo.com/114679505](imgs/500443069_640.jpg)">http://vimeo.com/114679505](imgs/500443069_640.jpg)</a>
+![Video: http://vimeo.com/114679505](imgs/500443069_640.jpg)
 
 
 
@@ -236,7 +236,7 @@ the program, blog and videos of the symposium
 [here](http://simposiodeliteraturaeinformatica.blogspot.com.br/).
 
 ![Video:
-<a href="https://www.youtube.com/watch?v=%5C_DxW20%5C_hbZo](imgs/_DxW20_hbZo.jpg)">https://www.youtube.com/watch?v=\_DxW20\_hbZo](imgs/_DxW20_hbZo.jpg)</a>
+https://www.youtube.com/watch?v=\_DxW20\_hbZo](imgs/_DxW20_hbZo.jpg)
 
 
 
@@ -255,7 +255,7 @@ digitize it? Or does it become something else? And íf a book for
 instance becomes something like a game does that make a publisher still
 a publisher or a producer of media?
 
-![Video: <a href="http://vimeo.com/108984162](imgs/496311849_640.jpg)">http://vimeo.com/108984162](imgs/496311849_640.jpg)</a>
+![Video: http://vimeo.com/108984162](imgs/496311849_640.jpg)
 
 
 
@@ -409,7 +409,7 @@ refers to digital rights management, a system that is often used for
 digital books to prevent unlimited sharing. Projects like the DRM Chair
 expose the inner workings of (digital) systems.
 
-![Video: <a href="http://vimeo.com/60475086](imgs/419644379_640.jpg)">http://vimeo.com/60475086](imgs/419644379_640.jpg)</a>
+![Video: http://vimeo.com/60475086](imgs/419644379_640.jpg)
 
 Lorusso explains that according to [Mike
 Shatzkin](http://www.idealog.com/about-us/about-mike-shatzkin/), digital
@@ -485,7 +485,7 @@ publishing will look like in the (near) future.
 *More speculative strategies can be found in the [Post-Digital
 Publishing Archive](http://p-dpa.net/).*
 
-![Video: <a href="http://vimeo.com/114339867](imgs/499982828_640.jpg)">http://vimeo.com/114339867](imgs/499982828_640.jpg)</a>
+![Video: http://vimeo.com/114339867](imgs/499982828_640.jpg)
 
 
 
@@ -646,7 +646,7 @@ business of producing ePubs. Upon its launch, we shall see how
 successfully content from within My Highlights can be viewed outside of
 its sleek interface.
 
-![Video: <a href="http://vimeo.com/114339866](imgs/499982559_640.jpg)">http://vimeo.com/114339866](imgs/499982559_640.jpg)</a>
+![Video: http://vimeo.com/114339866](imgs/499982559_640.jpg)
 
 
 
@@ -1785,7 +1785,7 @@ Open the Terminal and use the cd command to enter the "part2" folder in
 the developer section of the how-to-tutorial files.
 
 ``` {.sourceCode .bash}
-git clone <a href="https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git">https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git</a>
+git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
 
 cd how-to-tutorial/developer/part2
 ```
@@ -1844,16 +1844,16 @@ In the resulting markdown output, note the final Notes section:
 
 [^David_Crusoe.md-1]: The Common Core references algebraic set theory in
     its high school appendices. See
-    <a href="http://www.corestandards.org/assets/CCSSI%5C_Mathematics%5C_Appendix%5C_A.pdf">http://www.corestandards.org/assets/CCSSI\_Mathematics\_Appendix\_A.pdf</a>
+    http://www.corestandards.org/assets/CCSSI\_Mathematics\_Appendix\_A.pdf
     for more information.
 
 [^David_Crusoe.md-2]: Way Back Machine, 21 November 1996 archive of ‘How
     to Use Excite Search’,
-    <a href="http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt">http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt</a>.
+    http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt.
 
 [^David_Crusoe.md-3]: Anthony Stuart, ‘Re: Boolean + Operator Removed?
     Why?’ posting to Google Search Forum, 5 November 2011,
-    <a href="http://productforums.google.com/forum/%5C#!searchin/websearch/%22implied%5C$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ">http://productforums.google.com/forum/\#!searchin/websearch/%22implied\$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ</a>.
+    http://productforums.google.com/forum/\#!searchin/websearch/%22implied\$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ.
 ```
 
 First the "Notes" header has shifted from a level 2 to level 3. The
@@ -2201,7 +2201,7 @@ Open the Terminal and use the cd command to enter the “part1″ folder in
 the developer section of the how-to-tutorial files.
 
 ``` {.sourceCode .bash}
-git clone <a href="https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git">https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git</a>
+git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
 
 cd how-to-tutorial/developer/part1
 ```
@@ -2521,7 +2521,7 @@ better than the real thing.
 
  
 
-![Video: <a href="http://vimeo.com/108371598](imgs/492038655_640.jpg)">http://vimeo.com/108371598](imgs/492038655_640.jpg)</a>
+![Video: http://vimeo.com/108371598](imgs/492038655_640.jpg)
 
 [Frank Kloos on digital publishing: ‘Vooralsnog vind ik tablets
 karakterloos.’](http://vimeo.com/108371598) from [network
@@ -3356,8 +3356,8 @@ by media theorist Geert Lovink as part of the Amsterdam University of
 Applied Sciences (Hogeschool van Amsterdam). The institute acts as a
 framework sustaining several research projects, conferences, meetings,
 with a strong focus on publications. For more information see
-<<a href="http://networkcultures.org/">http://networkcultures.org/</a>>. For an overview of all INC publications
-go to <<a href="http://networkcultures.org/publications">http://networkcultures.org/publications</a>>.
+<http://networkcultures.org/>. For an overview of all INC publications
+go to <http://networkcultures.org/publications>.
 
 We are looking for an enthusiastic, energetic, inquisitive and precise
 (former) student with a demonstrated interest in the field of digital
@@ -3525,7 +3525,7 @@ Haltiwanger](http://networkcultures.org/digitalpublishing/wp-content/uploads/sit
 
  
 
-![Video: <a href="http://vimeo.com/96562329](imgs/477910239_640.jpg)">http://vimeo.com/96562329](imgs/477910239_640.jpg)</a>
+![Video: http://vimeo.com/96562329](imgs/477910239_640.jpg)
 
 
 
@@ -3617,7 +3617,7 @@ You can find a PDF of his original presentation here: [Presentation
 Joost
 Kircz](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_01_JoostKircz.pdf)
 
-![Video: <a href="http://vimeo.com/96562227](imgs/477909407_640.jpg)">http://vimeo.com/96562227](imgs/477909407_640.jpg)</a>
+![Video: http://vimeo.com/96562227](imgs/477909407_640.jpg)
 
 
 
@@ -3649,7 +3649,7 @@ You can find a PDF of her original presentation here: [Presentation
 Angie
 Keefer](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_04_AngieKeefer.pdf).
 
-![Video: <a href="http://vimeo.com/65248695](imgs/436281081_640.jpg)">http://vimeo.com/65248695](imgs/436281081_640.jpg)</a>
+![Video: http://vimeo.com/65248695](imgs/436281081_640.jpg)
 
 
 
@@ -3716,7 +3716,7 @@ If you want to know more about the project, contact Sebastian and Jan
 
 
 
-![Video: <a href="http://vimeo.com/97508729](imgs/477911819_640.jpg)">http://vimeo.com/97508729](imgs/477911819_640.jpg)</a>
+![Video: http://vimeo.com/97508729](imgs/477911819_640.jpg)
 
 
 
@@ -3814,7 +3814,7 @@ Wise](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2
 
 Follow Oliver on Twitter : @owise1oliver@thepresentgroup.comgithub.com/peoples-ethepresentgroup.comhttp://beta.thepeoplesebook.net/
 
-![Video: <a href="http://vimeo.com/96562327](imgs/477910338_640.jpg)">http://vimeo.com/96562327](imgs/477910338_640.jpg)</a>
+![Video: http://vimeo.com/96562327](imgs/477910338_640.jpg)
 
 
 
@@ -3874,7 +3874,7 @@ Rasch](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/
 Miriam writes books reviews and guest posts for different websites and
 magazines. Look up her [personal blog](http://www.miriamrasch.nl/).
 
-![Video: <a href="http://vimeo.com/96562332](imgs/477910524_640.jpg)">http://vimeo.com/96562332](imgs/477910524_640.jpg)</a>
+![Video: http://vimeo.com/96562332](imgs/477910524_640.jpg)
 
 
 
@@ -3970,7 +3970,7 @@ sharing’s satellites g33koskop, ‘Nothing will happen’ and ‘The Fair of
 Mean Equipment’. His full biography
 [here](http://networkcultures.org/digitalpublishing/22-23-may-2014/biographies/).*
 
-![Video: <a href="http://vimeo.com/97508731](imgs/477911980_640.jpg)">http://vimeo.com/97508731](imgs/477911980_640.jpg)</a>
+![Video: http://vimeo.com/97508731](imgs/477911980_640.jpg)
 
 
 
@@ -4063,7 +4063,7 @@ reading experiences. The way linking takes place on the web and the way
 scholars reference their works are two perspectives that could unite for
 a better communing of texts in e-publishing.
 
-![Video: <a href="http://vimeo.com/97508732](imgs/477911824_640.jpg)">http://vimeo.com/97508732](imgs/477911824_640.jpg)</a>
+![Video: http://vimeo.com/97508732](imgs/477911824_640.jpg)
 
 
 
@@ -4106,7 +4106,7 @@ Alessandro Ludovico during his talk on day 1 of Off the Press 2014
 Alessandro Ludovico, the author of *[Post-Digital Print, The Mutation Of
 Publishing Since 1894](http://monoskop.org/log/?p=4165), *is an Italian
 media critic and editor in chief of *Neural* magazine
-(<<a href="http://neural.it/">http://neural.it/</a>>) since 1993, for which he received an honorary
+(<http://neural.it/>) since 1993, for which he received an honorary
 mention of the Prix [Ars
 Electronica](http://monoskop.org/Ars_Electronica) 2004. He has published
 and edited several books, and has lectured worldwide. He’s one of the
@@ -4243,7 +4243,7 @@ You can find a PDF of his original presentation here: [Presentation
 Alessandro
 Ludovico](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_02_Alessandro-Ludovico.pdf)
 
-![Video: <a href="http://vimeo.com/96574475](imgs/477909957_640.jpg)">http://vimeo.com/96574475](imgs/477909957_640.jpg)</a>
+![Video: http://vimeo.com/96574475](imgs/477909957_640.jpg)
 
 
 
@@ -4298,7 +4298,7 @@ the Digital Publishing Toolkit development period.
 You can find a PDF of her original presentation here: [Presentation Pia
 Pol](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_03_PiaPol.pdf)
 
-![Video: <a href="http://vimeo.com/96562363](imgs/477910548_640.jpg)">http://vimeo.com/96562363](imgs/477910548_640.jpg)</a>
+![Video: http://vimeo.com/96562363](imgs/477910548_640.jpg)
 
 
 
@@ -4309,7 +4309,7 @@ May 27, 2014 at 10:44 pm.
 
 *Off the Press, Electronic Publishing in the Arts* is the third one in a
 series on the state of electronic publishing that started with the
-Unbound Book (<a href="http://networkcultures.org/wpmu/unboundbook/">http://networkcultures.org/wpmu/unboundbook/</a>),
+Unbound Book (http://networkcultures.org/wpmu/unboundbook/),
 and was more recently followed by the presentation of the research of
 The Publishing Toolkit at the Hogeschool van Amsterdam in november 2013.
 
@@ -4402,8 +4402,8 @@ no perfect technological fix.
 
 **Post-Digital Publishing**
 
-Alessandro Ludovico – editor of *Neural* (<<a href="http://neural.it">http://neural.it</a>>) and expert
-in post digital publishing (see <<a href="http://postdigitalprint.org">http://postdigitalprint.org</a>>) – gives
+Alessandro Ludovico – editor of *Neural* (<http://neural.it>) and expert
+in post digital publishing (see <http://postdigitalprint.org>) – gives
 an overview of a specific culture of artist books, made possible by the
 coupling of online free digital content, print on demand, and simple
 scripting. This has created a new taxonomy of publications that scrape
@@ -4427,7 +4427,7 @@ possibilities of searching through an enormous corpus is used to gain
 new insights on both the history of literature, and through that also on
 history. I am of course referring to Franco Moretti’s books (a.o. on
 *The Bourgeois* in the 19th Century) and the Stanford Literary Lab
-(<<a href="http://litlab.stanford.edu/">http://litlab.stanford.edu/</a>>). Moretti’s take on this is quite down to
+(<http://litlab.stanford.edu/>). Moretti’s take on this is quite down to
 earth. The thousands of scanned books – which nobody will ever read –
 can be used to get *some* insight on the development of ideas, and of
 daily life. Human intelligence is needed to obtain these insights and
@@ -4463,7 +4463,7 @@ Castro – computer book author –  uses Twitter to interview people about
 Catalunya and the Catalan language (see \#CatalanTalk). She explains how
 she uses the Twitter-interviews in different languages (she has an
 online volunteer translation team) about Catalan, how she stores and
-archives them using Storify (<a href="https://storify.com/">https://storify.com/</a>). The question is
+archives them using Storify (https://storify.com/). The question is
 how to go from Storify to epub? As tweets are basically HTML, this
 should be straightforward enough. She explains the workflow. First
 export to XML. Create XSLT to filter the XML – of course there is way
@@ -4487,7 +4487,7 @@ The People’s Ebook
 Oliver Wise, is intended to be the tool to create ebooks in the most
 simple way. There are now a number of such tools. (I made the
 epub2-version of the Sonic Acts publication *The Dark Universe* with
-Pressbooks (<<a href="http://pressbooks.com/">http://pressbooks.com/</a>>), which I found an easy and
+Pressbooks (<http://pressbooks.com/>), which I found an easy and
 agreeable tool which fitted that particular project. I am used to
 WordPress, and in Pressbooks is easy to do the footnotes by hand.) The
 People’s Ebook uses WYSIWYG for the People’s Ebook, not Markdown.
@@ -4514,9 +4514,9 @@ necessarily bad – it is useful in many circumstances).
 **HTML is king/queen?**
 
 Adam Hyde is the man of the Booksprint methodology of making books
-(<<a href="http://www.booksprints.net/">http://www.booksprints.net/</a>>), Floss Manuals
-(<<a href="http://booki.flossmanuals.net/">http://booki.flossmanuals.net/</a>>), Booktype
-(<<a href="http://www.sourcefabric.org/en/booktype/">http://www.sourcefabric.org/en/booktype/</a>>), and many more similar
+(<http://www.booksprints.net/>), Floss Manuals
+(<http://booki.flossmanuals.net/>), Booktype
+(<http://www.sourcefabric.org/en/booktype/>), and many more similar
 projects. He recently did a Booksprint on Booksprints. He gave up art
 after art had brought him to Antarctica. He entitled his talk ‘Books are
 Evil, 8 years in the wilderness’, and gives an overview of publishing
@@ -4700,7 +4700,7 @@ sense.
 
 **More Presentations**
 
-visualMANIAC (<<a href="http://visualmaniac.com/">http://visualmaniac.com/</a>>) from Madrid create and sell
+visualMANIAC (<http://visualmaniac.com/>) from Madrid create and sell
 image heavy (art) publications. Judging from their websites, they are
 much more in an ‘ipad-touch-screen-world’ than some of the earlier
 presenters. They have about 1200 publications in the store. They are a
@@ -4745,7 +4745,7 @@ Even in the 18th Century books were produced and published very, very
 fast to react on topical issues.
 
 Matthew So presents the books of Badlands Unlimited
-(<<a href="http://badlandsunlimited.com/">http://badlandsunlimited.com/</a>>), founded by the artist Paul Chan. They
+(<http://badlandsunlimited.com/>), founded by the artist Paul Chan. They
 see publishing as an experiment, make books ‘in an expanded field’. In
 their store they have the choice between IRL (printed), Amazon, or
 iPad+iPhone. They are not typical. They work only on Mondays and
@@ -4787,9 +4787,9 @@ collaborated with Stuart Bailey in my *Metropolis M* past, and greatly
 admire his work. Angie Keefer gives a short introduction and then shows
 a long video – *Letter & Spitter.* It is about the 1960s breakthrough
 work of Donald Knuth
-(<<a href="http://www-cs-faculty.stanford.edu/~uno/index.html">http://www-cs-faculty.stanford.edu/~uno/index.html</a>>), the man behind
+(<http://www-cs-faculty.stanford.edu/~uno/index.html>), the man behind
 Metafont
-(<<a href="http://www.math.zju.edu.cn/ligangliu/LaTeXForum/TeXBooks/Metafont/MetaFontBook.pdf">http://www.math.zju.edu.cn/ligangliu/LaTeXForum/TeXBooks/Metafont/MetaFontBook.pdf</a>>)
+(<http://www.math.zju.edu.cn/ligangliu/LaTeXForum/TeXBooks/Metafont/MetaFontBook.pdf>)
 and TeX.  It’s going into the fundamentals of digital typesetting.
 Dexter Sinister made a script to make a single font that is constantly
 moving and changing – and this font is used in the video. It’s great,
@@ -4853,7 +4853,7 @@ and theory circles in the past years. (In the Netherlands composer/poet
 Samuel Vriezen is into this). Though TraumaWien holds probably – as
 befits Austrian – the most extreme position. (And yes, TraumaWien have
 the PDFs of these book up at their site:
-<<a href="http://traumawien.at/stuff/texts/">http://traumawien.at/stuff/texts/</a>>.) They also have a great scheme to
+<http://traumawien.at/stuff/texts/>.) They also have a great scheme to
 get readers: get the torrent with all the new German epubs, contaminate
 all the 24.000 epubs, and re-upload. Keep on seeding, making sure people
 take your torrent. And all of those readers who think they’re going to
@@ -4872,7 +4872,7 @@ usually not technological savvy, and do not use epub – so having such a
 tool for that scene, is useful.
 
 The last presentation I see is by Greyscales’ Manuel Schmalstieg (see
-<<a href="http://greyscalepress.com%3E)%20">http://greyscalepress.com>) </a> – *Black Holes in the Galaxy*. He starts
+<http://greyscalepress.com>)  – *Black Holes in the Galaxy*. He starts
 with the idea of the flip-flop: going from digital to analog and back.
 He made a couple of printed editions, sometimes pirated – for instance
 Neal Stephenson’s essay from Wired on the undersea cable, with new
@@ -4932,7 +4932,7 @@ middle is a majority who at least would like to get a taste of the
 
 After the lunch break I have a look at  the other two workshops. Two
 groups of each 20 participants (the maximum) are working concentrated.
-In the SuperGlue workshop (<<a href="http://superglue.it/">http://superglue.it/</a>>) all have just
+In the SuperGlue workshop (<http://superglue.it/>) all have just
 installed, or tried to install, the SuperGlue package, thus creating a
 local network of mini servers. (The SuperGlue website states:
 ‘SuperGlue’s mini-server provides full control of your personal data by
@@ -5012,14 +5012,14 @@ talk is about ‘what do you do with your books’. What do you do with the
 gigantic amounts of unsorted PDFs and epubs that you have on your hard
 disk, often not properly named. He assumes we all have such collections
 – do we? He does not like Calibre as a management tool and reader.
-Calibre (<<a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>>) – in the first place a converter
+Calibre (<http://calibre-ebook.com/>) – in the first place a converter
 for epubs and comparable formats – seems to be the tool of choice of
 many. Though I wonder how many users in the iPad/iPhone/Adobe universe
 know of it. Sebastian Lütgert main question is: how should
 library-software function, what is a good ebook-management tool? With
-support from Constant vzw (<<a href="http://www.constantvzw.org/site/">http://www.constantvzw.org/site/</a>>) in
+support from Constant vzw (<http://www.constantvzw.org/site/>) in
 Brussels such software is developed: openmedialibrary
-(<<a href="http://openmedialibrary.com/#about">http://openmedialibrary.com/#about</a>>). He shows how it works in a web
+(<http://openmedialibrary.com/#about>). He shows how it works in a web
 browser. It allows browsing the library of peers, and transferring books
 from there to one’s own computer.
 
@@ -5080,7 +5080,7 @@ the control over the index to computer engineers and algorithms. There
 are many points in his presentation that deserve a detailed
 think-through and discussion.
 
-Dusan Barok of monoskop (<<a href="http://monoskop.org">http://monoskop.org</a>>) is the last speaker.
+Dusan Barok of monoskop (<http://monoskop.org>) is the last speaker.
 He delves into the history of reading and publishing, going back to
 manuscripts and scrolls. While he talks an image of one of the earliest
 Greek manuscripts of Plato’s *Phaedrus* is shown, with the title
@@ -5121,7 +5121,7 @@ a private library).
 
 So, is there a toolkit? There is no finished toolkit yet. There is the
 repository with tools
-<<a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>>. There is also by
+<http://networkcultures.org/digitalpublishing/github/>. There is also by
 now a good insight in the various workflows used by small publishers,
 artists, writers, self-publishers and organizations. There is an
 overview of the pro’s and con’s of different tools. There is an overview
@@ -5146,7 +5146,7 @@ with web design of the middle 1990s. In that respect I have gone from
 amazement over the fact that such a fuss was being made of ‘e-books’, to
 a joy of making epubs.
 
-(For pictures see: <<a href="https://www.flickr.com/photos/networkcultures/">https://www.flickr.com/photos/networkcultures/</a>>)
+(For pictures see: <https://www.flickr.com/photos/networkcultures/>)
 
 
 
@@ -5227,7 +5227,7 @@ You can find a PDF of her original presentation here: [Presentation
 Michelle
 Kasprzak](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_02_MichelleKasprzak.pdf)
 
-![Video: <a href="http://vimeo.com/96562225](imgs/477911262_640.jpg)">http://vimeo.com/96562225](imgs/477911262_640.jpg)</a>
+![Video: http://vimeo.com/96562225](imgs/477911262_640.jpg)
 
 
 
@@ -5312,7 +5312,7 @@ So](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/201
 
 [Badlands Unlimited website](http://badlandsunlimited.com)
 
-![Video: <a href="http://vimeo.com/96562223](imgs/477911432_640.jpg)">http://vimeo.com/96562223](imgs/477911432_640.jpg)</a>
+![Video: http://vimeo.com/96562223](imgs/477911432_640.jpg)
 
 
 
@@ -5377,7 +5377,7 @@ Over the next coming months they hope to solve these issues.
 You can find a PDF of her original presentation here: [Presentation Loes
 Sikkes](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_04_LoesSikkes.pdf)
 
-![Video: <a href="http://vimeo.com/96562365](imgs/477910646_640.jpg)">http://vimeo.com/96562365](imgs/477910646_640.jpg)</a>
+![Video: http://vimeo.com/96562365](imgs/477910646_640.jpg)
 
 
 
@@ -5456,11 +5456,11 @@ You can find a PDF of his original presentation here: [Presentation
 Jouquin
 Gonzales](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_01_JouquinGonzales.pdf)
 
-Check out visualMANIAC’s blog : <a href="http://visualmaniac.com/visualmag">http://visualmaniac.com/visualmag</a>
+Check out visualMANIAC’s blog : http://visualmaniac.com/visualmag
 
 Contact Teresa and Joaquín :joaquin@visualmaniac.comteresa@visualmaniac.com
 
-![Video: <a href="http://vimeo.com/96562226](imgs/477910696_640.jpg)">http://vimeo.com/96562226](imgs/477910696_640.jpg)</a>
+![Video: http://vimeo.com/96562226](imgs/477910696_640.jpg)
 
 
 
@@ -5575,7 +5575,7 @@ Institute of Avantgardistic Recreation. Last publication: Anti-Media,
 NAi Publishers, 2013; What Is Post-Digital?, A Peer-Review Journal
 About, 2014*.
 
-![Video: <a href="http://vimeo.com/96562331](imgs/477910409_640.jpg)">http://vimeo.com/96562331](imgs/477910409_640.jpg)</a>
+![Video: http://vimeo.com/96562331](imgs/477910409_640.jpg)
 
 
 
@@ -5661,7 +5661,7 @@ Castro](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26
 
 *Photo credits: Martin Risseeuw*
 
-![Video: <a href="http://vimeo.com/96562278](imgs/477909420_640.jpg)">http://vimeo.com/96562278](imgs/477909420_640.jpg)</a>
+![Video: http://vimeo.com/96562278](imgs/477909420_640.jpg)
 
 
 
@@ -5763,7 +5763,7 @@ You can find a PDF of his original presentation here: [Presentation
 Arjen de
 Jong](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_05_ArjendeJong.pdf)
 
-![Video: <a href="http://vimeo.com/96562364](imgs/477910652_640.jpg)">http://vimeo.com/96562364](imgs/477910652_640.jpg)</a>
+![Video: http://vimeo.com/96562364](imgs/477910652_640.jpg)
 
 
 
@@ -5831,7 +5831,7 @@ Find out more at : [www.bibliotecha.info](http://www.bibliotecha.info)
 
 Contact André : andre[AT]andrecastro.info
 
-![Video: <a href="http://vimeo.com/97508728](imgs/477911829_640.jpg)">http://vimeo.com/97508728](imgs/477911829_640.jpg)</a>
+![Video: http://vimeo.com/97508728](imgs/477911829_640.jpg)
 
 
 
@@ -5903,7 +5903,7 @@ distribution tool; the purpose is distributing – that comes with selling
 helps us to rethink, rework and imagine “new and truly collaborative
 ways of writing and knowledge production.”
 
-![Video: <a href="http://vimeo.com/96562328](imgs/477910146_640.jpg)">http://vimeo.com/96562328](imgs/477910146_640.jpg)</a>
+![Video: http://vimeo.com/96562328](imgs/477910146_640.jpg)
 
 
 
@@ -5921,7 +5921,7 @@ definition* the same thing and he certainly sees a future for e-books or
 new ways of storytelling. At the same he proves to be a critic of flashy
 revenue models. The interview is in dutch.
 
-![Video: <a href="http://vimeo.com/95953457](imgs/476002196_640.jpg)">http://vimeo.com/95953457](imgs/476002196_640.jpg)</a>
+![Video: http://vimeo.com/95953457](imgs/476002196_640.jpg)
 
 [Thomas van Aalten: ‘Het evangelie van de nulletjes en eentjes is niet
 zaligmakend’](http://vimeo.com/95953457) from [network
@@ -6045,7 +6045,7 @@ Sebald’s](http://www.newyorker.com/online/blogs/books/2011/12/why-you-should-r
 *The Rings of Saturn* she gives us her ideas on the future of digital
 publishing. The interview is in Dutch.
 
-![Video: <a href="http://vimeo.com/95271818](imgs/475137393_640.jpg)">http://vimeo.com/95271818](imgs/475137393_640.jpg)</a>
+![Video: http://vimeo.com/95271818](imgs/475137393_640.jpg)
 
 [Miriam Rasch: ‘E-books kunnen de leeservaring naar een ander niveau
 tillen’](http://vimeo.com/95271818) from [network
@@ -6062,7 +6062,7 @@ May 7, 2014 at 10:42 am.
 Developer and Designer of the Amsterdam Design School for Multimedia
 (CMD) makes a passionate plea for publishing on the web (in Dutch).
 
-![Video: <a href="http://vimeo.com/94333279](imgs/474236672_640.jpg)">http://vimeo.com/94333279](imgs/474236672_640.jpg)</a>
+![Video: http://vimeo.com/94333279](imgs/474236672_640.jpg)
 
 [‘Over honderd jaar kunnen we nog HTML lezen'; Vasilis van Gemert over
 digitaal publiceren](http://vimeo.com/94333279) from [network
@@ -6293,11 +6293,11 @@ generate a cover based on the CSS of the ePub.
 
 #### Software used:
 
--   CakePHP – <<a href="http://cakephp.org/">http://cakephp.org/</a>>
--   epub.js – <<a href="http://fchasen.github.io/epub.js/">http://fchasen.github.io/epub.js/</a>> epub reader in browser
+-   CakePHP – <http://cakephp.org/>
+-   epub.js – <http://fchasen.github.io/epub.js/> epub reader in browser
     for preview functionality
--   PHPePub <<a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>>
--   <<a href="http://validator.idpf.org">http://validator.idpf.org</a>> Validator/ & EPUB-Checker (standalone of
+-   PHPePub <https://github.com/Grandt/PHPePub>
+-   <http://validator.idpf.org> Validator/ & EPUB-Checker (standalone of
     the website)
 
 #### Problems/Issues to look into
@@ -6553,9 +6553,9 @@ collection, by logging into the Bibliotecha wifi network and donate or
 lend e-books.
 
 This project is initiated by: Lasse van den Bosch Christensen (DK),
-Michaela Lakova (BG) <a href="http://mlakova.org">http://mlakova.org</a>, Max Dovey (GB)
+Michaela Lakova (BG) http://mlakova.org, Max Dovey (GB)
 www.maxdovey.com, Roelof Roscam Abbing (NL) www.roelroscamabbing.nl,
-Yoana Buzova (BG) <a href="http://oyoana.com/">http://oyoana.com/</a>, and André Castro (PT)
+Yoana Buzova (BG) http://oyoana.com/, and André Castro (PT)
 www.andrecastro.info
 
 \# Thursday 22 May @Museum Boijmans van Beuningen
@@ -6984,7 +6984,7 @@ all-embracing.
 
 (Please note that there is a limit of 30 participants per workshop, and
 it is necessary to buy a separate ticket to participate
-(<a href="http://networkcultures.org/digitalpublishing/ticket">http://networkcultures.org/digitalpublishing/ticket</a>). No prior
+(http://networkcultures.org/digitalpublishing/ticket). No prior
 knowledge or skills necessary. Bring your own laptop.)
 
 \#\#\# Megan Hoogenboom (NL) & Harold Konickx
@@ -7061,8 +7061,8 @@ personal web server. Superglue is ‘hosted’ by WORM
 ([http://worm.org](http://worm.org/)) together with the Libre Graphics
 Research Unit ([http://lgru.net](http://lgru.net/)) and supported by
 Stimuleringsfonds Creatieve Industrie
-(<<a href="http://www.stimuleringsfonds.nl/">http://www.stimuleringsfonds.nl/</a>>) and the European Union
-(<<a href="http://europa.eu/">http://europa.eu/</a>>).
+(<http://www.stimuleringsfonds.nl/>) and the European Union
+(<http://europa.eu/>).
 
 \#\# 14:30 – 15:00  tea break
 
@@ -7334,7 +7334,7 @@ Stuttgart. His work covers web-based hypervideo technology, search
 interfaces, web applications for educational settings, and collaborative
 editing systems.
 
-<<a href="http://filmicweb.org/">http://filmicweb.org/</a>>
+<http://filmicweb.org/>
 
 \#\# Michelle Kasprzak (CA/NL)
 
@@ -7568,7 +7568,7 @@ distribution and learning environments. For Superglue, Michael designed
 the client-side software architecture and an interactive development
 system.
 
-<<a href="http://michaelzeder.de/">http://michaelzeder.de/</a>>
+<http://michaelzeder.de/>
 
 
 
@@ -7776,7 +7776,7 @@ our upcoming
 
  
 
-![Video: <a href="http://vimeo.com/87566827](imgs/465673411_640.jpg)">http://vimeo.com/87566827](imgs/465673411_640.jpg)</a>
+![Video: http://vimeo.com/87566827](imgs/465673411_640.jpg)
 
 [You and the book; some thoughts on the practice and future of
 ePub](http://vimeo.com/87566827) from [network
@@ -7798,7 +7798,7 @@ well as the artistic evening program will take part in
 [Worm](http://www.worm.org/sheets/index/organisatie).
 
 The tentative program can be found here.
-<a href="http://networkcultures.org/digitalpublishing/22-23-may-2014/">http://networkcultures.org/digitalpublishing/22-23-may-2014/</a>
+http://networkcultures.org/digitalpublishing/22-23-may-2014/
 
 
 
@@ -7843,7 +7843,7 @@ January 16, 2014 at 12:59 pm.
 
 ![Say "The netflix of Books" one more time](imgs/44918325.jpg)
 
-source: <a href="http://memegenerator.net/instance/44918325">http://memegenerator.net/instance/44918325</a>
+source: http://memegenerator.net/instance/44918325
 
 
 
@@ -7984,7 +7984,7 @@ Het originele presentatie document (PDF) kan
 [hier](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/12/06_nai010_0119-DPT-presentatie-visuals.pdf)
 gevonden worden.**Bekijk de volledige presentatie hieronder**
 
-![Video: <a href="http://vimeo.com/80985297](imgs/457024932_640.jpg)">http://vimeo.com/80985297](imgs/457024932_640.jpg)</a>
+![Video: http://vimeo.com/80985297](imgs/457024932_640.jpg)
 
 [Showcase nai010 uitgevers – Verzamelen
 Highlights](http://vimeo.com/80985297) from [network
@@ -8071,7 +8071,7 @@ systeem worden aangepast.
 The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/05_VALIZ_28112013.pdf)
 
-![Video: <a href="http://vimeo.com/80883774](imgs/458628196_640.jpg)">http://vimeo.com/80883774](imgs/458628196_640.jpg)</a>
+![Video: http://vimeo.com/80883774](imgs/458628196_640.jpg)
 
 [Showcase Valiz – Context Without Walls – genereren van een serie
 ontworpen ePubs](http://vimeo.com/80883774) from [network
@@ -8173,7 +8173,7 @@ kent het ongebonden boek?
 
 Bekijk de volledige presentatie hieronder
 
-![Video: <a href="http://vimeo.com/80800588](imgs/456793688_640.jpg)">http://vimeo.com/80800588](imgs/456793688_640.jpg)</a>
+![Video: http://vimeo.com/80800588](imgs/456793688_640.jpg)
 
 [Joost Kircz – Het ongebonden boek aan de ketting, met introductie van
 Geert Lovink](http://vimeo.com/80800588) from [network
@@ -8505,7 +8505,7 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/07.INC_presentation_toolkit.pdf)**Watch
 the full presentation below**
 
-![Video: <a href="http://vimeo.com/80884524](imgs/456897599_640.jpg)">http://vimeo.com/80884524](imgs/456897599_640.jpg)</a>
+![Video: http://vimeo.com/80884524](imgs/456897599_640.jpg)
 
 [Showcase Institute of Network Cultures – One thousand and One
 workflows](http://vimeo.com/80884524) from [network
@@ -8634,7 +8634,7 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/03_DPT_fcramer.pdf)
 **Watch the full presentation below (in Dutch)**
 
-![Video: <a href="http://vimeo.com/80873921](imgs/458628018_640.jpg)">http://vimeo.com/80873921](imgs/458628018_640.jpg)</a>
+![Video: http://vimeo.com/80873921](imgs/458628018_640.jpg)
 
 [Florian Cramer – E-publishing voor kunst en design (uitdagingen
 2013)](http://vimeo.com/80873921) from [network
@@ -8786,7 +8786,7 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/04_BIS-Publisherssmallpdf.com_.pdf)**Watch
 the full presentation below**
 
-![Video: <a href="http://vimeo.com/80883773](imgs/456897264_640.jpg)">http://vimeo.com/80883773](imgs/456897264_640.jpg)</a>
+![Video: http://vimeo.com/80883773](imgs/456897264_640.jpg)
 
 [Showcase BISPublishers – Over lettertype gebruik, spread layout,
 beeldgebruik en interactie](http://vimeo.com/80883773) from [network
@@ -10085,39 +10085,39 @@ Set Profile (DSP) which is technology-agnostic.
         minimum = 1; maximum = unlimited
             Statement template: title
             minimum = 1; maximum = 1
-                Property: <a href="http://purl.org/dc/terms/title">http://purl.org/dc/terms/title</a>
+                Property: http://purl.org/dc/terms/title
                 Type of Value = "literal"
             Statement template: dateCreated
             minimum = 1; maximum = 1
-                Property: <a href="http://purl.org/dc/terms/created">http://purl.org/dc/terms/created</a>
+                Property: http://purl.org/dc/terms/created
                 Type of Value = "literal"
-                Syntax Encoding Scheme URI = <a href="http://purl.org/dc/terms/W3CDTF">http://purl.org/dc/terms/W3CDTF</a>
+                Syntax Encoding Scheme URI = http://purl.org/dc/terms/W3CDTF
             Statement template: dateModified
             minimum = 1; maximum = 1
-                Property: <a href="http://purl.org/dc/terms/modified">http://purl.org/dc/terms/modified</a>
+                Property: http://purl.org/dc/terms/modified
                 Type of Value = "literal"
-                Syntax Encoding Scheme URI = <a href="http://purl.org/dc/terms/W3CDTF">http://purl.org/dc/terms/W3CDTF</a>
+                Syntax Encoding Scheme URI = http://purl.org/dc/terms/W3CDTF
             Statement template: type
             minimum = 1; maximum = 1
-                Property: <a href="http://purl.org/dc/terms/type">http://purl.org/dc/terms/type</a>
+                Property: http://purl.org/dc/terms/type
                 Type of Value = "literal"
                 takes list = yes
             Statement template: abstract
             minimum = 1; maximum = 1
-                Property: <a href="http://purl.org/dc/terms/abstract">http://purl.org/dc/terms/abstract</a>
+                Property: http://purl.org/dc/terms/abstract
                 Type of Value = "literal"
             Statement template: agent
             minimum = 0; maximum = unlimited
-                Property: <a href="http://xmlns.com/foaf/0.1/agent">http://xmlns.com/foaf/0.1/agent</a>
+                Property: http://xmlns.com/foaf/0.1/agent
                 Type of Value = "literal"
             Statement template: parent
             minimum = 0; maximum = unlimited 
-                Property: <a href="http://purl.org/dc/terms/isPartOf">http://purl.org/dc/terms/isPartOf</a>
+                Property: http://purl.org/dc/terms/isPartOf
                 Type of Value = "non-literal"
                 defined as = project 
             Statement template: author
             minimum = 0; maximum = unlimited 
-                Property: <a href="http://purl.org/dc/terms/creator">http://purl.org/dc/terms/creator</a>
+                Property: http://purl.org/dc/terms/creator
                 Type of Value = "non-literal"
                 defined as = person
 
@@ -10125,17 +10125,17 @@ Set Profile (DSP) which is technology-agnostic.
         minimum = 1; maximum = unlimited
             Statement template: title
             minimum = 1; maximum = 1
-                Property: <a href="http://purl.org/dc/terms/title">http://purl.org/dc/terms/title</a>
+                Property: http://purl.org/dc/terms/title
                 Type of Value = "literal"
 
         Description template: Person id=person
         minimum = 1; maximum = unlimited
             Statement template: name
-                Property: <a href="http://xmlns.com/foaf/0.1/name">http://xmlns.com/foaf/0.1/name</a>
+                Property: http://xmlns.com/foaf/0.1/name
                 minimum = 1; maximum = 1 
                 Type of Value = "literal"
             Statement template: affiliation
-                Property: <a href="http://xmlns.com/foaf/0.1/name">http://xmlns.com/foaf/0.1/name</a>
+                Property: http://xmlns.com/foaf/0.1/name
                 minimum = 1; maximum = 1 
                 Type of Value = “non-literal"
                 value URI = mandatory
@@ -10229,7 +10229,7 @@ metadata, present in MultiMarkdown and defined as follows.
 
 In our case we will limit the values to URLs.
 
-    Affiliation: <a href="http://www.international.hva.nl/">http://www.international.hva.nl/</a>
+    Affiliation: http://www.international.hva.nl/
 
 This is off course problematic in case the workplace homepage moves to
 another address.
@@ -10244,9 +10244,9 @@ A possibility could be to insert **Affiliation** consequently to
 **Author**, like in the following example.
 
     Author: John Doe
-    Affiliation: <a href="http://www.international.hva.nl/">http://www.international.hva.nl/</a>
+    Affiliation: http://www.international.hva.nl/
     Author: Mario Rossi
-    Affiliation: <a href="http://www.unimi.it/">http://www.unimi.it/</a>
+    Affiliation: http://www.unimi.it/
 
 ### Abstract
 
@@ -10366,9 +10366,9 @@ case of **Abstract** and **Agent**, the HTML5 solutions are employed.
     Type: Blogpost  
     Project: My project’s Title
     Author: John Doe
-    Affiliation: <a href="http://www.international.hva.nl/">http://www.international.hva.nl/</a>
+    Affiliation: http://www.international.hva.nl/
     Author: Mario Rossi
-    Affiliation: <a href="http://www.unimi.it/">http://www.unimi.it/</a>
+    Affiliation: http://www.unimi.it/
 
     
         This is the abstract.
@@ -10913,7 +10913,7 @@ that has the following features:
 
     Title:             This is the Title of the Article  
     Author:            Author Name  
-    Affiliation:       <a href="https://twitter.com/AuthorName">https://twitter.com/AuthorName</a>  
+    Affiliation:       https://twitter.com/AuthorName  
     Date:              2013  
     Base Header Level: 1  
     Copyright:         All Rights Reserved
@@ -10926,7 +10926,7 @@ example could be the attribute “file as” used to normalise names.
     Title:             This is the Title of the Article  
     Author:            John Doe  
     Author File As:    Doe, John  
-    Affiliation:       <a href="https://twitter.com/AuthorName">https://twitter.com/AuthorName</a>   
+    Affiliation:       https://twitter.com/AuthorName   
     Date:              2013  
     Base Header Level: 1  
     Copyright:         All Rights Reserved
@@ -10970,7 +10970,7 @@ to add them:
 
     <&> That makes this: 
 
-    <a href="http://exampleurl.com">http://exampleurl.com</a> to this: 
+    http://exampleurl.com to this: 
 
     &#60;http://exampleurl.com/&#62; Unfortunately Mou doesn't support Regular Expression so I did this with 
 
@@ -11221,7 +11221,7 @@ gestures.
 
 Ted talk by Mike Matas: A next-generation digital book.
 
-<<a href="http://www.ted.com/talks/mike_matas.html">http://www.ted.com/talks/mike_matas.html</a>>
+<http://www.ted.com/talks/mike_matas.html>
 
 
 
@@ -11884,11 +11884,11 @@ websites a few years ago, and having to support older iterations of
 Internet Explorer (notably version 6) by resorting to ugly hacks (the
 lack alpha transparency in PNG images
 ((<http://support.microsoft.com/kb/294714>, more wonderful quirks here:
-<<a href="http://www.positioniseverything.net/explorer.html%3E))">http://www.positioniseverything.net/explorer.html>))</a> comes to mind, for
+<http://www.positioniseverything.net/explorer.html>)) comes to mind, for
 example) or opting out of certain technical innovations. The situation
 regarding EPUB interpretation is more or less the same – viz. faulty
 support of the standard by major EPUB readers. ((See:
-<<a href="http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls">http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls</a>> for a detailed
+<http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls> for a detailed
 comparison.)) The landscape is even more fragmented, however, there are
 a great many EPUB readers for various platforms out there compared to
 the relatively small amount of browsers (courtesy of three major players
@@ -11992,7 +11992,7 @@ bigger screen.
 ### Kindle
 
 *Developer:* Amazon*Version:* 1.10.3*Website:*
-<<a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000464931">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000464931</a>>
+<http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000464931>
 
 
 
@@ -12014,7 +12014,7 @@ world.
 ### Calibre
 
 *Developer:* Kovid Goyal*Version:* 0.9.35*Website:*
-<<a href="http://calibre-ebook.com">http://calibre-ebook.com</a>>
+<http://calibre-ebook.com>
 
 
 
@@ -12034,7 +12034,7 @@ are not displayed, for example.
 ### Adobe Digital Editions
 
 *Developer:* Adobe*Version:* 2.0.6*Website:*
-<<a href="http://www.adobe.com/products/digital-editions.html">http://www.adobe.com/products/digital-editions.html</a>>
+<http://www.adobe.com/products/digital-editions.html>
 
 
 
@@ -12050,7 +12050,7 @@ strips it of anything except images.
 ### Kitabu
 
 *Developer:* Sixty Four*Version:* 1.0.7*Website:*
-<<a href="https://www.facebook.com/pages/Kitabu/242717922467492">https://www.facebook.com/pages/Kitabu/242717922467492</a>>
+<https://www.facebook.com/pages/Kitabu/242717922467492>
 
 
 
@@ -12067,7 +12067,7 @@ Ehon or Kindle.
 
 ### Ehon
 
-*Developer:* Pierre Oleo*Version:* 1.0.1*Website:* <<a href="http://ehonapp.com">http://ehonapp.com</a>>
+*Developer:* Pierre Oleo*Version:* 1.0.1*Website:* <http://ehonapp.com>
 
 
 
@@ -12083,7 +12083,7 @@ hence the full support for all the features of the publication.
 ### Azardi
 
 *Developer:* Infogrid Pacific*Version:* 20.0*Website:*
-<<a href="http://azardi.infogridpacific.com">http://azardi.infogridpacific.com</a>>
+<http://azardi.infogridpacific.com>
 
 
 
@@ -12110,7 +12110,7 @@ possibilities (or lack thereof) both platforms are the same.
 ### iBooks
 
 *Developer:* Apple*Version:* 3.1*Website:*
-<<a href="https://itunes.apple.com/us/app/id364709193%3E*Environment:*">https://itunes.apple.com/us/app/id364709193>*Environment:*</a> iOS
+<https://itunes.apple.com/us/app/id364709193>*Environment:* iOS
 
 
 
@@ -12129,7 +12129,7 @@ application, not the EPUB.
 ### Kindle
 
 *Developer:* AMZN Mobile*Version:* 3.8*Website:*
-<<a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301%3E*Environment:*">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301>*Environment:*</a>
+<http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301>*Environment:*
 iOS, Android
 
 
@@ -12147,7 +12147,7 @@ Calibre.
 ### Bluefire Reader
 
 *Developer:* Bluefire Productions*Version:* 1.9.7*Website:*
-<<a href="http://www.bluefirereader.com%3E*Environment:*">http://www.bluefirereader.com>*Environment:*</a> iOS
+<http://www.bluefirereader.com>*Environment:* iOS
 
 
 
@@ -12162,7 +12162,7 @@ styling or media.
 ### Readmill
 
 *Developer:* Readmill Network*Version:* 3.2*Website:*
-<<a href="https://readmill.com%3E*Environment:*">https://readmill.com>*Environment:*</a> iOS
+<https://readmill.com>*Environment:* iOS
 
 
 
@@ -12181,7 +12181,7 @@ Readmill ebook styles are applied to the entirety of the document.
 ### Kobo Books
 
 *Developer:* Kobo*Version:* 5.12*Website:*
-<<a href="http://www.kobo.com/apps%3E*Environment:*">http://www.kobo.com/apps>*Environment:*</a> iOS, Android
+<http://www.kobo.com/apps>*Environment:* iOS, Android
 
 
 
@@ -12198,7 +12198,7 @@ anything more than simple text and displaying imagery.
 ### Lektz
 
 *Developer:* AEL Data Services*Version:* 3.1*Website:*
-<<a href="http://lektz.com%3E*Environment:*">http://lektz.com>*Environment:*</a> iOS, Android
+<http://lektz.com>*Environment:* iOS, Android
 
 
 
@@ -12223,7 +12223,7 @@ dummy EPUB, except for audio and video.
 ![](imgs/Aldiko02.png)
 
 *Developer:* Aldiko*Version:* 2.2.3*Website:*
-<<a href="http://www.aldiko.com%3E*Environment:*">http://www.aldiko.com>*Environment:*</a> Android
+<http://www.aldiko.com>*Environment:* Android
 
 Barebones presentation of text and images. No video, audio or any
 styling.
@@ -12235,7 +12235,7 @@ styling.
 ![](imgs/ePub-Reader02.png)
 
 *Developer:* Graphilos Studio*Version:* 1.5.3*Website:*
-<<a href="http://www.graphilos.com%3E*Environment:*">http://www.graphilos.com>*Environment:*</a> Android
+<http://www.graphilos.com>*Environment:* Android
 
 The “best” of the Android applications in terms of CSS styling. However,
 all the pages seem to exceed the available screen size.
@@ -12247,7 +12247,7 @@ all the pages seem to exceed the available screen size.
 ![](imgs/Mantano02.png)
 
 *Developer:* Mantano SAS*Version:* 1.2.9*Website:*
-<<a href="http://www.mantano.com%3E*Environment:*">http://www.mantano.com>*Environment:*</a> Android
+<http://www.mantano.com>*Environment:* Android
 
 Presentation quite similar to Aldiko: just text and images, no video,
 audio or styling (except font sizes).
@@ -12259,7 +12259,7 @@ audio or styling (except font sizes).
 ![](imgs/Moon02.png)
 
 *Developer:* Moon+*Version:* 1.9.7.0*Website:*
-<<a href="http://www.moondownload.com%3E*Environment:*">http://www.moondownload.com>*Environment:*</a> Android
+<http://www.moondownload.com>*Environment:* Android
 
 Moon+ applies its own styling to the background of the publication and
 ignores any CSS styling (except for texts that are defined as bold or
@@ -12272,7 +12272,7 @@ italic). No support for video or audio.
 ![](imgs/UBReader02.png)
 
 *Developer:* Mobile Systems*Version:* 2.1.260*Website:*
-<<a href="http://www.ubreader.com%3E*Environment:*">http://www.ubreader.com>*Environment:*</a> Android
+<http://www.ubreader.com>*Environment:* Android
 
 No CSS styling (font sizes excepted) or custom fonts. No support for
 video or audio.
@@ -12356,7 +12356,7 @@ the following meanings:
 > or other text in digital form (1999).
 
 Source:
-<<a href="http://blog.oxforddictionaries.com/2013/06/oed-june-2013-update/">http://blog.oxforddictionaries.com/2013/06/oed-june-2013-update/</a>>
+<http://blog.oxforddictionaries.com/2013/06/oed-june-2013-update/>
 
 
 
@@ -12547,7 +12547,7 @@ with the title “Quando il lettore diventa utente”]*
 
 ![](imgs/Inside_the_Kindle_3.jpg)
 The Inside of a Kindle 3. Source:
-<a href="https://en.wikipedia.org/wiki/File:Inside%5C_the%5C_Kindle%5C_3.jpg">https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg</a>
+https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg
 
 
 
@@ -14006,7 +14006,7 @@ As a strategy for dissemination, the novel “With a Little Help” by Cory
 Doctorow is provided in 5 different official formats. Some fan-converted
 versions are available as well.
 
-<<a href="http://craphound.com/walh/e-book/browse-all-versions">http://craphound.com/walh/e-book/browse-all-versions</a>>
+<http://craphound.com/walh/e-book/browse-all-versions>
 
 
 
@@ -14575,7 +14575,7 @@ March 19, 2013 at 2:04 pm.
 By [sauli](http://networkcultures.org/digitalpublishing/author/sauli-2/ "Posts by sauli"),
 March 19, 2013 at 3:27 pm.
 
-<<a href="http://www.vqronline.org/articles/2013/spring/nash-business-literature/">http://www.vqronline.org/articles/2013/spring/nash-business-literature/</a>>
+<http://www.vqronline.org/articles/2013/spring/nash-business-literature/>
 
 >  “Abundance breaks more things than scarcity.”
 
@@ -14649,9 +14649,9 @@ March 19, 2013 at 3:32 pm.
 **Tabula Nova**
 
 Arco van den Berg, tablet publisher, spreker op
-<a href="http://ereadingevent.nl/seminar/%5C#seminar77">http://ereadingevent.nl/seminar/\#seminar77</a>, Apps en ePub
+http://ereadingevent.nl/seminar/\#seminar77, Apps en ePub
 
-<<a href="http://www.tabulanova.com/">http://www.tabulanova.com/</a>>
+<http://www.tabulanova.com/>
 
  
 
@@ -14660,7 +14660,7 @@ Arco van den Berg, tablet publisher, spreker op
 Engels bedrijf, Multi platform publishing, wel vnl met ‘Gesloten
 systemen'(o.a. mbv Adobe AIR, Apple’s IBA).
 
-<<a href="http://www.yudu.com/">http://www.yudu.com/</a>>
+<http://www.yudu.com/>
 
  
 

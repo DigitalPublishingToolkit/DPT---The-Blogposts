@@ -10,26 +10,8 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 October 1, 2014 at 5:11 pm.
 
-
-
-
-
-#  {.post-title}
-
-
-
 Source: [Hybrid Publishing
 Lab](http://hybridpublishing.org/2014/09/florian-cramer-on-the-art-of-hybrid-publishing/)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -37,13 +19,6 @@ Lab](http://hybridpublishing.org/2014/09/florian-cramer-on-the-art-of-hybrid-pub
 Rehfeldt](http://hybridpublishing.org/author/juliarehfeldt/ "Julia Rehfeldt") — 
 September 29, 2014 — [Leave a
 comment](http://hybridpublishing.org/2014/09/florian-cramer-on-the-art-of-hybrid-publishing/#respond "Comment on Florian Cramer on “The Art of Hybrid Publishing”")
-
-
-
-
-
-
-
 
 
 ![](imgs/fCramer-e1412002165632.jpg)Florian Cramer is an applied

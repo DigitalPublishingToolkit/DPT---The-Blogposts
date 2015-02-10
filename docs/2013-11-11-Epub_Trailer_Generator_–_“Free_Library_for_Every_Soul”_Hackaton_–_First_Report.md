@@ -13,15 +13,8 @@ November 11, 2013 at 1:02 pm.
 
 
 ![Unlike Us Reader Epub Trailer](imgs/trailer-Unlike-Us-Reader.gif)
-][1](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-Unlike-Us-Reader.gif)“Unlike
-Us Reader” Epub Trailer
-
-
 
 ![](imgs/dpt2013.jpg)
-
-[3](https://www.facebook.com/postdigitalpublishingarchive?fref=ts)“Working
-table during the hackethon[/caption]
 
 On the 2nd and 3rd of November, the INC subgroup ([Silvio
 Lorusso](https://www.facebook.com/postdigitalpublishingarchive?fref=ts),
@@ -61,7 +54,7 @@ the hackathon. More will follow!
 
 (For a comprehensive overview on each project developed during the
 hackaton, check [André Castro’s
-report](http://www.andrecastro.info/a/blog.html).)
+report](http://pinknoi.so/post/5).)
 
 ## Epub Trailer Generator
 
@@ -106,16 +99,9 @@ Here’s a couple of examples.
 
 ![“A Neoist Research Project ” Epub
 Trailer](imgs/trailer-A-Neoist-Research-Project.gif)
-][9](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-A-Neoist-Research-Project.gif)
-“A Neoist Research Project ” Epub Trailer
-
-
-
 
 
 ![“To Save Everything, Click Here” Epub
 Trailer](imgs/trailer-B00B3M3X2G-EBOK.gif)
-][10](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-B00B3M3X2G-EBOK.gif)
-“To Save Everything, Click Here” Epub Trailer
 
 

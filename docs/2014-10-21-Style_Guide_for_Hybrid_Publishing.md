@@ -71,7 +71,7 @@ clickable.*
 footnotes (in other words, no in text references that use
 parentheses/brackets). For example, *not:* Off the Press discusses the
 question of digital publishing (Lorusso, 2013). *But*: Off the Press
-discusses the question of digital publishing.[^^[1]^^](#_ftn1)- All
+discusses the question of digital publishing. All
 references should also be collected into a Reference list at the end of
 the article. Please do not use an automated reference list, or disable
 the macro after you finish making it this way.[…]
@@ -89,12 +89,6 @@ use them.
 References:**Does not apply
 
 
-
-------------------------------------------------------------------------
-
-
-
-[^^[1]^^](#_ftnref1) Lorusso, 2013, p. 23.
 
 
 
