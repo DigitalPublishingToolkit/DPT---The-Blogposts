@@ -9,9 +9,9 @@ date: 2013-07-02
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 July 2, 2013 at 12:01 pm.
 
-# 
+![](imgs/9781442685369.cover.jpg)
 
-> ![](imgs/9781442685369.cover.jpg)Mak’s book, “How the Page Matters,”
+> Mak’s book, “How the Page Matters,”
 > historicizes recent debates about eBooks and similar technologies by
 > casting the page as an interface that has been under development since
 > the scrolls of Antiquity. “How the Page Matters” tracks the page

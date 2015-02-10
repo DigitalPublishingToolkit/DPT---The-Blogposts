@@ -4,7 +4,7 @@ author: kimberley
 date: 2013-06-27
 ...
 
-# DIGITAL PUBLISHING TOOLKIT {.entry-title .single-title itemprop="headline"}
+# Digital Publishing Toolkit {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 June 27, 2013 at 4:19 pm.

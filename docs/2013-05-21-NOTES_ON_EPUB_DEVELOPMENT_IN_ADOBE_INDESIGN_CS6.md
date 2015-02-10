@@ -30,15 +30,15 @@ file size, metadata, layout.
 
 
 
-## [1: Premises
+## [1: Premises](#toc-1-1)
 
-### [1.1: Legend
+### [1.1: Legend](#toc-1-1)
 
 -   Software Command
 -   Shortcut
 -   Code Snippet
 
-### [1.2: Wait, weren’t we supposed to use open source tools?
+### [1.2: Wait, weren’t we supposed to use open source tools?](#toc-1-1)
 
 We all love opes source, but in some cases a pragmatic approach it’s
 needed: a perspective that takes into account the actual workflow
@@ -50,7 +50,7 @@ Developing an EPUB through InDesign could be considered a transitional
 process, in doing so the designer will anyway acquire a know-how that
 could be invested in open source tools and procedures.
 
-### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…
+### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…](#toc-1-1)
 
 Exactly, it really depends on the context. This procedure could be
 useful whether:
