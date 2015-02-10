@@ -1,4 +1,5 @@
 
+
 # A leap into the future of (digital) reading {.entry-title .single-title itemprop="headline"}
 
 By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
@@ -173,6 +174,72 @@ designing and prototyping.
 
 Harold Konickx
 
+
+
+# Out Now: From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts {.entry-title .single-title itemprop="headline"}
+
+By [margreet
+riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
+December 23, 2014 at 2:22 pm.
+
+![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub-e1419344387128.png)
+
+*From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts*.
+
+This Toolkit is meant for everyone working in art and design publishing.
+No specific expertise of digital technology, or indeed traditional
+publishing technology, is required. The Toolkit provides hands-on
+practical advice and tools, focusing on working solutions for
+low-budget, small-edition publishing.
+
+It includes answers on questions like; Is electronic book technology
+really the way forward for these types of publications? Or does the
+answer lie in some hybrid form of publication, in which both print and
+electronic editions of the same basic content can be published in a
+parallel or complementary fashion? And perhaps more importantly, what
+are the changes in workflow and design mentality that will need to be
+implemented in order to allow for such hybrid publications?
+
+Everything in the Hybrid Publishing Toolkit is based on real-world
+projects with art and design publishers. Editorial scenarios include art
+and design catalogues and periodicals, research publications, and
+artists’/designer’s books.
+
+[Download the EPUB
+here.](http://networkcultures.org/wp-content/uploads/2015/01/FromPrintToEbooks.epub)
+
+
+
+# Marije ten Brink: ‘Blendle is a promising idea’ {.entry-title .single-title itemprop="headline"}
+
+By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
+December 18, 2014 at 11:11 am.
+
+HvA-teacher and designer Marije ten Brink wonders why Dutch entrepeneur
+Alexander Klöpping has come up with the invention of
+[Blendle](http://www.blendle.nl); a platform that combines ‘the best of
+newspapers and magazines’ as it claims. The video is in Dutch.
+
+![Video: <a href="http://vimeo.com/114679505](imgs/500443069_640.jpg)">http://vimeo.com/114679505](imgs/500443069_640.jpg)</a>
+
+
+
+# Presentation of the Toolkit in Brasil {.entry-title .single-title itemprop="headline"}
+
+By [Miriam
+Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
+December 11, 2014 at 11:34 am.
+
+The Digital Publishing Toolkit was presented via Skype at the Simposio
+Literatura e Informatica, with a focus on the INC project. You can find
+the program, blog and videos of the symposium
+[here](http://simposiodeliteraturaeinformatica.blogspot.com.br/).
+
+![Video:
+<a href="https://www.youtube.com/watch?v=%5C_DxW20%5C_hbZo](imgs/_DxW20_hbZo.jpg)">https://www.youtube.com/watch?v=\_DxW20\_hbZo](imgs/_DxW20_hbZo.jpg)</a>
+
+
+
 # Rose Leighton: ‘The craft of publishing is future-proof’ {.entry-title .single-title itemprop="headline"}
 
 By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
@@ -188,7 +255,9 @@ digitize it? Or does it become something else? And íf a book for
 instance becomes something like a game does that make a publisher still
 a publisher or a producer of media?
 
-![Video: http://vimeo.com/108984162](imgs/496311849_640.jpg)
+![Video: <a href="http://vimeo.com/108984162](imgs/496311849_640.jpg)">http://vimeo.com/108984162](imgs/496311849_640.jpg)</a>
+
+
 
 # A wrap up of the Digital Publishing Toolkit – Florian Cramer and Geert Lovink {.entry-title .single-title itemprop="headline"}
 
@@ -306,6 +375,8 @@ licences, libraries will be shut down. We should be aware of this kind
 of neoliberal optimization of educational resources. If we don’t develop
 alternatives, it may be too late.
 
+
+
 # Silvio Lorusso ‘The Post-Digital Publishing Archive: An Inventory of Speculative Strategies’ {.entry-title .single-title itemprop="headline"}
 
 By [Katía
@@ -338,7 +409,7 @@ refers to digital rights management, a system that is often used for
 digital books to prevent unlimited sharing. Projects like the DRM Chair
 expose the inner workings of (digital) systems.
 
-![Video: http://vimeo.com/60475086](imgs/419644379_640.jpg)
+![Video: <a href="http://vimeo.com/60475086](imgs/419644379_640.jpg)">http://vimeo.com/60475086](imgs/419644379_640.jpg)</a>
 
 Lorusso explains that according to [Mike
 Shatzkin](http://www.idealog.com/about-us/about-mike-shatzkin/), digital
@@ -414,13 +485,489 @@ publishing will look like in the (near) future.
 *More speculative strategies can be found in the [Post-Digital
 Publishing Archive](http://p-dpa.net/).*
 
-![Video: http://vimeo.com/114339867](imgs/499982828_640.jpg)
+![Video: <a href="http://vimeo.com/114339867](imgs/499982828_640.jpg)">http://vimeo.com/114339867](imgs/499982828_640.jpg)</a>
+
+
+
+# Towards a hybrid workflow: editor, designer and developer UNITE! {.entry-title .single-title itemprop="headline"}
+
+By [Becky
+Cachia](http://networkcultures.org/digitalpublishing/author/beckycachia/ "Posts by Becky Cachia"),
+November 30, 2014 at 5:48 pm.
+
+In the final showcase of the Digital
+Publishing Toolkit event in November 2014, Michael Murtaugh presented on
+behalf of the rest of the **Institute of Network Cultures subgroup** –
+that includes Joost Kircz, Silvio Lorusso, Miriam Rasch and Kimmy
+Spreeuwenberg – to answer the question:
+
+***How can small edition, low budget publishing houses edit, design, and
+develop a new, hybrid workflow for editing, designing and developing?***
+
+The INC subgroup has developed and optimised a workflow for print and
+digital publications to make the process of publishing on different
+platforms and in different formats easier and more efficient. Murtaugh
+gave a concise overview of their **“hybrid workflow”** by firstly
+explaining what is meant by “hybridity”. Within the publishing process,
+hybridity refers to a multitude of different things, including different
+screen sizes and technologies as well as print vs. digital.
+
+Murtaugh stressed that **“hybridity” also denotes the diverse dynamics
+of different reading practices.** People read in an increasing variety
+of ways and therefore associate different devices with distinct reading
+situations. For example, along with people believing that the physical
+book can never be replaced, there are those that feel that reading off a
+phone is ideal in some situations whereas using an e-reader or a tablet
+is appropriate in other contexts. Therefore, it is interesting to think
+of e-readers not only in relation to the conventional idea of “a book”
+but also in relation to other electronic devices.
+
+The dynamics of different reading practices and print or digital devices
+therefore **demands hybridity in the practices of publishing** and the
+goal of the INC subgroup was **to connect the existing publishing
+practices and to suggest new ways of working.** Rather than regarding
+roles in isolation, e.g. viewing the author, editor, designer and
+developer as separate entities, the aim was to build bridges and connect
+the different roles through the tools being used and through a feedback
+system of “talking back to each other”. In this way, could new ouptuts
+then influence and be fed back into, for example, new ways of writing?
+
+Through their own workflow for this project, the INC subgroup organised
+monthly work sessions in order to create situations where team members
+could look over each other’s shoulders to fully understand what each
+person was doing and how they were doing it. The group could experience
+first hand the benefits and challenges of fine-tuning a hybrid workflow,
+and could create a system that addresses the challenges of a dynamic
+publishing process through being both structured and yet flexible.
+
+## The creation of “How-to & Style Guides”:
+
+![](imgs/15898637095_6696785138_z.jpg)
+
+**[How-to](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-1/)**
+and **[Style
+Guides](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/),**
+and running workshops in which the roles of editors, designers and
+developers overlap, the digital publication is not simply added onto the
+end of the existing print-centred publishing workflow, but can already
+inform each step of the process. The idea of constant feedback and
+output influencing each step of the process breaks down the linearity of
+the workflow and creates single source, multi-format publishing. By
+bridging practices, each member of the workflow can work using the same
+standard set of style features or even avoiding certain formatting
+features that would make the process easier in the long run.
+
+## Using a set of hybrid tools:
+
+![](imgs/15896641151_4aa3c985f7_z.jpg)
+
+[a set of tools was put
+together](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/)
+(namely, Markdown, Git, Pandoc and Make). These are tools that come from
+a long history of programming practices and are therefore very robust.
+In addition, because lots of different programmers work with them, they
+are very flexible. For example, the choice to use Markdown means that
+the text is reduced to the very core of what it is. There are no
+stylistic enhancements or automatic rendering of the text (as is common
+in word processing, for instance). The text is a ‘clean’ source that can
+then be interpreted by the designer for the medium specific elements of,
+for example, different devices for reading.
+
+## Looking ahead
+
+Murtaugh ended the showcase by looking ahead to where the development of
+a hybrid workflow and EPUBs can be taken.
+
+– An EPUB player is currently in development, which is a way to look at
+an EPUB online in a browser without having to generate a different html
+version. Through the player, an EPUB can be embedded into a website and
+pages can also be bookmarked and then exported as a separate EPUB.
+Murtaugh referred to this as being **“kind of like a photocopier for the
+book”**, whereby the EPUB you export is not a perfect publication, but
+it is still very useful for yourself (just like the pages of a book you
+photocopy).
+
+– Secondly, Murtaugh gave a brief overview of having a hybrid editor,
+which is an attempt to make something that is in between the different
+kinds of working/publishing interfaces and tools we normally see. It is
+an integrated tool whose different parts come from somewhere else (e.g.
+from other open source tools), but they are all brought into the same
+interface. Murtaugh, ended the showcase by claiming that **it is
+exciting to think of interfaces that can offer this kind of hybridity
+and functionalities.**
+
+
+
+# Showcase nai010 uitgevers | My Collection {.entry-title .single-title itemprop="headline"}
+
+By [roserowson](http://networkcultures.org/digitalpublishing/author/roserowson/ "Posts by roserowson"),
+November 30, 2014 at 8:55 pm.
+
+
+
+![](imgs/15896794701_c77552a06c_o.jpg)
+Mark de Bruin of PuntPixel
+
+
+
+During the showcase for [nai010 uitgevers](http://www.nai010.com/en/),
+we were shown a new mobile application developed by PUNTPIXEL and
+[Medamo](http://www.medamo.nl/). [My
+Highlights](http://puntpixel.nl/myhighlights-uit-de-collectie-van-het-stedelijk-museum-amsterdam/)
+lets users create their own, personal ePub from the collection of the
+[Stedelijk Museum](http://www.stedelijk.nl/en) in Amsterdam. The
+application allows users to search by genre, period, artist and so on to
+assemble their own personal impressions from the collection, and
+prioritise content. Presenters Marc de Bruijn and Barbara Lateur noted
+that this form of curation could be used, for example, by a layman
+wishing to plan their visit to the museum, or a student planning for
+their thesis. Moreover, the model could easily be transferred to any
+practice with diverse and structurable data requiring this type of
+cataloguing, such as a stamp collection.
+
+When demonstrating the application via an iPhone projection, Marc de
+Bruijn showed how to navigate the interface of My Highlights.
+Information on different pieces in the collection is available for free,
+while users may choose to pay a small amount for additional material
+such as essays on artists and individual works. This aspect of the
+application is still in development; when it is fully operational, users
+will be able to compile their ePub, pay for any additional content using
+an inbuilt payment gateway and export their final product, to be viewed
+online within My Highlights, or offline in the external application of
+their choice.
+
+The mock-up version of the iOS application de Bruijn showed us was
+created using Phonegap and WordPress to mimic the functionality of the
+final version. As an application concerned with creating ePubs, de
+Bruijn noted that the final versions of user curated ePubs may well be
+viewed in an external application. With the wide range of these
+applications available, this is arguably a concern for any group in the
+business of producing ePubs. Upon its launch, we shall see how
+successfully content from within My Highlights can be viewed outside of
+its sleek interface.
+
+![Video: <a href="http://vimeo.com/114339866](imgs/499982559_640.jpg)">http://vimeo.com/114339866](imgs/499982559_640.jpg)</a>
+
+
+
+# Showcase BIS Publishers | Phone gap & multi-channel publishing {.entry-title .single-title itemprop="headline"}
+
+By [roserowson](http://networkcultures.org/digitalpublishing/author/roserowson/ "Posts by roserowson"),
+November 30, 2014 at 8:51 pm.
+
+Presenting on behalf of the design agency
+[Essense](http://essense.eu/about/ "Essense"), Arjen de Jong began by
+positing the essential question for working with [BIS
+Publishers](http://www.bispublishers.nl/index.php) to create an ebook:
+**(How) can we make rich media, highly interactive publications,
+accessible on multiple devices at a reasonable cost?**
+
+
+
+![](imgs/15712746169_68c3084661_o.jpg)
+Arjen de Jong presenting for Essense
+
+
+
+As a publishing house, BIS is renowned for its innovative approach to
+graphic design and visual culture as a whole; in order to fittingly
+represent their brand in the field of digital books, it was essential
+for Essense transfer this rich media approach. But how can this be
+achieved in the digital realm, especially when combined with additional
+characteristics such as interactivity and cross-device compatibility?
+The inclusion of these specifically digital elements to a book allows
+greater scope for creativity, while simultaneously causing potential
+problems of executability.
+
+One interactive element de Jong identified was the potential
+non-linearity of digital books. On a “page” level, they could include
+individual interactive panels, but beyond this they could also allow
+readers to jump in between different sections of the text, while still
+maintaining a sense of wholeness of the book. This potential flexibility
+of the medium is demonstrated and hindered by readers using multiple
+devices. While this allows greater levels of portability and
+multichannel engagement for users, it also creates a greater level of
+complexity for designers, who must ensure that content translates well
+across devices.
+
+While multiple device use is common, de Jong and his team made the
+decision to focus their ebook development on tablets. He cited a reason
+for this as, firstly, the inability for e-reader hardware such as a
+Kindle that uses e-ink to show the kind of rich media that was required
+for the publication, and secondly, that the e-reader has been
+transforming into a more tablet-like device, shown, for example, by the
+Kindle Fire. The focus on tablets furthermore allowed access to open,
+flexible and sustainable formats: ideal conditions for developing a new
+way to view e-publications.
+
+After trying to work with various different developing tools and
+identifying their shortcomings for tackling the task at hand, Essense
+settled upon
+[PhoneGap](https://creative.adobe.com/products/phonegap-build), due to
+its usability, integration of web code and compatibility across
+platforms via the Cloud. Experimenting with
+[Markdown](http://en.wikipedia.org/wiki/Markdown) to write their code on
+multiple channels, transforming it into HTML and then transferring it
+into Phonegap, de Jong and his team were pleased with their results but
+nonetheless acknowledged that there was still some way to go towards
+perfecting the kind of e-publication they were setting out to make.
+
+In this brief presentation, de Jong demonstrated that creating an
+e-publication to fit the specifications of a client is often easier said
+that done. The integration of the myriad potentials for these digital
+books is often as much of a hindrance as it is inspiring. Nevertheless,
+from the work that has been done by de Jong and his team, it is clear
+that this kind of e-book is certainly possible, and opens up creative
+doors for innovators such as BIS Publishers.
+
+
+
+# Harold Konickx | It’s not a page; new familiar ways of book design {.entry-title .single-title itemprop="headline"}
+
+By [roserowson](http://networkcultures.org/digitalpublishing/author/roserowson/ "Posts by roserowson"),
+November 30, 2014 at 9:48 pm.
+
+During his brief talk nearing the end of the afternoon’s presentations,
+Harold Konickx spent fifteen minutes discussing the changing face of the
+page in the wake of digital publishing. He began by quoting Marshall
+McLuhan, noting that “an environment becomes fully visible only when it
+has been superseded by a new environment; thus we are always one step
+behind in our view of the world”. This quote was employed as a way of
+asking the question, how do readers and designers of digital books
+relate to the page now that they are not dealing with a page in itself?
+As Konickx asked, evoking McLuhan once more, “Are we ready for a
+different kind of page… or are we trapped in a rear-view mirror view of
+our world?”
+
+**Reader; Designer; Book**
+
+As a means of grounding his research on digital publishing, Konickx
+focusses on the relationship between reader, designer and book. His
+first case study to demonstrate this was the work of Megan Hoogenboom,
+and specifically her ePub version of the poem [“Boem Paukeslag” by Paul
+van
+Ostaijen](http://www.meganhoogenboom.nl/index.php/boeken/digitaal-boek/24-epub-boem-paukeslag).
+Konickx noted that while this kind of poetry depends on specific
+formatting, taking spacing and fonts into consideration, for example,
+Hoogenboom successfully translated the poem into ePub format by
+transcending the usual role of the page, reinventing the part it is
+meant to play and “overcoming the so-called boundaries of ePub”.
+
+Konickx argued that Hoogenboom touched on the core of what a book is
+through this work; but what exactly is a book if it is not a collection
+of physical pages? The traditional notion of the book is very much bound
+by content as well as form. Surely drawing on Kittler’s work in
+[*Software Studies: A
+Lexicon*](http://mitpress.mit.edu/books/software-studies), Konickx
+evoked the example of the codex, noting how the development of parchment
+allowed the creation of the book as a whole, and on the part of the
+reader allowing them to feel as if they were holding “the whole world”
+in their hands. In particular here, Konickx cited Miriam Rasch as
+stating that digital books do not allow one to really feel what point
+they are at within a book: physical books, on the other hand, allow
+substance and form to work together to create a pleasurable mental and
+tactile experience.
+
+
+
+![](imgs/15896641321_a4a911d2b5_o.jpg)
+Harold Konickx takes us through Alberto Manguel
+
+
+
+Konickx is well aware of the nostalgic qualities of his research. Just
+as with McLuhan, he nodded to [Alberto
+Manguel’s](http://www.alberto.manguel.com/) argument that new
+technological developments make us more aware of old fashioned qualities
+we would otherwise have overlooked. A possible analogy of this, Konickx
+argued, is being currently demonstrated within the musical community
+with the rise in use of vinyl records. While accepting the love of books
+as objects is romantic, and books having desirably qualities in and of
+themselves, the session was not about putting the physical book on a
+pedestal.
+
+**The Digital**
+
+
+
+![](imgs/15898638565_6f3d80237f_o.jpg)
+Skeuomorphism on iBooks
+
+
+
+Considering the skeuomorphism present in Apple’s iBooks software,
+Konickx lucidly brought us back to McLuhan’s horseless carriage
+syndrome, wherein the first motor vehicles where designed to resemble
+horse drawn carriages in order to acclimatise the general public to
+their presence on the road. But despite the illusion of pages turning as
+shown in this image, Konickx argues that ebooks do, in fact, promote a
+far different experience than that of reading a printed book. Despite
+identifying ebooks as being essentially networked, Konickx returned to
+the description of physical books as a positive experience of allowing
+readers to have the whole world in their hands; I suppose that in this
+instance, the limits of a world – i.e., the end of the book – are more
+appealing than a world that is seemingly endless.
+
+Returning to Megan Hoogenboom, Konickx used her work as an example to
+show that the potential success of the ebook as a medium lies in the
+acceptance of its own specific capabilities. What makes a digital book
+stand on its own? Konickx pointed us towards [*Between Page and Screen:
+Remaking Literature through Cinema and
+Cyberspace*](http://fordhampress.com/index.php/between-page-and-screen-paperback.html)
+as an extensive collection of essays, published in 2012, as a means of
+establishing a discourse on the subject.
+
+**Intermediation**
+
+Coming to the end of his talk, Konickx moved to N. Katherine Hayles’
+essay “Intermediation”. Throughout her work, Hayles has been drawing
+comparisons between humans and computers to make a claim on our
+inter-relation. She argues that literature throughout the 20th century
+is computational. Konickx believes that the reading of a physical book
+lies in stark difference to the reading of a digital; Hayles would agree
+with this, and propose that this difference lies in the constant flux of
+words and images that change as a result of our needs. Moreover, Hayles
+argues that “a computer can function as a partner in creating
+intermediary dynamics in ways that a book cannot,” placing more agency
+to a computer as opposed to its printed and bound counterpart. According
+to Hayles, engagers with digital books are players rather than readers,
+as they have more control over what they are consuming. Hayles’ primary
+example of this is Judd Morrissey’s [The Jew’s
+Daughter](http://thejewsdaughter.com/), a form of digital literature,
+she argues, would be impossible when combined with the durability of
+ink.
+
+Konickx left us with this example, and by finally reminding us that a
+digital page is not a page, at least not in the same way as a physical
+book. These physical books have irreplaceable qualities, but digital
+books have new qualities that have yet to be fully explored through
+experimentation and the development of new ways of creation, and of
+engagement.
+
+
+
+# Context Without Walls – a generative workflow with EPUBster (Digital Publishing Toolkit November 2014) {.entry-title .single-title itemprop="headline"}
+
+By [Becky
+Cachia](http://networkcultures.org/digitalpublishing/author/beckycachia/ "Posts by Becky Cachia"),
+November 30, 2014 at 5:40 pm.
+
+The second showcase of the Digital Publishing Toolkit conference
+highlighted the collaborative work of the subgroup of
+[Valiz](http://www.valiz.nl/), [Meeus
+Ontwerpt](http://www.meeusontwerpt.nl/) and
+[PUNTPIXEL](http://www.puntpixel.nl/): *Context Without Walls – a
+generative workflow with EPUBster*.
+
+The aim of the project was to create a digital (EPUB) version of [Common
+Skin](http://www.valiz.nl/en/CommonSkin), a publication within the
+series [Context Without Walls](http://www.valiz.nl/en/Plans#col3). This
+series of print publications – developed by Valiz and designed by Meeus
+Ontwerpt – focuses on contemporary artists worldwide through both essays
+and images.
+
+ 
+
+![](imgs/15279147793_28b308f45e_z.jpg)
+
+**the process of digitalising *Common Skin* was very challenging and
+ambitious.** As part of a series with meticulous and extensive design,
+it was difficult to do the publication the same justice in a digital
+format. To attempt to do so, they created an [online and open source
+tool](https://github.com/DigitalPublishingToolkit/epubster) – called
+[EPUBster](http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/)
+– to create, edit and publish this particular publication as well as to
+enable other designers, developers and publishers to create their own
+digital publications.
+
+ 
+
+![](imgs/15711295808_a30cb2552d_z.jpg)
+
+*EPUBster* as a web application for the creation and editing of digital
+publications. The tool was developed as a general purpose tool, although
+it does have some specific functionalities for Valiz and Meeus
+Ontwerpt’s “Context Without Walls” series.
+
+Sybesma provided a concise overview of *EPUBster* by running the
+audience through the **four main components of the tool’s
+straightforward user interface**:
+
+-   its metadata editor;
+-   the chapter editor (for the re-arranging of chapters);
+-   the functionalities of its content editors (both visual and plain
+    text);
+-   the design features (to add a book cover and CSS styling).
+
+The four sections create a very flexible workflow in which the user can
+switch between sections at any point in the creation process. Once the
+user has filled in all the required metadata and finished creating,
+editing and styling chapters and content, the EPUB can be generated. You
+can read more about the development of EPUBster
+[here](http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/).
+
+ 
+
+![](imgs/15898137982_08b8b11a73_z.jpg)
+
+*Common Skin* to demonstrate the rich layers of text and imagery they
+were presented with. As an academic text, there were a lot of footnotes,
+quotes and index words. Therefore, **they created a book that showed
+this rich layered text by incorporating many layers around the core
+text.** For example, the margins contain index words to serve as both an
+entrance to the text and to build a vocabulary for the series.
+
+![](imgs/CWW_Binnenwerk_papier4.jpg)
+
+Janne and Hilde expressed that when they originally started the project
+of transforming the book into a digital version, they wanted to retain
+and expand on these characteristics that they had developed for the
+print version. They started off with a lot of exciting ideas for the
+digital version, e.g. incorporating videos and interactive margins, but
+they soon realised that, if they wanted the digital book to be accessed
+through different devices, they would not be able to incorporate the
+characteristics of their dreams. **The only way to retain the potential
+for the spread of the book was to focus on making a simple EPUB that
+could be read by all devices.**
+
+In doing so, they were restricted in many ways. For instance, they could
+only use open source typefaces, margin features where not possible, and
+the design elements were, more often than not, stripped from the book,
+by the device. **They were left with the question: Is there anything
+left to design?**
+
+In describing the process of creating the digital version of *Common
+Skin*, Janne and Hilde showed that they were overwhelmed by the feeling
+that **EPUBs are not controlled by people but rather by machines.**
+Therefore, their role as designers was simply to ensure that they could
+produce an error-free publication so as not to disturb the reading
+process.
+
+[The end product had to change a lot from the print
+version](http://networkcultures.org/digitalpublishing/2013/10/08/translating-a-paper-book-design-to-a-simple-e-pub-design/),
+e.g. different colours, typefaces, and the elimination of notes from the
+margins. After trying to use EPUBster as well as working with PUNTPIXEL
+to make EPUBster suit their needs, Meeus Ontwerpt needed to look to
+other tools to minimise the amount of problems they were being faced
+with. In the end, the EPUB was created using an EPUB editor called
+Sigil.
+
+## Reflection
+
+Upon completing the book, Janne and Hilde asked the question, **“What
+can the role of the designer be in the digital publishing process, if it
+is not only to make an EPUB that is free from errors?”** They now see
+the potential for experimentation and feel that there are indeed a lot
+of possibilities but they are at present not evident and will only be
+exposed through further experimentation.
+
+
 
 # Collaborative workflows {.entry-title .single-title itemprop="headline"}
 
 By [Andre
 Castro](http://networkcultures.org/digitalpublishing/author/andre/ "Posts by Andre Castro"),
-December 6, 2014 at 2:56 pm.
+November 25, 2014 at 2:56 pm.
 
 During the Showcase of the Digital Publishing Toolkit Michael Murtaugh
 gave a presentation entitled [Towards a hybrid workflow: editor,
@@ -580,527 +1127,7 @@ to sustain the demands of such approach, and hybrid publishing will be
 nothing more but a distant dream, that ended up costing too much time
 and money.
 
-# Out Now: From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts {.entry-title .single-title itemprop="headline"}
 
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-December 23, 2014 at 2:22 pm.
-
-![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub-e1419344387128.png)
-
-*From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts*.
-
-This Toolkit is meant for everyone working in art and design publishing.
-No specific expertise of digital technology, or indeed traditional
-publishing technology, is required. The Toolkit provides hands-on
-practical advice and tools, focusing on working solutions for
-low-budget, small-edition publishing.
-
-It includes answers on questions like; Is electronic book technology
-really the way forward for these types of publications? Or does the
-answer lie in some hybrid form of publication, in which both print and
-electronic editions of the same basic content can be published in a
-parallel or complementary fashion? And perhaps more importantly, what
-are the changes in workflow and design mentality that will need to be
-implemented in order to allow for such hybrid publications?
-
-Everything in the Hybrid Publishing Toolkit is based on real-world
-projects with art and design publishers. Editorial scenarios include art
-and design catalogues and periodicals, research publications, and
-artists’/designer’s books.
-
-[Download the EPUB
-here.](http://networkcultures.org/wp-content/uploads/2015/01/FromPrintToEbooks.epub)
-
-# Marije ten Brink: ‘Blendle is a promising idea’ {.entry-title .single-title itemprop="headline"}
-
-By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
-December 18, 2014 at 11:11 am.
-
-HvA-teacher and designer Marije ten Brink wonders why Dutch entrepeneur
-Alexander Klöpping has come up with the invention of
-[Blendle](http://www.blendle.nl); a platform that combines ‘the best of
-newspapers and magazines’ as it claims. The video is in Dutch.
-
-![Video: http://vimeo.com/114679505](imgs/500443069_640.jpg)
-
-# Presentation of the Toolkit in Brasil {.entry-title .single-title itemprop="headline"}
-
-By [Miriam
-Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
-December 11, 2014 at 11:34 am.
-
-The Digital Publishing Toolkit was presented via Skype at the Simposio
-Literatura e Informatica, with a focus on the INC project. You can find
-the program, blog and videos of the symposium
-[here](http://simposiodeliteraturaeinformatica.blogspot.com.br/).
-
-![Video:
-https://www.youtube.com/watch?v=\_DxW20\_hbZo](imgs/_DxW20_hbZo.jpg)
-
-# Towards a hybrid workflow: editor, designer and developer UNITE! {.entry-title .single-title itemprop="headline"}
-
-By [Becky
-Cachia](http://networkcultures.org/digitalpublishing/author/beckycachia/ "Posts by Becky Cachia"),
-November 30, 2014 at 5:48 pm.
-
-In the final showcase of the Digital
-Publishing Toolkit event in November 2014, Michael Murtaugh presented on
-behalf of the rest of the **Institute of Network Cultures subgroup** –
-that includes Joost Kircz, Silvio Lorusso, Miriam Rasch and Kimmy
-Spreeuwenberg – to answer the question:
-
-***How can small edition, low budget publishing houses edit, design, and
-develop a new, hybrid workflow for editing, designing and developing?***
-
-The INC subgroup has developed and optimised a workflow for print and
-digital publications to make the process of publishing on different
-platforms and in different formats easier and more efficient. Murtaugh
-gave a concise overview of their **“hybrid workflow”** by firstly
-explaining what is meant by “hybridity”. Within the publishing process,
-hybridity refers to a multitude of different things, including different
-screen sizes and technologies as well as print vs. digital.
-
-Murtaugh stressed that **“hybridity” also denotes the diverse dynamics
-of different reading practices.** People read in an increasing variety
-of ways and therefore associate different devices with distinct reading
-situations. For example, along with people believing that the physical
-book can never be replaced, there are those that feel that reading off a
-phone is ideal in some situations whereas using an e-reader or a tablet
-is appropriate in other contexts. Therefore, it is interesting to think
-of e-readers not only in relation to the conventional idea of “a book”
-but also in relation to other electronic devices.
-
-The dynamics of different reading practices and print or digital devices
-therefore **demands hybridity in the practices of publishing** and the
-goal of the INC subgroup was **to connect the existing publishing
-practices and to suggest new ways of working.** Rather than regarding
-roles in isolation, e.g. viewing the author, editor, designer and
-developer as separate entities, the aim was to build bridges and connect
-the different roles through the tools being used and through a feedback
-system of “talking back to each other”. In this way, could new ouptuts
-then influence and be fed back into, for example, new ways of writing?
-
-Through their own workflow for this project, the INC subgroup organised
-monthly work sessions in order to create situations where team members
-could look over each other’s shoulders to fully understand what each
-person was doing and how they were doing it. The group could experience
-first hand the benefits and challenges of fine-tuning a hybrid workflow,
-and could create a system that addresses the challenges of a dynamic
-publishing process through being both structured and yet flexible.
-
-## The creation of “How-to & Style Guides”:
-
-![](imgs/15898637095_6696785138_z.jpg)
-
-**[How-to](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-1/)**
-and **[Style
-Guides](http://networkcultures.org/digitalpublishing/2014/10/21/style-guide-for-hybrid-publishing/),**
-and running workshops in which the roles of editors, designers and
-developers overlap, the digital publication is not simply added onto the
-end of the existing print-centred publishing workflow, but can already
-inform each step of the process. The idea of constant feedback and
-output influencing each step of the process breaks down the linearity of
-the workflow and creates single source, multi-format publishing. By
-bridging practices, each member of the workflow can work using the same
-standard set of style features or even avoiding certain formatting
-features that would make the process easier in the long run.
-
-## Using a set of hybrid tools:
-
-![](imgs/15896641151_4aa3c985f7_z.jpg)
-
-[a set of tools was put
-together](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/)
-(namely, Markdown, Git, Pandoc and Make). These are tools that come from
-a long history of programming practices and are therefore very robust.
-In addition, because lots of different programmers work with them, they
-are very flexible. For example, the choice to use Markdown means that
-the text is reduced to the very core of what it is. There are no
-stylistic enhancements or automatic rendering of the text (as is common
-in word processing, for instance). The text is a ‘clean’ source that can
-then be interpreted by the designer for the medium specific elements of,
-for example, different devices for reading.
-
-## Looking ahead
-
-Murtaugh ended the showcase by looking ahead to where the development of
-a hybrid workflow and EPUBs can be taken.
-
-– An EPUB player is currently in development, which is a way to look at
-an EPUB online in a browser without having to generate a different html
-version. Through the player, an EPUB can be embedded into a website and
-pages can also be bookmarked and then exported as a separate EPUB.
-Murtaugh referred to this as being **“kind of like a photocopier for the
-book”**, whereby the EPUB you export is not a perfect publication, but
-it is still very useful for yourself (just like the pages of a book you
-photocopy).
-
-– Secondly, Murtaugh gave a brief overview of having a hybrid editor,
-which is an attempt to make something that is in between the different
-kinds of working/publishing interfaces and tools we normally see. It is
-an integrated tool whose different parts come from somewhere else (e.g.
-from other open source tools), but they are all brought into the same
-interface. Murtaugh, ended the showcase by claiming that **it is
-exciting to think of interfaces that can offer this kind of hybridity
-and functionalities.**
-
-# Showcase nai010 uitgevers | My Collection {.entry-title .single-title itemprop="headline"}
-
-By [roserowson](http://networkcultures.org/digitalpublishing/author/roserowson/ "Posts by roserowson"),
-November 30, 2014 at 8:55 pm.
-
-
-
-![](imgs/15896794701_c77552a06c_o.jpg)
-Mark de Bruin of PuntPixel
-
-
-
-During the showcase for [nai010 uitgevers](http://www.nai010.com/en/),
-we were shown a new mobile application developed by PUNTPIXEL and
-[Medamo](http://www.medamo.nl/). [My
-Highlights](http://puntpixel.nl/myhighlights-uit-de-collectie-van-het-stedelijk-museum-amsterdam/)
-lets users create their own, personal ePub from the collection of the
-[Stedelijk Museum](http://www.stedelijk.nl/en) in Amsterdam. The
-application allows users to search by genre, period, artist and so on to
-assemble their own personal impressions from the collection, and
-prioritise content. Presenters Marc de Bruijn and Barbara Lateur noted
-that this form of curation could be used, for example, by a layman
-wishing to plan their visit to the museum, or a student planning for
-their thesis. Moreover, the model could easily be transferred to any
-practice with diverse and structurable data requiring this type of
-cataloguing, such as a stamp collection.
-
-When demonstrating the application via an iPhone projection, Marc de
-Bruijn showed how to navigate the interface of My Highlights.
-Information on different pieces in the collection is available for free,
-while users may choose to pay a small amount for additional material
-such as essays on artists and individual works. This aspect of the
-application is still in development; when it is fully operational, users
-will be able to compile their ePub, pay for any additional content using
-an inbuilt payment gateway and export their final product, to be viewed
-online within My Highlights, or offline in the external application of
-their choice.
-
-The mock-up version of the iOS application de Bruijn showed us was
-created using Phonegap and WordPress to mimic the functionality of the
-final version. As an application concerned with creating ePubs, de
-Bruijn noted that the final versions of user curated ePubs may well be
-viewed in an external application. With the wide range of these
-applications available, this is arguably a concern for any group in the
-business of producing ePubs. Upon its launch, we shall see how
-successfully content from within My Highlights can be viewed outside of
-its sleek interface.
-
-![Video: http://vimeo.com/114339866](imgs/499982559_640.jpg)
-
-# Showcase BIS Publishers | Phone gap & multi-channel publishing {.entry-title .single-title itemprop="headline"}
-
-By [roserowson](http://networkcultures.org/digitalpublishing/author/roserowson/ "Posts by roserowson"),
-November 30, 2014 at 8:51 pm.
-
-Presenting on behalf of the design agency
-[Essense](http://essense.eu/about/ "Essense"), Arjen de Jong began by
-positing the essential question for working with [BIS
-Publishers](http://www.bispublishers.nl/index.php) to create an ebook:
-**(How) can we make rich media, highly interactive publications,
-accessible on multiple devices at a reasonable cost?**
-
-
-
-![](imgs/15712746169_68c3084661_o.jpg)
-Arjen de Jong presenting for Essense
-
-
-
-As a publishing house, BIS is renowned for its innovative approach to
-graphic design and visual culture as a whole; in order to fittingly
-represent their brand in the field of digital books, it was essential
-for Essense transfer this rich media approach. But how can this be
-achieved in the digital realm, especially when combined with additional
-characteristics such as interactivity and cross-device compatibility?
-The inclusion of these specifically digital elements to a book allows
-greater scope for creativity, while simultaneously causing potential
-problems of executability.
-
-One interactive element de Jong identified was the potential
-non-linearity of digital books. On a “page” level, they could include
-individual interactive panels, but beyond this they could also allow
-readers to jump in between different sections of the text, while still
-maintaining a sense of wholeness of the book. This potential flexibility
-of the medium is demonstrated and hindered by readers using multiple
-devices. While this allows greater levels of portability and
-multichannel engagement for users, it also creates a greater level of
-complexity for designers, who must ensure that content translates well
-across devices.
-
-While multiple device use is common, de Jong and his team made the
-decision to focus their ebook development on tablets. He cited a reason
-for this as, firstly, the inability for e-reader hardware such as a
-Kindle that uses e-ink to show the kind of rich media that was required
-for the publication, and secondly, that the e-reader has been
-transforming into a more tablet-like device, shown, for example, by the
-Kindle Fire. The focus on tablets furthermore allowed access to open,
-flexible and sustainable formats: ideal conditions for developing a new
-way to view e-publications.
-
-After trying to work with various different developing tools and
-identifying their shortcomings for tackling the task at hand, Essense
-settled upon
-[PhoneGap](https://creative.adobe.com/products/phonegap-build), due to
-its usability, integration of web code and compatibility across
-platforms via the Cloud. Experimenting with
-[Markdown](http://en.wikipedia.org/wiki/Markdown) to write their code on
-multiple channels, transforming it into HTML and then transferring it
-into Phonegap, de Jong and his team were pleased with their results but
-nonetheless acknowledged that there was still some way to go towards
-perfecting the kind of e-publication they were setting out to make.
-
-In this brief presentation, de Jong demonstrated that creating an
-e-publication to fit the specifications of a client is often easier said
-that done. The integration of the myriad potentials for these digital
-books is often as much of a hindrance as it is inspiring. Nevertheless,
-from the work that has been done by de Jong and his team, it is clear
-that this kind of e-book is certainly possible, and opens up creative
-doors for innovators such as BIS Publishers.
-
-# Harold Konickx | It’s not a page; new familiar ways of book design {.entry-title .single-title itemprop="headline"}
-
-By [roserowson](http://networkcultures.org/digitalpublishing/author/roserowson/ "Posts by roserowson"),
-November 30, 2014 at 9:48 pm.
-
-During his brief talk nearing the end of the afternoon’s presentations,
-Harold Konickx spent fifteen minutes discussing the changing face of the
-page in the wake of digital publishing. He began by quoting Marshall
-McLuhan, noting that “an environment becomes fully visible only when it
-has been superseded by a new environment; thus we are always one step
-behind in our view of the world”. This quote was employed as a way of
-asking the question, how do readers and designers of digital books
-relate to the page now that they are not dealing with a page in itself?
-As Konickx asked, evoking McLuhan once more, “Are we ready for a
-different kind of page… or are we trapped in a rear-view mirror view of
-our world?”
-
-**Reader; Designer; Book**
-
-As a means of grounding his research on digital publishing, Konickx
-focusses on the relationship between reader, designer and book. His
-first case study to demonstrate this was the work of Megan Hoogenboom,
-and specifically her ePub version of the poem [“Boem Paukeslag” by Paul
-van
-Ostaijen](http://www.meganhoogenboom.nl/index.php/boeken/digitaal-boek/24-epub-boem-paukeslag).
-Konickx noted that while this kind of poetry depends on specific
-formatting, taking spacing and fonts into consideration, for example,
-Hoogenboom successfully translated the poem into ePub format by
-transcending the usual role of the page, reinventing the part it is
-meant to play and “overcoming the so-called boundaries of ePub”.
-
-Konickx argued that Hoogenboom touched on the core of what a book is
-through this work; but what exactly is a book if it is not a collection
-of physical pages? The traditional notion of the book is very much bound
-by content as well as form. Surely drawing on Kittler’s work in
-[*Software Studies: A
-Lexicon*](http://mitpress.mit.edu/books/software-studies), Konickx
-evoked the example of the codex, noting how the development of parchment
-allowed the creation of the book as a whole, and on the part of the
-reader allowing them to feel as if they were holding “the whole world”
-in their hands. In particular here, Konickx cited Miriam Rasch as
-stating that digital books do not allow one to really feel what point
-they are at within a book: physical books, on the other hand, allow
-substance and form to work together to create a pleasurable mental and
-tactile experience.
-
-
-
-![](imgs/15896641321_a4a911d2b5_o.jpg)
-Harold Konickx takes us through Alberto Manguel
-
-
-
-Konickx is well aware of the nostalgic qualities of his research. Just
-as with McLuhan, he nodded to [Alberto
-Manguel’s](http://www.alberto.manguel.com/) argument that new
-technological developments make us more aware of old fashioned qualities
-we would otherwise have overlooked. A possible analogy of this, Konickx
-argued, is being currently demonstrated within the musical community
-with the rise in use of vinyl records. While accepting the love of books
-as objects is romantic, and books having desirably qualities in and of
-themselves, the session was not about putting the physical book on a
-pedestal.
-
-**The Digital**
-
-
-
-![](imgs/15898638565_6f3d80237f_o.jpg)
-Skeuomorphism on iBooks
-
-
-
-Considering the skeuomorphism present in Apple’s iBooks software,
-Konickx lucidly brought us back to McLuhan’s horseless carriage
-syndrome, wherein the first motor vehicles where designed to resemble
-horse drawn carriages in order to acclimatise the general public to
-their presence on the road. But despite the illusion of pages turning as
-shown in this image, Konickx argues that ebooks do, in fact, promote a
-far different experience than that of reading a printed book. Despite
-identifying ebooks as being essentially networked, Konickx returned to
-the description of physical books as a positive experience of allowing
-readers to have the whole world in their hands; I suppose that in this
-instance, the limits of a world – i.e., the end of the book – are more
-appealing than a world that is seemingly endless.
-
-Returning to Megan Hoogenboom, Konickx used her work as an example to
-show that the potential success of the ebook as a medium lies in the
-acceptance of its own specific capabilities. What makes a digital book
-stand on its own? Konickx pointed us towards [*Between Page and Screen:
-Remaking Literature through Cinema and
-Cyberspace*](http://fordhampress.com/index.php/between-page-and-screen-paperback.html)
-as an extensive collection of essays, published in 2012, as a means of
-establishing a discourse on the subject.
-
-**Intermediation**
-
-Coming to the end of his talk, Konickx moved to N. Katherine Hayles’
-essay “Intermediation”. Throughout her work, Hayles has been drawing
-comparisons between humans and computers to make a claim on our
-inter-relation. She argues that literature throughout the 20th century
-is computational. Konickx believes that the reading of a physical book
-lies in stark difference to the reading of a digital; Hayles would agree
-with this, and propose that this difference lies in the constant flux of
-words and images that change as a result of our needs. Moreover, Hayles
-argues that “a computer can function as a partner in creating
-intermediary dynamics in ways that a book cannot,” placing more agency
-to a computer as opposed to its printed and bound counterpart. According
-to Hayles, engagers with digital books are players rather than readers,
-as they have more control over what they are consuming. Hayles’ primary
-example of this is Judd Morrissey’s [The Jew’s
-Daughter](http://thejewsdaughter.com/), a form of digital literature,
-she argues, would be impossible when combined with the durability of
-ink.
-
-Konickx left us with this example, and by finally reminding us that a
-digital page is not a page, at least not in the same way as a physical
-book. These physical books have irreplaceable qualities, but digital
-books have new qualities that have yet to be fully explored through
-experimentation and the development of new ways of creation, and of
-engagement.
-
-# Context Without Walls – a generative workflow with EPUBster (Digital Publishing Toolkit November 2014) {.entry-title .single-title itemprop="headline"}
-
-By [Becky
-Cachia](http://networkcultures.org/digitalpublishing/author/beckycachia/ "Posts by Becky Cachia"),
-November 30, 2014 at 5:40 pm.
-
-The second showcase of the Digital Publishing Toolkit conference
-highlighted the collaborative work of the subgroup of
-[Valiz](http://www.valiz.nl/), [Meeus
-Ontwerpt](http://www.meeusontwerpt.nl/) and
-[PUNTPIXEL](http://www.puntpixel.nl/): *Context Without Walls – a
-generative workflow with EPUBster*.
-
-The aim of the project was to create a digital (EPUB) version of [Common
-Skin](http://www.valiz.nl/en/CommonSkin), a publication within the
-series [Context Without Walls](http://www.valiz.nl/en/Plans#col3). This
-series of print publications – developed by Valiz and designed by Meeus
-Ontwerpt – focuses on contemporary artists worldwide through both essays
-and images.
-
- 
-
-![](imgs/15279147793_28b308f45e_z.jpg)
-
-**the process of digitalising *Common Skin* was very challenging and
-ambitious.** As part of a series with meticulous and extensive design,
-it was difficult to do the publication the same justice in a digital
-format. To attempt to do so, they created an [online and open source
-tool](https://github.com/DigitalPublishingToolkit/epubster) – called
-[EPUBster](http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/)
-– to create, edit and publish this particular publication as well as to
-enable other designers, developers and publishers to create their own
-digital publications.
-
- 
-
-![](imgs/15711295808_a30cb2552d_z.jpg)
-
-*EPUBster* as a web application for the creation and editing of digital
-publications. The tool was developed as a general purpose tool, although
-it does have some specific functionalities for Valiz and Meeus
-Ontwerpt’s “Context Without Walls” series.
-
-Sybesma provided a concise overview of *EPUBster* by running the
-audience through the **four main components of the tool’s
-straightforward user interface**:
-
--   its metadata editor;
--   the chapter editor (for the re-arranging of chapters);
--   the functionalities of its content editors (both visual and plain
-    text);
--   the design features (to add a book cover and CSS styling).
-
-The four sections create a very flexible workflow in which the user can
-switch between sections at any point in the creation process. Once the
-user has filled in all the required metadata and finished creating,
-editing and styling chapters and content, the EPUB can be generated. You
-can read more about the development of EPUBster
-[here](http://networkcultures.org/digitalpublishing/2014/11/19/developing-epubster/).
-
- 
-
-![](imgs/15898137982_08b8b11a73_z.jpg)
-
-*Common Skin* to demonstrate the rich layers of text and imagery they
-were presented with. As an academic text, there were a lot of footnotes,
-quotes and index words. Therefore, **they created a book that showed
-this rich layered text by incorporating many layers around the core
-text.** For example, the margins contain index words to serve as both an
-entrance to the text and to build a vocabulary for the series.
-
-![](imgs/CWW_Binnenwerk_papier4.jpg)
-
-Janne and Hilde expressed that when they originally started the project
-of transforming the book into a digital version, they wanted to retain
-and expand on these characteristics that they had developed for the
-print version. They started off with a lot of exciting ideas for the
-digital version, e.g. incorporating videos and interactive margins, but
-they soon realised that, if they wanted the digital book to be accessed
-through different devices, they would not be able to incorporate the
-characteristics of their dreams. **The only way to retain the potential
-for the spread of the book was to focus on making a simple EPUB that
-could be read by all devices.**
-
-In doing so, they were restricted in many ways. For instance, they could
-only use open source typefaces, margin features where not possible, and
-the design elements were, more often than not, stripped from the book,
-by the device. **They were left with the question: Is there anything
-left to design?**
-
-In describing the process of creating the digital version of *Common
-Skin*, Janne and Hilde showed that they were overwhelmed by the feeling
-that **EPUBs are not controlled by people but rather by machines.**
-Therefore, their role as designers was simply to ensure that they could
-produce an error-free publication so as not to disturb the reading
-process.
-
-[The end product had to change a lot from the print
-version](http://networkcultures.org/digitalpublishing/2013/10/08/translating-a-paper-book-design-to-a-simple-e-pub-design/),
-e.g. different colours, typefaces, and the elimination of notes from the
-margins. After trying to use EPUBster as well as working with PUNTPIXEL
-to make EPUBster suit their needs, Meeus Ontwerpt needed to look to
-other tools to minimise the amount of problems they were being faced
-with. In the end, the EPUB was created using an EPUB editor called
-Sigil.
-
-## Reflection
-
-Upon completing the book, Janne and Hilde asked the question, **“What
-can the role of the designer be in the digital publishing process, if it
-is not only to make an EPUB that is free from errors?”** They now see
-the potential for experimentation and feel that there are indeed a lot
-of possibilities but they are at present not evident and will only be
-exposed through further experimentation.
 
 # Making the VolkskrantBuilding.epub {.entry-title .single-title itemprop="headline"}
 
@@ -1267,6 +1294,8 @@ invisible artifacts that in some contexts can become disruptive.
 Consequently the employment of other approaches and experimentation
 remains essential to the innovation and diversification of ebooks.
 
+
+
 # Developing EPUBster {.entry-title .single-title itemprop="headline"}
 
 By [Marc de
@@ -1393,6 +1422,8 @@ fully-fledged EPUB 3 without much trouble using the tools provided by
 ![](imgs/epubster-06.png)
 ![](imgs/epubster-08.png)
 ![](imgs/epubster-03.png)
+
+
 
 
 
@@ -1543,298 +1574,7 @@ GitHub](https://github.com/DigitalPublishingToolkit/my-highlights).
 
 
 
-# Markdown to Indesign with Pandoc (via ICML) {.entry-title .single-title itemprop="headline"}
 
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-October 8, 2014 at 5:37 pm.
-
-![](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
-
-![](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
-
-As part of the hybrid workflow for the Institute of Network Cultures
-developed by the INC subgroup, I started a collaboration with Italian
-graphic designer [Roberto Arista](http://projects.robertoarista.it/) in
-order to write and collect scripts that facilitate the process of
-importing HTML into InDesign.
-
-This [set of
-scripts](https://github.com/roberto-arista/fromHTMLtoXML_InDesignFlavour)
-pre-processes HTML files, preserving such entities like headers,
-paragraphs, italics, footnotes, tables, images, etc. Some of these steps
-are summarised
-[here](http://networkcultures.org/digitalpublishing/2014/05/import-html-into-indesign-via-xml/).
-The scripts do so by converting the HTML files into an InDesign-friendly
-XML structure and employing its *Import XML* function.
-
-While such procedure is pretty good at maintaining the underlying
-structure of the text (Paragraph and Character Styles are almost
-automatically generated), it still has some imperfections. For instance,
-an InDesign script called
-[ReFoot](http://www.indiscripts.com/post/2010/04/refoot-convert-markup-text-into-indesign-footnotes)
-was modified to generate footnotes declared with a XML-compatible
-markup. The problem is that footnotes’ inner styles (italic, bold) are
-lost. At the same time, yet no solution is provided to keep images or at
-least their position.
-
-Since May 2014, [pandoc](http://johnmacfarlane.net/pandoc/), an
-open-source ”universal document converter”, is able to produce outputs
-as ICML files. [ICML files](http://www.fileinfo.com/extension/icml) are
-generally managed by InCopy, Adobe’s own word processor meant to
-integrate with Adobe InDesign.
-
-One of the advantage of using pandoc to obtain ICML is the fact that no
-intermediate format is needed – HTML in our previous procedure.
-Therefore we can directly use our Markdown source files. Here’s the
-syntax to convert one document:
-
-    pandoc -s -f markdown -t icml -o my.icml my.md
-
--   **-s** option, which stands for “standalone”, produces output with
-    an appropriate header and footer;
--   **-f** option, which stands for “from”, is followed by the source
-    format;
--   **-t** option, which stands for “to”, is followed by the output
-    format;
--   **-o** option, which stands for “output”, is followed by the output
-    filename, **my.icml** in above example;
--   **my.md**, in the above example, is the source filename.
-
-The generated ICML file is then imported into InDesign with
-**File\>Place**. In order to test the output, I used [this
-file](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/10/Astrid.icml_.zip),
-derived from the [Society of the Query
-Reader](http://networkcultures.org/blog/publication/society-of-the-query-reader-reflections-on-web-search/).
-
-Both Paragraph Styles and Character Styles are automatically generated.
-
-Here’s a tentative list of preserved entities:
-
--   bold;
--   italic;
--   blockquotes:
--   footnotes;
--   headers;
--   paragraphs;
--   tables;
--   lists.
-
-In addition, a placeholder for each image is created.
-
-In this sense, pandoc seems to provide a pretty robust conversion system
-that straightforwardly connects the production and editing of Markdown
-structured text and the design phase in the Adobe InDesign environment.
-
-# Hybrid workflow how-to: introduction & editorial steps {.entry-title .single-title itemprop="headline"}
-
-By [Miriam
-Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
-October 7, 2014 at 2:57 pm.
-
-The hybrid workflow described below is developed by the [Institute of
-Network Cultures](http://networkcultures.org) within the Digital
-Publishing Toolkit. The research into this workflow was aimed at making
-the transition from a print-centered publication process towards a
-digital and print (hybrid) publication process. We ask the question: how
-to handle documents so publication on different platforms is possible?
-This means we don’t go into appropriate styles of writing or ways of
-designing epublications vis-à-vis paper books.
-
-Creating a workflow that is both structured and flexible enough to cater
-for the different choices made is a key step towards an efficient
-electronic or hybrid publishing strategy. The hybrid workflow we propose
-here is based on the need for publishing across different mediums, while
-keeping the majority of the work process in-house instead of
-outsourcing.
-
-Instead of ‘adding’ the digital publication at the end of an existing
-workflow, based on the printed book as end result as is often done by
-publishers, the workflow should be adjusted and made efficient and
-practical towards hybrid publishing in an earlier stage. From-scratch
-development of each publication format is thus replaced by single
-source, multi format publishing.
-
-The old, ‘traditional’ workflow is centered around the paper book
-production, which basically means that it is centered around an InDesign
-file. This file or the PDF that goes to the printer is the final
-document that can be archived. The new, ‘hybrid’ workflow, is centered
-around the archive file in Markdown, which is used as the basis for
-publications in different output formats. A Markdown-oriented workflow
-is both easy to use and open to many possibilities.
-
-This manual is divided into three parts, one for each ‘role’ in the book
-production process: editor, print book designer, and ebook developer.
-Below you’ll find the editorial steps – the first in the process. For
-the print design and ebook development see the respective blogposts for
-print book designer steps and ebook developer steps (to be published
-shortly).
-
-Please note that the description below starts at a point which in
-reality is not the beginning of the publication trajectory, namely when
-an author hands in the definitive manuscript – so after the editing and
-rewriting process has been rounded off. Should the author already be
-working in Markdown format, this will change the workflow. However, in
-our experience manuscripts are mainly produced in Microsoft Word and
-delivered in .doc or .docx.
-
-NB: An important step preceding the publication trajectory lies in the
-formulation of the in-house style guide, where authors and editors can
-find the requirements for the manuscript. This style guide must be
-adapted according to the hybrid workflow as an absolute start. This
-issue will be taken up in another blogpost.
-
-So how small edition, low budget publishing houses can implement the new
-workflow is what we will turn to now.
-
-## What is needed in preparation:
-
-**1. Install Pandoc** ([installation
-page](http://www.johnmacfarlane.net/pandoc/installing.html)). Pandoc is
-working in the so-called command line mode and not in a user interface
-environment. Hence you can’t ‘open’ the program and don’t see an icon.
-
-Windows: To start pandoc type cmd in the RUN (also called ‘search
-programs and files’ in the start panel which can be found under the MS
-window icon down in the toolbar), this will enable you to start the
-command mode. You get a white/black window saying C:useryourusername\>.
-There you type pandoc (enter) and the same line reappears, waiting for
-pandoc input (see further below).
-
-Mac: To use pandoc open the Terminal from your Utilities folder in your
-Applications folder, or through the search bar in the top right of your
-screen. Pandoc will be used to convert files in the steps below. *Note:
-Pandoc does not work on older Mac operating systems*.
-
-**2. Install a Markdown editor**. For Mac, use for example
-[Mou](http://25.io/mou/) or [MacDown](http://macdown.uranusjr.com/); for
-Windows, [MarkdownPad](http://markdownpad.com/).
-
-*What is Markdown?* John Gruber, developer of Markdown, describes
-Markdown on [his website](http://daringfireball.net/projects/markdown/)
-as follows: ‘Markdown allows you to write using an easy-to-read,
-easy-to-write plain text format, then convert it to structurally valid
-XHTML (or HTML).’ Markdown is a way to process plain, unformatted text
-with human-readable formatting symbols. That means that Markdown doesn’t
-use HTML style tags to format, such as \<b\> for bold or \ to
-mark-up the author name, but rather \#, \* and \_.
-
-## Notes on working in Terminal
-
--   Delete: If you like to delete parts of your text you need to use
-    your cursor and backspace. It is not possible to select parts of the
-    text and delete it nor can you move in the text by selecting a spot
-    with your mouse.
--   Go back: you can go back to earlier commands with the up arrow
--   Refresh: Close window and open a new one
--   You know that your command worked if you do not get an error.
-
-## Editorial steps
-
-You receive a digital document containing the definitive manuscript from
-an author. We’ll name this file Jane\_Writer\_def.doc.
-
-STEP 1: Open the file in Microsoft Word.
-
-STEP 2: Convert the document to docx-format by saving it as
-Jane\_Writer\_def.docx.
-
-STEP 3: Apply header styling in the Word-document. Use header 1 for
-title and author, header 2 for section title, header 3 for level below,
-et cetera. Header styling is found in the Toolbar of Microsoft Word
-under ‘Styles’ – click on the icon and select the right style. Or go to
-the menu and select ‘View’ and ‘Styles’ under Toolbox and work from the
-pop-up panel.
-
-STEP 4: Save.
-
-STEP 5: Convert the docx to Markdown using pandoc (for an elaborate user
-manual, see the [pandoc
-website](http://www.johnmacfarlane.net/pandoc/)):
-
--   Pandoc is a command-line tool. There is no graphic user interface.
-    So, to use it, you’ll need to open a terminal window (see above).
--   Create a subfolder in your Documents folder called ‘pandoc-test’.
-    For Windows, put this under C:usersyournamedocuments (in many cases
-    this is the default directory). This is the folder where we’ll store
-    and retrieve documents to be converted and which are made by pandoc.
--   Put the docx-document you want to convert in this folder called
-    pandoc-test. In this case: Jane\_Writer\_def.docx.
--   Go to the terminal and type cd Documents. This means the terminal
-    will ‘change directory’ to the Documents folder.
--   Now type cd pandoc-test. The terminal will change directory to the
-    folder within the Documents folder called pandoc-test. Now you can
-    work with the documents in there.
--   On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir
-    to get a list of files in the current folder. The
-    Jane\_Writer\_def.docx should be listed.
--   To convert the file from docx to markdown, type the following into
-    the terminal: pandoc Jane\_Writer\_def.docx -f docx -t
-    markdown -s -o Jane\_Writer\_def.md
--   The filename Jane\_Writer\_def.docx tells pandoc which file to
-    convert, -f docx -t markdown, so from docx to markdown. The -s
-    option says to create a ‘standalone’ file, with a header and footer,
-    not just a fragment. And the -o Jane\_Writer\_def.md says to put the
-    output in a file named Jane\_Writer\_def.md. (Note: in Mac you can
-    copy-paste the command, in Windows you can’t copy-paste.)
--   Check that the file was created by typing ls or dir again. You
-    should see Jane\_Writer\_def.md.
-
-STEP 6: Open the Markdown editor that you installed (Mou or
-Markdownpad), navigate to the pandoc-test directory and open the file
-you just created using pandoc, Jane\_Writer\_def.md. The file will now
-be opened in the markdown editor. You see two panels. The left panel is
-the markdown format which we use to work in, the right panel is the
-rendering of the coded panel into a user-readable-form. (You can also
-try to type ‘open Jane\_Writer\_def.md’ in the terminal to open the
-file.)
-
-STEP 7: Check the Markdown file after conversion: are the headers still
-marked, is there no funny formatting in the text, are the blockquotes
-and italics preserved, for example in the references?
-
-STEP 8: We use a template document showing how the formatting should be
-applied in a correct way and which metadata to add. The text can be
-copied into this document template, the format adjusted where needed
-(for instance title, author name, headings, references, notes, the table
-and the image). Save the file as Jane\_Writer\_final.md by choosing
-‘duplicate’.
-
-STEP 9: Add metadata information. Below is an example of relevant
-metadata used by the INC:
-
-    #Metadata
-
-    Pr-id: project
-    P-id: publication series
-    A-id: number within the series
-    Type (formerly called Item): type of the item
-    Book-type: anthology or monograph
-    Anthology item: TOC, article, index etc.
-    Item-id: unique no.
-    Article-title: title of the article
-    Article-status: submitted, under review, accepted
-    Author: name(s) of author(s)
-    Author-email: corresponding address
-    Author-bio: about the author
-    Abstract: short description of the article (100 words)
-    Keywords: 50 keywords for search and indexing
-    Rights: Creative Commons etc. 
-
-STEP 12: Save the final Markdown file into an archive folder. This is
-the document that can be send to the print designer and epub developer
-to work with in the production of the print book and ebook.
-
-## Images
-
-Check format of the images: is the quality good enough for print? Scale
-images to smaller size for e-book publication. Store the images and send
-to designer and developer.
-
-## Corrections
-
-Corrections form a large part of the editor’s workflow. How to handle
-them will be the subject of a separate blogpost.
 
 # How to Handle Corrections in a Hybrid Workflow {.entry-title .single-title itemprop="headline"}
 
@@ -1905,6 +1645,8 @@ Contents.
 **Archival file**
 
 **Communicating corrections**
+
+
 
 # Style Guide for Hybrid Publishing {.entry-title .single-title itemprop="headline"}
 
@@ -2002,6 +1744,8 @@ References:**Does not apply
 
 
 
+
+
 # Hybrid workflow how-to: Making automated workflows, part 2 {.entry-title .single-title itemprop="headline"}
 
 By [Michael
@@ -2041,7 +1785,7 @@ Open the Terminal and use the cd command to enter the "part2" folder in
 the developer section of the how-to-tutorial files.
 
 ``` {.sourceCode .bash}
-git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
+git clone <a href="https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git">https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git</a>
 
 cd how-to-tutorial/developer/part2
 ```
@@ -2100,16 +1844,16 @@ In the resulting markdown output, note the final Notes section:
 
 [^David_Crusoe.md-1]: The Common Core references algebraic set theory in
     its high school appendices. See
-    http://www.corestandards.org/assets/CCSSI\_Mathematics\_Appendix\_A.pdf
+    <a href="http://www.corestandards.org/assets/CCSSI%5C_Mathematics%5C_Appendix%5C_A.pdf">http://www.corestandards.org/assets/CCSSI\_Mathematics\_Appendix\_A.pdf</a>
     for more information.
 
 [^David_Crusoe.md-2]: Way Back Machine, 21 November 1996 archive of ‘How
     to Use Excite Search’,
-    http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt.
+    <a href="http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt">http://web.archive.org/web/19961219003220/http://www.excite.com/Info/advanced.html?aqt</a>.
 
 [^David_Crusoe.md-3]: Anthony Stuart, ‘Re: Boolean + Operator Removed?
     Why?’ posting to Google Search Forum, 5 November 2011,
-    http://productforums.google.com/forum/\#!searchin/websearch/%22implied\$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ.
+    <a href="http://productforums.google.com/forum/%5C#!searchin/websearch/%22implied%5C$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ">http://productforums.google.com/forum/\#!searchin/websearch/%22implied\$20and%22/websearch/3oIWbew9xdE/xuKBfNk5wjwJ</a>.
 ```
 
 First the "Notes" header has shifted from a level 2 to level 3. The
@@ -2330,7 +2074,7 @@ Note how the two command lines from the build02.sh script have been
 turned into rules of the form:
 
 ``` {.sourceCode .makefile}
-target: dependencies ...
+target: dependencies 
     command(s) to build the target
 ```
 
@@ -2384,6 +2128,8 @@ pasting from the web version will be using spaces!). Now type:
 ``` {.sourceCode .bash}
 make reader-trailer.gif
 ```
+
+
 
 # Hybrid workflow how-to: Making automated workflows, part 1 {.entry-title .single-title itemprop="headline"}
 
@@ -2455,7 +2201,7 @@ Open the Terminal and use the cd command to enter the “part1″ folder in
 the developer section of the how-to-tutorial files.
 
 ``` {.sourceCode .bash}
-git clone https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git
+git clone <a href="https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git">https://github.com/DigitalPublishingToolkit/Society-of-the-Query-Reader.git</a>
 
 cd how-to-tutorial/developer/part1
 ```
@@ -2539,7 +2285,7 @@ If you open test.html in your editor, you see that the file begins:
 ``` {.sourceCode .html}
 <h1 id="a-database-of-intention">A Database of Intention?</h1>
 
-...
+
 ```
 
 Note that pandoc automatically assigns an id to the header. This is
@@ -2566,7 +2312,7 @@ editor, you see it now begins:
 </head>
 <body>
 <h1 id="a-database-of-intention">A Database of Intention?</h1>
-...
+
 ```
 
 The output now contains a proper HTML doctype and head section with,
@@ -2651,20 +2397,20 @@ The output (in part) shows:
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$>
 <head>
-  ...
+  
   <meta name="author" content="$author-meta$" />
 endfor$
 if(date-meta)$
   <meta name="date" content="$date-meta$" />
 endif$
   $if(title-prefix)$$title-prefix$ - $endif$$pagetitle$
-  ...
+  
 for(css)$
   <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$/>
 endfor$
 </head>
 <body>
-...
+
 if(title)$
 
 <h1 class="title">$title$</h1>
@@ -2756,10 +2502,12 @@ option.
 pandoc Kylie-Jarrett.md --epub-stylesheet styles.css -o Kylie-Jarrett.epub --table-of-contents
 ```
 
-## Next time… {#next-time...}
+## Next time… {#next-time}
 
 In part 2 of this tutorial, we will work on a script to compile a
 collection of essays into a single Reader EPUB.
+
+
 
 # A reading device with some character and soul please {.entry-title .single-title itemprop="headline"}
 
@@ -2773,12 +2521,14 @@ better than the real thing.
 
  
 
-![Video: http://vimeo.com/108371598](imgs/492038655_640.jpg)
+![Video: <a href="http://vimeo.com/108371598](imgs/492038655_640.jpg)">http://vimeo.com/108371598](imgs/492038655_640.jpg)</a>
 
 [Frank Kloos on digital publishing: ‘Vooralsnog vind ik tablets
 karakterloos.’](http://vimeo.com/108371598) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # EPUB Trailers {.entry-title .single-title itemprop="headline"}
 
@@ -2809,6 +2559,305 @@ Gutenberg](http://www.gutenberg.org/).
 
 Above the title: [The Divine Comedy by Dante,
 Illustrated](http://www.gutenberg.org/ebooks/8799)
+
+
+
+# Markdown to Indesign with Pandoc (via ICML) {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+October 8, 2014 at 5:37 pm.
+
+![](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
+
+![](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
+
+As part of the hybrid workflow for the Institute of Network Cultures
+developed by the INC subgroup, I started a collaboration with Italian
+graphic designer [Roberto Arista](http://projects.robertoarista.it/) in
+order to write and collect scripts that facilitate the process of
+importing HTML into InDesign.
+
+This [set of
+scripts](https://github.com/roberto-arista/fromHTMLtoXML_InDesignFlavour)
+pre-processes HTML files, preserving such entities like headers,
+paragraphs, italics, footnotes, tables, images, etc. Some of these steps
+are summarised
+[here](http://networkcultures.org/digitalpublishing/2014/05/import-html-into-indesign-via-xml/).
+The scripts do so by converting the HTML files into an InDesign-friendly
+XML structure and employing its *Import XML* function.
+
+While such procedure is pretty good at maintaining the underlying
+structure of the text (Paragraph and Character Styles are almost
+automatically generated), it still has some imperfections. For instance,
+an InDesign script called
+[ReFoot](http://www.indiscripts.com/post/2010/04/refoot-convert-markup-text-into-indesign-footnotes)
+was modified to generate footnotes declared with a XML-compatible
+markup. The problem is that footnotes’ inner styles (italic, bold) are
+lost. At the same time, yet no solution is provided to keep images or at
+least their position.
+
+Since May 2014, [pandoc](http://johnmacfarlane.net/pandoc/), an
+open-source ”universal document converter”, is able to produce outputs
+as ICML files. [ICML files](http://www.fileinfo.com/extension/icml) are
+generally managed by InCopy, Adobe’s own word processor meant to
+integrate with Adobe InDesign.
+
+One of the advantage of using pandoc to obtain ICML is the fact that no
+intermediate format is needed – HTML in our previous procedure.
+Therefore we can directly use our Markdown source files. Here’s the
+syntax to convert one document:
+
+    pandoc -s -f markdown -t icml -o my.icml my.md
+
+-   **-s** option, which stands for “standalone”, produces output with
+    an appropriate header and footer;
+-   **-f** option, which stands for “from”, is followed by the source
+    format;
+-   **-t** option, which stands for “to”, is followed by the output
+    format;
+-   **-o** option, which stands for “output”, is followed by the output
+    filename, **my.icml** in above example;
+-   **my.md**, in the above example, is the source filename.
+
+The generated ICML file is then imported into InDesign with
+**File\>Place**. In order to test the output, I used [this
+file](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/10/Astrid.icml_.zip),
+derived from the [Society of the Query
+Reader](http://networkcultures.org/blog/publication/society-of-the-query-reader-reflections-on-web-search/).
+
+Both Paragraph Styles and Character Styles are automatically generated.
+
+Here’s a tentative list of preserved entities:
+
+-   bold;
+-   italic;
+-   blockquotes:
+-   footnotes;
+-   headers;
+-   paragraphs;
+-   tables;
+-   lists.
+
+In addition, a placeholder for each image is created.
+
+In this sense, pandoc seems to provide a pretty robust conversion system
+that straightforwardly connects the production and editing of Markdown
+structured text and the design phase in the Adobe InDesign environment.
+
+
+
+# Hybrid workflow how-to: introduction & editorial steps {.entry-title .single-title itemprop="headline"}
+
+By [Miriam
+Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
+October 7, 2014 at 2:57 pm.
+
+The hybrid workflow described below is developed by the [Institute of
+Network Cultures](http://networkcultures.org) within the Digital
+Publishing Toolkit. The research into this workflow was aimed at making
+the transition from a print-centered publication process towards a
+digital and print (hybrid) publication process. We ask the question: how
+to handle documents so publication on different platforms is possible?
+This means we don’t go into appropriate styles of writing or ways of
+designing epublications vis-à-vis paper books.
+
+Creating a workflow that is both structured and flexible enough to cater
+for the different choices made is a key step towards an efficient
+electronic or hybrid publishing strategy. The hybrid workflow we propose
+here is based on the need for publishing across different mediums, while
+keeping the majority of the work process in-house instead of
+outsourcing.
+
+Instead of ‘adding’ the digital publication at the end of an existing
+workflow, based on the printed book as end result as is often done by
+publishers, the workflow should be adjusted and made efficient and
+practical towards hybrid publishing in an earlier stage. From-scratch
+development of each publication format is thus replaced by single
+source, multi format publishing.
+
+The old, ‘traditional’ workflow is centered around the paper book
+production, which basically means that it is centered around an InDesign
+file. This file or the PDF that goes to the printer is the final
+document that can be archived. The new, ‘hybrid’ workflow, is centered
+around the archive file in Markdown, which is used as the basis for
+publications in different output formats. A Markdown-oriented workflow
+is both easy to use and open to many possibilities.
+
+This manual is divided into three parts, one for each ‘role’ in the book
+production process: editor, print book designer, and ebook developer.
+Below you’ll find the editorial steps – the first in the process. For
+the print design and ebook development see the respective blogposts for
+print book designer steps and ebook developer steps (to be published
+shortly).
+
+Please note that the description below starts at a point which in
+reality is not the beginning of the publication trajectory, namely when
+an author hands in the definitive manuscript – so after the editing and
+rewriting process has been rounded off. Should the author already be
+working in Markdown format, this will change the workflow. However, in
+our experience manuscripts are mainly produced in Microsoft Word and
+delivered in .doc or .docx.
+
+NB: An important step preceding the publication trajectory lies in the
+formulation of the in-house style guide, where authors and editors can
+find the requirements for the manuscript. This style guide must be
+adapted according to the hybrid workflow as an absolute start. This
+issue will be taken up in another blogpost.
+
+So how small edition, low budget publishing houses can implement the new
+workflow is what we will turn to now.
+
+## What is needed in preparation:
+
+**1. Install Pandoc** ([installation
+page](http://www.johnmacfarlane.net/pandoc/installing.html)). Pandoc is
+working in the so-called command line mode and not in a user interface
+environment. Hence you can’t ‘open’ the program and don’t see an icon.
+
+Windows: To start pandoc type cmd in the RUN (also called ‘search
+programs and files’ in the start panel which can be found under the MS
+window icon down in the toolbar), this will enable you to start the
+command mode. You get a white/black window saying C:useryourusername\>.
+There you type pandoc (enter) and the same line reappears, waiting for
+pandoc input (see further below).
+
+Mac: To use pandoc open the Terminal from your Utilities folder in your
+Applications folder, or through the search bar in the top right of your
+screen. Pandoc will be used to convert files in the steps below. *Note:
+Pandoc does not work on older Mac operating systems*.
+
+**2. Install a Markdown editor**. For Mac, use for example
+[Mou](http://25.io/mou/) or [MacDown](http://macdown.uranusjr.com/); for
+Windows, [MarkdownPad](http://markdownpad.com/).
+
+*What is Markdown?* John Gruber, developer of Markdown, describes
+Markdown on [his website](http://daringfireball.net/projects/markdown/)
+as follows: ‘Markdown allows you to write using an easy-to-read,
+easy-to-write plain text format, then convert it to structurally valid
+XHTML (or HTML).’ Markdown is a way to process plain, unformatted text
+with human-readable formatting symbols. That means that Markdown doesn’t
+use HTML style tags to format, such as \<b\> for bold or \ to
+mark-up the author name, but rather \#, \* and \_.
+
+## Notes on working in Terminal
+
+-   Delete: If you like to delete parts of your text you need to use
+    your cursor and backspace. It is not possible to select parts of the
+    text and delete it nor can you move in the text by selecting a spot
+    with your mouse.
+-   Go back: you can go back to earlier commands with the up arrow
+-   Refresh: Close window and open a new one
+-   You know that your command worked if you do not get an error.
+
+## Editorial steps
+
+You receive a digital document containing the definitive manuscript from
+an author. We’ll name this file Jane\_Writer\_def.doc.
+
+STEP 1: Open the file in Microsoft Word.
+
+STEP 2: Convert the document to docx-format by saving it as
+Jane\_Writer\_def.docx.
+
+STEP 3: Apply header styling in the Word-document. Use header 1 for
+title and author, header 2 for section title, header 3 for level below,
+et cetera. Header styling is found in the Toolbar of Microsoft Word
+under ‘Styles’ – click on the icon and select the right style. Or go to
+the menu and select ‘View’ and ‘Styles’ under Toolbox and work from the
+pop-up panel.
+
+STEP 4: Save.
+
+STEP 5: Convert the docx to Markdown using pandoc (for an elaborate user
+manual, see the [pandoc
+website](http://www.johnmacfarlane.net/pandoc/)):
+
+-   Pandoc is a command-line tool. There is no graphic user interface.
+    So, to use it, you’ll need to open a terminal window (see above).
+-   Create a subfolder in your Documents folder called ‘pandoc-test’.
+    For Windows, put this under C:usersyournamedocuments (in many cases
+    this is the default directory). This is the folder where we’ll store
+    and retrieve documents to be converted and which are made by pandoc.
+-   Put the docx-document you want to convert in this folder called
+    pandoc-test. In this case: Jane\_Writer\_def.docx.
+-   Go to the terminal and type cd Documents. This means the terminal
+    will ‘change directory’ to the Documents folder.
+-   Now type cd pandoc-test. The terminal will change directory to the
+    folder within the Documents folder called pandoc-test. Now you can
+    work with the documents in there.
+-   On Mac, type ls [l as in lima, referring to ‘list’], on Windows dir
+    to get a list of files in the current folder. The
+    Jane\_Writer\_def.docx should be listed.
+-   To convert the file from docx to markdown, type the following into
+    the terminal: pandoc Jane\_Writer\_def.docx -f docx -t
+    markdown -s -o Jane\_Writer\_def.md
+-   The filename Jane\_Writer\_def.docx tells pandoc which file to
+    convert, -f docx -t markdown, so from docx to markdown. The -s
+    option says to create a ‘standalone’ file, with a header and footer,
+    not just a fragment. And the -o Jane\_Writer\_def.md says to put the
+    output in a file named Jane\_Writer\_def.md. (Note: in Mac you can
+    copy-paste the command, in Windows you can’t copy-paste.)
+-   Check that the file was created by typing ls or dir again. You
+    should see Jane\_Writer\_def.md.
+
+STEP 6: Open the Markdown editor that you installed (Mou or
+Markdownpad), navigate to the pandoc-test directory and open the file
+you just created using pandoc, Jane\_Writer\_def.md. The file will now
+be opened in the markdown editor. You see two panels. The left panel is
+the markdown format which we use to work in, the right panel is the
+rendering of the coded panel into a user-readable-form. (You can also
+try to type ‘open Jane\_Writer\_def.md’ in the terminal to open the
+file.)
+
+STEP 7: Check the Markdown file after conversion: are the headers still
+marked, is there no funny formatting in the text, are the blockquotes
+and italics preserved, for example in the references?
+
+STEP 8: We use a template document showing how the formatting should be
+applied in a correct way and which metadata to add. The text can be
+copied into this document template, the format adjusted where needed
+(for instance title, author name, headings, references, notes, the table
+and the image). Save the file as Jane\_Writer\_final.md by choosing
+‘duplicate’.
+
+STEP 9: Add metadata information. Below is an example of relevant
+metadata used by the INC:
+
+    #Metadata
+
+    Pr-id: project
+    P-id: publication series
+    A-id: number within the series
+    Type (formerly called Item): type of the item
+    Book-type: anthology or monograph
+    Anthology item: TOC, article, index etc.
+    Item-id: unique no.
+    Article-title: title of the article
+    Article-status: submitted, under review, accepted
+    Author: name(s) of author(s)
+    Author-email: corresponding address
+    Author-bio: about the author
+    Abstract: short description of the article (100 words)
+    Keywords: 50 keywords for search and indexing
+    Rights: Creative Commons etc. 
+
+STEP 12: Save the final Markdown file into an archive folder. This is
+the document that can be send to the print designer and epub developer
+to work with in the production of the print book and ebook.
+
+## Images
+
+Check format of the images: is the quality good enough for print? Scale
+images to smaller size for e-book publication. Store the images and send
+to designer and developer.
+
+## Corrections
+
+Corrections form a large part of the editor’s workflow. How to handle
+them will be the subject of a separate blogpost.
+
+
 
 # make book {.entry-title .single-title itemprop="headline"}
 
@@ -2933,6 +2982,8 @@ ideally provide.
 -   [Don Marti slides](http://zgp.org/static/scale12x/)
 -   [GNU Make](http://www.gnu.org/software/make/) the official project
     homepage
+
+
 
 # Florian Cramer on “The Art of Hybrid Publishing” {.entry-title .single-title itemprop="headline"}
 
@@ -3100,93 +3151,7 @@ Humanities Press.
 
 
 
-# Wanted: intern with interest in e-books and digital publishing {.entry-title .single-title itemprop="headline"}
 
-By [Miriam
-Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
-September 4, 2014 at 2:25 pm.
-
-For the further development of its electronic publication strategy –
-combining digital and print books and other media – the Institute of
-Network Cultures is looking for an
-
-**Intern with a strong interest in digital publishing**3-6 months, 4
-days a week, starting January 2015
-
-You will be producing international publications in the field of online
-media in different formats (print, PDF, epub). A strong command of the
-English language in reading and writing is necessary, as most of the
-publications are in English. We are looking for someone with a keen
-interest or background in new media, writing & editing and/or the book
-industry. It is possible to do research for a thesis within this
-internship.
-
-The Institute of Network Cultures (INC) is a media research center that
-actively contributes to the field of network cultures through research,
-events, publications, and online dialogue. The INC was founded in 2004
-by media theorist Geert Lovink as part of the Amsterdam University of
-Applied Sciences (Hogeschool van Amsterdam). The institute acts as a
-framework sustaining several research projects, conferences, meetings,
-with a strong focus on publications. For more information see
-<http://networkcultures.org/>. For an overview of all INC publications
-go to <http://networkcultures.org/publications>.
-
-We are looking for an enthusiastic, energetic, inquisitive and precise
-(former) student with a demonstrated interest in the field of digital
-publishing and a desire to learn about books, e-books, and new media. In
-addition, you have strong writing and communication skills. Knowledge of
-WordPress, html, and social media management is a plus.
-
-**Internship duties include:**
-
-• Digitizing existing publications;
-
-The intern will be a part of a small team within a large institution.
-Other tasks within the team may include:
-
-• Attending meetings;
-
-**We offer:**
-
-• The opportunity to be part of a dedicated, informal, and inspirational
-organization with extended international networks;
-
-For further information you can contact Miriam Rasch, publications
-manager at <miriam@networkcultures.org> or +31 (0)20 5951865.
-
-Applications: if you are interested please send your resume and cover
-letter to <miriam@networkcultures.org> before November 1st 2014.
-
-# Announcement: The Post-Digital Scholar Conference {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-September 3, 2014 at 2:40 pm.
-
-Publishing between Open Access, Piracy and Public Spheres
-
-12.11. – 14.11.2014 | Lüneburg, Germany
-
-New media is dead! Long live new media! For three days, publishers,
-researchers, programmers, designers, artists, and entrepreneurs will
-discuss how research and publishing in the humanities have changed over
-the past decade. The conference will explore new tools for gathering
-knowledge, examine platforms for multimedia publishing, or collaborative
-writing experiments.
-
-Participants will focus on the interplay between pixels and print, and
-discuss open and closed modes of knowledge, in order to seek out what
-this elusive thing could be: post-digital knowledge.
-
-Please register
-[here](http://www.eventbrite.com/e/post-digital-scholar-conference-tickets-12164806263),
-participation is free of charge. This website will keep you updated and
-you can download the conference poster
-[here](http://www.eventbrite.com/e/post-digital-scholar-conference-tickets-12164806263).
-
-The Program of the “The Postdigital Scholar Conference” is chaired by:
-
-Mercedes Bunz – Head of Hybrid Publishing Lab
 
 # From print to what? {.entry-title .single-title itemprop="headline"}
 
@@ -3311,6 +3276,8 @@ and following the correct procedures to see the light of the tablets and
 ereaders allowing reading well-designed pages which are fit for re-use
 and multiple use, without much further ado.
 
+
+
 # Save the date, Showcases Digital Publishing Toolkit, 28th of November 2014 {.entry-title .single-title itemprop="headline"}
 
 By [margreet
@@ -3323,6 +3290,8 @@ September 22, 2014 at 6:58 pm.
 
 Het Instituut voor Netwerkcultuur presenteert: Het ABC van Digitaal
 Publiceren\_
+
+
 
 # INC project update: Hybrid Publishing Workflow test {.entry-title .single-title itemprop="headline"}
 
@@ -3357,95 +3326,99 @@ and published on the blog as soon as possible.
 The results of this test day will be implemented, and published on the
 blog as soon as possible!
 
-# Joost Kircz: Going Electronic {.entry-title .single-title itemprop="headline"}
 
-By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
-June 5, 2014 at 1:08 am.
 
-![](imgs/Joost.jpg)
+# Wanted: intern with interest in e-books and digital publishing {.entry-title .single-title itemprop="headline"}
 
-*A post by Mathijs Weijers*
+By [Miriam
+Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
+September 4, 2014 at 2:25 pm.
 
-Joost Kircz was the first speaker of the 2-day conference “Off the Press
-– Electronic Publishing in the Arts”, organized by the Institute of
-Network Cultures. From 2006 till 2013, Kircz was a part-time lecturer on
-electronic publishing within the Amsterdam University of Applied
-Sciences (Hogeschool van Amsterdam), and currently he is involved with
-the Digital Publishing Toolkit research project. He regularly publishes
-his findings on his personal website, [www.kra.nl](http://www.kra.nl/).
+For the further development of its electronic publication strategy –
+combining digital and print books and other media – the Institute of
+Network Cultures is looking for an
 
-Kircz’s presentation was about the various technical requirements and
-design standards that different types of electronic books need.
-“Electronic book publishing in the Arts is a multifarious adventure. On
-the one hand, electronic publishing is already an unclear notion and on
-the other hand the notion ‘Arts’ is something nobody agrees on anyway”,
-Kircz mused. He then introduced The Digital Publishing Toolkit, a
-project initiated by the Institute of Network Cultures in partnership
-with [Knowledge Center Creating 010](http://creating010.hr.nl/) of the
-Hogeschool van Rotterdam, and a number of publishers: “with this toolkit
-we want to be able to refrain from deep philosophical preoccupations and
-– as this conference will prove – are able to develop methods and
-techniques that help publishers, editors and authors to use electronic
-means to recreate old works and to create novel ones”. He argued that we
-must see Electronic Publishing as complimentary to print publishing and
-not just a change from paper-to-screen. What publishers need, and what
-the toolkit aims to provide, is easy to use, open source software (more
-about the Digital Publishing Toolkit, which is due to be release by the
-end of this year, can be read
-[here](http://networkcultures.org/digitalpublishing/aboutus/)).
+**Intern with a strong interest in digital publishing**3-6 months, 4
+days a week, starting January 2015
 
-Kircz argued that one of the most important features from the electronic
-medium is its active memory, “a memory that allows for endless reuse and
-multiple presentations on a great variety of substrates”. What he also
-pointed out is that content stored in an electronic memory cannot be
-read by humans. It is instead stored in a coded form: “(…) the most
-important conclusion we can draw from the fact that we use structured
-coded information as basis for book production, is that this demands new
-working methods throughout the whole process from author to reader. As
-soon as we take a step away from just a replication from the printed
-page, our design, our editorial practises, as well as our production and
-dissemination will change from bottom to top and back”, Kircz warned.
+You will be producing international publications in the field of online
+media in different formats (print, PDF, epub). A strong command of the
+English language in reading and writing is necessary, as most of the
+publications are in English. We are looking for someone with a keen
+interest or background in new media, writing & editing and/or the book
+industry. It is possible to do research for a thesis within this
+internship.
 
-Different types of publishing materials might require different
-treatment. Kircz laid out four major toolkit scenarios:
+The Institute of Network Cultures (INC) is a media research center that
+actively contributes to the field of network cultures through research,
+events, publications, and online dialogue. The INC was founded in 2004
+by media theorist Geert Lovink as part of the Amsterdam University of
+Applied Sciences (Hogeschool van Amsterdam). The institute acts as a
+framework sustaining several research projects, conferences, meetings,
+with a strong focus on publications. For more information see
+<<a href="http://networkcultures.org/">http://networkcultures.org/</a>>. For an overview of all INC publications
+go to <<a href="http://networkcultures.org/publications">http://networkcultures.org/publications</a>>.
 
-1\) Art/design catalogue;
+We are looking for an enthusiastic, energetic, inquisitive and precise
+(former) student with a demonstrated interest in the field of digital
+publishing and a desire to learn about books, e-books, and new media. In
+addition, you have strong writing and communication skills. Knowledge of
+WordPress, html, and social media management is a plus.
 
-Each kind of publication needs a different kind of approach in terms of
-use of metadata. What we read in a digital publication has much of this
-meta structure surrounding it, but we do not see it (i.e. a simple
-sentence like “ All you need is love” is in fact written in, for
-example, HTML code: \<quotation\> All you need is love \</quotation\>).
-This metadata can be used to specify and design almost any desired
-content and outcome but can also be complex to use.
+**Internship duties include:**
 
-What publishers need then is easy, readable software to work with. Kircz
-offered a short history of existing Mark-up Languages that address this
-need:
+• Digitizing existing publications;
 
--   SGML (1982) – which he described as the mother of all other coding
-    languages;
--   HTML 5 (most up-to-date ) – which is readable for humans;
--   Epub3 (most up-to-date) –  a competition to HTML5.
+The intern will be a part of a small team within a large institution.
+Other tasks within the team may include:
 
-What the Digital Publishing Toolkit aims to do is add further resources,
-tools and software to this list and aid publishers in their e-publishing
-endeavours.
+• Attending meetings;
 
-Kircz concluded that “(…) the central issue of our toolkit project is
-that we consciously try and define the creation, production, and
-consumption of a creative object as one single process. We try and
-experiment to create a production pipeline of illustrated texts or
-textually explicated collections of images in such a way that right from
-the beginning we understand, and appreciate that electronic publishing
-is more than reworking existing works, but a new creative branch in
-human expression.”
+**We offer:**
 
-You can find a PDF of his original presentation here: [Presentation
-Joost
-Kircz](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_01_JoostKircz.pdf)
+• The opportunity to be part of a dedicated, informal, and inspirational
+organization with extended international networks;
 
-![Video: http://vimeo.com/96562227](imgs/477909407_640.jpg)
+For further information you can contact Miriam Rasch, publications
+manager at <miriam@networkcultures.org> or +31 (0)20 5951865.
+
+Applications: if you are interested please send your resume and cover
+letter to <miriam@networkcultures.org> before November 1st 2014.
+
+
+
+# Announcement: The Post-Digital Scholar Conference {.entry-title .single-title itemprop="headline"}
+
+By [margreet
+riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
+September 3, 2014 at 2:40 pm.
+
+Publishing between Open Access, Piracy and Public Spheres
+
+12.11. – 14.11.2014 | Lüneburg, Germany
+
+New media is dead! Long live new media! For three days, publishers,
+researchers, programmers, designers, artists, and entrepreneurs will
+discuss how research and publishing in the humanities have changed over
+the past decade. The conference will explore new tools for gathering
+knowledge, examine platforms for multimedia publishing, or collaborative
+writing experiments.
+
+Participants will focus on the interplay between pixels and print, and
+discuss open and closed modes of knowledge, in order to seek out what
+this elusive thing could be: post-digital knowledge.
+
+Please register
+[here](http://www.eventbrite.com/e/post-digital-scholar-conference-tickets-12164806263),
+participation is free of charge. This website will keep you updated and
+you can download the conference poster
+[here](http://www.eventbrite.com/e/post-digital-scholar-conference-tickets-12164806263).
+
+The Program of the “The Postdigital Scholar Conference” is chaired by:
+
+Mercedes Bunz – Head of Hybrid Publishing Lab
+
+
 
 # John Haltiwanger: Free Your Objects (And Let The Subject Follow) {.entry-title .single-title itemprop="headline"}
 
@@ -3552,22 +3525,101 @@ Haltiwanger](http://networkcultures.org/digitalpublishing/wp-content/uploads/sit
 
  
 
-![Video: http://vimeo.com/96562329](imgs/477910239_640.jpg)
+![Video: <a href="http://vimeo.com/96562329](imgs/477910239_640.jpg)">http://vimeo.com/96562329](imgs/477910239_640.jpg)</a>
 
-# Vasilis van Gemert: ‘Over 100 jaar kunnen we nog HTML lezen’ {.entry-title .single-title itemprop="headline"}
 
-By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
-May 7, 2014 at 10:42 am.
 
-Developer and Designer of the Amsterdam Design School for Multimedia
-(CMD) makes a passionate plea for publishing on the web (in Dutch).
+# Joost Kircz: Going Electronic {.entry-title .single-title itemprop="headline"}
 
-![Video: http://vimeo.com/94333279](imgs/474236672_640.jpg)
+By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
+June 5, 2014 at 1:08 am.
 
-[‘Over honderd jaar kunnen we nog HTML lezen'; Vasilis van Gemert over
-digitaal publiceren](http://vimeo.com/94333279) from [network
-cultures](http://vimeo.com/networkcultures) on
-[Vimeo](https://vimeo.com).
+![](imgs/Joost.jpg)
+
+*A post by Mathijs Weijers*
+
+Joost Kircz was the first speaker of the 2-day conference “Off the Press
+– Electronic Publishing in the Arts”, organized by the Institute of
+Network Cultures. From 2006 till 2013, Kircz was a part-time lecturer on
+electronic publishing within the Amsterdam University of Applied
+Sciences (Hogeschool van Amsterdam), and currently he is involved with
+the Digital Publishing Toolkit research project. He regularly publishes
+his findings on his personal website, [www.kra.nl](http://www.kra.nl/).
+
+Kircz’s presentation was about the various technical requirements and
+design standards that different types of electronic books need.
+“Electronic book publishing in the Arts is a multifarious adventure. On
+the one hand, electronic publishing is already an unclear notion and on
+the other hand the notion ‘Arts’ is something nobody agrees on anyway”,
+Kircz mused. He then introduced The Digital Publishing Toolkit, a
+project initiated by the Institute of Network Cultures in partnership
+with [Knowledge Center Creating 010](http://creating010.hr.nl/) of the
+Hogeschool van Rotterdam, and a number of publishers: “with this toolkit
+we want to be able to refrain from deep philosophical preoccupations and
+– as this conference will prove – are able to develop methods and
+techniques that help publishers, editors and authors to use electronic
+means to recreate old works and to create novel ones”. He argued that we
+must see Electronic Publishing as complimentary to print publishing and
+not just a change from paper-to-screen. What publishers need, and what
+the toolkit aims to provide, is easy to use, open source software (more
+about the Digital Publishing Toolkit, which is due to be release by the
+end of this year, can be read
+[here](http://networkcultures.org/digitalpublishing/aboutus/)).
+
+Kircz argued that one of the most important features from the electronic
+medium is its active memory, “a memory that allows for endless reuse and
+multiple presentations on a great variety of substrates”. What he also
+pointed out is that content stored in an electronic memory cannot be
+read by humans. It is instead stored in a coded form: “(…) the most
+important conclusion we can draw from the fact that we use structured
+coded information as basis for book production, is that this demands new
+working methods throughout the whole process from author to reader. As
+soon as we take a step away from just a replication from the printed
+page, our design, our editorial practises, as well as our production and
+dissemination will change from bottom to top and back”, Kircz warned.
+
+Different types of publishing materials might require different
+treatment. Kircz laid out four major toolkit scenarios:
+
+1\) Art/design catalogue;
+
+Each kind of publication needs a different kind of approach in terms of
+use of metadata. What we read in a digital publication has much of this
+meta structure surrounding it, but we do not see it (i.e. a simple
+sentence like “ All you need is love” is in fact written in, for
+example, HTML code: \<quotation\> All you need is love \</quotation\>).
+This metadata can be used to specify and design almost any desired
+content and outcome but can also be complex to use.
+
+What publishers need then is easy, readable software to work with. Kircz
+offered a short history of existing Mark-up Languages that address this
+need:
+
+-   SGML (1982) – which he described as the mother of all other coding
+    languages;
+-   HTML 5 (most up-to-date ) – which is readable for humans;
+-   Epub3 (most up-to-date) –  a competition to HTML5.
+
+What the Digital Publishing Toolkit aims to do is add further resources,
+tools and software to this list and aid publishers in their e-publishing
+endeavours.
+
+Kircz concluded that “(…) the central issue of our toolkit project is
+that we consciously try and define the creation, production, and
+consumption of a creative object as one single process. We try and
+experiment to create a production pipeline of illustrated texts or
+textually explicated collections of images in such a way that right from
+the beginning we understand, and appreciate that electronic publishing
+is more than reworking existing works, but a new creative branch in
+human expression.”
+
+You can find a PDF of his original presentation here: [Presentation
+Joost
+Kircz](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_01_JoostKircz.pdf)
+
+![Video: <a href="http://vimeo.com/96562227](imgs/477909407_640.jpg)">http://vimeo.com/96562227](imgs/477909407_640.jpg)</a>
+
+
 
 # Angie Keefer: The difference between the two {.entry-title .single-title itemprop="headline"}
 
@@ -3597,7 +3649,9 @@ You can find a PDF of her original presentation here: [Presentation
 Angie
 Keefer](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_04_AngieKeefer.pdf).
 
-![Video: http://vimeo.com/65248695](imgs/436281081_640.jpg)
+![Video: <a href="http://vimeo.com/65248695](imgs/436281081_640.jpg)">http://vimeo.com/65248695](imgs/436281081_640.jpg)</a>
+
+
 
 # Sebastian Luetgert – Precarious Publishing, Autonomous Archiving, Collaborative Collecting {.entry-title .single-title itemprop="headline"}
 
@@ -3662,7 +3716,9 @@ If you want to know more about the project, contact Sebastian and Jan
 
 
 
-![Video: http://vimeo.com/97508729](imgs/477911819_640.jpg)
+![Video: <a href="http://vimeo.com/97508729](imgs/477911819_640.jpg)">http://vimeo.com/97508729](imgs/477911819_640.jpg)</a>
+
+
 
 # Oliver Wise – Making .epubs easy with The People’s E-book {.entry-title .single-title itemprop="headline"}
 
@@ -3758,7 +3814,9 @@ Wise](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2
 
 Follow Oliver on Twitter : @owise1oliver@thepresentgroup.comgithub.com/peoples-ethepresentgroup.comhttp://beta.thepeoplesebook.net/
 
-![Video: http://vimeo.com/96562327](imgs/477910338_640.jpg)
+![Video: <a href="http://vimeo.com/96562327](imgs/477910338_640.jpg)">http://vimeo.com/96562327](imgs/477910338_640.jpg)</a>
+
+
 
 # Miriam Rasch – Hybrid Workflows for Hybrid Publishing {.entry-title .single-title itemprop="headline"}
 
@@ -3816,7 +3874,9 @@ Rasch](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/
 Miriam writes books reviews and guest posts for different websites and
 magazines. Look up her [personal blog](http://www.miriamrasch.nl/).
 
-![Video: http://vimeo.com/96562332](imgs/477910524_640.jpg)
+![Video: <a href="http://vimeo.com/96562332](imgs/477910524_640.jpg)">http://vimeo.com/96562332](imgs/477910524_640.jpg)</a>
+
+
 
 # Marcell Mars: Free access to resources for every member of society {.entry-title .single-title itemprop="headline"}
 
@@ -3910,7 +3970,9 @@ sharing’s satellites g33koskop, ‘Nothing will happen’ and ‘The Fair of
 Mean Equipment’. His full biography
 [here](http://networkcultures.org/digitalpublishing/22-23-may-2014/biographies/).*
 
-![Video: http://vimeo.com/97508731](imgs/477911980_640.jpg)
+![Video: <a href="http://vimeo.com/97508731](imgs/477911980_640.jpg)">http://vimeo.com/97508731](imgs/477911980_640.jpg)</a>
+
+
 
 # Dušan Barok: Communing Texts {.entry-title .single-title itemprop="headline"}
 
@@ -4001,7 +4063,9 @@ reading experiences. The way linking takes place on the web and the way
 scholars reference their works are two perspectives that could unite for
 a better communing of texts in e-publishing.
 
-![Video: http://vimeo.com/97508732](imgs/477911824_640.jpg)
+![Video: <a href="http://vimeo.com/97508732](imgs/477911824_640.jpg)">http://vimeo.com/97508732](imgs/477911824_640.jpg)</a>
+
+
 
 # Conference report: Off the Press {.entry-title .single-title itemprop="headline"}
 
@@ -4025,6 +4089,8 @@ Or read online: [part
 and [part
 2](http://networkcultures.org/digitalpublishing/2014/05/off-the-press-report-day-ii/).
 
+
+
 # Alessandro Ludovico – Networks as agents in the clash between personal and industrial post-digital print {.entry-title .single-title itemprop="headline"}
 
 By [jakubdutka](http://networkcultures.org/digitalpublishing/author/jakubdutka/ "Posts by jakubdutka"),
@@ -4040,7 +4106,7 @@ Alessandro Ludovico during his talk on day 1 of Off the Press 2014
 Alessandro Ludovico, the author of *[Post-Digital Print, The Mutation Of
 Publishing Since 1894](http://monoskop.org/log/?p=4165), *is an Italian
 media critic and editor in chief of *Neural* magazine
-(<http://neural.it/>) since 1993, for which he received an honorary
+(<<a href="http://neural.it/">http://neural.it/</a>>) since 1993, for which he received an honorary
 mention of the Prix [Ars
 Electronica](http://monoskop.org/Ars_Electronica) 2004. He has published
 and edited several books, and has lectured worldwide. He’s one of the
@@ -4177,7 +4243,9 @@ You can find a PDF of his original presentation here: [Presentation
 Alessandro
 Ludovico](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S1_02_Alessandro-Ludovico.pdf)
 
-![Video: http://vimeo.com/96574475](imgs/477909957_640.jpg)
+![Video: <a href="http://vimeo.com/96574475](imgs/477909957_640.jpg)">http://vimeo.com/96574475](imgs/477909957_640.jpg)</a>
+
+
 
 # Pia Pol: Digitizing Context Without Walls, Creating EPubs Through the EPubster Generator {.entry-title .single-title itemprop="headline"}
 
@@ -4230,268 +4298,9 @@ the Digital Publishing Toolkit development period.
 You can find a PDF of her original presentation here: [Presentation Pia
 Pol](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_03_PiaPol.pdf)
 
-![Video: http://vimeo.com/96562363](imgs/477910548_640.jpg)
-
-# Off the Press – Report Day II {.entry-title .single-title itemprop="headline"}
-
-By [ariealtena](http://networkcultures.org/digitalpublishing/author/ariealtena/ "Posts by ariealtena"),
-May 27, 2014 at 9:28 pm.
-
-**Tools and Workshops**
-
-The second day of Off the Press starts with workshops. I decide to go to
-the workshop about pandoc first, as it promises to be about a way of
-working with text that I am not used to, but have started to like. When
-I started to use computers, in 1991 there was already Word and that is
-what I used for writing. At the same time I still sometimes had to use
-command line tools and learned about 20 Unix-commands. Through the years
-I’ve met people who championed the use of emacs, LaTEX, Multimarkdown or
-pandoc. But I have never really figured out how to work in that
-‘paradigm’. First thing to understand is that pandoc is basically a very
-powerful converting tool. Pandoc is not an environment, but a step in a
-chain, a step in the workflow. It just converts. And it won’t solve the
-problems of converting visual design to a digital format. It is based on
-using Markdown, a simple markup language that uses asterisks, square
-brackets, underscores. I have always found it easier to write HTML
-markup, than this type of markup, but it is even simpler than writing
-HMTL-tags. The idea is that the plain text file shows the structure in a
-human readable format but is ready for computer consumption at the same
-time. What you see is what you get – but in a different way. An
-interesting remark is made – I forget who made it: ‘Word and InDesign
-are not *basic* tools of the trade – though most people now have grown
-up thinking they are. They are very *specific* tools.’ And it’s true
-that especially editors can take advantage of the knowledge of markup
-languages to create better, cleaner source texts… There’s some panic and
-chaos in the workshop, as the difference in competence is really big.
-Some participants use the terminal mode all the time, others have never
-seen a command line interface before, let alone worked with it. There is
-also a bit of a clash between those who think that people should be
-empowered to use tools themselves and acquire what they think is
-necessary basic knowledge, versus people who do not have such ‘basic
-knowledge’, consider such knowledge to be ‘technical’, and who, let’s
-face it, will probably never use these tools themselves anyway. In the
-middle is a majority who at least would like to get a taste of the
-‘basic knowledge’.
+![Video: <a href="http://vimeo.com/96562363](imgs/477910548_640.jpg)">http://vimeo.com/96562363](imgs/477910548_640.jpg)</a>
 
 
-
-After the lunch break I have a look at  the other two workshops. Two
-groups of each 20 participants (the maximum) are working concentrated.
-In the SuperGlue workshop (<http://superglue.it/>) all have just
-installed, or tried to install, the SuperGlue package, thus creating a
-local network of mini servers. (The SuperGlue website states:
-‘SuperGlue’s mini-server provides full control of your personal data by
-enabling you to run and maintain your server at home. This means you can
-better protect and share important information, directly with those whom
-you want to share it with. So your privacy is in your hands.’) Danja
-Vasiliev, one of the workshop tutors and creators of SuperGlue asks:
-‘who has got it working?’ About everybody has it working. When I check
-my Airport it sees six SuperGlue networks. Again, I realise I should
-finally learn how to set up my own server, that I should learn this
-little bit of command line tweaking, so I can run WordPress on my own
-machine, and have all the other useful tools at my fingertips. It really
-is basic knowledge. A lot of it is hardly ‘technical’ – but it’s in a
-different computer paradigm, that feels very far removed from the shiny
-‘intuitive’ interfaces.
-
-Megan Hoogenboom leads the workshop in which the participants try to
-make an epub form a work of visual poetry. About everyone is playing
-around with what I call good old-fashioned HTML: writing tags. It looks
-like they are having good fun with HTML and CSS.
-
-Both the SuperGlue workshop and the visual poetry workshop show that
-it’s fun to work with tools that empower you as user, that give you the
-feeling of being in control and creating something – instead of
-consuming nice interfaces that mostly control you. (I would say that
-working, well playing, with an iPad mostly give the user the feeling of
-being controlled by the interface, not of being in control. Using an
-iPad certainly does not enhance the feeling that one can make something
-oneself, apart from using services that offer heavily pre-formatted ways
-of creation. Sure, the touch screen can be great to control sound
-output, and it can be nice for gaming, but that is another
-thing). It’s an old point, but it stays relevant.
-
-Back in the days – roughly 1997 to 2000 – I taught basic HTML (and
-writing to the web and so forth) at Mediamatic. At the time it was still
-considered ‘handy’ for editors and designers – who actually already were
-working in Dreamweaver and were doing Flash – to know some HTML. (Of
-course the question was always raised: why should we know these tags,
-when you can do the same visually in a WISYWIG editor?) Who, apart from
-the ‘nerds’, maintained their websites doing HTML in the 21^st^ century?
-Maybe some artists who liked the simplicity of HTML. Some academics. The
-great thing is that a website made with simple HTML in 1995 still
-displays fine in any browser. I think there is a basic, simple fun in
-creating something with one’s own hands. Maybe the result doesn’t look
-as slick as other websites, but it will work fine, and you have control
-over almost every step.
-
-Also in the visual poetry workshop I mostly see smiling faces. They
-generate an epub in the end – using a command line tool. And that’s
-great. There is fun in making epubs. (Michael Murtaugh told me that the
-pandoc workshop, which started quite chaotic, also ended with a great
-feeling of relief from the side of the participants, when they create an
-epub-output with pandoc with a simple command.)
-
-**Libraries**
-
-‘Mp3 was not made big by the music industry, it was made big by file
-sharing, started by hackers. Netflix makes it decisions about
-programming by analysing Pirate Bay downloads. Maybe,’ Florian Cramer
-says, because he’s doing the introduction again, ‘we should have started
-the conference with this last panel on underground publishing.’ The
-underground file sharing of books is, at least in Europe, much larger
-than the retail market of e-books. Artists have been very active in this
-scene from the beginning according to Florian Cramer. It also exists
-much longer than the retail market. Some of it is illegal ‘sharing’ of
-books, but not all of it. Here at the conference *Bibliothecha* is
-running on a little local file server. It appears as an open wireless
-device on one’s computer and allows you to download books that people
-have put there. There’s also a website and a public repository – at
-[http://bibliotecha.info](http://bibliotecha.info/).
-
-Sebastian Lütgert, the next speaker, ran a repository of philosophical
-and activist and underground texts ‘back in the days’. (I still should
-have a lot of those files somewhere on a harddisk, the start of my
-digital library together with downloads from Project Gutenberg). His
-talk is about ‘what do you do with your books’. What do you do with the
-gigantic amounts of unsorted PDFs and epubs that you have on your hard
-disk, often not properly named. He assumes we all have such collections
-– do we? He does not like Calibre as a management tool and reader.
-Calibre (<http://calibre-ebook.com/>) – in the first place a converter
-for epubs and comparable formats – seems to be the tool of choice of
-many. Though I wonder how many users in the iPad/iPhone/Adobe universe
-know of it. Sebastian Lütgert main question is: how should
-library-software function, what is a good ebook-management tool? With
-support from Constant vzw (<http://www.constantvzw.org/site/>) in
-Brussels such software is developed: openmedialibrary
-(<http://openmedialibrary.com/#about>). He shows how it works in a web
-browser. It allows browsing the library of peers, and transferring books
-from there to one’s own computer.
-
-We’re in ‘the underground’ here so we’re assuming that we’re dealing
-with free content and books that people have bought and like to share
-with friends… But the topic now is not how the digital is or should be
-changing society, culture and the economy. We’re looking at how the
-tools work in practice. Tools like this one are important, they are an
-activist ‘cog’ in the ‘machinery’. They change the function of the
-public library too – and public libraries, at least in Europe, are
-thinking about these transformations. Here we get into an endless and
-endlessly interesting discussion, which is a topic for another
-conference. It is self-evident that this is about sharing knowledge,
-which is a basis of our civilization. If I sound a bit ironic, this is
-unintentional. I agree with the philosophy to build these tools – it is
-an active and activist impetus to change society.
-
-Calibre by the way also has a function to set up a content server, and
-can connect to other users. I think Calibre is a decent viewer, it’s
-great for conversion (Mobi to epub…), and can be used to produce ebooks.
-The main downside to Calibre, for me, – except for the fact that it adds
-its own code to your converted epubs – is that its interface is not
-attractive at all.
-
-After Sebastian Lütgert it’s over to the Marcell Mars – hacker,
-activist, researcher. He is expert in book sharing and book hacking, and
-is, or was, actively involved in creating code for Calibre. (Actually he
-has just been banned from the developer forum). He wrote a sharing tool
-for Calibre:
-[memoryoftheworld.org/public-library](http://memoryoftheworld.org/public-library)).
-He says: aesthetics and usability are less important than social
-interaction. Calibre might be ugly – he says it’s ugly – and not the
-easiest tool, but it has thousands of users. He wants to make Calibre a
-political project. He mentions the property regime and intellectual
-property are a huge problem. They sure are. He also rants against the
-technological problems – the asymmetry in the network, laptops that send
-requests for data, but never send data, though they could. He is so
-right in that. The internet we have created is a far cry to what it
-could have been in the dreams of 30, 20 or even 10 years ago. But most
-importantly Mars wants to connect again to the idea of the public
-library. The public library as the democratic dream of access to
-knowledge. He’s from Croatia where in 1991 books were burned because
-they were in Cyrillic, in Serbian, and/or communist. And the book
-scanning project at MAMA in Zagreb was a way of resurrecting that burned
-library. He’s passionate about the idea of the public library, and a
-passionate speaker with his Karl Marx-beard, using the word struggle
-quite a bit. I think he is very right in his passionate plea for the
-public library, and his plea against the development of electronic
-reading as ‘streaming’, licensing temporary access to a file, where the
-whole reading behaviour is controlled. In between he advises us to read
-*Paper Machines*, Markus Krajewski’s book on the card catalogue. The
-issue he raises is that of having power in the control over access to
-knowledge, control over the index to knowledge. He pleads to not let
-Google take over a total control over this index, that we need to retain
-the index of the public library. He also pleas for retaining the
-function of a librarian – as a person, a human being – and not hand over
-the control over the index to computer engineers and algorithms. There
-are many points in his presentation that deserve a detailed
-think-through and discussion.
-
-Dusan Barok of monoskop (<http://monoskop.org>) is the last speaker.
-He delves into the history of reading and publishing, going back to
-manuscripts and scrolls. While he talks an image of one of the earliest
-Greek manuscripts of Plato’s *Phaedrus* is shown, with the title
-‘Communing Texts’. Referencing is his main topic. How to refer to
-passages in an ebook? Pagination – a historical, ‘technological’
-invention that came about through the development of the codex – is
-hardly ever mentioned in the discussion of ebooks. Dusan compares two
-traditions of referencing: the academic one (pointing to a specific
-passage in a text) and hyperlinking between sections of a website
-(through using anchors). He would like to see the possibility to
-digitally augment references in scanned printed books, as well as the
-possibility to link to any passage in a digital text – regardless of
-whether there is an anchor in the HTML. He says that this means looking
-at digital text as a continuous line of data (which is the materiality
-of digital text anyway). Enabling referencing between texts is
-important, as in such a way a community of texts can arise.
-
-During the discussion Joost Kircz repeats that we indeed need
-referencing inside texts – and that this still does not exist.
-Interestingly Sebastian Lütgert says that it is probably easy to make
-such references inside electronic publications – and sketches the
-concept how it could work. Sounds simple. Joost Kircz says: well let’s
-make it, because this does not exist, and we have been wanting it for
-over 30 years now.  (I think: doesn’t this go back to Ted Nelson’s ideas
-on transclusion – and that was very problematic?) Marcel Mars thinks
-that any computer student could solve it. But it’s another question if
-such a standard would be used. (And making sure it becomes a standard is
-difficult).
-
-Marcell Mars ends one of his answers with that he hates the idea of the
-underground in the American and UK sense – ‘I’m not underground, fuck
-you’. He is very right – when you would consider all our book sharing
-(which in the current technical implementation means downloading) as
-being the new implementation of the public library. (And not as building
-a private library).
-
-**Toolkit**
-
-So, is there a toolkit? There is no finished toolkit yet. There is the
-repository with tools
-<http://networkcultures.org/digitalpublishing/github/>. There is also by
-now a good insight in the various workflows used by small publishers,
-artists, writers, self-publishers and organizations. There is an
-overview of the pro’s and con’s of different tools. There is an overview
-of how all of this relates to the larger context of publishing, and to
-reading and sharing behaviours in online and offline culture. There is
-probably no perfect toolkit that fits every need. What I personally
-learned, is that pretty much everybody has been trying out different
-ways of making epubs that are good enough to bring into the world, and
-that there’s almost always something that has to be done ‘by hand’ as
-well, some tweaking and correction. Every method has advantages and
-disadvantages, and what fits a certain project depends on a variety of
-factors: the source text, the editorial process, the goal of the
-publication, the envisioned market or reading group, the available time…
-I think a progression has been made thanks to this project and the three
-conferences. There is also progression in knowing that a lot concerns
-really very basic stuff – very basic stuff.
-
-The attraction of epubs for me lies in the fun of making something which
-is simple, which you can do yourself (just as well as any large
-institution). It’s in the joy of making – and also there is a parallel
-with web design of the middle 1990s. In that respect I have gone from
-amazement over the fact that such a fuss was being made of ‘e-books’, to
-a joy of making epubs.
-
-(For pictures see: <https://www.flickr.com/photos/networkcultures/>)
 
 # Off the Press – Report Day I {.entry-title .single-title itemprop="headline"}
 
@@ -4500,7 +4309,7 @@ May 27, 2014 at 10:44 pm.
 
 *Off the Press, Electronic Publishing in the Arts* is the third one in a
 series on the state of electronic publishing that started with the
-Unbound Book (http://networkcultures.org/wpmu/unboundbook/),
+Unbound Book (<a href="http://networkcultures.org/wpmu/unboundbook/">http://networkcultures.org/wpmu/unboundbook/</a>),
 and was more recently followed by the presentation of the research of
 The Publishing Toolkit at the Hogeschool van Amsterdam in november 2013.
 
@@ -4593,8 +4402,8 @@ no perfect technological fix.
 
 **Post-Digital Publishing**
 
-Alessandro Ludovico – editor of *Neural* (<http://neural.it>) and expert
-in post digital publishing (see <http://postdigitalprint.org>) – gives
+Alessandro Ludovico – editor of *Neural* (<<a href="http://neural.it">http://neural.it</a>>) and expert
+in post digital publishing (see <<a href="http://postdigitalprint.org">http://postdigitalprint.org</a>>) – gives
 an overview of a specific culture of artist books, made possible by the
 coupling of online free digital content, print on demand, and simple
 scripting. This has created a new taxonomy of publications that scrape
@@ -4618,7 +4427,7 @@ possibilities of searching through an enormous corpus is used to gain
 new insights on both the history of literature, and through that also on
 history. I am of course referring to Franco Moretti’s books (a.o. on
 *The Bourgeois* in the 19th Century) and the Stanford Literary Lab
-(<http://litlab.stanford.edu/>). Moretti’s take on this is quite down to
+(<<a href="http://litlab.stanford.edu/">http://litlab.stanford.edu/</a>>). Moretti’s take on this is quite down to
 earth. The thousands of scanned books – which nobody will ever read –
 can be used to get *some* insight on the development of ideas, and of
 daily life. Human intelligence is needed to obtain these insights and
@@ -4654,7 +4463,7 @@ Castro – computer book author –  uses Twitter to interview people about
 Catalunya and the Catalan language (see \#CatalanTalk). She explains how
 she uses the Twitter-interviews in different languages (she has an
 online volunteer translation team) about Catalan, how she stores and
-archives them using Storify (https://storify.com/). The question is
+archives them using Storify (<a href="https://storify.com/">https://storify.com/</a>). The question is
 how to go from Storify to epub? As tweets are basically HTML, this
 should be straightforward enough. She explains the workflow. First
 export to XML. Create XSLT to filter the XML – of course there is way
@@ -4678,7 +4487,7 @@ The People’s Ebook
 Oliver Wise, is intended to be the tool to create ebooks in the most
 simple way. There are now a number of such tools. (I made the
 epub2-version of the Sonic Acts publication *The Dark Universe* with
-Pressbooks (<http://pressbooks.com/>), which I found an easy and
+Pressbooks (<<a href="http://pressbooks.com/">http://pressbooks.com/</a>>), which I found an easy and
 agreeable tool which fitted that particular project. I am used to
 WordPress, and in Pressbooks is easy to do the footnotes by hand.) The
 People’s Ebook uses WYSIWYG for the People’s Ebook, not Markdown.
@@ -4705,9 +4514,9 @@ necessarily bad – it is useful in many circumstances).
 **HTML is king/queen?**
 
 Adam Hyde is the man of the Booksprint methodology of making books
-(<http://www.booksprints.net/>), Floss Manuals
-(<http://booki.flossmanuals.net/>), Booktype
-(<http://www.sourcefabric.org/en/booktype/>), and many more similar
+(<<a href="http://www.booksprints.net/">http://www.booksprints.net/</a>>), Floss Manuals
+(<<a href="http://booki.flossmanuals.net/">http://booki.flossmanuals.net/</a>>), Booktype
+(<<a href="http://www.sourcefabric.org/en/booktype/">http://www.sourcefabric.org/en/booktype/</a>>), and many more similar
 projects. He recently did a Booksprint on Booksprints. He gave up art
 after art had brought him to Antarctica. He entitled his talk ‘Books are
 Evil, 8 years in the wilderness’, and gives an overview of publishing
@@ -4891,7 +4700,7 @@ sense.
 
 **More Presentations**
 
-visualMANIAC (<http://visualmaniac.com/>) from Madrid create and sell
+visualMANIAC (<<a href="http://visualmaniac.com/">http://visualmaniac.com/</a>>) from Madrid create and sell
 image heavy (art) publications. Judging from their websites, they are
 much more in an ‘ipad-touch-screen-world’ than some of the earlier
 presenters. They have about 1200 publications in the store. They are a
@@ -4936,7 +4745,7 @@ Even in the 18th Century books were produced and published very, very
 fast to react on topical issues.
 
 Matthew So presents the books of Badlands Unlimited
-(<http://badlandsunlimited.com/>), founded by the artist Paul Chan. They
+(<<a href="http://badlandsunlimited.com/">http://badlandsunlimited.com/</a>>), founded by the artist Paul Chan. They
 see publishing as an experiment, make books ‘in an expanded field’. In
 their store they have the choice between IRL (printed), Amazon, or
 iPad+iPhone. They are not typical. They work only on Mondays and
@@ -4978,9 +4787,9 @@ collaborated with Stuart Bailey in my *Metropolis M* past, and greatly
 admire his work. Angie Keefer gives a short introduction and then shows
 a long video – *Letter & Spitter.* It is about the 1960s breakthrough
 work of Donald Knuth
-(<http://www-cs-faculty.stanford.edu/~uno/index.html>), the man behind
+(<<a href="http://www-cs-faculty.stanford.edu/~uno/index.html">http://www-cs-faculty.stanford.edu/~uno/index.html</a>>), the man behind
 Metafont
-(<http://www.math.zju.edu.cn/ligangliu/LaTeXForum/TeXBooks/Metafont/MetaFontBook.pdf>)
+(<<a href="http://www.math.zju.edu.cn/ligangliu/LaTeXForum/TeXBooks/Metafont/MetaFontBook.pdf">http://www.math.zju.edu.cn/ligangliu/LaTeXForum/TeXBooks/Metafont/MetaFontBook.pdf</a>>)
 and TeX.  It’s going into the fundamentals of digital typesetting.
 Dexter Sinister made a script to make a single font that is constantly
 moving and changing – and this font is used in the video. It’s great,
@@ -5044,7 +4853,7 @@ and theory circles in the past years. (In the Netherlands composer/poet
 Samuel Vriezen is into this). Though TraumaWien holds probably – as
 befits Austrian – the most extreme position. (And yes, TraumaWien have
 the PDFs of these book up at their site:
-<http://traumawien.at/stuff/texts/>.) They also have a great scheme to
+<<a href="http://traumawien.at/stuff/texts/">http://traumawien.at/stuff/texts/</a>>.) They also have a great scheme to
 get readers: get the torrent with all the new German epubs, contaminate
 all the 24.000 epubs, and re-upload. Keep on seeding, making sure people
 take your torrent. And all of those readers who think they’re going to
@@ -5063,7 +4872,7 @@ usually not technological savvy, and do not use epub – so having such a
 tool for that scene, is useful.
 
 The last presentation I see is by Greyscales’ Manuel Schmalstieg (see
-<http://greyscalepress.com>)  – *Black Holes in the Galaxy*. He starts
+<<a href="http://greyscalepress.com%3E)%20">http://greyscalepress.com>) </a> – *Black Holes in the Galaxy*. He starts
 with the idea of the flip-flop: going from digital to analog and back.
 He made a couple of printed editions, sometimes pirated – for instance
 Neal Stephenson’s essay from Wired on the undersea cable, with new
@@ -5075,6 +4884,271 @@ transcriptions of talks by Jacob Appelbaum, – a book which can be added
 to every time a new talk is transcribed. He ends with on overview of
 spam publishing – which very nicely complements the presentation by
 TraumaWien.
+
+
+
+# Off the Press – Report Day II {.entry-title .single-title itemprop="headline"}
+
+By [ariealtena](http://networkcultures.org/digitalpublishing/author/ariealtena/ "Posts by ariealtena"),
+May 27, 2014 at 9:28 pm.
+
+**Tools and Workshops**
+
+The second day of Off the Press starts with workshops. I decide to go to
+the workshop about pandoc first, as it promises to be about a way of
+working with text that I am not used to, but have started to like. When
+I started to use computers, in 1991 there was already Word and that is
+what I used for writing. At the same time I still sometimes had to use
+command line tools and learned about 20 Unix-commands. Through the years
+I’ve met people who championed the use of emacs, LaTEX, Multimarkdown or
+pandoc. But I have never really figured out how to work in that
+‘paradigm’. First thing to understand is that pandoc is basically a very
+powerful converting tool. Pandoc is not an environment, but a step in a
+chain, a step in the workflow. It just converts. And it won’t solve the
+problems of converting visual design to a digital format. It is based on
+using Markdown, a simple markup language that uses asterisks, square
+brackets, underscores. I have always found it easier to write HTML
+markup, than this type of markup, but it is even simpler than writing
+HMTL-tags. The idea is that the plain text file shows the structure in a
+human readable format but is ready for computer consumption at the same
+time. What you see is what you get – but in a different way. An
+interesting remark is made – I forget who made it: ‘Word and InDesign
+are not *basic* tools of the trade – though most people now have grown
+up thinking they are. They are very *specific* tools.’ And it’s true
+that especially editors can take advantage of the knowledge of markup
+languages to create better, cleaner source texts… There’s some panic and
+chaos in the workshop, as the difference in competence is really big.
+Some participants use the terminal mode all the time, others have never
+seen a command line interface before, let alone worked with it. There is
+also a bit of a clash between those who think that people should be
+empowered to use tools themselves and acquire what they think is
+necessary basic knowledge, versus people who do not have such ‘basic
+knowledge’, consider such knowledge to be ‘technical’, and who, let’s
+face it, will probably never use these tools themselves anyway. In the
+middle is a majority who at least would like to get a taste of the
+‘basic knowledge’.
+
+
+
+After the lunch break I have a look at  the other two workshops. Two
+groups of each 20 participants (the maximum) are working concentrated.
+In the SuperGlue workshop (<<a href="http://superglue.it/">http://superglue.it/</a>>) all have just
+installed, or tried to install, the SuperGlue package, thus creating a
+local network of mini servers. (The SuperGlue website states:
+‘SuperGlue’s mini-server provides full control of your personal data by
+enabling you to run and maintain your server at home. This means you can
+better protect and share important information, directly with those whom
+you want to share it with. So your privacy is in your hands.’) Danja
+Vasiliev, one of the workshop tutors and creators of SuperGlue asks:
+‘who has got it working?’ About everybody has it working. When I check
+my Airport it sees six SuperGlue networks. Again, I realise I should
+finally learn how to set up my own server, that I should learn this
+little bit of command line tweaking, so I can run WordPress on my own
+machine, and have all the other useful tools at my fingertips. It really
+is basic knowledge. A lot of it is hardly ‘technical’ – but it’s in a
+different computer paradigm, that feels very far removed from the shiny
+‘intuitive’ interfaces.
+
+Megan Hoogenboom leads the workshop in which the participants try to
+make an epub form a work of visual poetry. About everyone is playing
+around with what I call good old-fashioned HTML: writing tags. It looks
+like they are having good fun with HTML and CSS.
+
+Both the SuperGlue workshop and the visual poetry workshop show that
+it’s fun to work with tools that empower you as user, that give you the
+feeling of being in control and creating something – instead of
+consuming nice interfaces that mostly control you. (I would say that
+working, well playing, with an iPad mostly give the user the feeling of
+being controlled by the interface, not of being in control. Using an
+iPad certainly does not enhance the feeling that one can make something
+oneself, apart from using services that offer heavily pre-formatted ways
+of creation. Sure, the touch screen can be great to control sound
+output, and it can be nice for gaming, but that is another
+thing). It’s an old point, but it stays relevant.
+
+Back in the days – roughly 1997 to 2000 – I taught basic HTML (and
+writing to the web and so forth) at Mediamatic. At the time it was still
+considered ‘handy’ for editors and designers – who actually already were
+working in Dreamweaver and were doing Flash – to know some HTML. (Of
+course the question was always raised: why should we know these tags,
+when you can do the same visually in a WISYWIG editor?) Who, apart from
+the ‘nerds’, maintained their websites doing HTML in the 21^st^ century?
+Maybe some artists who liked the simplicity of HTML. Some academics. The
+great thing is that a website made with simple HTML in 1995 still
+displays fine in any browser. I think there is a basic, simple fun in
+creating something with one’s own hands. Maybe the result doesn’t look
+as slick as other websites, but it will work fine, and you have control
+over almost every step.
+
+Also in the visual poetry workshop I mostly see smiling faces. They
+generate an epub in the end – using a command line tool. And that’s
+great. There is fun in making epubs. (Michael Murtaugh told me that the
+pandoc workshop, which started quite chaotic, also ended with a great
+feeling of relief from the side of the participants, when they create an
+epub-output with pandoc with a simple command.)
+
+**Libraries**
+
+‘Mp3 was not made big by the music industry, it was made big by file
+sharing, started by hackers. Netflix makes it decisions about
+programming by analysing Pirate Bay downloads. Maybe,’ Florian Cramer
+says, because he’s doing the introduction again, ‘we should have started
+the conference with this last panel on underground publishing.’ The
+underground file sharing of books is, at least in Europe, much larger
+than the retail market of e-books. Artists have been very active in this
+scene from the beginning according to Florian Cramer. It also exists
+much longer than the retail market. Some of it is illegal ‘sharing’ of
+books, but not all of it. Here at the conference *Bibliothecha* is
+running on a little local file server. It appears as an open wireless
+device on one’s computer and allows you to download books that people
+have put there. There’s also a website and a public repository – at
+[http://bibliotecha.info](http://bibliotecha.info/).
+
+Sebastian Lütgert, the next speaker, ran a repository of philosophical
+and activist and underground texts ‘back in the days’. (I still should
+have a lot of those files somewhere on a harddisk, the start of my
+digital library together with downloads from Project Gutenberg). His
+talk is about ‘what do you do with your books’. What do you do with the
+gigantic amounts of unsorted PDFs and epubs that you have on your hard
+disk, often not properly named. He assumes we all have such collections
+– do we? He does not like Calibre as a management tool and reader.
+Calibre (<<a href="http://calibre-ebook.com/">http://calibre-ebook.com/</a>>) – in the first place a converter
+for epubs and comparable formats – seems to be the tool of choice of
+many. Though I wonder how many users in the iPad/iPhone/Adobe universe
+know of it. Sebastian Lütgert main question is: how should
+library-software function, what is a good ebook-management tool? With
+support from Constant vzw (<<a href="http://www.constantvzw.org/site/">http://www.constantvzw.org/site/</a>>) in
+Brussels such software is developed: openmedialibrary
+(<<a href="http://openmedialibrary.com/#about">http://openmedialibrary.com/#about</a>>). He shows how it works in a web
+browser. It allows browsing the library of peers, and transferring books
+from there to one’s own computer.
+
+We’re in ‘the underground’ here so we’re assuming that we’re dealing
+with free content and books that people have bought and like to share
+with friends… But the topic now is not how the digital is or should be
+changing society, culture and the economy. We’re looking at how the
+tools work in practice. Tools like this one are important, they are an
+activist ‘cog’ in the ‘machinery’. They change the function of the
+public library too – and public libraries, at least in Europe, are
+thinking about these transformations. Here we get into an endless and
+endlessly interesting discussion, which is a topic for another
+conference. It is self-evident that this is about sharing knowledge,
+which is a basis of our civilization. If I sound a bit ironic, this is
+unintentional. I agree with the philosophy to build these tools – it is
+an active and activist impetus to change society.
+
+Calibre by the way also has a function to set up a content server, and
+can connect to other users. I think Calibre is a decent viewer, it’s
+great for conversion (Mobi to epub…), and can be used to produce ebooks.
+The main downside to Calibre, for me, – except for the fact that it adds
+its own code to your converted epubs – is that its interface is not
+attractive at all.
+
+After Sebastian Lütgert it’s over to the Marcell Mars – hacker,
+activist, researcher. He is expert in book sharing and book hacking, and
+is, or was, actively involved in creating code for Calibre. (Actually he
+has just been banned from the developer forum). He wrote a sharing tool
+for Calibre:
+[memoryoftheworld.org/public-library](http://memoryoftheworld.org/public-library)).
+He says: aesthetics and usability are less important than social
+interaction. Calibre might be ugly – he says it’s ugly – and not the
+easiest tool, but it has thousands of users. He wants to make Calibre a
+political project. He mentions the property regime and intellectual
+property are a huge problem. They sure are. He also rants against the
+technological problems – the asymmetry in the network, laptops that send
+requests for data, but never send data, though they could. He is so
+right in that. The internet we have created is a far cry to what it
+could have been in the dreams of 30, 20 or even 10 years ago. But most
+importantly Mars wants to connect again to the idea of the public
+library. The public library as the democratic dream of access to
+knowledge. He’s from Croatia where in 1991 books were burned because
+they were in Cyrillic, in Serbian, and/or communist. And the book
+scanning project at MAMA in Zagreb was a way of resurrecting that burned
+library. He’s passionate about the idea of the public library, and a
+passionate speaker with his Karl Marx-beard, using the word struggle
+quite a bit. I think he is very right in his passionate plea for the
+public library, and his plea against the development of electronic
+reading as ‘streaming’, licensing temporary access to a file, where the
+whole reading behaviour is controlled. In between he advises us to read
+*Paper Machines*, Markus Krajewski’s book on the card catalogue. The
+issue he raises is that of having power in the control over access to
+knowledge, control over the index to knowledge. He pleads to not let
+Google take over a total control over this index, that we need to retain
+the index of the public library. He also pleas for retaining the
+function of a librarian – as a person, a human being – and not hand over
+the control over the index to computer engineers and algorithms. There
+are many points in his presentation that deserve a detailed
+think-through and discussion.
+
+Dusan Barok of monoskop (<<a href="http://monoskop.org">http://monoskop.org</a>>) is the last speaker.
+He delves into the history of reading and publishing, going back to
+manuscripts and scrolls. While he talks an image of one of the earliest
+Greek manuscripts of Plato’s *Phaedrus* is shown, with the title
+‘Communing Texts’. Referencing is his main topic. How to refer to
+passages in an ebook? Pagination – a historical, ‘technological’
+invention that came about through the development of the codex – is
+hardly ever mentioned in the discussion of ebooks. Dusan compares two
+traditions of referencing: the academic one (pointing to a specific
+passage in a text) and hyperlinking between sections of a website
+(through using anchors). He would like to see the possibility to
+digitally augment references in scanned printed books, as well as the
+possibility to link to any passage in a digital text – regardless of
+whether there is an anchor in the HTML. He says that this means looking
+at digital text as a continuous line of data (which is the materiality
+of digital text anyway). Enabling referencing between texts is
+important, as in such a way a community of texts can arise.
+
+During the discussion Joost Kircz repeats that we indeed need
+referencing inside texts – and that this still does not exist.
+Interestingly Sebastian Lütgert says that it is probably easy to make
+such references inside electronic publications – and sketches the
+concept how it could work. Sounds simple. Joost Kircz says: well let’s
+make it, because this does not exist, and we have been wanting it for
+over 30 years now.  (I think: doesn’t this go back to Ted Nelson’s ideas
+on transclusion – and that was very problematic?) Marcel Mars thinks
+that any computer student could solve it. But it’s another question if
+such a standard would be used. (And making sure it becomes a standard is
+difficult).
+
+Marcell Mars ends one of his answers with that he hates the idea of the
+underground in the American and UK sense – ‘I’m not underground, fuck
+you’. He is very right – when you would consider all our book sharing
+(which in the current technical implementation means downloading) as
+being the new implementation of the public library. (And not as building
+a private library).
+
+**Toolkit**
+
+So, is there a toolkit? There is no finished toolkit yet. There is the
+repository with tools
+<<a href="http://networkcultures.org/digitalpublishing/github/">http://networkcultures.org/digitalpublishing/github/</a>>. There is also by
+now a good insight in the various workflows used by small publishers,
+artists, writers, self-publishers and organizations. There is an
+overview of the pro’s and con’s of different tools. There is an overview
+of how all of this relates to the larger context of publishing, and to
+reading and sharing behaviours in online and offline culture. There is
+probably no perfect toolkit that fits every need. What I personally
+learned, is that pretty much everybody has been trying out different
+ways of making epubs that are good enough to bring into the world, and
+that there’s almost always something that has to be done ‘by hand’ as
+well, some tweaking and correction. Every method has advantages and
+disadvantages, and what fits a certain project depends on a variety of
+factors: the source text, the editorial process, the goal of the
+publication, the envisioned market or reading group, the available time…
+I think a progression has been made thanks to this project and the three
+conferences. There is also progression in knowing that a lot concerns
+really very basic stuff – very basic stuff.
+
+The attraction of epubs for me lies in the fun of making something which
+is simple, which you can do yourself (just as well as any large
+institution). It’s in the joy of making – and also there is a parallel
+with web design of the middle 1990s. In that respect I have gone from
+amazement over the fact that such a fuss was being made of ‘e-books’, to
+a joy of making epubs.
+
+(For pictures see: <<a href="https://www.flickr.com/photos/networkcultures/">https://www.flickr.com/photos/networkcultures/</a>>)
+
+
 
 # Michelle Kasprzak – The eBook as a Vehicle for Re-dissemination and Creation {.entry-title .single-title itemprop="headline"}
 
@@ -5153,7 +5227,9 @@ You can find a PDF of her original presentation here: [Presentation
 Michelle
 Kasprzak](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_02_MichelleKasprzak.pdf)
 
-![Video: http://vimeo.com/96562225](imgs/477911262_640.jpg)
+![Video: <a href="http://vimeo.com/96562225](imgs/477911262_640.jpg)">http://vimeo.com/96562225](imgs/477911262_640.jpg)</a>
+
+
 
 # Matthew So: Badlands Unlimited: We Make Books in an Expanded Field {.entry-title .single-title itemprop="headline"}
 
@@ -5236,7 +5312,9 @@ So](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/201
 
 [Badlands Unlimited website](http://badlandsunlimited.com)
 
-![Video: http://vimeo.com/96562223](imgs/477911432_640.jpg)
+![Video: <a href="http://vimeo.com/96562223](imgs/477911432_640.jpg)">http://vimeo.com/96562223](imgs/477911432_640.jpg)</a>
+
+
 
 # Loes Sikkes: Highlights – EPub Personalizer {.entry-title .single-title itemprop="headline"}
 
@@ -5299,7 +5377,9 @@ Over the next coming months they hope to solve these issues.
 You can find a PDF of her original presentation here: [Presentation Loes
 Sikkes](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_04_LoesSikkes.pdf)
 
-![Video: http://vimeo.com/96562365](imgs/477910646_640.jpg)
+![Video: <a href="http://vimeo.com/96562365](imgs/477910646_640.jpg)">http://vimeo.com/96562365](imgs/477910646_640.jpg)</a>
+
+
 
 # Joaquín González – Setting up an art digital book store, or ‘Working out how to do something is better than waiting for a magic formula’ {.entry-title .single-title itemprop="headline"}
 
@@ -5376,11 +5456,13 @@ You can find a PDF of his original presentation here: [Presentation
 Jouquin
 Gonzales](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S4_01_JouquinGonzales.pdf)
 
-Check out visualMANIAC’s blog : http://visualmaniac.com/visualmag
+Check out visualMANIAC’s blog : <a href="http://visualmaniac.com/visualmag">http://visualmaniac.com/visualmag</a>
 
 Contact Teresa and Joaquín :joaquin@visualmaniac.comteresa@visualmaniac.com
 
-![Video: http://vimeo.com/96562226](imgs/477910696_640.jpg)
+![Video: <a href="http://vimeo.com/96562226](imgs/477910696_640.jpg)">http://vimeo.com/96562226](imgs/477910696_640.jpg)</a>
+
+
 
 # Florian Cramer: Electronic publishing in the arts – what works and what doesn’t {.entry-title .single-title itemprop="headline"}
 
@@ -5493,7 +5575,9 @@ Institute of Avantgardistic Recreation. Last publication: Anti-Media,
 NAi Publishers, 2013; What Is Post-Digital?, A Peer-Review Journal
 About, 2014*.
 
-![Video: http://vimeo.com/96562331](imgs/477910409_640.jpg)
+![Video: <a href="http://vimeo.com/96562331](imgs/477910409_640.jpg)">http://vimeo.com/96562331](imgs/477910409_640.jpg)</a>
+
+
 
 # Elizabeth Castro: CatalanTalk – Publishing multilingual interviews, from Twitter to ebooks to paper {.entry-title .single-title itemprop="headline"}
 
@@ -5577,7 +5661,9 @@ Castro](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26
 
 *Photo credits: Martin Risseeuw*
 
-![Video: http://vimeo.com/96562278](imgs/477909420_640.jpg)
+![Video: <a href="http://vimeo.com/96562278](imgs/477909420_640.jpg)">http://vimeo.com/96562278](imgs/477909420_640.jpg)</a>
+
+
 
 # Arjen de Jong: Sketching skills {.entry-title .single-title itemprop="headline"}
 
@@ -5677,7 +5763,9 @@ You can find a PDF of his original presentation here: [Presentation
 Arjen de
 Jong](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2014/06/S3_05_ArjendeJong.pdf)
 
-![Video: http://vimeo.com/96562364](imgs/477910652_640.jpg)
+![Video: <a href="http://vimeo.com/96562364](imgs/477910652_640.jpg)">http://vimeo.com/96562364](imgs/477910652_640.jpg)</a>
+
+
 
 # André Castro – “Bibliotecha” {.entry-title .single-title itemprop="headline"}
 
@@ -5743,7 +5831,9 @@ Find out more at : [www.bibliotecha.info](http://www.bibliotecha.info)
 
 Contact André : andre[AT]andrecastro.info
 
-![Video: http://vimeo.com/97508728](imgs/477911829_640.jpg)
+![Video: <a href="http://vimeo.com/97508728](imgs/477911829_640.jpg)">http://vimeo.com/97508728](imgs/477911829_640.jpg)</a>
+
+
 
 # Adam Hyde: Books Are Evil, or: Towards a collaborative production model of books using free software {.entry-title .single-title itemprop="headline"}
 
@@ -5813,7 +5903,9 @@ distribution tool; the purpose is distributing – that comes with selling
 helps us to rethink, rework and imagine “new and truly collaborative
 ways of writing and knowledge production.”
 
-![Video: http://vimeo.com/96562328](imgs/477910146_640.jpg)
+![Video: <a href="http://vimeo.com/96562328](imgs/477910146_640.jpg)">http://vimeo.com/96562328](imgs/477910146_640.jpg)</a>
+
+
 
 # Thomas van Aalten: ‘Het evangelie van de nulletjes en eentjes is niet zaligmakend’ {.entry-title .single-title itemprop="headline"}
 
@@ -5829,12 +5921,14 @@ definition* the same thing and he certainly sees a future for e-books or
 new ways of storytelling. At the same he proves to be a critic of flashy
 revenue models. The interview is in dutch.
 
-![Video: http://vimeo.com/95953457](imgs/476002196_640.jpg)
+![Video: <a href="http://vimeo.com/95953457](imgs/476002196_640.jpg)">http://vimeo.com/95953457](imgs/476002196_640.jpg)</a>
 
 [Thomas van Aalten: ‘Het evangelie van de nulletjes en eentjes is niet
 zaligmakend’](http://vimeo.com/95953457) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # Importing HTML into InDesign (via XML) {.entry-title .single-title itemprop="headline"}
 
@@ -5933,6 +6027,8 @@ This procedure lacks support for images and footnotes.
 (thanks to [Roberto Arista](http://projects.robertoarista.it/) for the
 hints.)
 
+
+
 # Miriam Rasch: ‘E-books kunnen de leeservaring naar een ander niveau tillen’ {.entry-title .single-title itemprop="headline"}
 
 By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
@@ -5949,75 +6045,31 @@ Sebald’s](http://www.newyorker.com/online/blogs/books/2011/12/why-you-should-r
 *The Rings of Saturn* she gives us her ideas on the future of digital
 publishing. The interview is in Dutch.
 
-![Video: http://vimeo.com/95271818](imgs/475137393_640.jpg)
+![Video: <a href="http://vimeo.com/95271818](imgs/475137393_640.jpg)">http://vimeo.com/95271818](imgs/475137393_640.jpg)</a>
 
 [Miriam Rasch: ‘E-books kunnen de leeservaring naar een ander niveau
 tillen’](http://vimeo.com/95271818) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
 
-# Call for e-books, electronic publications and related projects @ Off the Press {.entry-title .single-title itemprop="headline"}
 
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-April 8, 2014 at 4:17 pm.
 
-**Off the Press – Electronic Publishing in the Arts: Call for e-books,
-electronic publications and related projects on Friday 23rd of May, from
-16.30 – 17.30**
+# Vasilis van Gemert: ‘Over 100 jaar kunnen we nog HTML lezen’ {.entry-title .single-title itemprop="headline"}
 
-To illustrate
-the scope and potential of electronic publishing we would like to invite
-artists, designers, publishers and other practitioners in the field of
-electronic publishing to showcase their e-books, electronic publications
-and related projects in an informal setting to the public during the
-Bazaar we organize at the event Off the Press.
+By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
+May 7, 2014 at 10:42 am.
 
-Off the Press
-will take place on the 22nd and 23rd of May 2014 at Museum Boijmans van
-Beuningen and WORM in Rotterdam. It consists of a two-day conference
-with speakers such as Alessandro Ludovico, Elizabeth Castro, Adam Hyde,
-Badlands Unlimited and Florian Cramer, an arts & Crafts session,
-workshops, and a Bazaar with Drinks. The following questions will be
-addressed: How can arts publishers make their own e-publications and use
-the medium in a conceptually and aesthetically interesting way? How do
-new forms of digital publishing change the role of the designer? What
-change is needed in your production workflow, from manuscript to
-publication, if you want to switch to hybrid electronic and paper
-publishing?
+Developer and Designer of the Amsterdam Design School for Multimedia
+(CMD) makes a passionate plea for publishing on the web (in Dutch).
 
-If you would
-like to showcase your work or project at the Bazaar on Friday the 23rd
-please forward your proposal (Max 1 A4, max 4 visuals, and please
-indicate what technical equipment you would need) to
-<kimmy@networkcultures.org>. The deadline for
-proposals is the 22nd of April 2014.
+![Video: <a href="http://vimeo.com/94333279](imgs/474236672_640.jpg)">http://vimeo.com/94333279](imgs/474236672_640.jpg)</a>
 
-Please note that contributions from abroad are welcomed. However, we
-cannot offer any accommodations or travel expenses.
+[‘Over honderd jaar kunnen we nog HTML lezen'; Vasilis van Gemert over
+digitaal publiceren](http://vimeo.com/94333279) from [network
+cultures](http://vimeo.com/networkcultures) on
+[Vimeo](https://vimeo.com).
 
-Off the Press:
-Electronic Publishing in the Arts is part of the research project
-Digital Publishing Toolkit initiated by INC. It is a network of two
-applied universities and art school research departments, four Dutch art
-and design publishers and several graphic and media design bureaus,
-which are  working on an accessible “how-to” guide for electronic
-publishing in the arts along with a collection of open source software
-tools for editing and designing electronic books.
 
-# Alle relevante data over e-books in Nederland {.entry-title .single-title itemprop="headline"}
-
-By [Miriam
-Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
-April 4, 2014 at 12:17 pm.
-
-Hoe groot is het aanbod van e-books in Nederland? Hoe veel worden er
-verkocht? Hoeveel e-readers een tablets zijn er in Nederland?
-
-Het Centraal Boekhuis zet alle relevante gegevens over e-books in
-Nederland in een infographic, ook te downloaden als pdf via hun
-[website](http://www.cb-logistics.nl/nieuws/alle-relevante-data-over-e-books-in-nederland/).
-
-![](imgs/internetversie.jpg)
 
 # Mark me up, Mark me down! {.entry-title .single-title itemprop="headline"}
 
@@ -6178,6 +6230,8 @@ which various structured text and other formatting tools could then aim
 and facilitate the kinds of interoperability of tools that markup
 standards have long promised.
 
+
+
 # DPT Hackathon Results {.entry-title .single-title itemprop="headline"}
 
 By [Michael
@@ -6239,11 +6293,11 @@ generate a cover based on the CSS of the ePub.
 
 #### Software used:
 
--   CakePHP – <http://cakephp.org/>
--   epub.js – <http://fchasen.github.io/epub.js/> epub reader in browser
+-   CakePHP – <<a href="http://cakephp.org/">http://cakephp.org/</a>>
+-   epub.js – <<a href="http://fchasen.github.io/epub.js/">http://fchasen.github.io/epub.js/</a>> epub reader in browser
     for preview functionality
--   PHPePub <https://github.com/Grandt/PHPePub>
--   <http://validator.idpf.org> Validator/ & EPUB-Checker (standalone of
+-   PHPePub <<a href="https://github.com/Grandt/PHPePub">https://github.com/Grandt/PHPePub</a>>
+-   <<a href="http://validator.idpf.org">http://validator.idpf.org</a>> Validator/ & EPUB-Checker (standalone of
     the website)
 
 #### Problems/Issues to look into
@@ -6466,6 +6520,8 @@ footnotes
 See also the [Markup vs. Markdown
 Discussion](http://networkcultures.org/digitalpublishing/2014/04/mark-me-up-mark-me-down/).
 
+
+
 # Program booklet {.entry-title .single-title itemprop="headline"}
 
 By [vince](http://networkcultures.org/digitalpublishing/author/vince/ "Posts by vince"),
@@ -6497,9 +6553,9 @@ collection, by logging into the Bibliotecha wifi network and donate or
 lend e-books.
 
 This project is initiated by: Lasse van den Bosch Christensen (DK),
-Michaela Lakova (BG) http://mlakova.org, Max Dovey (GB)
+Michaela Lakova (BG) <a href="http://mlakova.org">http://mlakova.org</a>, Max Dovey (GB)
 www.maxdovey.com, Roelof Roscam Abbing (NL) www.roelroscamabbing.nl,
-Yoana Buzova (BG) http://oyoana.com/, and André Castro (PT)
+Yoana Buzova (BG) <a href="http://oyoana.com/">http://oyoana.com/</a>, and André Castro (PT)
 www.andrecastro.info
 
 \# Thursday 22 May @Museum Boijmans van Beuningen
@@ -6928,7 +6984,7 @@ all-embracing.
 
 (Please note that there is a limit of 30 participants per workshop, and
 it is necessary to buy a separate ticket to participate
-(http://networkcultures.org/digitalpublishing/ticket). No prior
+(<a href="http://networkcultures.org/digitalpublishing/ticket">http://networkcultures.org/digitalpublishing/ticket</a>). No prior
 knowledge or skills necessary. Bring your own laptop.)
 
 \#\#\# Megan Hoogenboom (NL) & Harold Konickx
@@ -7005,8 +7061,8 @@ personal web server. Superglue is ‘hosted’ by WORM
 ([http://worm.org](http://worm.org/)) together with the Libre Graphics
 Research Unit ([http://lgru.net](http://lgru.net/)) and supported by
 Stimuleringsfonds Creatieve Industrie
-(<http://www.stimuleringsfonds.nl/>) and the European Union
-(<http://europa.eu/>).
+(<<a href="http://www.stimuleringsfonds.nl/">http://www.stimuleringsfonds.nl/</a>>) and the European Union
+(<<a href="http://europa.eu/">http://europa.eu/</a>>).
 
 \#\# 14:30 – 15:00  tea break
 
@@ -7278,7 +7334,7 @@ Stuttgart. His work covers web-based hypervideo technology, search
 interfaces, web applications for educational settings, and collaborative
 editing systems.
 
-<http://filmicweb.org/>
+<<a href="http://filmicweb.org/">http://filmicweb.org/</a>>
 
 \#\# Michelle Kasprzak (CA/NL)
 
@@ -7512,41 +7568,76 @@ distribution and learning environments. For Superglue, Michael designed
 the client-side software architecture and an interactive development
 system.
 
-<http://michaelzeder.de/>
+<<a href="http://michaelzeder.de/">http://michaelzeder.de/</a>>
 
-# Off the Press: Electronic Publishing in the Arts {.entry-title .single-title itemprop="headline"}
 
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-March 5, 2014 at 2:35 pm.
 
-![](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)
-
-![](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)
-
-Institute of Network Cultures presents:
-
-# Why E-book Distribution Is Completely and Utterly Broken (and How to Fix It) {.entry-title .single-title itemprop="headline"}
+# Call for e-books, electronic publications and related projects @ Off the Press {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-March 4, 2014 at 10:50 am.
+April 8, 2014 at 4:17 pm.
 
-Already written
-in November 2012, but still very relevant: A post by [MICHAEL
-CLARKE](http://scholarlykitchen.sspnet.org/author/mtclarke/ "View all posts by Michael Clarke") on the politics
-involved with e-book distribution. Read the full article
-[here](http://scholarlykitchen.sspnet.org/2012/11/02/why-e-book-distribution-is-completely-and-utterly-broken-and-how-to-fix-it/)
+**Off the Press – Electronic Publishing in the Arts: Call for e-books,
+electronic publications and related projects on Friday 23rd of May, from
+16.30 – 17.30**
 
-> A recent incident involving Amazon and a Norwegian reader has
-> highlighted the sad state of e-book distribution on many levels. For
-> those new to the story, which was broken on [Martin Bekkelund’s
-> blog](http://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/) late
-> last month, a Norwegian woman named Linn (described as a friend of
-> Bekkelund’s) reportedly found her Amazon account closed and all the
-> e-books she had purchased via Amazon wiped from her Kindle with no
-> explanation.
->
->
+To illustrate
+the scope and potential of electronic publishing we would like to invite
+artists, designers, publishers and other practitioners in the field of
+electronic publishing to showcase their e-books, electronic publications
+and related projects in an informal setting to the public during the
+Bazaar we organize at the event Off the Press.
+
+Off the Press
+will take place on the 22nd and 23rd of May 2014 at Museum Boijmans van
+Beuningen and WORM in Rotterdam. It consists of a two-day conference
+with speakers such as Alessandro Ludovico, Elizabeth Castro, Adam Hyde,
+Badlands Unlimited and Florian Cramer, an arts & Crafts session,
+workshops, and a Bazaar with Drinks. The following questions will be
+addressed: How can arts publishers make their own e-publications and use
+the medium in a conceptually and aesthetically interesting way? How do
+new forms of digital publishing change the role of the designer? What
+change is needed in your production workflow, from manuscript to
+publication, if you want to switch to hybrid electronic and paper
+publishing?
+
+If you would
+like to showcase your work or project at the Bazaar on Friday the 23rd
+please forward your proposal (Max 1 A4, max 4 visuals, and please
+indicate what technical equipment you would need) to
+<kimmy@networkcultures.org>. The deadline for
+proposals is the 22nd of April 2014.
+
+Please note that contributions from abroad are welcomed. However, we
+cannot offer any accommodations or travel expenses.
+
+Off the Press:
+Electronic Publishing in the Arts is part of the research project
+Digital Publishing Toolkit initiated by INC. It is a network of two
+applied universities and art school research departments, four Dutch art
+and design publishers and several graphic and media design bureaus,
+which are  working on an accessible “how-to” guide for electronic
+publishing in the arts along with a collection of open source software
+tools for editing and designing electronic books.
+
+
+
+# Alle relevante data over e-books in Nederland {.entry-title .single-title itemprop="headline"}
+
+By [Miriam
+Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
+April 4, 2014 at 12:17 pm.
+
+Hoe groot is het aanbod van e-books in Nederland? Hoe veel worden er
+verkocht? Hoeveel e-readers een tablets zijn er in Nederland?
+
+Het Centraal Boekhuis zet alle relevante gegevens over e-books in
+Nederland in een infographic, ook te downloaden als pdf via hun
+[website](http://www.cb-logistics.nl/nieuws/alle-relevante-data-over-e-books-in-nederland/).
+
+![](imgs/internetversie.jpg)
+
+
 
 # Converting a Docx directly to EPUB using Calibre {.entry-title .single-title itemprop="headline"}
 
@@ -7621,6 +7712,8 @@ clean its code, especially if not many styles are expressed.
 ![](imgs/rbOTbqoWmaf0_YyWqcoCGkj3FmY_tgsz2jTXGlMHAtiLhf9udP26uGeGW3_w4Y8ZT_d5rairVgWA2gujRER0_G3hRfbUJxSbfLoaxLY6dE1g10wTqOwGyFEIuYuBow)Metadata
 should be added or modified in the content.opf file.
 
+
+
 # Flyers arrived! {.entry-title .single-title itemprop="headline"}
 
 By [margreet
@@ -7628,6 +7721,46 @@ riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by m
 March 12, 2014 at 1:12 pm.
 
 ![](imgs/photo-e1394626295619.jpg)
+
+
+
+# Off the Press: Electronic Publishing in the Arts {.entry-title .single-title itemprop="headline"}
+
+By [margreet
+riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
+March 5, 2014 at 2:35 pm.
+
+![](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)
+
+![](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)
+
+Institute of Network Cultures presents:
+
+
+
+# Why E-book Distribution Is Completely and Utterly Broken (and How to Fix It) {.entry-title .single-title itemprop="headline"}
+
+By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
+March 4, 2014 at 10:50 am.
+
+Already written
+in November 2012, but still very relevant: A post by [MICHAEL
+CLARKE](http://scholarlykitchen.sspnet.org/author/mtclarke/ "View all posts by Michael Clarke") on the politics
+involved with e-book distribution. Read the full article
+[here](http://scholarlykitchen.sspnet.org/2012/11/02/why-e-book-distribution-is-completely-and-utterly-broken-and-how-to-fix-it/)
+
+> A recent incident involving Amazon and a Norwegian reader has
+> highlighted the sad state of e-book distribution on many levels. For
+> those new to the story, which was broken on [Martin Bekkelund’s
+> blog](http://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/) late
+> last month, a Norwegian woman named Linn (described as a friend of
+> Bekkelund’s) reportedly found her Amazon account closed and all the
+> e-books she had purchased via Amazon wiped from her Kindle with no
+> explanation.
+>
+>
+
+
 
 # Megan Hoogenboom: You and the Book {.entry-title .single-title itemprop="headline"}
 
@@ -7643,12 +7776,14 @@ our upcoming
 
  
 
-![Video: http://vimeo.com/87566827](imgs/465673411_640.jpg)
+![Video: <a href="http://vimeo.com/87566827](imgs/465673411_640.jpg)">http://vimeo.com/87566827](imgs/465673411_640.jpg)</a>
 
 [You and the book; some thoughts on the practice and future of
 ePub](http://vimeo.com/87566827) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # Save the Date, Digital Publishing Conference \#2 {.entry-title .single-title itemprop="headline"}
 
@@ -7663,7 +7798,9 @@ well as the artistic evening program will take part in
 [Worm](http://www.worm.org/sheets/index/organisatie).
 
 The tentative program can be found here.
-http://networkcultures.org/digitalpublishing/22-23-may-2014/
+<a href="http://networkcultures.org/digitalpublishing/22-23-may-2014/">http://networkcultures.org/digitalpublishing/22-23-may-2014/</a>
+
+
 
 # Out now: The Unbound Book by Adriaan van der Weel & Joost Kircz {.entry-title .single-title itemprop="headline"}
 
@@ -7678,6 +7815,8 @@ January 24, 2014 at 9:48 am.
 Published by Amsterdam University Press. Order a copy at your local
 bookshop or
 [online](http://www.athenaeum.nl/shop/details/The+unbound+book/9789089646002).
+
+
 
 # Post-Digital Publishing Archive by Silvio Lorusso {.entry-title .single-title itemprop="headline"}
 
@@ -7695,6 +7834,8 @@ highlight relevant paths, mutual themes, common perspectives,
 interrelations, but also oppositions and idiosyncrasies. P—DPA is
 maintained by Silvio Lorusso.
 
+
+
 # How to distribute your ebooks? {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
@@ -7702,7 +7843,9 @@ January 16, 2014 at 12:59 pm.
 
 ![Say "The netflix of Books" one more time](imgs/44918325.jpg)
 
-source: http://memegenerator.net/instance/44918325
+source: <a href="http://memegenerator.net/instance/44918325">http://memegenerator.net/instance/44918325</a>
+
+
 
 # Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities {.entry-title .single-title itemprop="headline"}
 
@@ -7745,6 +7888,8 @@ George Mason University.
 
 [More
 information](http://www.digitalculture.org/books/hacking-the-academy-new-approaches-to-scholarship-and-teaching-from-digital-humanities/)
+
+
 
 # nai010 uitgevers – Highlights en Reflections {.entry-title .single-title itemprop="headline"}
 
@@ -7839,158 +7984,14 @@ Het originele presentatie document (PDF) kan
 [hier](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/12/06_nai010_0119-DPT-presentatie-visuals.pdf)
 gevonden worden.**Bekijk de volledige presentatie hieronder**
 
-![Video: http://vimeo.com/80985297](imgs/457024932_640.jpg)
+![Video: <a href="http://vimeo.com/80985297](imgs/457024932_640.jpg)">http://vimeo.com/80985297](imgs/457024932_640.jpg)</a>
 
 [Showcase nai010 uitgevers – Verzamelen
 Highlights](http://vimeo.com/80985297) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
 
-# Programma: Het ABC van digitaal publiceren – bijeenkomst 28 november {.entry-title .single-title itemprop="headline"}
 
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-November 5, 2013 at 4:58 pm.
-
-## Valt er nog iets te ontwerpen? Het ABC van digitaal publiceren\_
-
--   **Wat:** Bijeenkomst over e-publiceren over de kunst en cultuur
-    sector
--   **Wanneer:** 28 november 2013 / 09.30 – 12.30 uur
--   **Waar:** Hogeschool van Amsterdam, Kohnstammzaal, Wibautstraat 2-4,
-    Amsterdam
-
-Het Instituut voor Netwerkcultuur nodigt u van harte uit om op 28
-november van 9.30 – 12.30 deel te nemen aan de bijeenkomst over
-e-publiceren voor de kunst- en cultuursector die in het kader van het
-RAAK onderzoeksproject “Digital Publishing Toolkit” georganiseerd wordt.
-Tijdens deze bijeenkomst zullen de eerste resultaten van dit project
-gepresenteerd worden. Met aandacht voor vragen zoals: Hoe veranderen
-nieuwe digitale vormen van publiceren de rol van de vormgever? Hoe
-kunnen uitgeverijen in de kunst- en cultuursector zelf esthetische
-interactieve e-publicaties ontwikkelen? Welke platformen kunnen
-uitgevers gebruiken om digitaal te publiceren? Hoe verandert de
-productieketen van uitgever tot vormgever?
-
-
-
-# PROGRAMMA
-
-**Moderator: Geert Lovink**
-
-**09.00 – 09.30: Inloop, koffie/thee**
-
-**09.30 – 09.45: Joost Kircz** ***Het ongebonden boek aan de ketting***
-Er is iets aan de hand in de boekenbranche. Eeuwen lang hadden we
-stevige boeken in alle formaten die goed in de hand lagen en als
-vrienden ons leven verrijkten. Nu gaat het boek de wijde wereld in.
-Schut het papier af als een streng Calvinistische opvoeding en ben vrij.
-Maar welke vrijheid heeft dit ongebonden boek eigenlijk? Hierover hebben
-wij op de Hogeschool van Amsterdam en met het Instituut voor
-Netwerkcultuur al jaren ouderlijke zorgen. Wij organiseerden twee
-congressen. Een in het Engels: “The Unbound Boek”, waarvan de
-verhandelingen binnenkort bij AUP uitkomen, ach ach… op papier, maar ook
-als saaie elektronische versie van dat papier. Een tweede conferentie
-had de vrolijke titel “Boek uit de band”. En een project heet “Out of
-Ink”, nu heeft de ongebonden adolescent zelfs de inktpot het raam uit
-gegooid. Maar de vrije wereld van los fladderende zinnen, plaatjes,
-films en liedjes wordt een ondoordringbaar woud, waar iedereen elkaar
-roept , maar niemand elkaar meer kan verstaan. Dit project probeert na
-te gaan welke soort talige-, beeldende- of audiocommunicatie tools nodig
-heeft om zich vrij te bewegen tussen papier en scherm. In dit project
-zoeken we uit wat we hebben, wat we willen overdragen en welke regels en
-gereedschap daar voor nodig zijn.
-
-**09.45 – 10.15: Florian Cramer** **10.15 – 10.30: Disucssie**
-***E-Publishing voor kunst- en designuitgevers: uitdagingen 2013*** In
-de huidige kunsten zijn elektronische publicaties belangrijker geworden
-dan werd verwacht: Denk aan het e-flux journal en zijn impact op het
-hedendaagse kunstdiscours of de filosofie van het Speculatieve Realisme
-die door haar Open Access e-publicaties snel bekend is geworden. Maar
-voor visueel georienteerde publicaties is de huidige e-publishing
-technologie vaak nog lastig toe te passen. Aan de ene kant zijn de
-verwachtingen van de technische mogelijkheden van het media vaak te
-hoog, aan de andere kant denkt men vaak nog te beperkt in kaders van
-simpele vertalingen van printproducten naar het scherm. Deze presentatie
-zal inzicht geven in de voorlopige conclusies, uitdagingen en
-oplossingen van het project Digital Publishing Toolkit.
-
-**10.30 – 10.50: Showcase BISPublishers** ***Over lettertype gebruik,
-spread layout, beeldgebruik en interactie*** Het deelproject
-BISPublishers is Essense gestart met een kort onderzoek naar de wereld
-van ‘digital publishing’. Inzichten hieruit zijn gebruikt als basis voor
-het kiezen van ideale format, platform en device(s). Het digitale
-traject van Auteur/Publisher naar de uiteindelijke lezer is complex
-gebleken, doordat vele trajecten mogelijk zijn en er constant nieuwe bij
-komen. Project BISPublishers werkt aan twee publicaties die zij tijdens
-de bijeenkomst zullen presenteren. Het eerste -Think Like a Lawyer,
-Don’t Act Like One- heeft als uitgangspunt om een vormgevingsgetrouw
-e-book conversie te realiseren, waarbij het de opdracht was het
-lettertype gebruik, de spread-layout en het beeldgebruik zoveel mogelijk
-te behouden. Developer Sauli Warmerhoven bouwde een EPUB3 generator om
-de pagina opmaak te automatiseren. De tweede publicatie -Sketching- is
-het tekenleerboek voor (industrieel) ontwerpers, van de auteurs Koos
-Eissen and Roselien Steur (TU Delft). De opdracht is het ontwikkelen van
-een zeer visueel e-learning boek waarbij verschillende tekentechnieken
-in beeld worden gebracht. Hiervoor worden onder andere de interactie
-mogelijkheden onderzocht zoals een social elementen, layered pagina
-opmaak, navigatie, video etc.
-
-**11.10 – 11.30: Showcase Valiz** ***Context Without Walls – genereren
-van een serie ontworpen ePubs*** Valiz, Meeus Ontwerpt en PUNTPIXEL
-richt zich op het creeeren van een digitale versie van twee edities van
-de nieuwe serie van Valiz genaamd: Context Without Walls. De publicaties
-in deze serie zijn gericht op kunstenaars van over de hele wereld. De
-boeken zijn meertalig en bevatten zowel essays, als beelden. De print
-versies van Context Without Walls zijn gemaakt door Meeus Ontwerpt en
-bevatten veel design en conversie uitdagingen. Sommige van deze
-problemen bestaan uit het werken met visuele essays, referenties in de
-marges van de pagina en (voet)noten. Zowel rekening houdend met de
-technische mogelijkheden en de vragen van het ontwerp, hebben ze
-oplossingen gezocht voor deze problemen die ontstaan bij het omzetten
-van een papieren boek in een e-book. Dit heeft geleid tot de beslissing
-om een ‘ eenvoudige ‘ en een ‘ ingewikkelde ‘ digitale versie van het e
-– boek te maken. In de presentatie zullen Valiz en PUNTPIXEL het
-concrete resultaat van het werk tot nu toe laten zien, gericht op de
-EPUB-generator ontwikkeld door PUNTPIXEL. Daarnaast zullen de keuzes (en
-de redenering achter hen) tot nog toe besproken worden.
-
-**11.30 – 11.50: Showcase nai010 uitgevers** ***Verzamelen Highlights***
-De groep van nai010 Publishers, Medamo en PUNTPIXEL ontwikkelt een
-digitale versie van de Stedelijk Museum Highlights Catalogus. In plaats
-van het creëren van een 1:1 ebook kopie van de catalogus, ontwikkelen ze
-een digitaal distributieplatform via een (mobiele) web-applicatie. Deze
-geeft de gebruikers de mogelijkheid om hun persoonlijke hoogtepunten uit
-de Stedelijk collectie te vinden, filteren, zoeken, bekijken en
-verzamelen tijdens een bezoek. Deze serie hoogtepunten wordt vervolgens
-gebruikt om een persoonlijke EPUB catalogus van de collectie samen te
-stellen en te genereren en kan worden gedownload voor offline bekijken
-met behulp van dezelfde online web toepassing. Deze elektronische versie
-van de collectie catalogus is gratis wanneer tien of minder kunstwerken
-worden verzameld. In de presentatie zal de algemene lay-out van de
-applicatie besp worden en daarnaast de commerciële rol van nai010
-bespreken als de uitgever, content of service provider.
-
-**11.50 – 12.10: Showcase Institute of Network Cultures** ***One
-thousand and One workflows*** INC, Silvio Lorusso and Michael Murtaugh
-houden zich bezig met workflows voor digitale publicaties die verder
-gaan dan het online zetten van een PDF. Ze willen de creatieve spanning
-verkennen tussen de strikte beperkingen en bijzonderheden van ePub als
-een output formaat en de diversiteit van de mogelijke instrumenten en
-methoden die kunnen worden gebruikt om deze te produceren. Specifieke
-uitdagingen zijn te vinden in het werken met verschillende input-en
-output -formaten (zoals Word-documenten, video- materiaal aan de ene
-kant, gedrukte boeken, digitale edities, blogs ed aan de andere kant),
-met een min of meer gestandaardiseerde workflow als gewenste uitkomst.
-Uitgaande van het materiaal van het Instituut voor Netwerkcultuur
-project ‘Unlike Us’ wordt, een herdefiniering van de workflow en de
-daaruit voortvloeiende resultaten onderzocht werkende met een database
-en Markdown tekstbestanden. Binnen dit project wordt gebruik gemaakt van
-een gevarieerde toolbox van free software tools afkomstig uit
-verschillende praktijken (grafische vormgeving, informatica, taalkunde,
-tekstredactie, bloggen, bibliotheek wetenschappen, statistiek, reverse
-engineering).
-
-**12.10 – 12.30: Discussie en afsluiting**
 
 # Valiz – Context Without Walls {.entry-title .single-title itemprop="headline"}
 
@@ -8070,12 +8071,14 @@ systeem worden aangepast.
 The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/05_VALIZ_28112013.pdf)
 
-![Video: http://vimeo.com/80883774](imgs/458628196_640.jpg)
+![Video: <a href="http://vimeo.com/80883774](imgs/458628196_640.jpg)">http://vimeo.com/80883774](imgs/458628196_640.jpg)</a>
 
 [Showcase Valiz – Context Without Walls – genereren van een serie
 ontworpen ePubs](http://vimeo.com/80883774) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # Joost Kircz: Het ongebonden boek aan de ketting {.entry-title .single-title itemprop="headline"}
 
@@ -8170,7 +8173,7 @@ kent het ongebonden boek?
 
 Bekijk de volledige presentatie hieronder
 
-![Video: http://vimeo.com/80800588](imgs/456793688_640.jpg)
+![Video: <a href="http://vimeo.com/80800588](imgs/456793688_640.jpg)">http://vimeo.com/80800588](imgs/456793688_640.jpg)</a>
 
 [Joost Kircz – Het ongebonden boek aan de ketting, met introductie van
 Geert Lovink](http://vimeo.com/80800588) from [network
@@ -8354,6 +8357,8 @@ waar we nu mee bezig zijn en hoe we zoekend verder komen.
 
 Ik wens u een heel inspirerende dag toe.
 
+
+
 # Institute of Network Cultures – One thousand and One workflows {.entry-title .single-title itemprop="headline"}
 
 By [marcstumpel](http://networkcultures.org/digitalpublishing/author/marcstumpel/ "Posts by marcstumpel"),
@@ -8500,12 +8505,14 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/07.INC_presentation_toolkit.pdf)**Watch
 the full presentation below**
 
-![Video: http://vimeo.com/80884524](imgs/456897599_640.jpg)
+![Video: <a href="http://vimeo.com/80884524](imgs/456897599_640.jpg)">http://vimeo.com/80884524](imgs/456897599_640.jpg)</a>
 
 [Showcase Institute of Network Cultures – One thousand and One
 workflows](http://vimeo.com/80884524) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # Florian Cramer – De uitdagingen van e-publishing voor kunst- en designuitgevers {.entry-title .single-title itemprop="headline"}
 
@@ -8627,12 +8634,14 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/03_DPT_fcramer.pdf)
 **Watch the full presentation below (in Dutch)**
 
-![Video: http://vimeo.com/80873921](imgs/458628018_640.jpg)
+![Video: <a href="http://vimeo.com/80873921](imgs/458628018_640.jpg)">http://vimeo.com/80873921](imgs/458628018_640.jpg)</a>
 
 [Florian Cramer – E-publishing voor kunst en design (uitdagingen
 2013)](http://vimeo.com/80873921) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # BISPublishers: Over lettertype gebruik, spread layout, beeldgebruik en interactie {.entry-title .single-title itemprop="headline"}
 
@@ -8777,12 +8786,14 @@ The original presentation file (PDF) can be found
 [here](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/04_BIS-Publisherssmallpdf.com_.pdf)**Watch
 the full presentation below**
 
-![Video: http://vimeo.com/80883773](imgs/456897264_640.jpg)
+![Video: <a href="http://vimeo.com/80883773](imgs/456897264_640.jpg)">http://vimeo.com/80883773](imgs/456897264_640.jpg)</a>
 
 [Showcase BISPublishers – Over lettertype gebruik, spread layout,
 beeldgebruik en interactie](http://vimeo.com/80883773) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
+
+
 
 # First results and thoughts on using PhoneGap for e-publications {.entry-title .single-title itemprop="headline"}
 
@@ -8917,6 +8928,8 @@ publications/apps.
 More results will follow as soon as further decisions have been made
 concerning content and design!
 
+
+
 # Epub Trailer Generator – “Free Library for Every Soul” Hackaton – First Report {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -9033,765 +9046,155 @@ Trailer](imgs/trailer-B00B3M3X2G-EBOK.gif)
 
 
 
-# Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document {.entry-title .single-title itemprop="headline"}
 
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-October 9, 2013 at 3:57 pm.
 
-(updated on the 21st of October)
-
-— INC subgroup
-
-In this post I’ll treat the issues that emerge from the proposal of
-embedding a custom set of metadata, based on the Dublin Core standard,
-within a MultiMarkdown document.
-
-The metadata set here employed is an extremely simplified version of
-what it is needed in our research project, but it gives anyway several
-insights that are useful in the definition of a more complex set.
-
-The work is divided in 2 phases:
-
-1.  the set of metadata is defined into a Dublin Core Application
-    Profile (DCAP);
-2.  the ways to insert the DCAP within a MultiMarkdown document are
-    discussed.
-
-
-
-## What Metadata?
-
-1.  Metadata tied to workflow and production. Those allow to structure a
-    text in such a way that, with the help of a style sheet, different
-    kinds of output technologies (and formats) can be used.
-2.  Metadata as the translation table between the tags under **1.** and
-    the output appearance. E.g. `This is a Title` has a
-    related list in which it is stipulated that on paper words in the
-    field title are printed Bold face in Green. In the same list it is
-    stipulated that on a B&W e-reader it is only Bold.
-3.  Metadata for keywords and classifications. Here a word or small
-    noun-phrase is tagged with a tag that is coupled to a glossary
-    orontology in which the meaning of the term is given. E.g.
-    `<glossA23>Spinach</glossA23>` means the word spinach according to
-    glossary A (vegetables) is defined in field 23.
-4.  Metadata that deal with navigation e.g. anchors in an hypertext
-    environment.
-
-## Why Embedding Metadata into MMD?
-
-Embedding Metadata directly into MMD means that:
-
-1.  the context of a document is bound to its content, so even if the
-    document is considered in itself it still tells its context (author,
-    date, etc.);
-2.  the one who inserts the metadata only needs to know the MMD syntax
-    so that she can use her preferred software to compile a document;
-3.  the one who inserts the metadata could use –but is not bound to– any
-    interface with custom forms.
-
-An index of all the documents is then created according to a “media
-player” model (already used for e-books like in tools like
-[Calibre](http://calibre-ebook.com/)). The metadata of each document are
-directly extracted and updated each time a document is modified.
-
-## A Simplified Version of the Metadata Set Mapped to Dublin Core
-
-Following the Dublin Core’s
-[MyBookCase](http://dublincore.org/documents/profile-guidelines/)
-example we define a simplified version of our metadata set by creating a
-Dublin Core Application Profile (DCAP).
-
-### Functional Requirements
-
-First we list the functional requirements for our DCAP:
-
--   Retrieve articles through a title or an author search;
--   Sort retrieved items by publication date;
--   Sort retrieved items by editing date;
--   Provide the author’s name and affiliation for contact purposes.
--   Sort different typologies of articles, such as blogposts or essays;
--   Arrange the articles according to the project they belong to;
--   Retrieve a certain part of an article, such as the abstract;
--   Retrieve specific information within the text, such as names of
-    people or organizations that are mentioned into it.
-
-### Domain Model
-
-Then we develop a [domain
-model](http://dublincore.org/documents/profile-guidelines/#sect-4):
-
-The domain model for IncPubBeta has 3 *things*: **Projects**,
-**Articles** and **Persons** (the authors of the articles). The domain
-model therefore consists of:
-
-An **Article** that belongs to a **Project** and is authored by a
-**Person**.
-
-![Domain Model](imgs/Screen-Shot-2013-09-30-at-3.18.13-PM.png)
-
-Now we select or define metadata:
-
-An **Article**:
-
--   may have a **Title**;
--   may have a **Publication Date**;
--   may have an **Edited Date**;
--   may have a **Type** (blogpost or essay);
--   may have an **Abstract**;
--   may have one or more **Agents** mentioned (such as people or
-    organizations);
--   may have a **Parent** project;
--   may have one or more **Authors**.
-
-A **Parent** is a **Project** that has:
-
--   a **Title**;
-
-An **Author** is a **Person** that has:
-
--   a **Name**;
--   an **Affiliation**.
-
-### Metadata Evaluation
-
-At this stage we evaluate the possibilty to use terms from existing
-vocabularies in our DCPA:
-
-#### Article
-
-For the **Title** we can use
-[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title),
-simply defined as “A name given to the resource”. It takes a free text
-as value.
-
-**Publication Date** is mapped to
-[*dcterms:date*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date),
-formatted according to the [W3C Date and Time Formats
-Specification](http://www.w3.org/TR/NOTE-datetime).
-
-**Edited Date** is mapped to
-[*dcterms:modified*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified),
-formatted according to the [W3C Date and Time Formats
-Specification](http://www.w3.org/TR/NOTE-datetime).
-
-**Type** is mapped to
-[*dcterms:type*](http://purl.org/dc/elements/1.1/type), defined as “the
-nature or genre of the resource”. It uses a domain specific vocabulary
-limited in our case to the following values:
-
--   Essay;
--   Blogpost.
-
-**Abstract** is mapped to
-[*dcterms:abstract*](http://dublincore.org/documents/dcmi-terms/#terms-abstract)
-and it is defined as ”a summary of the resource”.
-
-**Agent** is mapped to
-[*foaf:agent*](http://xmlns.com/foaf/spec/#term_Agent) and it is defined
-as ”an agent (eg. person, group, software or physical artifact)”.
-
-**Parent** is mapped to
-[*dcterms:isPartOf*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf),
-defined as “a related resource in which the described resource is
-physically or logically included”. It is used with a non-literal value
-in order to be described with multiple components.
-
-**Author** is mapped to [*dcterms:creators*][dcdatesub], defined as “an
-entity primarily responsible for making the resource“. It is used with a
-non-literal value in order to be described with multiple components.
-
-#### Parent as Project
-
-**Title** is mapped to
-[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title)
-and it takes a free text as value.
-
-#### Author as Person:
-
-**Name** is mapped to
-[*foaf:name*](http://xmlns.com/foaf/spec/#term_name) (part of the FOAF
-vocabulary), defined as “a name for some thing”.
-
-**Affiliation** is mapped to
-[*foaf:workplaceHomepage*](http://xmlns.com/foaf/spec/#term_workplaceHomepage)(part
-of the FOAF vocabulary), defined as “a workplace homepage of some
-person; the homepage of an organization they work for”. It takes the URL
-of the workplace as value.
-
-## Summary
-
-Two vocabularies are used in our DCAP:
-
--   [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/);
--   [FOAF Vocabulary](http://xmlns.com/foaf/spec/).
-
-## Description Set Profile
-
-We design our Metadata Record, called *IncPubBeta*, with a Description
-Set Profile (DSP) which is technology-agnostic.
-
-    DescriptionSet: IncPubBeta
-        Description template: Article
-        minimum = 1; maximum = unlimited
-            Statement template: title
-            minimum = 1; maximum = 1
-                Property: http://purl.org/dc/terms/title
-                Type of Value = "literal"
-            Statement template: dateCreated
-            minimum = 1; maximum = 1
-                Property: http://purl.org/dc/terms/created
-                Type of Value = "literal"
-                Syntax Encoding Scheme URI = http://purl.org/dc/terms/W3CDTF
-            Statement template: dateModified
-            minimum = 1; maximum = 1
-                Property: http://purl.org/dc/terms/modified
-                Type of Value = "literal"
-                Syntax Encoding Scheme URI = http://purl.org/dc/terms/W3CDTF
-            Statement template: type
-            minimum = 1; maximum = 1
-                Property: http://purl.org/dc/terms/type
-                Type of Value = "literal"
-                takes list = yes
-            Statement template: abstract
-            minimum = 1; maximum = 1
-                Property: http://purl.org/dc/terms/abstract
-                Type of Value = "literal"
-            Statement template: agent
-            minimum = 0; maximum = unlimited
-                Property: http://xmlns.com/foaf/0.1/agent
-                Type of Value = "literal"
-            Statement template: parent
-            minimum = 0; maximum = unlimited 
-                Property: http://purl.org/dc/terms/isPartOf
-                Type of Value = "non-literal"
-                defined as = project 
-            Statement template: author
-            minimum = 0; maximum = unlimited 
-                Property: http://purl.org/dc/terms/creator
-                Type of Value = "non-literal"
-                defined as = person
-
-        Description template: Project id=project
-        minimum = 1; maximum = unlimited
-            Statement template: title
-            minimum = 1; maximum = 1
-                Property: http://purl.org/dc/terms/title
-                Type of Value = "literal"
-
-        Description template: Person id=person
-        minimum = 1; maximum = unlimited
-            Statement template: name
-                Property: http://xmlns.com/foaf/0.1/name
-                minimum = 1; maximum = 1 
-                Type of Value = "literal"
-            Statement template: affiliation
-                Property: http://xmlns.com/foaf/0.1/name
-                minimum = 1; maximum = 1 
-                Type of Value = “non-literal"
-                value URI = mandatory
-
-## Support for Metadata in MultiMarkdown
-
-MultiMarkdown
-[features](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#metadata)
-the possibility to insert metadata at the beginning of the document in
-the following way:
-
-    Title: This is the title  
-    Author: John Doe
-    Affiliation: MIT
-
-## Comparison Between our DCAP and MultiMarkdown Default Metadata
-
-In the comparison between our DCAP and MultiMarkdown default metadata
-set we will particularly consider two aspects:
-
--   legibility, which is a key issue in Markdown language;
--   adherence to a shared standard for defining metadata.
-
-### Article’s Title
-
-**Title** could be seamlessly mapped to
-[*Title*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title)
-metadata, present in MultiMarkdown and defined as follows.
-
-> Used to provide the official title of a document. This is set as the
-> `` string within the `<head>` section of an HTML document, and
-> is also used by other export formats.
-
-    Title: This is my title
-
-### Publication Date
-
-**Publication Date** could be seamlessly mapped to
-[*Date*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date)
-metadata, present in MultiMarkdown and defined as follows.
-
-> Provide a date for the document.
-
-Even though MMD doesn’t provide any particular way to fomat dates, it is
-preferable to adhere to [W3C Dates and Times
-Formats](http://www.w3.org/TR/NOTE-datetime).
-
-    Date: 2012-10-08
-
-### Edited Date
-
-There is no metadata similar to **Edited Date** in MMD. So I propose
-*Modified* metadata to stick with the DC syntax.
-
-    Modified: 2013-10-08
-
-### Type
-
-There is no metadata similar to **Type** in MMD. So we propose *Type*
-metadata to stick with the DC syntax. It allows for a custom vocabulary.
-
-    Type: Blogpost
-
-### Parent Project’s Title
-
-There is no metadata similar to **Parent** in MMD. So I propose
-*Project* to give an immediate idea of what this metadata is about.
-
-    Project: My project’s Title
-
-### Author’s Name
-
-The **Name** of an **Author** could be seamlessly mapped to
-[*Author*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author)
-metadata, present in MultiMarkdown and defined as follows.
-
-> Self-explanatory. I strip this out to provide an author string to
-> LaTeX documents. Also used as the sender for letterhead and envelope
-> templates.
-
-    Author: John Doe
-
-### Author’s Affiliation
-
-The **Affiliation** of an **Author** could be seamlessly mapped to
-[*Affiliation*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation)
-metadata, present in MultiMarkdown and defined as follows.
-
-> Use this to include an organization that the author is affiliated
-> with, e.g. a university, company, or organization.
-
-In our case we will limit the values to URLs.
-
-    Affiliation: http://www.international.hva.nl/
-
-This is off course problematic in case the workplace homepage moves to
-another address.
-
-The **Affiliation** is dependent to a specific **Author**, so ways to
-express this dependency are needed., specifically in case of multiple
-authors.
-
-#### Affiliation Consequent to Name
-
-A possibility could be to insert **Affiliation** consequently to
-**Author**, like in the following example.
-
-    Author: John Doe
-    Affiliation: http://www.international.hva.nl/
-    Author: Mario Rossi
-    Affiliation: http://www.unimi.it/
-
-### Abstract
-
-In order to identify the **Abstract** within a MMD document, it is
-necessary to implement some extra syntax. Following there are some
-references and possibilities listed.
-
-#### LaTEX
-
-In
-[LaTEX](http://en.wikibooks.org/wiki/LaTeX/Document_Structure#Abstract)
-an Abstract is identified in the following way.
-
-    begin{abstract}
-    Your abstract goes here...
-    ...
-    end{abstract}
-
-This could be simplified for MMD in the following way.
-
-    abstract
-    Your abstract goes here...
-
-In this case a blank line would represent the end of the abstract. The
-advantage of this solution would be that the abstract is not written
-more than once. The solution is not MMD compatible.
-
-#### Pandoc’s Markdown
-
-The software Pandoc has an extended Markdown
-[syntax](http://en.wikipedia.org/wiki/YAML) that includes the
-possibility to insert an abstract within a
-[YAML](http://en.wikipedia.org/wiki/YAML) object in the following way:
-
-    ---
-    abstract: |
-      This is the abstract.
-
-      It consists of two paragraphs.
-    ...
-    ---
-
-    #{abstract}
-
-The syntax is conflicting with MMD because `---` is used to draw an
-horizontal line.
-
-#### HTML5
-
-Another possibility could be to insert the abstract within a `section`
-tag.
-
-    
-         This is the abstract.
-
-         It consists of two paragraphs.
-    
-
-The solution doesn’t conflict with MMD and allows to write the abstract
-only once. The main drawback is on the readability of the text.
-
-### Agent
-
-As for the abstract, a way to tag **Agents** (such as people,
-organizations, institutions) within the document is desirable. Following
-there are some references and possibilities listed.
-
-#### LaTEX
-
-LaTEX uses the following way to define nouns.
-
-    noun{Jack} and noun{Joe Bloggs} went up the hill.
-
-A simple way to do this in MMD could be the following.
-
-    [Jack]{agent} and [Joe Bloggs]{agent} went up the hill.
-
-And in the case of having a link to tag as agent, one could do like
-this:
-
-    [Jack](http://jack.com){agent} went up the hill.
-
-The solution, similar to [Markdown Extra’s Special
-Attributes](http://michelf.ca/projects/php-markdown/extra/#spe-attr), is
-only a proposal and it doesn’t work in MMD.
-
-#### Semantic MediaWiki
-
-In [Semantic
-MediaWiki](http://semantic-mediawiki.org/wiki/Semantic_MediaWiki), an
-extension to MediaWiki, it is possible to tag links and normal text in
-the following ways.
-
-    This article has the following agent: [[Agent::John Doe]].
-    This article has the following agent: [[Has Agent::John Doe]].
-
-A possible solution in MMD would be to keep the syntax as is, even
-though the result is less legible.
-
-#### HTML5
-
-Another possibility could be to insert the agent within a `span` tag.
-
-    This is an agent: Bruno Latour.
-
-The solution doesn’t conflict with MMD. The main drawback is again the
-readability of the text.
-
-## Example of the Whole Set within MMD
-
-Here’s an example of the whole set of metadata as proposed above. In the
-case of **Abstract** and **Agent**, the HTML5 solutions are employed.
-
-    Title: This is my title  
-    Date: 2012-10-08
-    Modified: 2013-10-08  
-    Type: Blogpost  
-    Project: My project’s Title
-    Author: John Doe
-    Affiliation: http://www.international.hva.nl/
-    Author: Mario Rossi
-    Affiliation: http://www.unimi.it/
-
-    
-        This is the abstract.
-
-        It consists of two paragraphs.
-    
-
-    # “This is my title”
-    ## Part of *My project’s Title*
-
-    This is an agent: Bruno Latour.
-
-## Conclusions
-
-Even though the proposed scenario that employs HTML5 is fully functional
-within MMD, some issue regarding the legibility of code (main concern
-while using MMD) do arise. In order to extract the metadata correctly, a
-preprocessor is anyway needed. A possibility not treated in the post is
-to include DC metadata directly as HTML header. This solution was
-consciously avoided because it totally breaks the legibility.
-
-## Resources
-
--   [Guidelines for Dublin Core Application
-    Profiles](http://dublincore.org/documents/profile-guidelines/);
--   [Dublin Core User
-    Guide](http://wiki.dublincore.org/index.php/User_Guide);
--   [MultiMarkdown Syntax
-    Guide](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide);
--   [Sematic Tagging in
-    Markdown](http://stackoverflow.com/questions/8783641/semantic-tagging-in-markdown);
--   [Additional Markdown We Need in Scholarly
-    Texts](http://blogs.plos.org/mfenner/2012/12/18/additional-markdown-we-need-in-scholarly-texts/)
-    by Martin Fenner;
--   [Fountain](http://fountain.io/syntax), a plain text markup language
-    for screenwriting based on Markdown;
--   [Introduction to Semantic
-    MediaWiki](http://semantic-mediawiki.org/wiki/Help:Introduction_to_Semantic_MediaWiki).
-
-# Translating a paper book design to a simple e-pub design {.entry-title .single-title itemprop="headline"}
-
-By [Miriam
-Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
-October 8, 2013 at 2:15 pm.
-
-![](imgs/CWW_ontwerp16.jpg)
-
-![](imgs/CWW_ontwerp7.jpg)
-
-*A contribution by Meeusontwerpt*
-
-The subgroup of Valiz, Meeus Ontwerpt and Puntpixel has set out to
-create a digital version of two editions in a new series by Valiz called
-Context Without Walls. The paper versions of Context Without Walls –
-books containing essays about and works by a contemporary artist – are
-being designed by Meeus Ontwerpt and are full of design and conversion
-challenges. Some of these include working with image-filled essays,
-references in the margins and notes. As starting point we have decided
-to try and make a simple e-pub that works even on the most primitive
-devices (like e-readers). This means we cannot do too many crazy things
-(regarding interactivity, but also with respect to the lay-out).
-Therefore the result of this simple version will be quite dry. However,
-by thinking well about details we want to make sure a certain quality
-and a connection with the original book design are maintained.
-
-
-
-**What did we do design wise, in order to achieve this? (For images,
-scroll down)**
-
--   Convert the print colors to matching RGB colors (of course you
-    cannot see the colors on every device, but we didn’t want to skip
-    the colors completely).
--   Adjust the cover design to a one-language book (the original book is
-    bilingual).
--   Start from a single-page design instead of a design in spreads.
--   Choose open source typefaces (through Google font) that come close
-    to the original typefaces and that work well for the screen (Libre
-    Baskerville instead of Plantin en Cabin instead of Akzidenz
-    Grotesk).
--   Define styles for the text, titles, subtitles, notes, and keywords
-    that work well for the screen (for instance the use of whitespace
-    and notes, which are not shown in superscript, but in between
-    brackets and in a color).
--   Set a standard rule for the use of images in between the text: there
-    always must be three small images that form one image together. In
-    this way the images still resemble the small images in the margin of
-    the paper book.
--   Translate the visual essay in the heart of the paper book into an
-    e-version. For example, in the paper book we use black as a
-    background color, but in the e-pub that could turn out ugly since
-    extra white margins might appear around the screen, that’s why we
-    choose a white background here.
--   Add a content page in big letters, so it is easily clickable (this
-    content page can exist next to the automatically generated content
-    page of the device).
--   Add extra features that make the e-pub similar to the paper book,
-    like endpapers.
-
-**What is the next step?**
-
-Puntpixel is making a generator that creates an e-pub, based on the
-input of text in mark-up language. The design of the books will be
-translated into the right CSS styles to use in this generator, so the
-final e-pub is going to look like the original paper design.
-
-Then we will have a simple e-pub that can be tested on different
-devices. And the good thing is we also have a system to convert a whole
-book to an e-pub (since we are working with a series that comes in very
-handy). The important thing we have to sort out is how to easily make a
-mark-up document from for instance a Word document.
-
-The next step is to create a more complicated e-pub (e-pub 3), with more
-possibilities concerning interactivity and layout. Unfortunately such a
-version won’t be able to work on all the readers / devices. What we
-would like from such an elaborate e-pub we don’t know yet, that’s
-something we still have to decide together.
-
-![](imgs/CWW_omslag_papier.jpg)
-
-![](imgs/CWW_ontwerp.jpg)
-
-![](imgs/CWW_Binnenwerk_papier4.jpg)
-
-![](imgs/CWW_ontwerp5.jpg)
-
-![](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
-
-![](imgs/CWW_ontwerp20.jpg)
-
-![](imgs/CWW_ontwerp2.jpg)
-
-# HTML5 and “Digital First” Content Development {.entry-title .single-title itemprop="headline"}
+# Programma: Het ABC van digitaal publiceren – bijeenkomst 28 november {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-October 7, 2013 at 10:29 am.
+November 5, 2013 at 4:58 pm.
 
-> Anyone who truly wants to engage with the challenge posed by [the
-> popularization of tablets] and be a part of evolving the medium of the
-> “book” needs to take seriously the notion of digital-first content
-> development. Being digital first means refusing to make the ebook
-> version of your content an afterthought. The digital format of the
-> book should not be merely a postproduction conversion of print-bound
-> manuscript files; nor should it be an ex post facto “enhanced” version
-> of content that has already been completed— for example, adding in a
-> few video clips at the end of an otherwise static text. From
-> conception to publication, true digital-first content is designed to
-> take full advantage of the capabilities offered by dedicated ereaders,
-> tablets, and smartphones to create something that is native to the
-> platform.
->
-> There is no other source content format better suited to the task of
-> developing digital-first content for the diverse ecosystem of ereading
-> devices than HTML5, because you can develop directly for the browser
-> (ereader software engines are effectively specialized Web browsers).
-> As I argue in “The Case for Authoring and Producing Books in
-> (X)HTML5,” authoring in HTML5 makes it “trivial to
-> integrate…digital-first elements directly into the manuscript”
+## Valt er nog iets te ontwerpen? Het ABC van digitaal publiceren\_
 
-Source: [HTML5 is the Future of Book Authorship, The key advantages of
-the HTML5 platform for authors and
-publishers](http://programming.oreilly.com/2013/09/html5-is-the-future-of-book-authorship.html#more-63383)
-by Sanders Kleinfeld, September 19, 2013
+-   **Wat:** Bijeenkomst over e-publiceren over de kunst en cultuur
+    sector
+-   **Wanneer:** 28 november 2013 / 09.30 – 12.30 uur
+-   **Waar:** Hogeschool van Amsterdam, Kohnstammzaal, Wibautstraat 2-4,
+    Amsterdam
 
-# “Just say no to ebook CSS and JS” by Baldur Bjarnason {.entry-title .single-title itemprop="headline"}
+Het Instituut voor Netwerkcultuur nodigt u van harte uit om op 28
+november van 9.30 – 12.30 deel te nemen aan de bijeenkomst over
+e-publiceren voor de kunst- en cultuursector die in het kader van het
+RAAK onderzoeksproject “Digital Publishing Toolkit” georganiseerd wordt.
+Tijdens deze bijeenkomst zullen de eerste resultaten van dit project
+gepresenteerd worden. Met aandacht voor vragen zoals: Hoe veranderen
+nieuwe digitale vormen van publiceren de rol van de vormgever? Hoe
+kunnen uitgeverijen in de kunst- en cultuursector zelf esthetische
+interactieve e-publicaties ontwikkelen? Welke platformen kunnen
+uitgevers gebruiken om digitaal te publiceren? Hoe verandert de
+productieketen van uitgever tot vormgever?
 
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-October 4, 2013 at 7:49 pm.
 
-> An ebook that doesn’t have structure is broken and unacceptable. […]
-> The more I discover about existing publisher ebook production
-> processes, the more I talk to people ‘on the inside’, the clearer it
-> becomes that a substantial portion of existing ebook inventory is
-> quite simply rubbish. No structure. Crap stylesheet. Broken markup. So
-> I propose that ereader vendors simply turn all publisher styles off
-> and never even consider enabling javascript. […] In exchange, what we
-> need you to do is to improve your built-in stylesheets. We need you to
-> support common markup practices like figures and captions, headings
-> and subheadings, horizontal rules that don’t look like a 90s flashback
-> and so on. Best if you support them both in markup patterns and as
-> class-based microformats.
 
-[“Just say no to ebook CSS and
-JS”](http://studiotendra.com/2013/10/02/just-say-no-to-ebook-css-and-js/),
-Baldur Bjarnason, 2 October 2013
+# PROGRAMMA
 
-# BiblioTech – a modern library {.entry-title .single-title itemprop="headline"}
+**Moderator: Geert Lovink**
 
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-October 4, 2013 at 2:21 pm.
+**09.00 – 09.30: Inloop, koffie/thee**
 
-The rise of e-books not only poses problems for publishers, it also asks
-to rethink the position or function of the library. Bexar County’s
-(Texas) Judge Nelson Wolff envisioned
-[BiblioTech](http://bexarbibliotech.org), the first public digital
-library. A modern library that will ‘store’ just e-books, not physical
-books.
+**09.30 – 09.45: Joost Kircz** ***Het ongebonden boek aan de ketting***
+Er is iets aan de hand in de boekenbranche. Eeuwen lang hadden we
+stevige boeken in alle formaten die goed in de hand lagen en als
+vrienden ons leven verrijkten. Nu gaat het boek de wijde wereld in.
+Schut het papier af als een streng Calvinistische opvoeding en ben vrij.
+Maar welke vrijheid heeft dit ongebonden boek eigenlijk? Hierover hebben
+wij op de Hogeschool van Amsterdam en met het Instituut voor
+Netwerkcultuur al jaren ouderlijke zorgen. Wij organiseerden twee
+congressen. Een in het Engels: “The Unbound Boek”, waarvan de
+verhandelingen binnenkort bij AUP uitkomen, ach ach… op papier, maar ook
+als saaie elektronische versie van dat papier. Een tweede conferentie
+had de vrolijke titel “Boek uit de band”. En een project heet “Out of
+Ink”, nu heeft de ongebonden adolescent zelfs de inktpot het raam uit
+gegooid. Maar de vrije wereld van los fladderende zinnen, plaatjes,
+films en liedjes wordt een ondoordringbaar woud, waar iedereen elkaar
+roept , maar niemand elkaar meer kan verstaan. Dit project probeert na
+te gaan welke soort talige-, beeldende- of audiocommunicatie tools nodig
+heeft om zich vrij te bewegen tussen papier en scherm. In dit project
+zoeken we uit wat we hebben, wat we willen overdragen en welke regels en
+gereedschap daar voor nodig zijn.
 
-> “Through BiblioTech, residents of Bexar County will be able to access
-> approximately 10,000 current titles through e-readers that they can
-> check out to take home or read on the premises.  Residents will also
-> be able to use their own e-readers or tablets to access the
-> collection.” ^[1](#fn:1)^
+**09.45 – 10.15: Florian Cramer** **10.15 – 10.30: Disucssie**
+***E-Publishing voor kunst- en designuitgevers: uitdagingen 2013*** In
+de huidige kunsten zijn elektronische publicaties belangrijker geworden
+dan werd verwacht: Denk aan het e-flux journal en zijn impact op het
+hedendaagse kunstdiscours of de filosofie van het Speculatieve Realisme
+die door haar Open Access e-publicaties snel bekend is geworden. Maar
+voor visueel georienteerde publicaties is de huidige e-publishing
+technologie vaak nog lastig toe te passen. Aan de ene kant zijn de
+verwachtingen van de technische mogelijkheden van het media vaak te
+hoog, aan de andere kant denkt men vaak nog te beperkt in kaders van
+simpele vertalingen van printproducten naar het scherm. Deze presentatie
+zal inzicht geven in de voorlopige conclusies, uitdagingen en
+oplossingen van het project Digital Publishing Toolkit.
 
-![Conceptual renderings of Bexar County's digital-only BilblioTech
-library Bexar County Commissioners Court.\<br /\>
-](imgs/ht_digital_library_interior_jef_130114_wg.jpg) *Conceptual
-renderings of Bexar County’s digital-only BilblioTech library Bexar
-County Commissioners Court*
+**10.30 – 10.50: Showcase BISPublishers** ***Over lettertype gebruik,
+spread layout, beeldgebruik en interactie*** Het deelproject
+BISPublishers is Essense gestart met een kort onderzoek naar de wereld
+van ‘digital publishing’. Inzichten hieruit zijn gebruikt als basis voor
+het kiezen van ideale format, platform en device(s). Het digitale
+traject van Auteur/Publisher naar de uiteindelijke lezer is complex
+gebleken, doordat vele trajecten mogelijk zijn en er constant nieuwe bij
+komen. Project BISPublishers werkt aan twee publicaties die zij tijdens
+de bijeenkomst zullen presenteren. Het eerste -Think Like a Lawyer,
+Don’t Act Like One- heeft als uitgangspunt om een vormgevingsgetrouw
+e-book conversie te realiseren, waarbij het de opdracht was het
+lettertype gebruik, de spread-layout en het beeldgebruik zoveel mogelijk
+te behouden. Developer Sauli Warmerhoven bouwde een EPUB3 generator om
+de pagina opmaak te automatiseren. De tweede publicatie -Sketching- is
+het tekenleerboek voor (industrieel) ontwerpers, van de auteurs Koos
+Eissen and Roselien Steur (TU Delft). De opdracht is het ontwikkelen van
+een zeer visueel e-learning boek waarbij verschillende tekentechnieken
+in beeld worden gebracht. Hiervoor worden onder andere de interactie
+mogelijkheden onderzocht zoals een social elementen, layered pagina
+opmaak, navigatie, video etc.
 
- If we have to believe the image above, this
-modern library will look a lot like Apple stores. It will be filled with
-aisles of computers and gadgets instead of physical books. It is great
-that BiblioTech tries to bring these services to people who do not
-necessarily have access to technologies to read e-books. However, when a
-library is not limited by the amount of books it can physically store,
-or exchange between several nearby libraries, then why is there still a
-limit of 10.000 current titles? How modern is this concept of a library?
+**11.10 – 11.30: Showcase Valiz** ***Context Without Walls – genereren
+van een serie ontworpen ePubs*** Valiz, Meeus Ontwerpt en PUNTPIXEL
+richt zich op het creeeren van een digitale versie van twee edities van
+de nieuwe serie van Valiz genaamd: Context Without Walls. De publicaties
+in deze serie zijn gericht op kunstenaars van over de hele wereld. De
+boeken zijn meertalig en bevatten zowel essays, als beelden. De print
+versies van Context Without Walls zijn gemaakt door Meeus Ontwerpt en
+bevatten veel design en conversie uitdagingen. Sommige van deze
+problemen bestaan uit het werken met visuele essays, referenties in de
+marges van de pagina en (voet)noten. Zowel rekening houdend met de
+technische mogelijkheden en de vragen van het ontwerp, hebben ze
+oplossingen gezocht voor deze problemen die ontstaan bij het omzetten
+van een papieren boek in een e-book. Dit heeft geleid tot de beslissing
+om een ‘ eenvoudige ‘ en een ‘ ingewikkelde ‘ digitale versie van het e
+– boek te maken. In de presentatie zullen Valiz en PUNTPIXEL het
+concrete resultaat van het werk tot nu toe laten zien, gericht op de
+EPUB-generator ontwikkeld door PUNTPIXEL. Daarnaast zullen de keuzes (en
+de redenering achter hen) tot nog toe besproken worden.
 
-When moving from physical books to e-books there is no real limitation
-to the amount of books you can offer to the public. Current costumer
-hard drives of one terabyte allow you to store 500,000,000 pages of
-reading. More than you can read in a lifetime. And for instance P2P
-systems like Kazaa or Limewire allow you to access and share these files
-through the Internet. Moreover, e-books can be copied endlessly. You
-don’t need to return your copy to the library so someone else can borrow
-it as well. You can keep your ‘personal’ copy and even add notes and
-annotations, and in this manner create your personal library.
+**11.30 – 11.50: Showcase nai010 uitgevers** ***Verzamelen Highlights***
+De groep van nai010 Publishers, Medamo en PUNTPIXEL ontwikkelt een
+digitale versie van de Stedelijk Museum Highlights Catalogus. In plaats
+van het creëren van een 1:1 ebook kopie van de catalogus, ontwikkelen ze
+een digitaal distributieplatform via een (mobiele) web-applicatie. Deze
+geeft de gebruikers de mogelijkheid om hun persoonlijke hoogtepunten uit
+de Stedelijk collectie te vinden, filteren, zoeken, bekijken en
+verzamelen tijdens een bezoek. Deze serie hoogtepunten wordt vervolgens
+gebruikt om een persoonlijke EPUB catalogus van de collectie samen te
+stellen en te genereren en kan worden gedownload voor offline bekijken
+met behulp van dezelfde online web toepassing. Deze elektronische versie
+van de collectie catalogus is gratis wanneer tien of minder kunstwerken
+worden verzameld. In de presentatie zal de algemene lay-out van de
+applicatie besp worden en daarnaast de commerciële rol van nai010
+bespreken als de uitgever, content of service provider.
 
-The limitation of 10.000 books thus seems to be build around proprietary
-regimes and copyright laws that limit the exchange of knowledge instead
-of allowing the free flow of easily copied, shared and stored e-books.
-From this perspective the library is seen as a warehouse that stocks
-information and ideas, managing the rights to lent these books to you.
-Essentially it limits the amount of information you can access instead
-of opening it up. Instead of rethinking the possibilities of a digital
-library, BiblioTech copies the tactics of the libraries we already know
-– it seems you even have to return the e-books you ‘lent’.
+**11.50 – 12.10: Showcase Institute of Network Cultures** ***One
+thousand and One workflows*** INC, Silvio Lorusso and Michael Murtaugh
+houden zich bezig met workflows voor digitale publicaties die verder
+gaan dan het online zetten van een PDF. Ze willen de creatieve spanning
+verkennen tussen de strikte beperkingen en bijzonderheden van ePub als
+een output formaat en de diversiteit van de mogelijke instrumenten en
+methoden die kunnen worden gebruikt om deze te produceren. Specifieke
+uitdagingen zijn te vinden in het werken met verschillende input-en
+output -formaten (zoals Word-documenten, video- materiaal aan de ene
+kant, gedrukte boeken, digitale edities, blogs ed aan de andere kant),
+met een min of meer gestandaardiseerde workflow als gewenste uitkomst.
+Uitgaande van het materiaal van het Instituut voor Netwerkcultuur
+project ‘Unlike Us’ wordt, een herdefiniering van de workflow en de
+daaruit voortvloeiende resultaten onderzocht werkende met een database
+en Markdown tekstbestanden. Binnen dit project wordt gebruik gemaakt van
+een gevarieerde toolbox van free software tools afkomstig uit
+verschillende praktijken (grafische vormgeving, informatica, taalkunde,
+tekstredactie, bloggen, bibliotheek wetenschappen, statistiek, reverse
+engineering).
 
-However, a more intriguing concept that helps to rethink the function of
-the library, and look beyond these principles of copyright, is the
-‘personal portable library’ conceptualized by Henry Warwick. He will
-publish the essay ‘Sharing is Caring’ within the [network
-notebooks](http://networkcultures.org/wpmu/portal/publications/) series
-of [the Institute of Network
-Cultures](http://networkcultures.org/wpmu/portal/) about this topic
-shortly.
+**12.10 – 12.30: Discussie en afsluiting**
 
-His concept builds on the fact that it is now more easy than ever to
-copy and share e-books, or more specifically to share complete
-*libraries* stored on one single hard drive neatly managed and
-preferable with a directory to help retrieve the books. He builds on
-older notions of the library and moves away from the idea of the library
-as warehouse. As he explains the older libraries were copy-making
-centers, copying every clay tablet or papyrus roll they could gather.
-This changed when the printing press mechanized the process of copying
-books.
 
-> “With this mechanisation came several changes to the purpose and
-> meaning of the library. As a printing press was an expensive piece of
-> gear, there was a high investment cost in printing books. The result
-> was the development of copyright laws to protect the interests of
-> capital and its investment in production. Libraries ceased to be
-> centres of copying and became warehouses of information.” ^[2](#fn:2)^
-
-Creating a digital library as yet another place to gate keep our access
-to copyrighted material is in a sense very modern, but e-books allow us
-to exploit the original role of libraries as copy-centres as explained
-by Warnick. Instead of copying one book per month we can copy whole
-libraries in an hour or less. So why go to an all digital library if you
-can only read 10.000 books?
 
 # Book review. The end of ebooks. 20 visionaries on the future of digital reading. {.entry-title .single-title itemprop="headline"}
 
@@ -9921,6 +9324,8 @@ role of publishers, or do we create parallel platforms that allow for
 experiments in content, revenue models, and most importantly in the case
 of the digital publishing toolkit project: design?
 
+
+
 # Valt er nog iets te ontwerpen? Het ABC van digitaal publiceren {.entry-title .single-title itemprop="headline"}
 
 By [margreet
@@ -9936,6 +9341,8 @@ publiceren op donderdag 28 november 2013 van 09.30 tot 12.30 in het
 Kohnstammhuis (Kohnstammzaal, 9e verdieping). Wees allen welkom. [Meld
 je alsjeblieft wel even
 aan](https://docs.google.com/forms/d/17VkX64WM8LRrh7r4y4nCc6xKTqYcMGrH2LjrnYMAz-s/edit).**
+
+
 
 # On the publication of Think Like a Lawyer, Don’t Act Like One {.entry-title .single-title itemprop="headline"}
 
@@ -9974,6 +9381,8 @@ lightened by a more efficient workflow.
 
 [link to the code on
 github](https://github.com/DigitalPublishingToolkit/epub_generator)
+
+
 
 # The revolution of digital publishing is taking place right now {.entry-title .single-title itemprop="headline"}
 
@@ -10471,6 +9880,778 @@ Leuphana Universität in Lüneburg (Duitsland). Zijn recente boeken zijn
 ‘Zero Comments’ uit 2007 en ‘Networks Without a Cause’ uit 2012, beide
 verschenen in het Engels, Duits en Italiaans.
 
+
+
+# Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+October 9, 2013 at 3:57 pm.
+
+(updated on the 21st of October)
+
+— INC subgroup
+
+In this post I’ll treat the issues that emerge from the proposal of
+embedding a custom set of metadata, based on the Dublin Core standard,
+within a MultiMarkdown document.
+
+The metadata set here employed is an extremely simplified version of
+what it is needed in our research project, but it gives anyway several
+insights that are useful in the definition of a more complex set.
+
+The work is divided in 2 phases:
+
+1.  the set of metadata is defined into a Dublin Core Application
+    Profile (DCAP);
+2.  the ways to insert the DCAP within a MultiMarkdown document are
+    discussed.
+
+
+
+## What Metadata?
+
+1.  Metadata tied to workflow and production. Those allow to structure a
+    text in such a way that, with the help of a style sheet, different
+    kinds of output technologies (and formats) can be used.
+2.  Metadata as the translation table between the tags under **1.** and
+    the output appearance. E.g. `This is a Title` has a
+    related list in which it is stipulated that on paper words in the
+    field title are printed Bold face in Green. In the same list it is
+    stipulated that on a B&W e-reader it is only Bold.
+3.  Metadata for keywords and classifications. Here a word or small
+    noun-phrase is tagged with a tag that is coupled to a glossary
+    orontology in which the meaning of the term is given. E.g.
+    `<glossA23>Spinach</glossA23>` means the word spinach according to
+    glossary A (vegetables) is defined in field 23.
+4.  Metadata that deal with navigation e.g. anchors in an hypertext
+    environment.
+
+## Why Embedding Metadata into MMD?
+
+Embedding Metadata directly into MMD means that:
+
+1.  the context of a document is bound to its content, so even if the
+    document is considered in itself it still tells its context (author,
+    date, etc.);
+2.  the one who inserts the metadata only needs to know the MMD syntax
+    so that she can use her preferred software to compile a document;
+3.  the one who inserts the metadata could use –but is not bound to– any
+    interface with custom forms.
+
+An index of all the documents is then created according to a “media
+player” model (already used for e-books like in tools like
+[Calibre](http://calibre-ebook.com/)). The metadata of each document are
+directly extracted and updated each time a document is modified.
+
+## A Simplified Version of the Metadata Set Mapped to Dublin Core
+
+Following the Dublin Core’s
+[MyBookCase](http://dublincore.org/documents/profile-guidelines/)
+example we define a simplified version of our metadata set by creating a
+Dublin Core Application Profile (DCAP).
+
+### Functional Requirements
+
+First we list the functional requirements for our DCAP:
+
+-   Retrieve articles through a title or an author search;
+-   Sort retrieved items by publication date;
+-   Sort retrieved items by editing date;
+-   Provide the author’s name and affiliation for contact purposes.
+-   Sort different typologies of articles, such as blogposts or essays;
+-   Arrange the articles according to the project they belong to;
+-   Retrieve a certain part of an article, such as the abstract;
+-   Retrieve specific information within the text, such as names of
+    people or organizations that are mentioned into it.
+
+### Domain Model
+
+Then we develop a [domain
+model](http://dublincore.org/documents/profile-guidelines/#sect-4):
+
+The domain model for IncPubBeta has 3 *things*: **Projects**,
+**Articles** and **Persons** (the authors of the articles). The domain
+model therefore consists of:
+
+An **Article** that belongs to a **Project** and is authored by a
+**Person**.
+
+![Domain Model](imgs/Screen-Shot-2013-09-30-at-3.18.13-PM.png)
+
+Now we select or define metadata:
+
+An **Article**:
+
+-   may have a **Title**;
+-   may have a **Publication Date**;
+-   may have an **Edited Date**;
+-   may have a **Type** (blogpost or essay);
+-   may have an **Abstract**;
+-   may have one or more **Agents** mentioned (such as people or
+    organizations);
+-   may have a **Parent** project;
+-   may have one or more **Authors**.
+
+A **Parent** is a **Project** that has:
+
+-   a **Title**;
+
+An **Author** is a **Person** that has:
+
+-   a **Name**;
+-   an **Affiliation**.
+
+### Metadata Evaluation
+
+At this stage we evaluate the possibilty to use terms from existing
+vocabularies in our DCPA:
+
+#### Article
+
+For the **Title** we can use
+[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title),
+simply defined as “A name given to the resource”. It takes a free text
+as value.
+
+**Publication Date** is mapped to
+[*dcterms:date*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date),
+formatted according to the [W3C Date and Time Formats
+Specification](http://www.w3.org/TR/NOTE-datetime).
+
+**Edited Date** is mapped to
+[*dcterms:modified*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified),
+formatted according to the [W3C Date and Time Formats
+Specification](http://www.w3.org/TR/NOTE-datetime).
+
+**Type** is mapped to
+[*dcterms:type*](http://purl.org/dc/elements/1.1/type), defined as “the
+nature or genre of the resource”. It uses a domain specific vocabulary
+limited in our case to the following values:
+
+-   Essay;
+-   Blogpost.
+
+**Abstract** is mapped to
+[*dcterms:abstract*](http://dublincore.org/documents/dcmi-terms/#terms-abstract)
+and it is defined as ”a summary of the resource”.
+
+**Agent** is mapped to
+[*foaf:agent*](http://xmlns.com/foaf/spec/#term_Agent) and it is defined
+as ”an agent (eg. person, group, software or physical artifact)”.
+
+**Parent** is mapped to
+[*dcterms:isPartOf*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf),
+defined as “a related resource in which the described resource is
+physically or logically included”. It is used with a non-literal value
+in order to be described with multiple components.
+
+**Author** is mapped to [*dcterms:creators*][dcdatesub], defined as “an
+entity primarily responsible for making the resource“. It is used with a
+non-literal value in order to be described with multiple components.
+
+#### Parent as Project
+
+**Title** is mapped to
+[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title)
+and it takes a free text as value.
+
+#### Author as Person:
+
+**Name** is mapped to
+[*foaf:name*](http://xmlns.com/foaf/spec/#term_name) (part of the FOAF
+vocabulary), defined as “a name for some thing”.
+
+**Affiliation** is mapped to
+[*foaf:workplaceHomepage*](http://xmlns.com/foaf/spec/#term_workplaceHomepage)(part
+of the FOAF vocabulary), defined as “a workplace homepage of some
+person; the homepage of an organization they work for”. It takes the URL
+of the workplace as value.
+
+## Summary
+
+Two vocabularies are used in our DCAP:
+
+-   [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/);
+-   [FOAF Vocabulary](http://xmlns.com/foaf/spec/).
+
+## Description Set Profile
+
+We design our Metadata Record, called *IncPubBeta*, with a Description
+Set Profile (DSP) which is technology-agnostic.
+
+    DescriptionSet: IncPubBeta
+        Description template: Article
+        minimum = 1; maximum = unlimited
+            Statement template: title
+            minimum = 1; maximum = 1
+                Property: <a href="http://purl.org/dc/terms/title">http://purl.org/dc/terms/title</a>
+                Type of Value = "literal"
+            Statement template: dateCreated
+            minimum = 1; maximum = 1
+                Property: <a href="http://purl.org/dc/terms/created">http://purl.org/dc/terms/created</a>
+                Type of Value = "literal"
+                Syntax Encoding Scheme URI = <a href="http://purl.org/dc/terms/W3CDTF">http://purl.org/dc/terms/W3CDTF</a>
+            Statement template: dateModified
+            minimum = 1; maximum = 1
+                Property: <a href="http://purl.org/dc/terms/modified">http://purl.org/dc/terms/modified</a>
+                Type of Value = "literal"
+                Syntax Encoding Scheme URI = <a href="http://purl.org/dc/terms/W3CDTF">http://purl.org/dc/terms/W3CDTF</a>
+            Statement template: type
+            minimum = 1; maximum = 1
+                Property: <a href="http://purl.org/dc/terms/type">http://purl.org/dc/terms/type</a>
+                Type of Value = "literal"
+                takes list = yes
+            Statement template: abstract
+            minimum = 1; maximum = 1
+                Property: <a href="http://purl.org/dc/terms/abstract">http://purl.org/dc/terms/abstract</a>
+                Type of Value = "literal"
+            Statement template: agent
+            minimum = 0; maximum = unlimited
+                Property: <a href="http://xmlns.com/foaf/0.1/agent">http://xmlns.com/foaf/0.1/agent</a>
+                Type of Value = "literal"
+            Statement template: parent
+            minimum = 0; maximum = unlimited 
+                Property: <a href="http://purl.org/dc/terms/isPartOf">http://purl.org/dc/terms/isPartOf</a>
+                Type of Value = "non-literal"
+                defined as = project 
+            Statement template: author
+            minimum = 0; maximum = unlimited 
+                Property: <a href="http://purl.org/dc/terms/creator">http://purl.org/dc/terms/creator</a>
+                Type of Value = "non-literal"
+                defined as = person
+
+        Description template: Project id=project
+        minimum = 1; maximum = unlimited
+            Statement template: title
+            minimum = 1; maximum = 1
+                Property: <a href="http://purl.org/dc/terms/title">http://purl.org/dc/terms/title</a>
+                Type of Value = "literal"
+
+        Description template: Person id=person
+        minimum = 1; maximum = unlimited
+            Statement template: name
+                Property: <a href="http://xmlns.com/foaf/0.1/name">http://xmlns.com/foaf/0.1/name</a>
+                minimum = 1; maximum = 1 
+                Type of Value = "literal"
+            Statement template: affiliation
+                Property: <a href="http://xmlns.com/foaf/0.1/name">http://xmlns.com/foaf/0.1/name</a>
+                minimum = 1; maximum = 1 
+                Type of Value = “non-literal"
+                value URI = mandatory
+
+## Support for Metadata in MultiMarkdown
+
+MultiMarkdown
+[features](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#metadata)
+the possibility to insert metadata at the beginning of the document in
+the following way:
+
+    Title: This is the title  
+    Author: John Doe
+    Affiliation: MIT
+
+## Comparison Between our DCAP and MultiMarkdown Default Metadata
+
+In the comparison between our DCAP and MultiMarkdown default metadata
+set we will particularly consider two aspects:
+
+-   legibility, which is a key issue in Markdown language;
+-   adherence to a shared standard for defining metadata.
+
+### Article’s Title
+
+**Title** could be seamlessly mapped to
+[*Title*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title)
+metadata, present in MultiMarkdown and defined as follows.
+
+> Used to provide the official title of a document. This is set as the
+> `` string within the `<head>` section of an HTML document, and
+> is also used by other export formats.
+
+    Title: This is my title
+
+### Publication Date
+
+**Publication Date** could be seamlessly mapped to
+[*Date*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date)
+metadata, present in MultiMarkdown and defined as follows.
+
+> Provide a date for the document.
+
+Even though MMD doesn’t provide any particular way to fomat dates, it is
+preferable to adhere to [W3C Dates and Times
+Formats](http://www.w3.org/TR/NOTE-datetime).
+
+    Date: 2012-10-08
+
+### Edited Date
+
+There is no metadata similar to **Edited Date** in MMD. So I propose
+*Modified* metadata to stick with the DC syntax.
+
+    Modified: 2013-10-08
+
+### Type
+
+There is no metadata similar to **Type** in MMD. So we propose *Type*
+metadata to stick with the DC syntax. It allows for a custom vocabulary.
+
+    Type: Blogpost
+
+### Parent Project’s Title
+
+There is no metadata similar to **Parent** in MMD. So I propose
+*Project* to give an immediate idea of what this metadata is about.
+
+    Project: My project’s Title
+
+### Author’s Name
+
+The **Name** of an **Author** could be seamlessly mapped to
+[*Author*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author)
+metadata, present in MultiMarkdown and defined as follows.
+
+> Self-explanatory. I strip this out to provide an author string to
+> LaTeX documents. Also used as the sender for letterhead and envelope
+> templates.
+
+    Author: John Doe
+
+### Author’s Affiliation
+
+The **Affiliation** of an **Author** could be seamlessly mapped to
+[*Affiliation*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation)
+metadata, present in MultiMarkdown and defined as follows.
+
+> Use this to include an organization that the author is affiliated
+> with, e.g. a university, company, or organization.
+
+In our case we will limit the values to URLs.
+
+    Affiliation: <a href="http://www.international.hva.nl/">http://www.international.hva.nl/</a>
+
+This is off course problematic in case the workplace homepage moves to
+another address.
+
+The **Affiliation** is dependent to a specific **Author**, so ways to
+express this dependency are needed., specifically in case of multiple
+authors.
+
+#### Affiliation Consequent to Name
+
+A possibility could be to insert **Affiliation** consequently to
+**Author**, like in the following example.
+
+    Author: John Doe
+    Affiliation: <a href="http://www.international.hva.nl/">http://www.international.hva.nl/</a>
+    Author: Mario Rossi
+    Affiliation: <a href="http://www.unimi.it/">http://www.unimi.it/</a>
+
+### Abstract
+
+In order to identify the **Abstract** within a MMD document, it is
+necessary to implement some extra syntax. Following there are some
+references and possibilities listed.
+
+#### LaTEX
+
+In
+[LaTEX](http://en.wikibooks.org/wiki/LaTeX/Document_Structure#Abstract)
+an Abstract is identified in the following way.
+
+    begin{abstract}
+    Your abstract goes here
+    
+    end{abstract}
+
+This could be simplified for MMD in the following way.
+
+    abstract
+    Your abstract goes here
+
+In this case a blank line would represent the end of the abstract. The
+advantage of this solution would be that the abstract is not written
+more than once. The solution is not MMD compatible.
+
+#### Pandoc’s Markdown
+
+The software Pandoc has an extended Markdown
+[syntax](http://en.wikipedia.org/wiki/YAML) that includes the
+possibility to insert an abstract within a
+[YAML](http://en.wikipedia.org/wiki/YAML) object in the following way:
+
+    ---
+    abstract: |
+      This is the abstract.
+
+      It consists of two paragraphs.
+    
+    ---
+
+    #{abstract}
+
+The syntax is conflicting with MMD because `---` is used to draw an
+horizontal line.
+
+#### HTML5
+
+Another possibility could be to insert the abstract within a `section`
+tag.
+
+    
+         This is the abstract.
+
+         It consists of two paragraphs.
+    
+
+The solution doesn’t conflict with MMD and allows to write the abstract
+only once. The main drawback is on the readability of the text.
+
+### Agent
+
+As for the abstract, a way to tag **Agents** (such as people,
+organizations, institutions) within the document is desirable. Following
+there are some references and possibilities listed.
+
+#### LaTEX
+
+LaTEX uses the following way to define nouns.
+
+    noun{Jack} and noun{Joe Bloggs} went up the hill.
+
+A simple way to do this in MMD could be the following.
+
+    [Jack]{agent} and [Joe Bloggs]{agent} went up the hill.
+
+And in the case of having a link to tag as agent, one could do like
+this:
+
+    [Jack](http://jack.com){agent} went up the hill.
+
+The solution, similar to [Markdown Extra’s Special
+Attributes](http://michelf.ca/projects/php-markdown/extra/#spe-attr), is
+only a proposal and it doesn’t work in MMD.
+
+#### Semantic MediaWiki
+
+In [Semantic
+MediaWiki](http://semantic-mediawiki.org/wiki/Semantic_MediaWiki), an
+extension to MediaWiki, it is possible to tag links and normal text in
+the following ways.
+
+    This article has the following agent: [[Agent::John Doe]].
+    This article has the following agent: [[Has Agent::John Doe]].
+
+A possible solution in MMD would be to keep the syntax as is, even
+though the result is less legible.
+
+#### HTML5
+
+Another possibility could be to insert the agent within a `span` tag.
+
+    This is an agent: Bruno Latour.
+
+The solution doesn’t conflict with MMD. The main drawback is again the
+readability of the text.
+
+## Example of the Whole Set within MMD
+
+Here’s an example of the whole set of metadata as proposed above. In the
+case of **Abstract** and **Agent**, the HTML5 solutions are employed.
+
+    Title: This is my title  
+    Date: 2012-10-08
+    Modified: 2013-10-08  
+    Type: Blogpost  
+    Project: My project’s Title
+    Author: John Doe
+    Affiliation: <a href="http://www.international.hva.nl/">http://www.international.hva.nl/</a>
+    Author: Mario Rossi
+    Affiliation: <a href="http://www.unimi.it/">http://www.unimi.it/</a>
+
+    
+        This is the abstract.
+
+        It consists of two paragraphs.
+    
+
+    # “This is my title”
+    ## Part of *My project’s Title*
+
+    This is an agent: Bruno Latour.
+
+## Conclusions
+
+Even though the proposed scenario that employs HTML5 is fully functional
+within MMD, some issue regarding the legibility of code (main concern
+while using MMD) do arise. In order to extract the metadata correctly, a
+preprocessor is anyway needed. A possibility not treated in the post is
+to include DC metadata directly as HTML header. This solution was
+consciously avoided because it totally breaks the legibility.
+
+## Resources
+
+-   [Guidelines for Dublin Core Application
+    Profiles](http://dublincore.org/documents/profile-guidelines/);
+-   [Dublin Core User
+    Guide](http://wiki.dublincore.org/index.php/User_Guide);
+-   [MultiMarkdown Syntax
+    Guide](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide);
+-   [Sematic Tagging in
+    Markdown](http://stackoverflow.com/questions/8783641/semantic-tagging-in-markdown);
+-   [Additional Markdown We Need in Scholarly
+    Texts](http://blogs.plos.org/mfenner/2012/12/18/additional-markdown-we-need-in-scholarly-texts/)
+    by Martin Fenner;
+-   [Fountain](http://fountain.io/syntax), a plain text markup language
+    for screenwriting based on Markdown;
+-   [Introduction to Semantic
+    MediaWiki](http://semantic-mediawiki.org/wiki/Help:Introduction_to_Semantic_MediaWiki).
+
+
+
+# Translating a paper book design to a simple e-pub design {.entry-title .single-title itemprop="headline"}
+
+By [Miriam
+Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
+October 8, 2013 at 2:15 pm.
+
+![](imgs/CWW_ontwerp16.jpg)
+
+![](imgs/CWW_ontwerp7.jpg)
+
+*A contribution by Meeusontwerpt*
+
+The subgroup of Valiz, Meeus Ontwerpt and Puntpixel has set out to
+create a digital version of two editions in a new series by Valiz called
+Context Without Walls. The paper versions of Context Without Walls –
+books containing essays about and works by a contemporary artist – are
+being designed by Meeus Ontwerpt and are full of design and conversion
+challenges. Some of these include working with image-filled essays,
+references in the margins and notes. As starting point we have decided
+to try and make a simple e-pub that works even on the most primitive
+devices (like e-readers). This means we cannot do too many crazy things
+(regarding interactivity, but also with respect to the lay-out).
+Therefore the result of this simple version will be quite dry. However,
+by thinking well about details we want to make sure a certain quality
+and a connection with the original book design are maintained.
+
+
+
+**What did we do design wise, in order to achieve this? (For images,
+scroll down)**
+
+-   Convert the print colors to matching RGB colors (of course you
+    cannot see the colors on every device, but we didn’t want to skip
+    the colors completely).
+-   Adjust the cover design to a one-language book (the original book is
+    bilingual).
+-   Start from a single-page design instead of a design in spreads.
+-   Choose open source typefaces (through Google font) that come close
+    to the original typefaces and that work well for the screen (Libre
+    Baskerville instead of Plantin en Cabin instead of Akzidenz
+    Grotesk).
+-   Define styles for the text, titles, subtitles, notes, and keywords
+    that work well for the screen (for instance the use of whitespace
+    and notes, which are not shown in superscript, but in between
+    brackets and in a color).
+-   Set a standard rule for the use of images in between the text: there
+    always must be three small images that form one image together. In
+    this way the images still resemble the small images in the margin of
+    the paper book.
+-   Translate the visual essay in the heart of the paper book into an
+    e-version. For example, in the paper book we use black as a
+    background color, but in the e-pub that could turn out ugly since
+    extra white margins might appear around the screen, that’s why we
+    choose a white background here.
+-   Add a content page in big letters, so it is easily clickable (this
+    content page can exist next to the automatically generated content
+    page of the device).
+-   Add extra features that make the e-pub similar to the paper book,
+    like endpapers.
+
+**What is the next step?**
+
+Puntpixel is making a generator that creates an e-pub, based on the
+input of text in mark-up language. The design of the books will be
+translated into the right CSS styles to use in this generator, so the
+final e-pub is going to look like the original paper design.
+
+Then we will have a simple e-pub that can be tested on different
+devices. And the good thing is we also have a system to convert a whole
+book to an e-pub (since we are working with a series that comes in very
+handy). The important thing we have to sort out is how to easily make a
+mark-up document from for instance a Word document.
+
+The next step is to create a more complicated e-pub (e-pub 3), with more
+possibilities concerning interactivity and layout. Unfortunately such a
+version won’t be able to work on all the readers / devices. What we
+would like from such an elaborate e-pub we don’t know yet, that’s
+something we still have to decide together.
+
+![](imgs/CWW_omslag_papier.jpg)
+
+![](imgs/CWW_ontwerp.jpg)
+
+![](imgs/CWW_Binnenwerk_papier4.jpg)
+
+![](imgs/CWW_ontwerp5.jpg)
+
+![](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
+
+![](imgs/CWW_ontwerp20.jpg)
+
+![](imgs/CWW_ontwerp2.jpg)
+
+
+
+# HTML5 and “Digital First” Content Development {.entry-title .single-title itemprop="headline"}
+
+By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
+October 7, 2013 at 10:29 am.
+
+> Anyone who truly wants to engage with the challenge posed by [the
+> popularization of tablets] and be a part of evolving the medium of the
+> “book” needs to take seriously the notion of digital-first content
+> development. Being digital first means refusing to make the ebook
+> version of your content an afterthought. The digital format of the
+> book should not be merely a postproduction conversion of print-bound
+> manuscript files; nor should it be an ex post facto “enhanced” version
+> of content that has already been completed— for example, adding in a
+> few video clips at the end of an otherwise static text. From
+> conception to publication, true digital-first content is designed to
+> take full advantage of the capabilities offered by dedicated ereaders,
+> tablets, and smartphones to create something that is native to the
+> platform.
+>
+> There is no other source content format better suited to the task of
+> developing digital-first content for the diverse ecosystem of ereading
+> devices than HTML5, because you can develop directly for the browser
+> (ereader software engines are effectively specialized Web browsers).
+> As I argue in “The Case for Authoring and Producing Books in
+> (X)HTML5,” authoring in HTML5 makes it “trivial to
+> integrate…digital-first elements directly into the manuscript”
+
+Source: [HTML5 is the Future of Book Authorship, The key advantages of
+the HTML5 platform for authors and
+publishers](http://programming.oreilly.com/2013/09/html5-is-the-future-of-book-authorship.html#more-63383)
+by Sanders Kleinfeld, September 19, 2013
+
+
+
+# “Just say no to ebook CSS and JS” by Baldur Bjarnason {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+October 4, 2013 at 7:49 pm.
+
+> An ebook that doesn’t have structure is broken and unacceptable. […]
+> The more I discover about existing publisher ebook production
+> processes, the more I talk to people ‘on the inside’, the clearer it
+> becomes that a substantial portion of existing ebook inventory is
+> quite simply rubbish. No structure. Crap stylesheet. Broken markup. So
+> I propose that ereader vendors simply turn all publisher styles off
+> and never even consider enabling javascript. […] In exchange, what we
+> need you to do is to improve your built-in stylesheets. We need you to
+> support common markup practices like figures and captions, headings
+> and subheadings, horizontal rules that don’t look like a 90s flashback
+> and so on. Best if you support them both in markup patterns and as
+> class-based microformats.
+
+[“Just say no to ebook CSS and
+JS”](http://studiotendra.com/2013/10/02/just-say-no-to-ebook-css-and-js/),
+Baldur Bjarnason, 2 October 2013
+
+
+
+# BiblioTech – a modern library {.entry-title .single-title itemprop="headline"}
+
+By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
+October 4, 2013 at 2:21 pm.
+
+The rise of e-books not only poses problems for publishers, it also asks
+to rethink the position or function of the library. Bexar County’s
+(Texas) Judge Nelson Wolff envisioned
+[BiblioTech](http://bexarbibliotech.org), the first public digital
+library. A modern library that will ‘store’ just e-books, not physical
+books.
+
+> “Through BiblioTech, residents of Bexar County will be able to access
+> approximately 10,000 current titles through e-readers that they can
+> check out to take home or read on the premises.  Residents will also
+> be able to use their own e-readers or tablets to access the
+> collection.” ^[1](#fn:1)^
+
+![Conceptual renderings of Bexar County's digital-only BilblioTech
+library Bexar County Commissioners Court.\<br /\>
+](imgs/ht_digital_library_interior_jef_130114_wg.jpg) *Conceptual
+renderings of Bexar County’s digital-only BilblioTech library Bexar
+County Commissioners Court*
+
+ If we have to believe the image above, this
+modern library will look a lot like Apple stores. It will be filled with
+aisles of computers and gadgets instead of physical books. It is great
+that BiblioTech tries to bring these services to people who do not
+necessarily have access to technologies to read e-books. However, when a
+library is not limited by the amount of books it can physically store,
+or exchange between several nearby libraries, then why is there still a
+limit of 10.000 current titles? How modern is this concept of a library?
+
+When moving from physical books to e-books there is no real limitation
+to the amount of books you can offer to the public. Current costumer
+hard drives of one terabyte allow you to store 500,000,000 pages of
+reading. More than you can read in a lifetime. And for instance P2P
+systems like Kazaa or Limewire allow you to access and share these files
+through the Internet. Moreover, e-books can be copied endlessly. You
+don’t need to return your copy to the library so someone else can borrow
+it as well. You can keep your ‘personal’ copy and even add notes and
+annotations, and in this manner create your personal library.
+
+The limitation of 10.000 books thus seems to be build around proprietary
+regimes and copyright laws that limit the exchange of knowledge instead
+of allowing the free flow of easily copied, shared and stored e-books.
+From this perspective the library is seen as a warehouse that stocks
+information and ideas, managing the rights to lent these books to you.
+Essentially it limits the amount of information you can access instead
+of opening it up. Instead of rethinking the possibilities of a digital
+library, BiblioTech copies the tactics of the libraries we already know
+– it seems you even have to return the e-books you ‘lent’.
+
+However, a more intriguing concept that helps to rethink the function of
+the library, and look beyond these principles of copyright, is the
+‘personal portable library’ conceptualized by Henry Warwick. He will
+publish the essay ‘Sharing is Caring’ within the [network
+notebooks](http://networkcultures.org/wpmu/portal/publications/) series
+of [the Institute of Network
+Cultures](http://networkcultures.org/wpmu/portal/) about this topic
+shortly.
+
+His concept builds on the fact that it is now more easy than ever to
+copy and share e-books, or more specifically to share complete
+*libraries* stored on one single hard drive neatly managed and
+preferable with a directory to help retrieve the books. He builds on
+older notions of the library and moves away from the idea of the library
+as warehouse. As he explains the older libraries were copy-making
+centers, copying every clay tablet or papyrus roll they could gather.
+This changed when the printing press mechanized the process of copying
+books.
+
+> “With this mechanisation came several changes to the purpose and
+> meaning of the library. As a printing press was an expensive piece of
+> gear, there was a high investment cost in printing books. The result
+> was the development of copyright laws to protect the interests of
+> capital and its investment in production. Libraries ceased to be
+> centres of copying and became warehouses of information.” ^[2](#fn:2)^
+
+Creating a digital library as yet another place to gate keep our access
+to copyrighted material is in a sense very modern, but e-books allow us
+to exploit the original role of libraries as copy-centres as explained
+by Warnick. Instead of copying one book per month we can copy whole
+libraries in an hour or less. So why go to an all digital library if you
+can only read 10.000 books?
+
+
+
 # Readmill – Social E-Books {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
@@ -10494,6 +10675,8 @@ levels.
 > Could Be The Future Of Social
 > Media](http://www.fastcolabs.com/3016658/e-books-could-be-the-ultimate-niche-social-networks),
 > Michael Grothaus, August 30 2013
+
+
 
 # Event: Contec – Redefining the experience of publishing {.entry-title .single-title itemprop="headline"}
 
@@ -10522,6 +10705,8 @@ the programme you can go
 
 
 
+
+
 # Print+Ebook Bundling {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -10540,6 +10725,8 @@ September 2, 2013 at 3:59 pm.
 Source: [Ghost in the Machine: Does Print+Ebook Bundling Have a
 Future?](Ghost%20in%20the%20Machine:%20Does%20Print+Ebook%20Bundling%20Have%20a%20Future?),
 Joy Hawley, August 26, 2013.
+
+
 
 # .Docx to MarkDown using Calibre and Pandoc {.entry-title .single-title itemprop="headline"}
 
@@ -10669,6 +10856,8 @@ In order to use the automated version you need:
     pandoc -f html -t markdown -o output.md temp/index.html
     rm -R temp
 
+
+
 # Landscape Digital Publishing research PDF {.entry-title .single-title itemprop="headline"}
 
 By [Arjen de
@@ -10699,6 +10888,8 @@ Our collegues of PuntPixel also created a comprehensive post about
 [Jargon, Platforms & Publication
 Formats](http://networkcultures.org/digitalpublishing/2013/06/digital-publications-in-practice/).
 
+
+
 # Notes on Converting a .doc to MultiMarkdown {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -10722,7 +10913,7 @@ that has the following features:
 
     Title:             This is the Title of the Article  
     Author:            Author Name  
-    Affiliation:       https://twitter.com/AuthorName  
+    Affiliation:       <a href="https://twitter.com/AuthorName">https://twitter.com/AuthorName</a>  
     Date:              2013  
     Base Header Level: 1  
     Copyright:         All Rights Reserved
@@ -10735,7 +10926,7 @@ example could be the attribute “file as” used to normalise names.
     Title:             This is the Title of the Article  
     Author:            John Doe  
     Author File As:    Doe, John  
-    Affiliation:       https://twitter.com/AuthorName   
+    Affiliation:       <a href="https://twitter.com/AuthorName">https://twitter.com/AuthorName</a>   
     Date:              2013  
     Base Header Level: 1  
     Copyright:         All Rights Reserved
@@ -10779,7 +10970,7 @@ to add them:
 
     <&> That makes this: 
 
-    http://exampleurl.com to this: 
+    <a href="http://exampleurl.com">http://exampleurl.com</a> to this: 
 
     &#60;http://exampleurl.com/&#62; Unfortunately Mou doesn't support Regular Expression so I did this with 
 
@@ -10820,6 +11011,8 @@ tool able to do the conversion in a satisfying way. Several passages
 between different softwares are needed and some prior knowledge is
 required. Furthermore the conversion requires a good amount of hand
 labour, in particular regarding the formatting of the footnotes.
+
+
 
 # Converting a .doc to Markdown {.entry-title .single-title itemprop="headline"}
 
@@ -10922,30 +11115,7 @@ convenient time-wise. However it is still necessary to add images,
 blockquotes, footnotes by hand. Furthermore hyperlinks need to be
 reformatted and slashes needs to be deleted.
 
-# Book: How the Page Matters by Bonnie Mak {.entry-title .single-title itemprop="headline"}
 
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-July 2, 2013 at 12:01 pm.
-
-# 
-
-> ![](imgs/9781442685369.cover.jpg)Mak’s book, “How the Page Matters,”
-> historicizes recent debates about eBooks and similar technologies by
-> casting the page as an interface that has been under development since
-> the scrolls of Antiquity. “How the Page Matters” tracks the page
-> through the manuscripts of the Middle Ages, the printed books of the
-> early modern period, and onto digital displays. By locating the page
-> in a broader tradition of writing technologies, the book re-examines
-> the print and digital ‘revolutions’ and shows that the questions
-> raised by digital theorists about the visualization of information are
-> not new, but are instead the persistent issues in a long history of
-> graphic reproduction. “How the Page Matters” contends that the
-> material of the page is constitutive of knowledge; the quality of the
-> paper, the shape of letter-forms, and the layout of text and image are
-> all part of the conversation between designer and reader.
-
-Source: Library and Information Science Illinois, [How the Page
-Matters](http://www.lis.illinois.edu/research/projects/how-page-matters)
 
 # Py-clave and Books as API {.entry-title .single-title itemprop="headline"}
 
@@ -10961,6 +11131,8 @@ publications in EPUB2 format».
 
 A presentation on the usefulness of APIs for books by Hugh McGuire,
 founder of [PressBooks](http://pressbooks.com/).
+
+
 
 # We all (want to) must go digital {.entry-title .single-title itemprop="headline"}
 
@@ -11015,6 +11187,8 @@ Thesis by Tamara Wouda, graduated April 2013, Hogeschool van Amsterdam. 
 Download the full thesis (in Dutch) [Digitaal moeten we
 allemaal](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/07/Digitaal-moeten-we-allemaal.pdf)
 
+
+
 # Unlike Us Reader in ePub format {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -11034,6 +11208,8 @@ digital versions of INC Readers.
 It was developed using InDesign CS6. The adopted procedure is documented
 [here](http://networkcultures.org/digitalpublishing/2013/05/epub-development-in-adobe-indesign-cs6/).
 
+
+
 # Inpiration for using gestures in digital publication {.entry-title .single-title itemprop="headline"}
 
 By [Arjen de
@@ -11045,58 +11221,36 @@ gestures.
 
 Ted talk by Mike Matas: A next-generation digital book.
 
-<http://www.ted.com/talks/mike_matas.html>
+<<a href="http://www.ted.com/talks/mike_matas.html">http://www.ted.com/talks/mike_matas.html</a>>
 
-# EPUB3: One File, Many Ebooks {.entry-title .single-title itemprop="headline"}
 
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-June 3, 2013 at 5:42 pm.
 
-> A single EPUB3 file can be used to create an ebook for all e-readers,
-> explained Liz Castro, tech expert and author, at the IDPF conference
-> in New York. […] Hachette’s practice of delivering the same EPUB3 file
-> to all its e-tailers, including Amazon, sets a precedent for the
-> industry, said Castro. If more publishers developed a single viable
-> ebook file, would e-reader systems converge upon a single standard for
-> rendering that file? And in turn, make ebooks a more intelligible
-> medium for the reader?
+# Book: How the Page Matters by Bonnie Mak {.entry-title .single-title itemprop="headline"}
 
-Source: [“EPUB3: One File, Many
-Ebooks”](http://www.digitalbookworld.com/2013/epub3-one-file-many-ebooks/)
-by Deanna Utroske.
+By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
+July 2, 2013 at 12:01 pm.
 
-# Buy on Amazon, Read on Kobo and Viceversa {.entry-title .single-title itemprop="headline"}
+# 
 
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-June 3, 2013 at 5:52 pm.
+> ![](imgs/9781442685369.cover.jpg)Mak’s book, “How the Page Matters,”
+> historicizes recent debates about eBooks and similar technologies by
+> casting the page as an interface that has been under development since
+> the scrolls of Antiquity. “How the Page Matters” tracks the page
+> through the manuscripts of the Middle Ages, the printed books of the
+> early modern period, and onto digital displays. By locating the page
+> in a broader tradition of writing technologies, the book re-examines
+> the print and digital ‘revolutions’ and shows that the questions
+> raised by digital theorists about the visualization of information are
+> not new, but are instead the persistent issues in a long history of
+> graphic reproduction. “How the Page Matters” contends that the
+> material of the page is constitutive of knowledge; the quality of the
+> paper, the shape of letter-forms, and the layout of text and image are
+> all part of the conversation between designer and reader.
 
-> A problem that finally seems to be taken seriously, now Neelie Kroes
-> expressed she supports a study of the EIBF (European and International
-> Booksellers Federation), which states that there are too many
-> different devices and file formats in Europe (but just as good
-> elsewhere), which gets in the way of the development of e-book sales,
-> and recognizes that this diversity of systems makes e-books
-> non-interchangeable. Consumers who have purchased e-books from Amazon,
-> cannot transfer them to their Kobo reader (for instance when they have
-> decided to continue their digital future with them), and vice versa.
-> Or consumers who have purchased e-books from the iBookstore, cannot
-> transfer them to their Sony Reader (although the reverse is possible
-> in The Netherlands). The study states that every consumer should
-> always be able to transfer its collection of digital books to another
-> retailer. In other words: you should be able to export and import your
-> e-book collection. For now, this is not in the interest of the large
-> gardens with high walls (the ecosystems that listen to names as
-> Amazon, Apple, Kobo and Nook), but in those of the consumer. But I
-> dare to say it should be in interest of the retailers as well, which
-> at this moment try their best to keep the customer within their walls.
-> Because if e-books do become interchangeable, more people would start
-> to read digitally than currently is the case.
+Source: Library and Information Science Illinois, [How the Page
+Matters](http://www.lis.illinois.edu/research/projects/how-page-matters)
 
-Source: [From format war to sustainability
-fight](http://www.futurebook.net/content/format-war-sustainability-fight)
-by Timo Boezeman, May 30th 2013.
+
 
 # DIGITAL PUBLISHING TOOLKIT {.entry-title .single-title itemprop="headline"}
 
@@ -11223,6 +11377,8 @@ payment systems that are available.
 
 ## *[Original presentation file (PDF) here.](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/06/presentation-overview-toolkit.pdf)*
 
+
+
 # BiNu’s Worldreader – a reading app for emerging markets {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
@@ -11271,6 +11427,8 @@ Source: [Underground iTunes: Australian Start-Up Drives Apps Potential
 to Emerging
 Markets](http://www.idgconnect.com/abstract/2290/underground-itunes-australian-start-up-drives-apps-potential-emerging-markets) by
 Kathryn Cave, June 20th 2013
+
+
 
 # Digital publications in practice {.entry-title .single-title itemprop="headline"}
 
@@ -11705,6 +11863,8 @@ The EPUB dummy is intended to be the starting point for further
 development or a turning point where we might need to consider
 alternative formats like HPub.
 
+
+
 # Crash Test Dummy {.entry-title .single-title itemprop="headline"}
 
 By [Marc de
@@ -11724,11 +11884,11 @@ websites a few years ago, and having to support older iterations of
 Internet Explorer (notably version 6) by resorting to ugly hacks (the
 lack alpha transparency in PNG images
 ((<http://support.microsoft.com/kb/294714>, more wonderful quirks here:
-<http://www.positioniseverything.net/explorer.html>)) comes to mind, for
+<<a href="http://www.positioniseverything.net/explorer.html%3E))">http://www.positioniseverything.net/explorer.html>))</a> comes to mind, for
 example) or opting out of certain technical innovations. The situation
 regarding EPUB interpretation is more or less the same – viz. faulty
 support of the standard by major EPUB readers. ((See:
-<http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls> for a detailed
+<<a href="http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls">http://www.bisg.org/docs/BISG_EPUB3PlatformGrid.xls</a>> for a detailed
 comparison.)) The landscape is even more fragmented, however, there are
 a great many EPUB readers for various platforms out there compared to
 the relatively small amount of browsers (courtesy of three major players
@@ -11832,7 +11992,7 @@ bigger screen.
 ### Kindle
 
 *Developer:* Amazon*Version:* 1.10.3*Website:*
-<http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000464931>
+<<a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000464931">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000464931</a>>
 
 
 
@@ -11854,7 +12014,7 @@ world.
 ### Calibre
 
 *Developer:* Kovid Goyal*Version:* 0.9.35*Website:*
-<http://calibre-ebook.com>
+<<a href="http://calibre-ebook.com">http://calibre-ebook.com</a>>
 
 
 
@@ -11874,7 +12034,7 @@ are not displayed, for example.
 ### Adobe Digital Editions
 
 *Developer:* Adobe*Version:* 2.0.6*Website:*
-<http://www.adobe.com/products/digital-editions.html>
+<<a href="http://www.adobe.com/products/digital-editions.html">http://www.adobe.com/products/digital-editions.html</a>>
 
 
 
@@ -11890,7 +12050,7 @@ strips it of anything except images.
 ### Kitabu
 
 *Developer:* Sixty Four*Version:* 1.0.7*Website:*
-<https://www.facebook.com/pages/Kitabu/242717922467492>
+<<a href="https://www.facebook.com/pages/Kitabu/242717922467492">https://www.facebook.com/pages/Kitabu/242717922467492</a>>
 
 
 
@@ -11907,7 +12067,7 @@ Ehon or Kindle.
 
 ### Ehon
 
-*Developer:* Pierre Oleo*Version:* 1.0.1*Website:* <http://ehonapp.com>
+*Developer:* Pierre Oleo*Version:* 1.0.1*Website:* <<a href="http://ehonapp.com">http://ehonapp.com</a>>
 
 
 
@@ -11923,7 +12083,7 @@ hence the full support for all the features of the publication.
 ### Azardi
 
 *Developer:* Infogrid Pacific*Version:* 20.0*Website:*
-<http://azardi.infogridpacific.com>
+<<a href="http://azardi.infogridpacific.com">http://azardi.infogridpacific.com</a>>
 
 
 
@@ -11950,7 +12110,7 @@ possibilities (or lack thereof) both platforms are the same.
 ### iBooks
 
 *Developer:* Apple*Version:* 3.1*Website:*
-<https://itunes.apple.com/us/app/id364709193>*Environment:* iOS
+<<a href="https://itunes.apple.com/us/app/id364709193%3E*Environment:*">https://itunes.apple.com/us/app/id364709193>*Environment:*</a> iOS
 
 
 
@@ -11969,7 +12129,7 @@ application, not the EPUB.
 ### Kindle
 
 *Developer:* AMZN Mobile*Version:* 3.8*Website:*
-<http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301>*Environment:*
+<<a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301%3E*Environment:*">http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000301301>*Environment:*</a>
 iOS, Android
 
 
@@ -11987,7 +12147,7 @@ Calibre.
 ### Bluefire Reader
 
 *Developer:* Bluefire Productions*Version:* 1.9.7*Website:*
-<http://www.bluefirereader.com>*Environment:* iOS
+<<a href="http://www.bluefirereader.com%3E*Environment:*">http://www.bluefirereader.com>*Environment:*</a> iOS
 
 
 
@@ -12002,7 +12162,7 @@ styling or media.
 ### Readmill
 
 *Developer:* Readmill Network*Version:* 3.2*Website:*
-<https://readmill.com>*Environment:* iOS
+<<a href="https://readmill.com%3E*Environment:*">https://readmill.com>*Environment:*</a> iOS
 
 
 
@@ -12021,7 +12181,7 @@ Readmill ebook styles are applied to the entirety of the document.
 ### Kobo Books
 
 *Developer:* Kobo*Version:* 5.12*Website:*
-<http://www.kobo.com/apps>*Environment:* iOS, Android
+<<a href="http://www.kobo.com/apps%3E*Environment:*">http://www.kobo.com/apps>*Environment:*</a> iOS, Android
 
 
 
@@ -12038,7 +12198,7 @@ anything more than simple text and displaying imagery.
 ### Lektz
 
 *Developer:* AEL Data Services*Version:* 3.1*Website:*
-<http://lektz.com>*Environment:* iOS, Android
+<<a href="http://lektz.com%3E*Environment:*">http://lektz.com>*Environment:*</a> iOS, Android
 
 
 
@@ -12063,7 +12223,7 @@ dummy EPUB, except for audio and video.
 ![](imgs/Aldiko02.png)
 
 *Developer:* Aldiko*Version:* 2.2.3*Website:*
-<http://www.aldiko.com>*Environment:* Android
+<<a href="http://www.aldiko.com%3E*Environment:*">http://www.aldiko.com>*Environment:*</a> Android
 
 Barebones presentation of text and images. No video, audio or any
 styling.
@@ -12075,7 +12235,7 @@ styling.
 ![](imgs/ePub-Reader02.png)
 
 *Developer:* Graphilos Studio*Version:* 1.5.3*Website:*
-<http://www.graphilos.com>*Environment:* Android
+<<a href="http://www.graphilos.com%3E*Environment:*">http://www.graphilos.com>*Environment:*</a> Android
 
 The “best” of the Android applications in terms of CSS styling. However,
 all the pages seem to exceed the available screen size.
@@ -12087,7 +12247,7 @@ all the pages seem to exceed the available screen size.
 ![](imgs/Mantano02.png)
 
 *Developer:* Mantano SAS*Version:* 1.2.9*Website:*
-<http://www.mantano.com>*Environment:* Android
+<<a href="http://www.mantano.com%3E*Environment:*">http://www.mantano.com>*Environment:*</a> Android
 
 Presentation quite similar to Aldiko: just text and images, no video,
 audio or styling (except font sizes).
@@ -12099,7 +12259,7 @@ audio or styling (except font sizes).
 ![](imgs/Moon02.png)
 
 *Developer:* Moon+*Version:* 1.9.7.0*Website:*
-<http://www.moondownload.com>*Environment:* Android
+<<a href="http://www.moondownload.com%3E*Environment:*">http://www.moondownload.com>*Environment:*</a> Android
 
 Moon+ applies its own styling to the background of the publication and
 ignores any CSS styling (except for texts that are defined as bold or
@@ -12112,7 +12272,7 @@ italic). No support for video or audio.
 ![](imgs/UBReader02.png)
 
 *Developer:* Mobile Systems*Version:* 2.1.260*Website:*
-<http://www.ubreader.com>*Environment:* Android
+<<a href="http://www.ubreader.com%3E*Environment:*">http://www.ubreader.com>*Environment:*</a> Android
 
 No CSS styling (font sizes excepted) or custom fonts. No support for
 video or audio.
@@ -12180,6 +12340,8 @@ Amazon, Sony, etc.), we also aim to use one of the libraries offered by
 Readium – probably Readium.js – to present the EPUB to a larger
 audience.
 
+
+
 # E-Reader According to the Oxford English Dictionary {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -12194,7 +12356,64 @@ the following meanings:
 > or other text in digital form (1999).
 
 Source:
-<http://blog.oxforddictionaries.com/2013/06/oed-june-2013-update/>
+<<a href="http://blog.oxforddictionaries.com/2013/06/oed-june-2013-update/">http://blog.oxforddictionaries.com/2013/06/oed-june-2013-update/</a>>
+
+
+
+# EPUB3: One File, Many Ebooks {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+June 3, 2013 at 5:42 pm.
+
+> A single EPUB3 file can be used to create an ebook for all e-readers,
+> explained Liz Castro, tech expert and author, at the IDPF conference
+> in New York. […] Hachette’s practice of delivering the same EPUB3 file
+> to all its e-tailers, including Amazon, sets a precedent for the
+> industry, said Castro. If more publishers developed a single viable
+> ebook file, would e-reader systems converge upon a single standard for
+> rendering that file? And in turn, make ebooks a more intelligible
+> medium for the reader?
+
+Source: [“EPUB3: One File, Many
+Ebooks”](http://www.digitalbookworld.com/2013/epub3-one-file-many-ebooks/)
+by Deanna Utroske.
+
+
+
+# Buy on Amazon, Read on Kobo and Viceversa {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+June 3, 2013 at 5:52 pm.
+
+> A problem that finally seems to be taken seriously, now Neelie Kroes
+> expressed she supports a study of the EIBF (European and International
+> Booksellers Federation), which states that there are too many
+> different devices and file formats in Europe (but just as good
+> elsewhere), which gets in the way of the development of e-book sales,
+> and recognizes that this diversity of systems makes e-books
+> non-interchangeable. Consumers who have purchased e-books from Amazon,
+> cannot transfer them to their Kobo reader (for instance when they have
+> decided to continue their digital future with them), and vice versa.
+> Or consumers who have purchased e-books from the iBookstore, cannot
+> transfer them to their Sony Reader (although the reverse is possible
+> in The Netherlands). The study states that every consumer should
+> always be able to transfer its collection of digital books to another
+> retailer. In other words: you should be able to export and import your
+> e-book collection. For now, this is not in the interest of the large
+> gardens with high walls (the ecosystems that listen to names as
+> Amazon, Apple, Kobo and Nook), but in those of the consumer. But I
+> dare to say it should be in interest of the retailers as well, which
+> at this moment try their best to keep the customer within their walls.
+> Because if e-books do become interchangeable, more people would start
+> to read digitally than currently is the case.
+
+Source: [From format war to sustainability
+fight](http://www.futurebook.net/content/format-war-sustainability-fight)
+by Timo Boezeman, May 30th 2013.
+
+
 
 # Project Descriptions: Hands-on research into the preconditions of digital publishing. {.entry-title .single-title itemprop="headline"}
 
@@ -12312,6 +12531,8 @@ test-case. This research will be complemented with a research into the
 systematic use of metadata and document management, and the role it
 plays within digital publishing workflows.
 
+
+
 # The Book as Directory {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -12326,7 +12547,7 @@ with the title “Quando il lettore diventa utente”]*
 
 ![](imgs/Inside_the_Kindle_3.jpg)
 The Inside of a Kindle 3. Source:
-https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg
+<a href="https://en.wikipedia.org/wiki/File:Inside%5C_the%5C_Kindle%5C_3.jpg">https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg</a>
 
 
 
@@ -12436,6 +12657,8 @@ copy-pasted, shared and reworked. The book will return to be a
 user-oriented technology.
 
 – Silvio Lorusso ([@silvi0l0russo](https://twitter.com/silvi0L0russo))
+
+
 
 # NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6 {.entry-title .single-title itemprop="headline"}
 
@@ -13560,7 +13783,7 @@ Geert Lovink
 Miriam Rasch
 Solon Barocas
 Caroline Bassett
-[...]
+[]
             
 ```
 
@@ -13664,7 +13887,7 @@ etc.)
     
     
     
-    [...]
+    []
 
             
 ```
@@ -13705,6 +13928,8 @@ following way.
 
 ID’s should not be repeated more than once and the playOrder attribute should be consistent with the
 actual order of the XHTML files.
+
+
 
 # A Layered Book {.entry-title .single-title itemprop="headline"}
 
@@ -13747,6 +13972,8 @@ Robert Darnton, [“The New Age of the
 Book”](http://www.nybooks.com/articles/archives/1999/mar/18/the-new-age-of-the-book/?pagination=false)
 in *The New York Review of Books*, 18 March 1999.
 
+
+
 # Testing the Unlike Us Reader ePub Version on Kobo Mini, Sony Reader PRS-T2, Cresta CEB665 {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -13755,6 +13982,8 @@ May 17, 2013 at 1:46 pm.
 
 ![](imgs/all.jpg)
 
+
+
 # Preview of the Unlike Us Reader, mobi version {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -13762,6 +13991,94 @@ Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Pos
 May 13, 2013 at 8:04 am.
 
 ![](imgs/2013-05-12-17.35.38.jpg)
+
+
+
+# Available digital versions of Cory Doctorow’s “With a Little Help” {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+April 28, 2013 at 5:09 pm.
+
+![](imgs/Screen-Shot-2013-04-28-at-7.03.30-PM.png)
+
+As a strategy for dissemination, the novel “With a Little Help” by Cory
+Doctorow is provided in 5 different official formats. Some fan-converted
+versions are available as well.
+
+<<a href="http://craphound.com/walh/e-book/browse-all-versions">http://craphound.com/walh/e-book/browse-all-versions</a>>
+
+
+
+# “EBooks violate the fundamental promise of the Internet” {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+April 25, 2013 at 3:25 pm.
+
+> EBooks violate the fundamental promise of the Internet. Anyone can
+> publish a website. Anyone can offer content for free or sell whatever
+> they want from a website. Small commissions to payment processors and
+> web hosting costs notwithstanding, the Internet empowers a seller to
+> engage directly with a buyer. Ebooks break this promise; the writer
+> should be able to engage directly with the reader. The writer should
+> be able to sell directly to the reader. Imagine if you had to pay your
+> web hosting company 30% of your gross every time you sold an item on
+> your website—that’s exactly what eBookstores do. […] The fact that
+> paper books have traditionally been sold in bookstores does not mean
+> that an “online bookstore” is the only legitimate place to sell
+> eBooks. In fact, an online bookstore is no different than any other
+> e-commerce company that displays and sells the products in its
+> database. Downloading and installing book software should be no
+> different than downloading and installing any other software. To be
+> accurate, publishers can produce and distribute their own ePub eBook
+> files but these still rely on dedicated eReader software or hardware.
+> But you’re reading this article in a web browser. Why should reading a
+> book require a special device, application, or intermediary service?
+
+Dave Bricker, [Why Ebooks Belong in the Web
+Browser](http://theworldsgreatestbook.com/ebooks-belong-in-the-browser/?goback=.gde_104765_member_234634475),
+April 21 2013
+
+
+
+# Ebooks and Ownership {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+April 15, 2013 at 7:41 am.
+
+> In current research for Microsoft, Sellen has learned that many people
+> do not feel much ownership of e-books because of their impermanence
+> and intangibility: “They think of using an e-book, not owning an
+> e-book,” she says.
+
+Ferris Jabr, *The Reading Brain in the Digital Age: The Science of Paper
+versus Screens*, [Scientific
+American](http://www.scientificamerican.com/article.cfm?id=reading-paper-screens&page=2)
+
+
+
+# Publishing Companies Are Technology Companies {.entry-title .single-title itemprop="headline"}
+
+By [Silvio
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+April 13, 2013 at 11:56 am.
+
+> It’s true that success for any individual experiment is far from
+> guaranteed, and the form and marketplace are still evolving. But there
+> are rewards for early investments in a nascent medium: ownership of
+> repeatable workflows, an understanding of how authors can bridge the
+> creative divide, creation of reusable technology, and most importantly
+> pioneering the development of a new audience, community, and
+> marketplace.
+
+Eli Horowitz and Russell Quinn, [Publishing Companies Are Technology
+Companies. Now It’s Time For Them To Act Like
+It](http://www.huffingtonpost.com/eli-horowitz/publishing-companies-technology_b_3060524.html?utm_hp_ref=books),
+Huffington
+
+
 
 # Paper + Digital Access {.entry-title .single-title itemprop="headline"}
 
@@ -13782,6 +14099,8 @@ April 6, 2013 at 8:04 am.
 Kane Hsieh, [Why Do We Keep Making Ebooks Like Paper
 Books?](http://gizmodo.com/5993800/why-do-we-keep-making-ebooks-like-paper-books)
 April 5, 2013
+
+
 
 # Opinions and Stats About Digital Publishing as Q&A {.entry-title .single-title itemprop="headline"}
 
@@ -13850,83 +14169,7 @@ Also at 9 percent was the
 iPad.](http://www.wired.com/business/2010/11/and-the-most-popular-way-to-read-an-e-book-is/)
 *August 10, 2010*
 
-# Available digital versions of Cory Doctorow’s “With a Little Help” {.entry-title .single-title itemprop="headline"}
 
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-April 28, 2013 at 5:09 pm.
-
-![](imgs/Screen-Shot-2013-04-28-at-7.03.30-PM.png)
-
-As a strategy for dissemination, the novel “With a Little Help” by Cory
-Doctorow is provided in 5 different official formats. Some fan-converted
-versions are available as well.
-
-<http://craphound.com/walh/e-book/browse-all-versions>
-
-# “EBooks violate the fundamental promise of the Internet” {.entry-title .single-title itemprop="headline"}
-
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-April 25, 2013 at 3:25 pm.
-
-> EBooks violate the fundamental promise of the Internet. Anyone can
-> publish a website. Anyone can offer content for free or sell whatever
-> they want from a website. Small commissions to payment processors and
-> web hosting costs notwithstanding, the Internet empowers a seller to
-> engage directly with a buyer. Ebooks break this promise; the writer
-> should be able to engage directly with the reader. The writer should
-> be able to sell directly to the reader. Imagine if you had to pay your
-> web hosting company 30% of your gross every time you sold an item on
-> your website—that’s exactly what eBookstores do. […] The fact that
-> paper books have traditionally been sold in bookstores does not mean
-> that an “online bookstore” is the only legitimate place to sell
-> eBooks. In fact, an online bookstore is no different than any other
-> e-commerce company that displays and sells the products in its
-> database. Downloading and installing book software should be no
-> different than downloading and installing any other software. To be
-> accurate, publishers can produce and distribute their own ePub eBook
-> files but these still rely on dedicated eReader software or hardware.
-> But you’re reading this article in a web browser. Why should reading a
-> book require a special device, application, or intermediary service?
-
-Dave Bricker, [Why Ebooks Belong in the Web
-Browser](http://theworldsgreatestbook.com/ebooks-belong-in-the-browser/?goback=.gde_104765_member_234634475),
-April 21 2013
-
-# Ebooks and Ownership {.entry-title .single-title itemprop="headline"}
-
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-April 15, 2013 at 7:41 am.
-
-> In current research for Microsoft, Sellen has learned that many people
-> do not feel much ownership of e-books because of their impermanence
-> and intangibility: “They think of using an e-book, not owning an
-> e-book,” she says.
-
-Ferris Jabr, *The Reading Brain in the Digital Age: The Science of Paper
-versus Screens*, [Scientific
-American](http://www.scientificamerican.com/article.cfm?id=reading-paper-screens&page=2)
-
-# Publishing Companies Are Technology Companies {.entry-title .single-title itemprop="headline"}
-
-By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
-April 13, 2013 at 11:56 am.
-
-> It’s true that success for any individual experiment is far from
-> guaranteed, and the form and marketplace are still evolving. But there
-> are rewards for early investments in a nascent medium: ownership of
-> repeatable workflows, an understanding of how authors can bridge the
-> creative divide, creation of reusable technology, and most importantly
-> pioneering the development of a new audience, community, and
-> marketplace.
-
-Eli Horowitz and Russell Quinn, [Publishing Companies Are Technology
-Companies. Now It’s Time For Them To Act Like
-It](http://www.huffingtonpost.com/eli-horowitz/publishing-companies-technology_b_3060524.html?utm_hp_ref=books),
-Huffington
 
 # Resources: Social Reading, Design Experiments, Blogs on Publishing {.entry-title .single-title itemprop="headline"}
 
@@ -14039,6 +14282,8 @@ Blogs:
 
 
 
+
+
 # First Look: “Unlike Us Reader” Default Export from InDesign to EPUB 2.0.1 {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
@@ -14106,6 +14351,8 @@ Invisible voices in the inner TOC
 
 ![](imgs/Screen-Shot-2013-03-29-at-4.22.05-PM.png)
 Title alignment inherited by the visual layout
+
+
 
 
 
@@ -14307,14 +14554,32 @@ based on open source- standards and tools, with which publishers in art-
 and the cultural sector can publish e-publications that are suitable for
 several (mobile) devices”
 
+
+
+# Publishing platforms {.entry-title .single-title itemprop="headline"}
+
+By [Arjen de
+Jong](http://networkcultures.org/digitalpublishing/author/arjen-2/ "Posts by Arjen de Jong"),
+March 19, 2013 at 2:04 pm.
+
+**Issuu**[www.issuu.com](http://www.issuu.com)
+
+**lulu.com**[www.lulu.com](http://www.lulu.com)
+
+**kyur8**![:)](imgs/icon_smile.gif)<http://kyur8.tumblr.com/>
+
+
+
 # on the business of literature {.entry-title .single-title itemprop="headline"}
 
 By [sauli](http://networkcultures.org/digitalpublishing/author/sauli-2/ "Posts by sauli"),
 March 19, 2013 at 3:27 pm.
 
-<http://www.vqronline.org/articles/2013/spring/nash-business-literature/>
+<<a href="http://www.vqronline.org/articles/2013/spring/nash-business-literature/">http://www.vqronline.org/articles/2013/spring/nash-business-literature/</a>>
 
 >  “Abundance breaks more things than scarcity.”
+
+
 
 # ePub tools {.entry-title .single-title itemprop="headline"}
 
@@ -14373,17 +14638,7 @@ platforms
 [java programma](https://code.google.com/p/epubcheck/) om epubs te
 controleren op fouten
 
-# Publishing platforms {.entry-title .single-title itemprop="headline"}
 
-By [Arjen de
-Jong](http://networkcultures.org/digitalpublishing/author/arjen-2/ "Posts by Arjen de Jong"),
-March 19, 2013 at 2:04 pm.
-
-**Issuu**[www.issuu.com](http://www.issuu.com)
-
-**lulu.com**[www.lulu.com](http://www.lulu.com)
-
-**kyur8**![:)](imgs/icon_smile.gif)<http://kyur8.tumblr.com/>
 
 # Bedrijven & digitale publicaties {.entry-title .single-title itemprop="headline"}
 
@@ -14394,9 +14649,9 @@ March 19, 2013 at 3:32 pm.
 **Tabula Nova**
 
 Arco van den Berg, tablet publisher, spreker op
-http://ereadingevent.nl/seminar/\#seminar77, Apps en ePub
+<a href="http://ereadingevent.nl/seminar/%5C#seminar77">http://ereadingevent.nl/seminar/\#seminar77</a>, Apps en ePub
 
-<http://www.tabulanova.com/>
+<<a href="http://www.tabulanova.com/">http://www.tabulanova.com/</a>>
 
  
 
@@ -14405,7 +14660,7 @@ http://ereadingevent.nl/seminar/\#seminar77, Apps en ePub
 Engels bedrijf, Multi platform publishing, wel vnl met ‘Gesloten
 systemen'(o.a. mbv Adobe AIR, Apple’s IBA).
 
-<http://www.yudu.com/>
+<<a href="http://www.yudu.com/">http://www.yudu.com/</a>>
 
  
 
@@ -14417,6 +14672,8 @@ Berlin based: “Met onze software bieden we de mogelijkheid tijdschriften
 en andere publicaties op mobiele apparaten te publiceren en daarbij ook
 interactief te verrijken (o.a. met video, slideshow, textreader en
 360°imaging)”
+
+
 
 # About ePub {.entry-title .single-title itemprop="headline"}
 
@@ -14432,3 +14689,4 @@ March 19, 2013 at 12:10 pm.
     DRM](http://www.us.penguingroup.com/static/pages/ebooks/ebooks-formats.html)
 -   [IBM developerworks artikel over EPUB
     3](http://www.ibm.com/developerworks/xml/library/x-richlayoutepub/index.html?ca=drs-)
+

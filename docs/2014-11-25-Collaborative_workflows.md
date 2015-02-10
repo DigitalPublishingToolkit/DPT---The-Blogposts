@@ -1,14 +1,14 @@
 ---
 title: Collaborative workflows
 author: Andre Castro
-date: 2014-12-06
+date: 2014-11-25
 ...
 
 # Collaborative workflows {.entry-title .single-title itemprop="headline"}
 
 By [Andre
 Castro](http://networkcultures.org/digitalpublishing/author/andre/ "Posts by Andre Castro"),
-December 6, 2014 at 2:56 pm.
+November 25, 2014 at 2:56 pm.
 
 During the Showcase of the Digital Publishing Toolkit Michael Murtaugh
 gave a presentation entitled [Towards a hybrid workflow: editor,
