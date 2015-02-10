@@ -1,3 +1,55 @@
+# Colophon
+
+### Digital Publishing Toolkit: The Blog Posts
+**Authors:** DPT Collective and guest bloggers<br/> 
+**EPUB design:** André Castro<br/> 
+**Cover design:** Medamo<br/> 
+**Publisher:** Institute of Network Cultures, Amsterdam<br/> 
+
+ 
+ 
+**The EPUB edition of this publication is freely downloadable from:** [http://networkcultures.org/publications/](http://networkcultures.org/publications/) 
+ 
+ 
+**Contact:**<br/> 
+Institute of Network Cultures<br/> 
+Hogeschool van Amsterdam<br/> 
+Rhijnspoorplein 1<br/> 
+1091 GC Amsterdam<br/> 
+The Netherlands<br/> 
+[http://www.networkcultures.org](http://www.networkcultures.org)<br/> 
+books@networkcultures.org<br/> 
+t: +31 (0)20 595 18 65 
+ 
+ 
+This publication is licensed under Creative Commons Attribution NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
+ 
+ 
+Amsterdam, February 2015
+
+
+<!-- LOGOS ??? -->
+[![Hogeschool van Amsterdam](imgs/logos_partners/logo_partner_HvA.png)](http://hva.nl) 
+[![Medamo](imgs/logos_partners/logo_partner_medamo.png)](http://www.medamo.nl/) 
+[![creating010](imgs/logos_partners/logo_partner_Creating010.png)](http://creating010.hr.nl) 
+[![Valiz](imgs/logos_partners/logo_partner_valiz.png)](http://www.valiz.nl/) 
+[![Create-IT Applied Research](imgs/logos_partners/logo_partner_Create-it.png)](http://www.hva.nl/create-it) 
+[![Silvio Lorusso](imgs/logos_partners/logo_partner_SilvioLorusso.png)](http://silviolorusso.com/) 
+[![Meeusontwerpt](imgs/logos_partners/logo_partner_Meeusontwerpt.png)](http://www.meeusontwerpt.nl/) 
+[![Hogeschool Rotterdam](imgs/logos_partners/logo_partner_HRO.png)](http://www.hogeschoolrotterdam.nl/) 
+[![Institute of Network Cultures](imgs/logos_partners/logo_partner_INC.png)](http://networkcultures.org) 
+[![Restruct](imgs/logos_partners/logo_partner_Restruct.png)](https://restruct.nl/) 
+[![BISPublishers](imgs/logos_partners/logo_partner_Bis.png)](http://www.bispublishers.nl/) 
+[![nai010](imgs/logos_partners/logo_partner_nai.png)](http://www.nai010.com/) 
+[![Essense](imgs/logos_partners/logo_partner_essense.png)](http://essense.eu/) 
+[![PUNTPIXEL](imgs/logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/) 
+[![Regieorgaan Praktijkgericht Onderzoek SIA](imgs/logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/) 
+[![Mr. Sauli](imgs/logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/) 
+
+# Introduction
+
+What this book is about.
+
 
 
 # A leap into the future of (digital) reading {.entry-title .single-title itemprop="headline"}
@@ -1715,7 +1767,7 @@ clickable.*
 footnotes (in other words, no in text references that use
 parentheses/brackets). For example, *not:* Off the Press discusses the
 question of digital publishing (Lorusso, 2013). *But*: Off the Press
-discusses the question of digital publishing.[^^[1]^^](#_ftn1)- All
+discusses the question of digital publishing. All
 references should also be collected into a Reference list at the end of
 the article. Please do not use an automated reference list, or disable
 the macro after you finish making it this way.[…]
@@ -1733,12 +1785,6 @@ use them.
 References:**Does not apply
 
 
-
-------------------------------------------------------------------------
-
-
-
-[^^[1]^^](#_ftnref1) Lorusso, 2013, p. 23.
 
 
 
@@ -2991,26 +3037,8 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 October 1, 2014 at 5:11 pm.
 
-
-
-
-
-#  {.post-title}
-
-
-
 Source: [Hybrid Publishing
 Lab](http://hybridpublishing.org/2014/09/florian-cramer-on-the-art-of-hybrid-publishing/)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3018,13 +3046,6 @@ Lab](http://hybridpublishing.org/2014/09/florian-cramer-on-the-art-of-hybrid-pub
 Rehfeldt](http://hybridpublishing.org/author/juliarehfeldt/ "Julia Rehfeldt") — 
 September 29, 2014 — [Leave a
 comment](http://hybridpublishing.org/2014/09/florian-cramer-on-the-art-of-hybrid-publishing/#respond "Comment on Florian Cramer on “The Art of Hybrid Publishing”")
-
-
-
-
-
-
-
 
 
 ![](imgs/fCramer-e1412002165632.jpg)Florian Cramer is an applied
@@ -5175,9 +5196,6 @@ Vughterstraat 234 (short: V2\_) in ‘s-Hertogenbosch, the first abode.
 
 
 
- 
-
- 
 
 The Institute for the Unstable Media started in 1981 as an artist
 collective in ‘s-Hertogenbosch, the Netherlands. The theoretical
@@ -6534,7 +6552,7 @@ here](http://networkcultures.org/digitalpublishing/22-23-may-2014/tickets-locati
 
 
 
-\#Conference Content
+## Conference Content
 
 Thursday 22 May @Museum Boijmans van Beuningen
 
@@ -6542,7 +6560,7 @@ Thursday 22 May @WORM
 
 Friday 23 May @WORM
 
-\#Bibliotecha @ Off the Press
+## Bibliotecha @ Off the Press
 
 An instance of Bibliotecha will be present at each venue from Off the
 Press. The initial titles present at Bibliotecha@Off the Press result
@@ -6558,11 +6576,11 @@ www.maxdovey.com, Roelof Roscam Abbing (NL) www.roelroscamabbing.nl,
 Yoana Buzova (BG) http://oyoana.com/, and André Castro (PT)
 www.andrecastro.info
 
-\# Thursday 22 May @Museum Boijmans van Beuningen
+## Thursday 22 May @Museum Boijmans van Beuningen
 
-\#\# 09:30 – 10:00  doors open, coffee and tea
+### 09:30 – 10:00  doors open, coffee and tea
 
-\#\# 10:00 – 11.00  session 1: Today’s Book Publishing
+### 10:00 – 11.00  session 1: Today’s Book Publishing
 
 In this opening session of the event we focus on the role of images and
 artistic inventions in the publishing domain. Publishing in the arts is
@@ -6577,9 +6595,9 @@ Moderator: Geert Lovink
 
 Speakers
 
-\#\#\# Joost Kircz (NL)
+### Joost Kircz (NL)
 
-\#\#\#\# The Fashionable Fever of Going Electronic
+#### The Fashionable Fever of Going Electronic
 
 Art and design books are joining the fashionable fever of ‘going
 electronic’. Here, in contrast to novels, images are more important than
@@ -6596,9 +6614,9 @@ qualities and types of paper to print on, but the screen is a glowing,
 often flickering substrate; so it must also be decided which substrate
 works best for which reader or consumer.
 
-\#\#\# Alessandro Ludovico (IT)
+### Alessandro Ludovico (IT)
 
-\#\#\#\# Networks as agents in the clash between personal and industrial
+#### Networks as agents in the clash between personal and industrial
 post-digital print
 
 The post-digital print era has definitely begun. On one hand, the boom
@@ -6617,10 +6635,10 @@ as agents rather than as media *per se*.
 
  
 
-\#\# 11:00 – 13.00  Session 2: One Thousand and One Publishing
+## 11:00 – 13.00  Session 2: One Thousand and One Publishing
 Workflows, Tools, and Platforms
 
-\#\#   … Shahrazad awoke and signalled to her sister Dunyazad who sat up
+##   … Shahrazad awoke and signalled to her sister Dunyazad who sat up
 and said, “Allah upon thee, O my sister, recite to us some new story,
 delightsome and delectable, wherewith to while away the waking hours of
 our latter night.” … and thus, on the first night of the Thousand Nights
@@ -6637,9 +6655,9 @@ Moderator: Michael Murtaugh (USA)
 
 Speakers
 
-\#\#\# Elizabeth Castro (USA
+### Elizabeth Castro (USA)
 
-\#\#\# Adam Hyde (NZ)
+### Adam Hyde (NZ)
 
 Adam will talk about his experiences over the last eight years with
 different free software tools and methodologies for creating digital
@@ -6647,9 +6665,9 @@ books. Tools include *Booktype*, *Lexicon*, *PubSweet*, *Objavi*,
 *BookJS*, *Booki* and others. Methodologies include Book Sprints,
 Collaborative Knowledge Production, and others.
 
-\#\#\# John Haltiwanger (USA/NL)
+### John Haltiwanger (USA/NL)
 
-\#\#\#\# Title: Free Your Objects (And Let the Subject Follow)
+#### Title: Free Your Objects (And Let the Subject Follow)
 
 Subtitle: Textuality and Reciprocity in the Metastability
 
@@ -6664,9 +6682,9 @@ software, the talk will explore  a vocabulary to think differently about
 how we work with text today, one that focuses on qualities of
 re-composition and the dynamics of a different type of ownership.
 
-\#\#\# Oliver Wise – The People’s E-Book (USA)
+### Oliver Wise – The People’s E-Book (USA)
 
-\#\#\#\# Making .epubs easy with The People’s E-book
+#### Making .epubs easy with The People’s E-book
 
 Oliver Wise from The People’s E-book will walk the audience step by step
 through the creation of an .epub using The People’s E-book. He will
@@ -6676,9 +6694,9 @@ possible. He will also showcase the open source nodejs module ‘pe-epub’
 that was developed for The People’s E-book, and expand on the
 possibilities for its use in a wide variety of settings.
 
-\#\# 13:00 – 14:00  lunch break
+## 13:00 – 14:00  lunch break
 
-\#\# 14:00 – 15:00  Session 3: Introducing the Digital Publishing
+## 14:00 – 15:00  Session 3: Introducing the Digital Publishing
 Toolkit
 
 The Digital Publishing Toolkit initiative, a network of two applied
@@ -6695,9 +6713,9 @@ Moderator: Margreet Riphagen
 
 Speakers
 
-\#\#\# Florian Cramer (DE/NL)
+### Florian Cramer (DE/NL)
 
-\#\#\#\# Electronic publishing in the arts – what does work and what
+#### Electronic publishing in the arts – what does work and what
 doesn’t
 
 The computer industry promises for electronic publishing – better
@@ -6710,9 +6728,9 @@ digital. This presentation will summarize some of the general experience
 designers and publishers gathered in one year of conducting the Digital
 Publishing Toolkit project.
 
-\#\#\# Miriam Rasch (NL)
+### Miriam Rasch (NL)
 
-\#\#\#\# Hybrid Workflows for Hybrid Publishing
+#### Hybrid Workflows for Hybrid Publishing
 
 Any publishing workflow that takes into account not only print but also
 digital publications – be it a website, an online PDF, ePub or other
@@ -6731,9 +6749,9 @@ and essays on web search, with a focus on algorithms? What new forms of
 personalized publication become possible when editing, compilation, and
 design processes themselves become partially algorithmic?
 
-\#\#\# Pia Pol (NL)
+### Pia Pol (NL)
 
-\#\#\#\#*Context Without Walls*, Creating ePub3s through the Epubster
+####*Context Without Walls*, Creating ePub3s through the Epubster
 Generator
 
 Valiz and the art publicist Daphne Pappers are currently developing a
@@ -6750,13 +6768,13 @@ arise when turning a paper book into an e-book: the *Epubster*. The
 *Epubster* is generator which enables a publisher to create ePub3s with
 extensive designs as well as images in the format of a series.
 
-\#\#\# Loes Sikkes (NL)
+### Loes Sikkes (NL)
 
-\#\#\#\# Highlights – ePub personalizer
+#### Highlights – ePub personalizer
 
-\#\#\# Arjen de Jong (NL)
+### Arjen de Jong (NL)
 
-\#\#\#\# Sketching Skills
+#### Sketching Skills
 
 The BIS-publisher workgroup set out to research the following issue: how
 can we make highly interactive rich media publications, accessible on
@@ -6765,9 +6783,9 @@ solutions encountered in their case study Sketching Skills, an App
 version of Sketching, the bestselling book that teaches sketching to
 industrial designers, by Koos Eissen and Roselien Steur.
 
-\#\# 15:00 – 15:30  tea break
+## 15:00 – 15:30  tea break
 
-\#\# 15:30 – 17:00  Session 4: Showcases
+## 15:30 – 17:00  Session 4: Showcases
 
 As the field of electronic publishing continues to expand, it is giving
 rise to new possibilities in design, distribution and modes of
@@ -6780,17 +6798,17 @@ Moderator: Kimmy Spreeuwenberg
 
 Speakers
 
-\#\#\# Joaquín González – visualMANIAC (SP)
+### Joaquín González – visualMANIAC (SP)
 
-\#\#\#\# Setting up an art digital book store, or ‘Working out how to do
+#### Setting up an art digital book store, or ‘Working out how to do
 something is better than waiting for a magic formula’
 
 visualMANIAC was born with the intention to preserve the role of the
 specialist publisher and bookseller in the digital world.
 
-\#\#\# Michelle Kasprzak – \_V2 (NL/CA)
+### Michelle Kasprzak – \_V2 (NL/CA)
 
-\#\#\#\#The eBook as a Vehicle for Re-dissemination and Creation
+####The eBook as a Vehicle for Re-dissemination and Creation
 
 In this talk, Michelle Kasprzak, Curator at V2\_ Institute for the
 Unstable Media in Rotterdam, will discuss the creation of an eBook
@@ -6801,9 +6819,9 @@ collaborative writing, re-purpose archived material, disseminate
 artistic research, and reach new audiences – will be analyzed and
 discussed.
 
-\#\#\# Matthew So (US)
+### Matthew So (US)
 
-\#\#\#\#: Badlands Unlimited: We Make Books in an Expanded Field
+####: Badlands Unlimited: We Make Books in an Expanded Field
 
 Badlands Unlimited publishes books on a varied range of topics that do
 not cover specific genres, but which have included a .gif-filled eBook
@@ -6821,11 +6839,11 @@ Matthew handles sales, distribution and inventory operations at
 Badlands. Questions in relation to these functions will be answered, and
 unrelated questions will make for interesting conversation.
 
-\#\#\# Angie Keefer
+### Angie Keefer
 
-\#\#\#\# Meta The Difference Between The Two
+#### Meta The Difference Between The Two
 
-\#\# 20:00 – 22:00  Digital Arts & Crafts in the Field of Publishing
+## 20:00 – 22:00  Digital Arts & Crafts in the Field of Publishing
 @Worm
 
 “We pursued distractions and called them enhancements.” This is how
@@ -6850,9 +6868,9 @@ Curator: Silvio Lorusso
 
 Artists
 
-\#\#\# James Cuddy, Danilo Di Cuia, Roma Levin – Six:Thirty (UK)
+### James Cuddy, Danilo Di Cuia, Roma Levin – Six:Thirty (UK)
 
-\#\#\#\# Experiments in Collaborative Publishing
+#### Experiments in Collaborative Publishing
 
 For the Off The Press conference, Six:Thirty explore the significance of
 online networks to the role of the designer. During an experiment at the
@@ -6867,9 +6885,9 @@ designers and technologists they use a broad range of experience to
 deliver projects for brands and cultural institutions. Six:Thirty’s work
 is realised in branding, creative direction, and user experience design.
 
-\#\#\# Delphine Bedel, researcher (NL)
+### Delphine Bedel, researcher (NL)
 
-\#\#\#\# The Networked Book – Publishing as Artistic Practice
+#### The Networked Book – Publishing as Artistic Practice
 
 Artists’ books seem not to have yet taken the digital publication as a
 means of production and creation of its own, and seem to keep ‘paper
@@ -6884,9 +6902,9 @@ artists/publishers? New modes of production, appropriation, distribution
 and collaborative practices, as well as extended forms of ‘books’ will
 be presented.
 
-\#\#\# Lukas Jost Gross – TRAUMAWIEN (AT)
+### Lukas Jost Gross – TRAUMAWIEN (AT)
 
-\#\#\#\# Ghostwriters and Literary Trojan Horses
+#### Ghostwriters and Literary Trojan Horses
 
 TRAUMAWIEN will present the 2012 work GHOSTWRITERS: bots that compiled
 and uploaded hundreds of e-books on Amazon.com with text stolen from
@@ -6905,9 +6923,9 @@ merging theatre, digital literature, acid techno and art exhibitions.
 Since 2014 it has focused on a definition of ‘relational publishing’ as
 a practice.
 
-\#\#\# Eleanor Hanson, Oliver Wise – The People’s E-Book (USA)
+### Eleanor Hanson, Oliver Wise – The People’s E-Book (USA)
 
-\#\#\#\# Publishing Constitutes a Public
+#### Publishing Constitutes a Public
 
 Oliver Wise and Eleanor Hanson Wise of The Present Group and The
 People’s E-book will present an overview of their current and past
@@ -6923,9 +6941,9 @@ types of books, and push into new territory. After raising almost three
 times its Kickstarter goal in 2013, The People’s E-book is now in beta
 and its community is outputting reflowable .ePubs for free everyday.
 
-\#\#\# Manuel Schmalstieg – Greyscale Press (CH)
+### Manuel Schmalstieg – Greyscale Press (CH)
 
-\#\#\#\# Black holes in the Gutenberg Galaxy: Non-books, anti-books,
+#### Black holes in the Gutenberg Galaxy: Non-books, anti-books,
 maybe-books, and everything in between
 
 This talk will review the latest productions of Greyscale Press, and
@@ -6950,10 +6968,10 @@ activism. Recent publications include *L’Eve future*, a crowdsourced
 collection of typographic specimens for over 200 libre and open-source
 fonts; *netfahcsnegiE enhO nnaM reD*, a mirrorview edition of Robert
 Musil’s *A Man Without Qualities*; and the freshly-launched
-*\#freespeech* collection, a series of readers on privacy and data
+*#freespeech* collection, a series of readers on privacy and data
 politics.
 
-\#\#\# Willem de Kooning Academy students (NL)
+### Willem de Kooning Academy students (NL)
 
 With the Digital Publishing Toolkit project and its ensuing Off The
 Press conference event as a catalyst, second-year students at the
@@ -6976,20 +6994,20 @@ tablet, e-reader or smartphone – with design approaches ranging from the
 experimental, critical and provocative to the functional, practical and
 all-embracing.
 
-\# Friday 23 May @ WORM
+## Friday 23 May @ WORM
 
-\#\# 09:30 – 10:00  doors open, coffee and tea
+## 09:30 – 10:00  doors open, coffee and tea
 
-\#\# 10:00 – 14:30  Workshops
+## 10:00 – 14:30  Workshops
 
 (Please note that there is a limit of 30 participants per workshop, and
 it is necessary to buy a separate ticket to participate
 (http://networkcultures.org/digitalpublishing/ticket). No prior
 knowledge or skills necessary. Bring your own laptop.)
 
-\#\#\# Megan Hoogenboom (NL) & Harold Konickx
+### Megan Hoogenboom (NL) & Harold Konickx
 
-\#\#\#\# Paper to Code: Transforming the Future of Reading
+#### Paper to Code: Transforming the Future of Reading
 
 What happens when a visual poem is translated to .ePub 3? Which elements
 are lost and which elements have to be added? In this workshop .ePub 3
@@ -7007,9 +7025,9 @@ also influence the way one reads the original poem. This workshop
 provides a creative introduction to .ePub 3: a crash course in .ePub 3
 and in making a personal translation of a poem.
 
-\#\#\# John Haltiwanger (USA/NL) & OSP
+### John Haltiwanger (USA/NL) & OSP
 
-\#\#\#\# Electronic Publishing Workflows: (Multi)Markdown & Pandoc
+#### Electronic Publishing Workflows: (Multi)Markdown & Pandoc
 
 Pandoc is a minimalist open source program that converts documents
 between different formats – including HTML, epub, PDF. In conjunction
@@ -7031,9 +7049,9 @@ Participants will leave with a small arsenal of Open Source, cross-media
 typesetting and document generation tools, and their own design
 templates for these tools.
 
-\#\#\# Danja Vasiliev, Michael Zeder & Joscha Jäger
+### Danja Vasiliev, Michael Zeder & Joscha Jäger
 
-\#\#\#\# Superglue: Reshaping the web?
+#### Superglue: Reshaping the web?
 
 Web 2.0 promised that everyone could become a free and creative media
 publisher, but had exactly the opposite result. Today, most people’s web
@@ -7064,9 +7082,9 @@ Stimuleringsfonds Creatieve Industrie
 (<http://www.stimuleringsfonds.nl/>) and the European Union
 (<http://europa.eu/>).
 
-\#\# 14:30 – 15:00  tea break
+## 14:30 – 15:00  tea break
 
-\#\# 15:00 – 16:30  Session 5: Underground e-Publishing
+## 15:00 – 16:30  Session 5: Underground e-Publishing
 
 Just like mp3 in music, electronic publishing began as a non- or even
 anti-commercial subculture: with literary classics freely published by
@@ -7086,9 +7104,9 @@ Moderator: Florian Cramer
 
 Speakers:
 
-\#\#\# Sebastian Luetgert (DE)
+### Sebastian Luetgert (DE)
 
-\#\#\#\# Precarious Publishing, Autonomous Archiving, Collaborative
+#### Precarious Publishing, Autonomous Archiving, Collaborative
 Collecting
 
 As every Western visitor to South and South-East Asia has to learn, no
@@ -7104,9 +7122,9 @@ building institutions, the task is to not just acknowledge, but to
 actively exploit the practical contradictions faced by publishing
 projects outside the Western world.
 
-\#\#\# Marcell Mars (HR)
+### Marcell Mars (HR)
 
-\#\#\#\# Free access to resources for every member of society
+#### Free access to resources for every member of society
 
 Public library embodies dreams and fantasies from the past about the
 future where it is possible to produce knowledge about knowledge and
@@ -7124,9 +7142,9 @@ years after, all of these dreams will die with the last of public
 library being shut down because of commercial interests of publishers
 and austerity measures.
 
-\#\#\# Dusan Barok (SK)
+### Dusan Barok (SK)
 
-\#\#\#\# Digital Imprint: the Motion of Publishing
+#### Digital Imprint: the Motion of Publishing
 
 It has become an established fact that virtually all utterances in
 digital networks are being recorded. Vast archives spanning the globe –
@@ -7144,16 +7162,16 @@ ambiguities, what would it take to reclaim the emancipatory potential of
 networking formerly articulated in the positive ‘netizen’ notion of the
 *user* by reframing it to those of the *author* and *editor*?
 
-\#\# 16:30 – 17:30 Bazaar and Drinks @WORM
+## 16:30 – 17:30 Bazaar and Drinks @WORM
 
 A number of artists, publishers and related practitioners of electronic
 publishing will be present during this Bazaar to showcase their projects
 in an informal way, looking forward to meeting visitors for
 acquaintance, discussion, and exchange of ideas.
 
-\#Biographies
+#Biographies
 
-\#\# Dušan Barok (SK)
+## Dušan Barok (SK)
 
 Dušan Barok is an artist, writer and cultural activist involved in
 critical practice in the fields of software, art, and theory. He is
@@ -7161,7 +7179,7 @@ founding editor of Monoskop (a wiki for art, culture and media
 technology), a graduate of the Piet Zwart Institute, Rotterdam, and a
 member of the collective La Société Anonyme.
 
-\#\# Delphine Bedel (NL)
+## Delphine Bedel (NL)
 
 Delphine Bedel works as a photographer, publisher and curator, based in
 Amsterdam. She is a PhD researcher at Leiden University/PhDArts and a
@@ -7179,9 +7197,9 @@ Dutch Art Institute/ArTEZ (2009-2011), on the Studium Generale of the
 Rietveld Academy, and at the Sandberg Institute, Amsterdam. Her work is
 shown internationally.
 
-\#\# Elizabeth Castro (US)
+## Elizabeth Castro (US)
 
-\#\# Florian Cramer (DE/NL)
+## Florian Cramer (DE/NL)
 
 Florian Cramer is a reader for new media in art and design at Hogeschool
 Rotterdam, and director of the Creating 010 centre for practice-oriented
@@ -7193,20 +7211,20 @@ Communication Masters programme at Piet Zwart Institute, Rotterdam. Last
 publication: Anti-Media, NAi Publishers, 2013; What Is Post-Digital?, A
 Peer-Review Journal About, 2014**.**
 
-\#\# James Cuddy (UK)
+## James Cuddy (UK)
 
 James studied at Design at Goldsmiths College. Prior to co-founding
 Six:Thirty, James worked with a range of design and branding agencies in
 London and Barcelona including 4Creative and Base Design.
 
-\#\# Danilo Di Cuia (IT)
+## Danilo Di Cuia (IT)
 
 Danilo is an interactive developer with a background in graphic design
 and a focus in human-computer interaction. With six years of experience
 in the development field, he has worked in the US and in the UK for
 clients such as ITV, BBC, BHF and many others.
 
-\#\# Adam Hyde (NZ)
+## Adam Hyde (NZ)
 
 Adam Hyde has been on the pioneering edge of publishing since he
 returned from an artist’s residency in Antarctica in 2006 and gave up
@@ -7217,7 +7235,7 @@ projects ranging from the collaborative production of multilingual
 lexicons to collaborative academic and scientific research production.
 Twitter: @booksprint
 
-\#\# Eleanor Hanson (US)
+## Eleanor Hanson (US)
 
 Eleanor Hanson and Oliver Wise are the co-founders of The Present Group,
 a creative studio working at the intersection of art and technology.
@@ -7229,16 +7247,16 @@ artwork online), The People’s E-book (a free online tool for building
 e-books), and Compensation Foundation (an online database for gathering
 and displaying information on how cultural producers are compensated).
 
-\#\# Arjen de Jong (NL)
+## Arjen de Jong (NL)
 
 Arjen de Jong is senior designer at Essense, an Amsterdam based service
 design agency. He was a founding member of Buro Duplex, a collective of
 freelance programmers and designers. He also initiated the Stereo
 Publication project, a cross-media publishing project *avant la lettre*.
 
-\#\# Angie Keefer
+## Angie Keefer
 
-\#\# Geert Lovink (NL)
+## Geert Lovink (NL)
 
 Geert Lovink is a media theorist, internet critic, and the author of
 *Zero Comments* (2007) and *Networks Without a Cause* (2012). Since 2004
@@ -7251,7 +7269,7 @@ theory professor at the European Graduate School (Saas-Fee) and in 2011
 he became an associate member of the Centre for Digital Cultures at
 Leuphana University (Lueneburg/D).
 
-\#\# Alessandro Ludovico (IT)
+## Alessandro Ludovico (IT)
 
 Alessandro Ludovico is an artist, media critic, and has been
 editor-in-chief of *Neural* magazine since 1993. He has published and
@@ -7265,7 +7283,7 @@ trilogy of artworks (Google Will Eat Itself, Amazon Noir, Face to
 Facebook). He is currently a PhD scholar at Anglia Ruskin University in
 Cambridge (UK).[http://neural.it](http://neural.it/)
 
-\#\# Joaquín González (SP)
+## Joaquín González (SP)
 
 visualMANIAC is an independent book store specializing in art,
 architecture, design, photography, film, fashion and visual culture. Its
@@ -7280,12 +7298,12 @@ digital titles published by more than 100 international publishers and
 art centers. Our books and magazines can be read on computers, iPads and
 Android tablets.
 
-\#\# Lukas Jost Gross (AT)
+## Lukas Jost Gross (AT)
 
 Studied Digital Arts with Peter Weibel, University of Applied Arts,
 Vienna. Working and living in Vienna.
 
-\#\# John Haltiwanger (US)
+## John Haltiwanger (US)
 
 Since arriving in Amsterdam to do a Master’s degree in New Media at the
 University of Amsterdam in 2009, John first taught at universities
@@ -7296,7 +7314,7 @@ institutions – but most of all with ideas – until eventually arriving at
 a full-time position as a programmer. At night he can be found tinkering
 with sounds, amongst other things.
 
-\#\# Eleanor Hanson (US)
+## Eleanor Hanson (US)
 
 Eleanor Hanson and Oliver Wise are the co-founders of The Present Group,
 a creative studio working at the intersection of art and technology.
@@ -7308,7 +7326,7 @@ artwork online), The People’s E-book (a free online tool for building
 e-books), and Compensation Foundation (an online database for gathering
 and displaying information on how cultural producers are compensated).
 
-\#\# Megan Hoogenboom (NL)
+## Megan Hoogenboom (NL)
 
 Megan Hoogenboom finished her Bachelor’s degree in Graphic Design at the
 Willem de Kooning Academy with two projects. The first was a fictional
@@ -7326,7 +7344,7 @@ format. Megan is currently working as a independent designer with a
 focus on .ePub design. Her latest .ePub can be downloaded at
 http://[creating010.com/ebook](http://creating010.com/ebook).
 
-\#\# Joscha Jaeger (GE)
+## Joscha Jaeger (GE)
 
 Joscha Jaeger is a freelance interface designer at filmicweb –
 Hypervideo Interface Design and a research assistant at Merz Akademie
@@ -7336,7 +7354,7 @@ editing systems.
 
 <http://filmicweb.org/>
 
-\#\# Michelle Kasprzak (CA/NL)
+## Michelle Kasprzak (CA/NL)
 
 Michelle Kasprzak is a curator and writer based in Amsterdam. She is
 currently Curator at V2\_ Institute for the Unstable Media in Rotterdam,
@@ -7356,7 +7374,7 @@ founded a leading blog on the subject of curating contemporary art,
 Curating.info. She is also an active weightlifter with current personal
 records of 80kg squat, 52.5kg bench press, and 90kg deadlift.
 
-\#\# Joost Kircz (NL)
+## Joost Kircz (NL)
 
 After science studies at the universities of Amsterdam and Utrecht,
 Joost joined Elsevier as an international science publisher. Here he
@@ -7373,13 +7391,13 @@ The proceedings of the first conference were recently published by
 Amsterdam University Press. All his publications are available on
 the[KRA](http://www.kra.nl/) website.
 
-\#\# Roma Levin (RU)
+## Roma Levin (RU)
 
 Roma is a Russian born art director with a background in design and
 advertising. Before co-founding Six:Thirty, Roma worked in Moscow and
 London for a variety of clients ranging from Tate to Sir Bryan Ferry.
 
-\#\# Silvio Lorusso (IT)
+## Silvio Lorusso (IT)
 
 Silvio Lorusso is an Italian artist and designer. His ongoing PhD
 research in Design Sciences at IUAV University of Venice is focused on
@@ -7394,7 +7412,7 @@ written for blogs and magazines such as *Progetto Grafico* and
 *Doppiozero*. He launched the Post-Digital Publishing Archive
 (p-dpa.net) in 2013.
 
-\#\# Sebastian Luetgert (DE)
+## Sebastian Luetgert (DE)
 
 Sebastian Lütgert, a.k.a. Robert Luxemburg, is an artist, programmer and
 writer. He is a co-founder of Bootlab and Pirate Cinema Berlin, software
@@ -7407,7 +7425,7 @@ published in *FAZ*, *Süddeutsche Zeitung*, *taz*, *Jungle World* and
 *e-flux Magazine*, among others. He is currently working on a fictional
 documentary film set in Dubai.
 
-\#\# Marcell Mars (HR)
+## Marcell Mars (HR)
 
 Marcell Mars is one of the founders of Multimedia Institute â€“ mi2 and
 net.culture club mama in Zagreb. He initiated Public Library, GNU GPL
@@ -7425,7 +7443,7 @@ at Faculty of Media and Communication. Through 2011-2012 did a research
 Ruling Class Studies at Jan Van Eyck in Maastricht. In 2013. he was
 fellow at Akademie Schloss Solitude in Stuttgart.
 
-\#\# Michael Murtaugh (US)
+## Michael Murtaugh (US)
 
 Michael Murtaugh (automatist.org) designs and researches community
 databases, interactive documentaries, and tools for new forms of reading
@@ -7433,7 +7451,7 @@ and writing online. He teaches in the Master’s Degree programme in Media
 Design and Communication at the Piet Zwart Institute in Rotterdam, and
 is a member of Constant in Brussels.
 
-\#\# Miriam Rasch (NL)
+## Miriam Rasch (NL)
 
 Miriam Rasch started working as a publication manager at the Institute
 of Network Cultures in June 2012. She holds Master’s degrees in Literary
@@ -7447,7 +7465,7 @@ department. She writes book reviews and guest posts for different
 websites and magazines; her personal blog can be found on
 miriamrasch.nl.
 
-\#\# Margreet Riphagen (NL)
+## Margreet Riphagen (NL)
 
 Margreet Riphagen started working at the Institute of Network Cultures
 (INC) in March 2008 and is involved in various research projects. She
@@ -7459,7 +7477,7 @@ CREATE-IT, Margreet also works for the MediaLAB Amsterdam, part of the
 knowledge centre. Before this Margreet worked at Waag Society and Media
 Guild for over five years.
 
-\#\# Pia Pol (NL)
+## Pia Pol (NL)
 
 Pia Pol (Amsterdam, 1985) is Deputy Publisher at Valiz book and cultural
 projects in Amsterdam with whom she has worked since 2008. She received
@@ -7471,7 +7489,7 @@ digital development.
 
 pia@valiz.nl,[http://valiz.nl](http://valiz.nl/)
 
-\#\# Manuel Schmalstieg (CH)
+## Manuel Schmalstieg (CH)
 
 Manuel Schmalstieg (1976) is an artist, designer and educator, operating
 in the murky area between media art and hacker communities. A graduate
@@ -7483,7 +7501,7 @@ the WordPress platform, and has kickstarted a lively local community in
 Geneva. He is currently guest editor of *Libre Graphics Magazine*, for
 an issue dedicated to the Libre Type Design movement.
 
-\#\# Loes Sikkes (NL)
+## Loes Sikkes (NL)
 
 Loes Sikkes graduated *cum laude* in Globalization and National
 Identities. Since 2004 she has worked as a graphic designer, setting up
@@ -7498,7 +7516,7 @@ addition, she has been working at the Willem de Kooning Academy as
 department coordinator of the visual communications programme, and
 giving lessons on publication to the illustration department.
 
-\#\# Kimberley Spreeuwenberg (NL)
+## Kimberley Spreeuwenberg (NL)
 
 Kimberley Spreeuwenberg is a new media researcher and graphic designer
 with a special interest in the areas where these two disciplines
@@ -7507,7 +7525,7 @@ Publishing Toolkit research project initiated by the Institute of
 Network Cultures, with whom she collaborates regularly, and teaches at
 the Willem de Kooning Academy in Rotterdam.
 
-\#\# Matthew So (US) – Badlands Unlimited
+## Matthew So (US) – Badlands Unlimited
 
 Badlands Unlimited is a New York-based American publisher of e-books and
 paperback books with an emphasis on contemporary art, culture and
@@ -7527,7 +7545,7 @@ dissolving rapidly. We publish and produce new works by artists and
 writers that embody the spirit of this emerging dissolution. We make
 books in an expanded field.’
 
-\#\# Danja Vasiliev (RU)
+## Danja Vasiliev (RU)
 
 Danja Vasiliev has been involved in computer technology events, media
 art exhibitions and seminars around the world since 1999. He has
@@ -7536,7 +7554,7 @@ Festival, and Transmediale, and is one of the creators of Hotglue.
 
 [http://k0a1a.net](http://k0a1a.net/)
 
-\#\# Patricia de Vries (NL)
+## Patricia de Vries (NL)
 
 Patricia de Vries is a project coordinator at the Institute of Network
 Cultures and is responsible for coordinating MoneyLab: Coining
@@ -7548,7 +7566,7 @@ associate at the World Policy Institute think tank and as a teaching
 assistant of Professor James Miller at The New School for Social
 Research.
 
-\#\# Oliver Wise (USA)
+## Oliver Wise (USA)
 
 Oliver Wise and Eleanor Hanson are the co-founders of The Present Group,
 a creative studio working at the intersection of art and technology.
@@ -7560,7 +7578,7 @@ artwork online), The People’s E-book (a free online tool for building
 e-books), and Compensation Foundation (an online database for gathering
 and displaying how cultural producers are compensated).
 
-\#\# Michael Zeder (DE)
+## Michael Zeder (DE)
 
 Michael Zeder is engaged with research into and the development of tools
 for an information society. He works currently on systems of knowledge
@@ -8939,15 +8957,8 @@ November 11, 2013 at 1:02 pm.
 
 
 ![Unlike Us Reader Epub Trailer](imgs/trailer-Unlike-Us-Reader.gif)
-][1](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-Unlike-Us-Reader.gif)“Unlike
-Us Reader” Epub Trailer
-
-
 
 ![](imgs/dpt2013.jpg)
-
-[3](https://www.facebook.com/postdigitalpublishingarchive?fref=ts)“Working
-table during the hackethon[/caption]
 
 On the 2nd and 3rd of November, the INC subgroup ([Silvio
 Lorusso](https://www.facebook.com/postdigitalpublishingarchive?fref=ts),
@@ -8987,7 +8998,7 @@ the hackathon. More will follow!
 
 (For a comprehensive overview on each project developed during the
 hackaton, check [André Castro’s
-report](http://www.andrecastro.info/a/blog.html).)
+report](http://pinknoi.so/post/5).)
 
 ## Epub Trailer Generator
 
@@ -9032,17 +9043,10 @@ Here’s a couple of examples.
 
 ![“A Neoist Research Project ” Epub
 Trailer](imgs/trailer-A-Neoist-Research-Project.gif)
-][9](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-A-Neoist-Research-Project.gif)
-“A Neoist Research Project ” Epub Trailer
-
-
-
 
 
 ![“To Save Everything, Click Here” Epub
 Trailer](imgs/trailer-B00B3M3X2G-EBOK.gif)
-][10](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2013/11/trailer-B00B3M3X2G-EBOK.gif)
-“To Save Everything, Click Here” Epub Trailer
 
 
 
@@ -12281,7 +12285,6 @@ video or audio.
 
 ## Summary
 
-Below are three tables to compare the tested featured across platforms.
 The lack of support for the more advanced features of EPUB 3 on tablets
 and smartphones is worrying, in our opinion. The lack of any real
 support hampers the production of media rich publications and any
@@ -12289,20 +12292,6 @@ efforts regarding (visual) design. At the moment, any innovations,
 technical or otherwise, will only be usable or visible in a very small
 subset of applications which aren’t widely used nor connected to viable
 commercial outlets (Amazon Bookstore, Apple App Store, etc.)
-
-### Desktop
-
-[table id=1 /]
-
-### Tablet & Smartphone
-
-#### iOS
-
-[table id=2 /]
-
-#### Android
-
-[table id=3 /]
 
 ## So… What now?
 
@@ -12660,7 +12649,7 @@ user-oriented technology.
 
 
 
-# NOTES ON EPUB DEVELOPMENT IN ADOBE INDESIGN CS6 {.entry-title .single-title itemprop="headline"}
+# Notes on EPUB Development in Adobe inDesign CS6 {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
@@ -12686,160 +12675,15 @@ file size, metadata, layout.
 
 
 
-## Contents
+## [1: Premises
 
-[1: Premises](#1)
-
--   [1.1: Legend](#1-1)
--   [1.2: Wait, weren’t we supposed to use open
-    source tools?](#1-2)
--   [1.3: So you’re saying that obtaining EPUB from
-    Indesign is not necessarily the best practice…](#1-3)
--   [1.4: Is Indesign enough to develop a high
-    quality ePub?](#1-4)
--   [1.5: May I use the same structure of the
-    InDesign file for both print and ePub?](#1-5)
--   [1.6: Resources](#1-6)
--   [1.7: Softwares](#1-7)
--   [1.8: Attachments](#1-8)
-
-[2: General](#2)
-
--   [2.1: No Local Overrides!](#2-1)
--   [2.2: Use Master Pages](#2-2)
--   [2.3: Paragraph Means Paragraph](#2-3)
--   [2.4: Paragraph Really Means
-    Paragraph](#2-4)
--   [2.5: Paragraph = Paragraph](#2-5)
--   [2.6: ALL CAPS hide Actual Caps](#2-6)
--   [2.7: Letters Aren’t Meant to be
-    Stretched](#2-7)
--   [2.8: Fonts](#2-8)
--   [2.9: Export Early, Export Often](#2-9)
--   [2.10: How do I open an EPUB
-    file?](#2-10)
-
-[3: Cover and Images](#3)
-
--   [3.1: Formats and Resolution](#3-1)
--   [3.2: Colour Over Greyscale](#3-2)
--   [3.3: Two Covers?](#3-3)
--   [3.4: Optimal Cover Size](#3-4)
--   [3.5: Groups for Complex Layout](#3-5)
--   [3.6: Images as Part of the Text](#3-6)
--   [3.7: Manage the Layout of the
-    Image](#3-7)
--   [3.8: Alt Text for Every Picture](#3-8)
-
-[4: Organizing the File for ePub Export](#4)
-
--   [4.1: The Articles Panel](#4-1)
--   [4.2: No Tags, Text Repetitions,
-    Etc.](#4-2)
--   [4.3: Split the Document](#4-3)
-
-[5: General TOC and Inner TOC](#5)
-
--   [5.1: The General TOC](#5-1)
--   [5.2: Modify the General TOC](#5-2)
--   [5.3: The Inner TOC](#5-3)
--   [5.4: No Page Numbers!](#5-4)
-
-[6: Lists and Tables](#6)
-
--   [6.1: Lists](#6-1)
--   [6.2: Tables](#6-2)
-
-[7: External and Internal Hyperlinks](#7)
-
--   [7.1: External Hyperlinks](#7-1)
--   [7.2: Internal Hyperlinks](#7-2)
-
-[8: Cleaning the file and Adding Main
-Metadata](#8)
-
--   [8.1: No Unused Styles](#8-1)
--   [8.2: No Local Overrides](#8-2)
--   [8.3: No Spaces in Filenames](#8-3)
--   [8.4: No Useless nor Print-oriented
-    Characters](#8-4)
--   [8.5: No References to the Printed
-    Edition](#8-5)
--   [8.6: Add Links and E-Version Specific Elements
-    to Colophon](#8-6)
--   [8.7: InDesign Errors and Layout
-    Problems](#8-7)
--   [8.8: Check Both Internal and External
-    Hyperlinks](#8-8)
--   [8.9: Assign HTML Tags](#8-9)
--   [8.10: Metadata](#8-10)
-
-[9: Export](#9)
-
--   [9.1: Export Options](#9-1)
--   [9.2: General Panel](#9-2)
--   [9.3: Image Panel](#9-3)
--   [9.4: Advanced Panel](#9-4)
--   [9.5: Validate your EPUB](#9-5)
-
-[10: Fix HTML and CSS](#10)
-
-[10.1: Access the ePub](#10-1)
-
-[10.2: Cover](#10-2)
-
-[10.3: CSS and XHTML](#10-3)
-
-[10.3.1: Padding or Margin?](#10-3-1)
-
-[10.3.2: Delete Defaults](#10-3-2)
-
-[10.3.3: Delete Font Colour if not
-Necessary](#10-3-3)
-
-[10.3.4: Delete Redundant Classes](#10-3-4)
-
-[10.3.5: Use Page Breaks](#10-3-5)
-
-[10.3.6: Images with Captions](#10-3-6)
-
-[10.3.7: No “char-style-override”
-Class](#10-3-7)
-
-[10.4: The OPF File](#10-4)
-
-[10.4.1: Metadata](#10-4-1)
-
--   [10.4.1.1: Namespaces](#10-4-1-1)
--   [10.4.1.2: Title](#10-4-1-2)
--   [10.4.1.3: Authors and
-    Roles](#10-4-1-3)
--   [10.4.1.4: Publisher](#10-4-1-4)
--   [10.4.1.5: Subjects](#10-4-1-5)
--   [10.4.1.6: Description](#10-4-1-6)
--   [10.4.1.7: Date](#10-4-1-7)
--   [10.4.1.8: Language](#10-4-1-8)
--   [10.4.1.9: Rights](#10-4-1-9)
--   [10.4.1.10: Identifier](#10-4-1-10)
--   [10.4.1.11: Other
-    Metadata](#10-4-1-11)
-
-[10.4.2: Spine](#10-4-2)
-
-[10.4.3: Guide (Optional)](#10-4-3)
-
-[10.5: The General Table of Contents: the NCX
-file](#10-5)
-
-## [1: Premises](#toc-1) {#1}
-
-### [1.1: Legend](#toc-1-1) {#1-1}
+### [1.1: Legend
 
 -   Software Command
 -   Shortcut
 -   Code Snippet
 
-### [1.2: Wait, weren’t we supposed to use open source tools?](#toc-1-2) {#1-2}
+### [1.2: Wait, weren’t we supposed to use open source tools?
 
 We all love opes source, but in some cases a pragmatic approach it’s
 needed: a perspective that takes into account the actual workflow
@@ -12851,7 +12695,7 @@ Developing an EPUB through InDesign could be considered a transitional
 process, in doing so the designer will anyway acquire a know-how that
 could be invested in open source tools and procedures.
 
-### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…](#toc-1-3) {#1-3}
+### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…
 
 Exactly, it really depends on the context. This procedure could be
 useful whether:
@@ -14689,4 +14533,66 @@ March 19, 2013 at 12:10 pm.
     DRM](http://www.us.penguingroup.com/static/pages/ebooks/ebooks-formats.html)
 -   [IBM developerworks artikel over EPUB
     3](http://www.ibm.com/developerworks/xml/library/x-richlayoutepub/index.html?ca=drs-)
+
+# Bloggers' Biographies
+
+
+## Arie Altena {class="ariealtena"}
+Arie Altena is a Dutch is literary scholar, writer and lecturer. 
+He writes about art, culture, the Internet, and literature for various magazines and publications including Metropolis M.  He also works as an editor / researcher for [V2, Institute for the Unstable Media](http://v2.nl/), and he is part of the team that organizes the [Sonic Acts Festival](http://www.sonicacts.com/).
+
+## Marc de Bruijn {class="Marc de Bruijn"}
+Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being PUNTPIXEL, like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
+
+## Andre Castro {class="Andre Castro"}
+André Castro is a media artist, with a background in sound art and experimental music. His recent practice explores stragies for digital and hybrid publication and offline digital libraries ([bibliotecha.info](http://bibliotecha.info/)). Recenly he began teaching in the Master’s programme of Media Design and Communication at the Piet Zwart Institute, and in Willem de Kooning Academy's Publication Station, both in Rotterdam. [pinknoi.so](http://pinknoi.so/)
+
+## Vicentiu Dinga {class="vince"}
+Blogger during the conference *Off the Press*, 22 & 23 May, 2014
+
+## Jakub Dutka {class="jakubdutka"}
+Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
+
+## Irina Enache {class="irina"}
+Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
+
+## Arjen de Jong {class="Arjen de Jong"}
+Arjen de Jong is senior designer at [Essense](http://essense.eu/), an Amsterdam based service design agency. He was a founding member of Buro Duplex, a collective of freelance programmers and designers. He also ini- tiated the Stereo Publication project, a cross-media publishing project avant la lettre.
+
+## Timo Klok {class="timoklok"}
+Media-allrounder, problem solver and frontend developer at VPRO. 
+
+## Harold Konickx {class="haroldkonickx"}
+<!-- missing -->
+
+## Silvio Lorusso {class="Silvio Lorusso"} 
+Silvio Lorusso is an Italian artist and designer. His ongoing PhD research in Design Sciences at IUAV University of Venice is focused on the intersections between publishing and digital technology from the perspective of art and design. He regularly collaborates with the [Institute of Network Cultures](http://networkcultures.org/) in Amsterdam. After he received his MA in Visual and Multimedia Communications in 2011, he spent a period of study at the Networked Media course of the Piet Zwart Institute in Rotterdam. He took part in exhibitions, festival and events such as Transmediale (Germany), Unlike Us (Netherlands), and Fahrenheit39 (Italy). He has written for blogs and magazines such as Progetto Grafico and Doppiozero. He launched the Post-Digital Publishing Archive ([p-dpa.net](http://p-dpa.net/)) in 2013.
+
+
+## Michael Murtaugh {class="Michael Murtaugh"}
+Michael Murtaugh ([automatist.org](http://automatist.org/)) designs and researches community databases, interactive documentaries, and tools for new forms of reading and writing online. He teaches in the Master’s Degree programme in Media Design and Communication at the Piet Zwart Institute in Rotterdam, and is a member of Constant in Brussels.
+
+## Miriam Rasch {class="Miriam Rasch"}
+Miriam Rasch started working as a publication manager at the [Institute of Network Cultures](http://networkcultures.org/) in June 2012. She holds Master’s degrees in Literary Studies (2002) and Philosophy (2005). Since graduating she worked as a (web) editor and from 2008 on as a programmer for the Studium Generale public lectures department at Utrecht University, organizing events and taking care of digital broadcasts and online representation. She also worked as a lecturer for Liberal Arts and Sciences, and is teaching philosophy and media theory in the Media, Information and Communica- tion department. She writes book reviews and guest posts for different websites and magazines; her personal blog can be found on miriamrasch.nl.
+
+## Margreet Riphagen {class="margreet riphagen"}
+Margreet Riphagen started working at the [Institute of Network Cultures](http://networkcultures.org/) (INC) in March 2008 and is involved in various research projects. She holds a Master’s degree in Information Science (Human Centered Multimedia), a post-Bachelor’s degree in Business Science, and a Bachelor’s degree in Communication Management. Margreet is the Project Leader of the Digital Publishing Toolkit. Currently Margreet is the coordinator of the PublishingLab, which focuses at the intersection of publishing en digital technologies, both print and digital (hybrid publishing).
+
+## Kimmy Spreeuwenberg {class="kimberley"}
+Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect. She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the [Institute of Network Cultures](http://networkcultures.org/), with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
+
+## Marc Stumpel {class="marcstumpel"}
+Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
+
+
+## Katía Truijen {class="Katía Truijen"}
+Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
+
+
+## Patricia de Vries {class="patricia"}
+Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
+
+
+## Sauli Warmenhoven {class="sauli"}
+Sauli Warmenhoven graduated from the Willem de Kooning academy with a degree in Interactive Multimedia in 2005, and he continued his studies and graduated from the Piet Zwart Institute with a masters degree in Media Design. Since then he has been working on a variety of projects, but nowadays he specialises in building a variety of websites, web-apps, and electronic publications for a many a client. The intricacies of HTML, CSS, Javascript and PHP hold no secrets for him, and he uses his extensive knowledge to build smooth-as-butter user experiences and stunning designs.
 
