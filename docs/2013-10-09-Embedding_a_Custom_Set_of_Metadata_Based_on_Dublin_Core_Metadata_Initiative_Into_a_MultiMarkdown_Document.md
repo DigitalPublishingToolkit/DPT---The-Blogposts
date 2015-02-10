@@ -1,7 +1,7 @@
 ---
 title: Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document
 author: Silvio Lorusso
-date: 2013-10-9
+date: 2013-10-09
 ...
 
 # Embedding a Custom Set of Metadata Based on Dublin Core Metadata Initiative Into a MultiMarkdown Document {.entry-title .single-title itemprop="headline"}

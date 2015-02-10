@@ -1,7 +1,7 @@
 ---
 title: Translating a paper book design to a simple e-pub design
 author: Miriam Rasch
-date: 2013-10-8
+date: 2013-10-08
 ...
 
 # Translating a paper book design to a simple e-pub design {.entry-title .single-title itemprop="headline"}

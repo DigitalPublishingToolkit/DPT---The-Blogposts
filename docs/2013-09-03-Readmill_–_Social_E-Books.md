@@ -1,7 +1,7 @@
 ---
 title: Readmill – Social E-Books
 author: kimberley
-date: 2013-09-3
+date: 2013-09-03
 ...
 
 # Readmill – Social E-Books {.entry-title .single-title itemprop="headline"}

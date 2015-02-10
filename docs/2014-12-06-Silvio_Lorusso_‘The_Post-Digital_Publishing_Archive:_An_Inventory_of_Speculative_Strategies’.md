@@ -1,7 +1,7 @@
 ---
 title: Silvio Lorusso ‘The Post-Digital Publishing Archive: An Inventory of Speculative Strategies’
 author: Katía Truijen
-date: 2014-12-6
+date: 2014-12-06
 ...
 
 # Silvio Lorusso ‘The Post-Digital Publishing Archive: An Inventory of Speculative Strategies’ {.entry-title .single-title itemprop="headline"}

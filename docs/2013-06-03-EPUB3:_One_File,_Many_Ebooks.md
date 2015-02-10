@@ -1,7 +1,7 @@
 ---
 title: EPUB3: One File, Many Ebooks
 author: Silvio Lorusso
-date: 2013-06-3
+date: 2013-06-03
 ...
 
 # EPUB3: One File, Many Ebooks {.entry-title .single-title itemprop="headline"}

@@ -1,7 +1,7 @@
 ---
 title: Opinions and Stats About Digital Publishing as Q&A
 author: Silvio Lorusso
-date: 2013-04-5
+date: 2013-04-05
 ...
 
 # Opinions and Stats About Digital Publishing as Q&A {.entry-title .single-title itemprop="headline"}

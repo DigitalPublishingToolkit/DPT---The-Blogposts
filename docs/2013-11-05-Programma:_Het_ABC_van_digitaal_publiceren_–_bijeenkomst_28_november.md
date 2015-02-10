@@ -1,7 +1,7 @@
 ---
 title: Programma: Het ABC van digitaal publiceren – bijeenkomst 28 november
 author: kimberley
-date: 2013-11-5
+date: 2013-11-05
 ...
 
 # Programma: Het ABC van digitaal publiceren – bijeenkomst 28 november {.entry-title .single-title itemprop="headline"}

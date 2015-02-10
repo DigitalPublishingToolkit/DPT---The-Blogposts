@@ -1,7 +1,7 @@
 ---
 title: Florian Cramer on “The Art of Hybrid Publishing”
 author: margreet riphagen
-date: 2014-10-1
+date: 2014-10-01
 ...
 
 # Florian Cramer on “The Art of Hybrid Publishing” {.entry-title .single-title itemprop="headline"}

@@ -1,7 +1,7 @@
 ---
 title: BiblioTech – a modern library
 author: kimberley
-date: 2013-10-4
+date: 2013-10-04
 ...
 
 # BiblioTech – a modern library {.entry-title .single-title itemprop="headline"}

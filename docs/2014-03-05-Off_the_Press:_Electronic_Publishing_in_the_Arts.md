@@ -1,7 +1,7 @@
 ---
 title: Off the Press: Electronic Publishing in the Arts
 author: margreet riphagen
-date: 2014-03-5
+date: 2014-03-05
 ...
 
 # Off the Press: Electronic Publishing in the Arts {.entry-title .single-title itemprop="headline"}

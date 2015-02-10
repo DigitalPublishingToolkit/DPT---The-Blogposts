@@ -1,7 +1,7 @@
 ---
 title: Event: Contec – Redefining the experience of publishing
 author: kimberley
-date: 2013-09-3
+date: 2013-09-03
 ...
 
 # Event: Contec – Redefining the experience of publishing {.entry-title .single-title itemprop="headline"}

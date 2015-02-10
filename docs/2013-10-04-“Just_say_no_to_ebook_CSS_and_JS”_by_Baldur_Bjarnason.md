@@ -1,7 +1,7 @@
 ---
 title: “Just say no to ebook CSS and JS” by Baldur Bjarnason
 author: Silvio Lorusso
-date: 2013-10-4
+date: 2013-10-04
 ...
 
 # “Just say no to ebook CSS and JS” by Baldur Bjarnason {.entry-title .single-title itemprop="headline"}

@@ -1,7 +1,7 @@
 ---
 title: Paper + Digital Access
 author: Silvio Lorusso
-date: 2013-04-6
+date: 2013-04-06
 ...
 
 # Paper + Digital Access {.entry-title .single-title itemprop="headline"}

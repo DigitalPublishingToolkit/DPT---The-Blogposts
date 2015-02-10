@@ -1,7 +1,7 @@
 ---
 title: Announcement:  The Post-Digital Scholar Conference
 author: margreet riphagen
-date: 2014-09-3
+date: 2014-09-03
 ...
 
 # Announcement: The Post-Digital Scholar Conference {.entry-title .single-title itemprop="headline"}

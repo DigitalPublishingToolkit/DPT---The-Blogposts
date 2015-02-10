@@ -1,7 +1,7 @@
 ---
 title: Buy on Amazon, Read on Kobo and Viceversa
 author: Silvio Lorusso
-date: 2013-06-3
+date: 2013-06-03
 ...
 
 # Buy on Amazon, Read on Kobo and Viceversa {.entry-title .single-title itemprop="headline"}

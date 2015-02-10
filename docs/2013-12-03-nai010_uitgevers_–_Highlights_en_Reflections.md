@@ -1,7 +1,7 @@
 ---
 title: nai010 uitgevers – Highlights en Reflections
 author: Katía Truijen
-date: 2013-12-3
+date: 2013-12-03
 ...
 
 # nai010 uitgevers – Highlights en Reflections {.entry-title .single-title itemprop="headline"}

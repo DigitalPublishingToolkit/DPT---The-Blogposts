@@ -1,7 +1,7 @@
 ---
 title: Markdown to Indesign with Pandoc (via ICML)
 author: Silvio Lorusso
-date: 2014-10-8
+date: 2014-10-08
 ...
 
 # Markdown to Indesign with Pandoc (via ICML) {.entry-title .single-title itemprop="headline"}

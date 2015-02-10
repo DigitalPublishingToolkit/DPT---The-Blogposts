@@ -1,7 +1,7 @@
 ---
 title: Hybrid workflow how-to: introduction & editorial steps
 author: Miriam Rasch
-date: 2014-10-7
+date: 2014-10-07
 ...
 
 # Hybrid workflow how-to: introduction & editorial steps {.entry-title .single-title itemprop="headline"}

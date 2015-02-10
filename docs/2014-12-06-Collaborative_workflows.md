@@ -1,7 +1,7 @@
 ---
 title: Collaborative workflows
 author: Andre Castro
-date: 2014-12-6
+date: 2014-12-06
 ...
 
 # Collaborative workflows {.entry-title .single-title itemprop="headline"}

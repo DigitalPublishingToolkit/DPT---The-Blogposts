@@ -1,7 +1,7 @@
 ---
 title: Alle relevante data over e-books in Nederland
 author: Miriam Rasch
-date: 2014-04-4
+date: 2014-04-04
 ...
 
 # Alle relevante data over e-books in Nederland {.entry-title .single-title itemprop="headline"}

@@ -1,7 +1,7 @@
 ---
 title: Why E-book Distribution Is Completely and Utterly Broken (and How to Fix It)
 author: kimberley
-date: 2014-03-4
+date: 2014-03-04
 ...
 
 # Why E-book Distribution Is Completely and Utterly Broken (and How to Fix It) {.entry-title .single-title itemprop="headline"}

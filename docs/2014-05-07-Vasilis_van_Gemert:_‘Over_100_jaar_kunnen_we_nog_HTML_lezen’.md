@@ -1,7 +1,7 @@
 ---
 title: Vasilis van Gemert: ‘Over 100 jaar kunnen we nog HTML lezen’
 author: haroldkonickx
-date: 2014-05-7
+date: 2014-05-07
 ...
 
 # Vasilis van Gemert: ‘Over 100 jaar kunnen we nog HTML lezen’ {.entry-title .single-title itemprop="headline"}

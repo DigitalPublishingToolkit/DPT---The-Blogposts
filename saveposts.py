@@ -99,7 +99,7 @@ def post_videos(iframes):
             vimeo_id = (src.split('/'))[-1]
             if '?' in vimeo_id:
                 vimeo_id = (vimeo_id.split('?')[0])                
-            print 'ID:', vimeo_id
+#            print 'Vimeo id:', vimeo_id
             url, poster_url = vimeo_api(vimeo_id)
             path, filename = os.path.split(poster_url)
             newpath = os.path.join('../../imgs', filename)
@@ -207,10 +207,9 @@ def post2markdown(tree): # Process html; Keep only the <article> content - where
 #    author_tag[0].set('class', 'author')
 #    author_tag[0].attrib.pop('rel')
 #    author_tag[0].attrib.pop('title')
+#    author_tag[0].set('title', '')
 
-    #    author_tag[0].set('title', '')
-
-    print lxml.html.tostring(author_tag[0])
+#    print lxml.html.tostring(author_tag[0])
               
     
     # get info
@@ -283,6 +282,11 @@ def wget_post(url):
     parsed = lxml.html.parse(input_file)
     article = parsed.xpath('//article')[0]    
     date, author, title = post2markdown(parsed)
+    # date is "2014-05-27"
+    date_list = date.split('-')
+    day = str(format(int(date_list[-1]), '02'))
+    date_list[-1] = day
+    date = "-".join(date_list)
     author = author.encode('utf-8')
     title = title.encode('utf-8')    
     print date, author, title

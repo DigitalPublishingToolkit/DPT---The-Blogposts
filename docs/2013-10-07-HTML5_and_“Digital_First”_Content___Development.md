@@ -1,7 +1,7 @@
 ---
 title: HTML5 and “Digital First” Content   Development
 author: kimberley
-date: 2013-10-7
+date: 2013-10-07
 ...
 
 # HTML5 and “Digital First” Content Development {.entry-title .single-title itemprop="headline"}

@@ -1,7 +1,7 @@
 ---
 title: Rose Leighton: ‘The craft of publishing is future-proof’
 author: haroldkonickx
-date: 2014-12-9
+date: 2014-12-09
 ...
 
 # Rose Leighton: ‘The craft of publishing is future-proof’ {.entry-title .single-title itemprop="headline"}

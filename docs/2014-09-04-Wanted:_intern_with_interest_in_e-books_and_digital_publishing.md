@@ -1,7 +1,7 @@
 ---
 title: Wanted: intern with interest in e-books and digital publishing
 author: Miriam Rasch
-date: 2014-09-4
+date: 2014-09-04
 ...
 
 # Wanted: intern with interest in e-books and digital publishing {.entry-title .single-title itemprop="headline"}

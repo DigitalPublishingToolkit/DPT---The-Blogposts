@@ -1,7 +1,7 @@
 ---
 title: Print+Ebook Bundling
 author: Silvio Lorusso
-date: 2013-09-2
+date: 2013-09-02
 ...
 
 # Print+Ebook Bundling {.entry-title .single-title itemprop="headline"}

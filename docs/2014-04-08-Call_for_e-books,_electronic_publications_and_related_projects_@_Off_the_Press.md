@@ -1,7 +1,7 @@
 ---
 title: Call for e-books, electronic publications and related projects @ Off the Press
 author: kimberley
-date: 2014-04-8
+date: 2014-04-08
 ...
 
 # Call for e-books, electronic publications and related projects @ Off the Press {.entry-title .single-title itemprop="headline"}

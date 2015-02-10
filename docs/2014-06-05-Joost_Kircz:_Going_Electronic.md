@@ -1,7 +1,7 @@
 ---
 title: Joost Kircz: Going Electronic
 author: irina
-date: 2014-06-5
+date: 2014-06-05
 ...
 
 # Joost Kircz: Going Electronic {.entry-title .single-title itemprop="headline"}

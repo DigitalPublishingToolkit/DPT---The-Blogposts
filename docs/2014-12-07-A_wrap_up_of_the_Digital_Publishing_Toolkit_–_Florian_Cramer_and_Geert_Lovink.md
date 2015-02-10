@@ -1,7 +1,7 @@
 ---
 title: A wrap up of the Digital Publishing Toolkit – Florian Cramer and Geert Lovink
 author: Katía Truijen
-date: 2014-12-7
+date: 2014-12-07
 ...
 
 # A wrap up of the Digital Publishing Toolkit – Florian Cramer and Geert Lovink {.entry-title .single-title itemprop="headline"}

@@ -1,7 +1,7 @@
 ---
 title: Book: How the Page Matters by Bonnie Mak
 author: kimberley
-date: 2013-07-2
+date: 2013-07-02
 ...
 
 # Book: How the Page Matters by Bonnie Mak {.entry-title .single-title itemprop="headline"}
