@@ -10,7 +10,7 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 October 1, 2014 at 1:30 pm.
 
-![caption](imgs/SotQreader-trailer.gif)
+![](imgs/SotQreader-trailer.gif)
 
 *Make* is a popular free software tool that helps programmers compile
 their code into programs. Increasingly the tool is finding new uses in

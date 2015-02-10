@@ -9,7 +9,7 @@ date: 2014-06-5
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 June 5, 2014 at 1:08 am.
 
-![caption](imgs/Joost.jpg)
+![](imgs/Joost.jpg)
 
 *A post by Mathijs Weijers*
 

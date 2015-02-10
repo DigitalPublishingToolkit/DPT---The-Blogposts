@@ -9,9 +9,9 @@ date: 2013-06-23
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 June 23, 2013 at 2:08 pm.
 
-![caption](imgs/02_Top5SmartphoneOS.png)
+![](imgs/02_Top5SmartphoneOS.png)
 
-![caption](imgs/01_Top5Vendors.png)
+![](imgs/01_Top5Vendors.png)
 
 ## Jargon, Platforms & Publication Formats
 

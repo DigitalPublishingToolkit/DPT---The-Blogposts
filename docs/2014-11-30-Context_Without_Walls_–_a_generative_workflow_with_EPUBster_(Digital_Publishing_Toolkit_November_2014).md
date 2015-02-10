@@ -26,7 +26,7 @@ and images.
 
  
 
-![caption](imgs/15279147793_28b308f45e_z.jpg)
+![](imgs/15279147793_28b308f45e_z.jpg)
 
 **the process of digitalising *Common Skin* was very challenging and
 ambitious.** As part of a series with meticulous and extensive design,
@@ -40,7 +40,7 @@ digital publications.
 
  
 
-![caption](imgs/15711295808_a30cb2552d_z.jpg)
+![](imgs/15711295808_a30cb2552d_z.jpg)
 
 *EPUBster* as a web application for the creation and editing of digital
 publications. The tool was developed as a general purpose tool, although
@@ -66,7 +66,7 @@ can read more about the development of EPUBster
 
  
 
-![caption](imgs/15898137982_08b8b11a73_z.jpg)
+![](imgs/15898137982_08b8b11a73_z.jpg)
 
 *Common Skin* to demonstrate the rich layers of text and imagery they
 were presented with. As an academic text, there were a lot of footnotes,

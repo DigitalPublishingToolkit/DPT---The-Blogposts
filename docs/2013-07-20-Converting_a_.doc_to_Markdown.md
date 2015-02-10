@@ -17,7 +17,7 @@ possibilities for automated conversion from .doc to Markdown.
 
 
 
-![caption](imgs/lodi-doc-in-libreoffice.png)
+![](imgs/lodi-doc-in-libreoffice.png)
 .doc as rendered by LibreOffice
 
 
@@ -44,7 +44,7 @@ one-liner:`textutil -convert html file.doc -stdout | pandoc -f html -t markdown 
 
 
 
-![caption](imgs/lodi-markdown-mou.png)
+![](imgs/lodi-markdown-mou.png)
 Resulting Markdown as rendered by Mou
 
 
@@ -72,7 +72,7 @@ LibreOffice and then…
 
 
 
-![caption](imgs/lodi-html-from-libreoffice.png)
+![](imgs/lodi-html-from-libreoffice.png)
 The test document converted to HTML via LibreOffice
 
 

@@ -9,7 +9,7 @@ date: 2014-05-27
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 27, 2014 at 10:20 am.
 
-![caption](imgs/Liz-Castro.jpg)
+![](imgs/Liz-Castro.jpg)
 
 [Elizabeth Castro](https://twitter.com/lizcastro) kicked off the second
 session of the conference by introducing herself as a computer book

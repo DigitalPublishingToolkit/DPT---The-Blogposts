@@ -11,7 +11,7 @@ May 27, 2014 at 6:48 pm.
 
 
 
-![caption](imgs/14058080799_ac4cbe88fd_z.jpg)
+![](imgs/14058080799_ac4cbe88fd_z.jpg)
 Michelle Kasprzak
 
 
@@ -24,7 +24,7 @@ activities of the institute.
 
 
 
-![caption](imgs/leadImage.jpg)
+![](imgs/leadImage.jpg)
 Vughterstraat 234 (short: V2\_) in ‘s-Hertogenbosch, the first abode.
 
 
@@ -51,7 +51,7 @@ stated that their two main approaches – mixing old and new content, and
 reframing – allows V2\_ to remain agile and be flexible to adjust to the
 hot topic of the time.
 
-![caption](imgs/Bez-tytu%C5%82u.jpg)
+![](imgs/Bez-tytu%C5%82u.jpg)
 
 [Book Sprints](http://www.booksprints.net/) – time-limited (5 days)
 collaborative book writing. Michelle is responsible for curating
@@ -62,7 +62,7 @@ in people.
 
 
 
-![caption](imgs/Mike.jpg)
+![](imgs/Mike.jpg)
 dhr. M.J. Dieter during Book Sprint
 
 

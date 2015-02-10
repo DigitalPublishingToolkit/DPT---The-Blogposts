@@ -9,11 +9,11 @@ date: 2014-09-17
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 September 17, 2014 at 2:19 pm.
 
-![caption](imgs/IMG_2544.jpg)
+![](imgs/IMG_2544.jpg)
 
-![caption](imgs/IMG_2534.jpg)
+![](imgs/IMG_2534.jpg)
 
-![caption](imgs/IMG_2541.jpg)
+![](imgs/IMG_2541.jpg)
 
 On the 12th of September the Institute of Network Cultures subgroup
 organized a meeting to test  the initial results of their research.

@@ -9,7 +9,7 @@ date: 2014-05-27
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:29 pm.
 
-![caption](imgs/adam.jpg)
+![](imgs/adam.jpg)
 
 “Books are Evil” is the provocative title of Adam Hyde’s talk in the
 session on Workflows, Tools and Platforms. For many years Hyde worked as

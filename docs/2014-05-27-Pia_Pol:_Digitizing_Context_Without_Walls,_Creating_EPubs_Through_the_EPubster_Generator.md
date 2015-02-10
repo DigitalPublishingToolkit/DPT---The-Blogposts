@@ -9,7 +9,7 @@ date: 2014-05-27
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:39 pm.
 
-![caption](imgs/pia.jpg)
+![](imgs/pia.jpg)
 
 The publishing house Valiz publishes Context Without Walls (CWW), a
 series of book publications focused on the work of artists from all over

@@ -10,4 +10,4 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 March 12, 2014 at 1:12 pm.
 
-![caption](imgs/photo-e1394626295619.jpg)
+![](imgs/photo-e1394626295619.jpg)

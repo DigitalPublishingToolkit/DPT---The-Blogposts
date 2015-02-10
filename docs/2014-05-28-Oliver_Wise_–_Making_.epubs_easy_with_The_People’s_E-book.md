@@ -11,7 +11,7 @@ May 28, 2014 at 10:22 am.
 
 
 
-![caption](imgs/14056853788_e5e6b2ba54_z.jpg)
+![](imgs/14056853788_e5e6b2ba54_z.jpg)
 Oliver Wise presenting how to use The People’s E-book.
 
 
@@ -46,7 +46,7 @@ The choice of EPUB as the format was justified by the following :
 
 
 
-![caption](imgs/14241288482_544cb9c4f8_z.jpg)
+![](imgs/14241288482_544cb9c4f8_z.jpg)
 Oliver Wise demonstrates the use of The People’s E-book
 
 

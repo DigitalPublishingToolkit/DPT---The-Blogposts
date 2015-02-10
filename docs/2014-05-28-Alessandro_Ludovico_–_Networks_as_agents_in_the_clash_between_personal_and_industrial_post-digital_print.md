@@ -11,7 +11,7 @@ May 28, 2014 at 11:36 am.
 
 
 
-![caption](imgs/14241082322_e72754dc53_z.jpg)
+![](imgs/14241082322_e72754dc53_z.jpg)
 Alessandro Ludovico during his talk on day 1 of Off the Press 2014
 
 
@@ -49,7 +49,7 @@ e-publications’ rules.
 
 
 
-![caption](imgs/Peter_Millson_Weymouth_lo.jpg)
+![](imgs/Peter_Millson_Weymouth_lo.jpg)
 Paul Soulellis
 
 
@@ -123,7 +123,7 @@ order to facilitate the spread of knowledge, free of charge. To further
 illustrate his point, Ludovico used three examples from Italian hacker
 community :
 
-![caption](imgs/14056684059_04960903f0_z.jpg)
+![](imgs/14056684059_04960903f0_z.jpg)
 
 1.  The Grafton 9 collective in Bologna which is scanning the political
     cyberpunk culture of

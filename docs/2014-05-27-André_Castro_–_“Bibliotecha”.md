@@ -11,7 +11,7 @@ May 27, 2014 at 9:59 pm.
 
 
 
-![caption](imgs/800px-Bibliotecha_Book.jpg)
+![](imgs/800px-Bibliotecha_Book.jpg)
 Bibliotecha
 
 
@@ -30,7 +30,7 @@ Abbing](http://www.roelroscamabbing.nl/).
 
 
 
-![caption](imgs/14271496853_9e89b4eaa4_z.jpg)
+![](imgs/14271496853_9e89b4eaa4_z.jpg)
 Andre Castro explaining the specificities of Bibliotecha
 
 
@@ -49,7 +49,7 @@ initiated by Marcel Mars and Femke Snelting at Impact Festival Utrecht.
 
 
 
-![caption](imgs/14064712490_7aa1de1798_z.jpg)
+![](imgs/14064712490_7aa1de1798_z.jpg)
 Andre Castro and Florian Cramer
 
 

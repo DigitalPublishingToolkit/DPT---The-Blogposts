@@ -10,17 +10,17 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 May 15, 2014 at 3:35 pm.
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.54.29.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.54.29.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.51.56.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.51.56.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.46.26.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.46.26.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.43.21.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.43.21.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.41.37.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.41.37.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.30.22.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.30.22.png)
 
 As part of the INC subgroup research, we are looking into hybrid
 workflows that employ Markdown/HTML. While Markdown remains the source,

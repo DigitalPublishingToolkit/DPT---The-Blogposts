@@ -10,11 +10,11 @@ By [Andre
 Castro](http://networkcultures.org/digitalpublishing/author/andre/ "Posts by Andre Castro"),
 November 23, 2014 at 3:02 pm.
 
-![caption](imgs/stream1.jpg)
+![](imgs/stream1.jpg)
 
-![caption](imgs/cook_TVB_sml.jpg)
+![](imgs/cook_TVB_sml.jpg)
 
-![caption](imgs/trailer-TheVolkskrantBuilding.gif)
+![](imgs/trailer-TheVolkskrantBuilding.gif)
 
 Last week [The Institute of Network
 Cultures](http://networkcultures.org/) and [Amsterdam Creative

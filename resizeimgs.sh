@@ -1,6 +1,6 @@
 #!/bin/sh
 for img in docs/imgs/*;
-do mogrify -quality 80% -strip -resize 700x\> $img;
+do mogrify -quality 50% -strip -resize 500x\> $img;
 done;
 
 # # 2nd round: compress pngs

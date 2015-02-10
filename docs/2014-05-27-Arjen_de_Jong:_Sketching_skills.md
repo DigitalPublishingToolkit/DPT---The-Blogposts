@@ -9,9 +9,9 @@ date: 2014-05-27
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 27, 2014 at 3:31 pm.
 
-![caption](imgs/Arjen-de-Jong-demo-0.png)
+![](imgs/Arjen-de-Jong-demo-0.png)
 
-![caption](imgs/Arjen-de-Jong.jpg)
+![](imgs/Arjen-de-Jong.jpg)
 
 De Jong is a visual designer for design agency
 [Essense](http://essense.eu/about/) and a member of [BIS

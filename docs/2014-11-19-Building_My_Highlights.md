@@ -10,7 +10,7 @@ By [Marc de
 Bruijn](http://networkcultures.org/digitalpublishing/author/marcdebruijn/ "Posts by Marc de Bruijn"),
 November 19, 2014 at 3:28 pm.
 
-![caption](imgs/highlights-01.png)
+![](imgs/highlights-01.png)
 
 This is a short overview of the process of building a proof-of-concept
 application. Requirements shifted during the development of the project
@@ -139,14 +139,14 @@ GitHub](https://github.com/DigitalPublishingToolkit/my-highlights).
 
 
 
-![caption](imgs/highlights-01.png)
-![caption](imgs/highlights-03.png)
-![caption](imgs/highlights-04.png)
-![caption](imgs/highlights-05.png)
-![caption](imgs/highlights-06.png)
-![caption](imgs/highlights-07.png)
-![caption](imgs/highlights-08.png)
-![caption](imgs/highlights-09.png)
-![caption](imgs/highlights-10.png)
+![](imgs/highlights-01.png)
+![](imgs/highlights-03.png)
+![](imgs/highlights-04.png)
+![](imgs/highlights-05.png)
+![](imgs/highlights-06.png)
+![](imgs/highlights-07.png)
+![](imgs/highlights-08.png)
+![](imgs/highlights-09.png)
+![](imgs/highlights-10.png)
 
 

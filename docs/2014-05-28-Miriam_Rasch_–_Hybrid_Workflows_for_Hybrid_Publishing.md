@@ -11,7 +11,7 @@ May 28, 2014 at 12:28 am.
 
 
 
-![caption](imgs/14057602360_c654d55103_z.jpg)
+![](imgs/14057602360_c654d55103_z.jpg)
 Miriam Rasch
 
 
@@ -51,7 +51,7 @@ materials, including pictures and video clips are available on
 [Vimeo](http://vimeo.com/networkcultures/videos). More information can
 be found on [INC’s website.](http://networkcultures.org/wpmu/portal/)
 
-![caption](imgs/14240898741_0dd918cefb_z.jpg)
+![](imgs/14240898741_0dd918cefb_z.jpg)
 
 You can find a PDF of her original presentation here: [Presentation
 Miriam

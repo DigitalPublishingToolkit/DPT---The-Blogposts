@@ -15,9 +15,9 @@ a comprehensive conference report has been written by Arie Altena.
 
 The full report can be downloaded here:
 
-![caption](imgs/inc_icon_issuu_@2x.png)
+![](imgs/inc_icon_issuu_@2x.png)
 
-![caption](imgs/inc_icon_pdf_@2x.png)
+![](imgs/inc_icon_pdf_@2x.png)
 
  
 

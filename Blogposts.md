@@ -196,9 +196,9 @@ By [Katía
 Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
 December 7, 2014 at 3:33 pm.
 
-![caption](imgs/15276371604_5a8777d6b8_z.jpg)
+![](imgs/15276371604_5a8777d6b8_z.jpg)
 
-![caption](imgs/15872825926_679111649e_z.jpg)
+![](imgs/15872825926_679111649e_z.jpg)
 
 Geert Lovink and Florian Cramer conclude the afternoon by looking back
 on two years of researching digital publishing; a succesful
@@ -312,9 +312,9 @@ By [Katía
 Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
 December 6, 2014 at 10:07 pm.
 
-![caption](imgs/Schermafbeelding-2014-12-05-om-10.27.53.png)
+![](imgs/Schermafbeelding-2014-12-05-om-10.27.53.png)
 
-![caption](imgs/15279147033_9216c0be33_z.jpg)
+![](imgs/15279147033_9216c0be33_z.jpg)
 
 [Silvio Lorusso](http://silviolorusso.com/) is an artist and desiger and
 PhD Candidate in Design Sciences at Iuav University of Venice. He
@@ -371,7 +371,7 @@ book. Is it Kafka? Microsoft Word? Or Jason Huff?
 
 
 
-![caption](imgs/08.jpg)
+![](imgs/08.jpg)
 Just in Time, or A Short History of Production by Xavier Antin
 
 
@@ -478,7 +478,7 @@ stream, from top to bottom.
 
 
 
-![caption](imgs/workflow_02.png)
+![](imgs/workflow_02.png)
 Parallel workflows
 
 
@@ -501,7 +501,7 @@ possible visual representation of such collaborative workflow.
 
 
 
-![caption](imgs/workflow_01.png)
+![](imgs/workflow_01.png)
 Collaborative workflow
 
 
@@ -586,7 +586,7 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 December 23, 2014 at 2:22 pm.
 
-![caption](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub-e1419344387128.png)
+![](imgs/0419-HVA_DPT_from_print_to_ebooks_OS_epub-e1419344387128.png)
 
 *From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts*.
 
@@ -691,7 +691,7 @@ publishing process through being both structured and yet flexible.
 
 ## The creation of “How-to & Style Guides”:
 
-![caption](imgs/15898637095_6696785138_z.jpg)
+![](imgs/15898637095_6696785138_z.jpg)
 
 **[How-to](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-1/)**
 and **[Style
@@ -708,7 +708,7 @@ features that would make the process easier in the long run.
 
 ## Using a set of hybrid tools:
 
-![caption](imgs/15896641151_4aa3c985f7_z.jpg)
+![](imgs/15896641151_4aa3c985f7_z.jpg)
 
 [a set of tools was put
 together](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/)
@@ -752,7 +752,7 @@ November 30, 2014 at 8:55 pm.
 
 
 
-![caption](imgs/15896794701_c77552a06c_o.jpg)
+![](imgs/15896794701_c77552a06c_o.jpg)
 Mark de Bruin of PuntPixel
 
 
@@ -809,7 +809,7 @@ accessible on multiple devices at a reasonable cost?**
 
 
 
-![caption](imgs/15712746169_68c3084661_o.jpg)
+![](imgs/15712746169_68c3084661_o.jpg)
 Arjen de Jong presenting for Essense
 
 
@@ -913,7 +913,7 @@ tactile experience.
 
 
 
-![caption](imgs/15896641321_a4a911d2b5_o.jpg)
+![](imgs/15896641321_a4a911d2b5_o.jpg)
 Harold Konickx takes us through Alberto Manguel
 
 
@@ -933,7 +933,7 @@ pedestal.
 
 
 
-![caption](imgs/15898638565_6f3d80237f_o.jpg)
+![](imgs/15898638565_6f3d80237f_o.jpg)
 Skeuomorphism on iBooks
 
 
@@ -1009,7 +1009,7 @@ and images.
 
  
 
-![caption](imgs/15279147793_28b308f45e_z.jpg)
+![](imgs/15279147793_28b308f45e_z.jpg)
 
 **the process of digitalising *Common Skin* was very challenging and
 ambitious.** As part of a series with meticulous and extensive design,
@@ -1023,7 +1023,7 @@ digital publications.
 
  
 
-![caption](imgs/15711295808_a30cb2552d_z.jpg)
+![](imgs/15711295808_a30cb2552d_z.jpg)
 
 *EPUBster* as a web application for the creation and editing of digital
 publications. The tool was developed as a general purpose tool, although
@@ -1049,7 +1049,7 @@ can read more about the development of EPUBster
 
  
 
-![caption](imgs/15898137982_08b8b11a73_z.jpg)
+![](imgs/15898137982_08b8b11a73_z.jpg)
 
 *Common Skin* to demonstrate the rich layers of text and imagery they
 were presented with. As an academic text, there were a lot of footnotes,
@@ -1108,11 +1108,11 @@ By [Andre
 Castro](http://networkcultures.org/digitalpublishing/author/andre/ "Posts by Andre Castro"),
 November 23, 2014 at 3:02 pm.
 
-![caption](imgs/stream1.jpg)
+![](imgs/stream1.jpg)
 
-![caption](imgs/cook_TVB_sml.jpg)
+![](imgs/cook_TVB_sml.jpg)
 
-![caption](imgs/trailer-TheVolkskrantBuilding.gif)
+![](imgs/trailer-TheVolkskrantBuilding.gif)
 
 Last week [The Institute of Network
 Cultures](http://networkcultures.org/) and [Amsterdam Creative
@@ -1273,7 +1273,7 @@ By [Marc de
 Bruijn](http://networkcultures.org/digitalpublishing/author/marcdebruijn/ "Posts by Marc de Bruijn"),
 November 19, 2014 at 3:26 pm.
 
-![caption](imgs/epubster-04.png)
+![](imgs/epubster-04.png)
 
 With *EPUBster* (for lack of a better name) we tried to develop a web
 application allowing publishers to edit and create EPUBs. We us the term
@@ -1386,13 +1386,13 @@ fully-fledged EPUB 3 without much trouble using the tools provided by
 
 
 
-![caption](imgs/epubster-02.png)
-![caption](imgs/epubster-05.png)
-![caption](imgs/epubster-07.png)
-![caption](imgs/epubster-041.png)
-![caption](imgs/epubster-06.png)
-![caption](imgs/epubster-08.png)
-![caption](imgs/epubster-03.png)
+![](imgs/epubster-02.png)
+![](imgs/epubster-05.png)
+![](imgs/epubster-07.png)
+![](imgs/epubster-041.png)
+![](imgs/epubster-06.png)
+![](imgs/epubster-08.png)
+![](imgs/epubster-03.png)
 
 
 
@@ -1402,7 +1402,7 @@ By [Marc de
 Bruijn](http://networkcultures.org/digitalpublishing/author/marcdebruijn/ "Posts by Marc de Bruijn"),
 November 19, 2014 at 3:28 pm.
 
-![caption](imgs/highlights-01.png)
+![](imgs/highlights-01.png)
 
 This is a short overview of the process of building a proof-of-concept
 application. Requirements shifted during the development of the project
@@ -1531,15 +1531,15 @@ GitHub](https://github.com/DigitalPublishingToolkit/my-highlights).
 
 
 
-![caption](imgs/highlights-01.png)
-![caption](imgs/highlights-03.png)
-![caption](imgs/highlights-04.png)
-![caption](imgs/highlights-05.png)
-![caption](imgs/highlights-06.png)
-![caption](imgs/highlights-07.png)
-![caption](imgs/highlights-08.png)
-![caption](imgs/highlights-09.png)
-![caption](imgs/highlights-10.png)
+![](imgs/highlights-01.png)
+![](imgs/highlights-03.png)
+![](imgs/highlights-04.png)
+![](imgs/highlights-05.png)
+![](imgs/highlights-06.png)
+![](imgs/highlights-07.png)
+![](imgs/highlights-08.png)
+![](imgs/highlights-09.png)
+![](imgs/highlights-10.png)
 
 
 
@@ -1549,9 +1549,9 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 October 8, 2014 at 5:37 pm.
 
-![caption](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
+![](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
 
-![caption](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
+![](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
 
 As part of the hybrid workflow for the Institute of Network Cultures
 developed by the INC subgroup, I started a collaboration with Italian
@@ -2786,13 +2786,13 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 October 13, 2014 at 9:00 am.
 
-![caption](imgs/trailer-In_Praise_of_Folly__Illustrated_with_Many_Curious_Cuts.gif)
+![](imgs/trailer-In_Praise_of_Folly__Illustrated_with_Many_Curious_Cuts.gif)
 
-![caption](imgs/trailer-Gullivers_Travels__Into_Several_Remote_Regions_of_the_World.gif)
+![](imgs/trailer-Gullivers_Travels__Into_Several_Remote_Regions_of_the_World.gif)
 
-![caption](imgs/trailer-Alices-Adventures-in-Wonderland.gif)
+![](imgs/trailer-Alices-Adventures-in-Wonderland.gif)
 
-![caption](imgs/trailer-Flatland_A_Romance_of_Many_Dimensions_Illustrated.gif)
+![](imgs/trailer-Flatland_A_Romance_of_Many_Dimensions_Illustrated.gif)
 
 Results from the
 [epubtrailer.py](https://github.com/DigitalPublishingToolkit/epubtrailer.py)
@@ -2816,7 +2816,7 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 October 1, 2014 at 1:30 pm.
 
-![caption](imgs/SotQreader-trailer.gif)
+![](imgs/SotQreader-trailer.gif)
 
 *Make* is a popular free software tool that helps programmers compile
 their code into programs. Increasingly the tool is finding new uses in
@@ -3317,9 +3317,9 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 September 22, 2014 at 6:58 pm.
 
-![caption](imgs/flyer_A5_final_web_back.png)
+![](imgs/flyer_A5_final_web_back.png)
 
-![caption](imgs/flyer_A5_final_web_front.png)
+![](imgs/flyer_A5_final_web_front.png)
 
 Het Instituut voor Netwerkcultuur presenteert: Het ABC van Digitaal
 Publiceren\_
@@ -3329,11 +3329,11 @@ Publiceren\_
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 September 17, 2014 at 2:19 pm.
 
-![caption](imgs/IMG_2544.jpg)
+![](imgs/IMG_2544.jpg)
 
-![caption](imgs/IMG_2534.jpg)
+![](imgs/IMG_2534.jpg)
 
-![caption](imgs/IMG_2541.jpg)
+![](imgs/IMG_2541.jpg)
 
 On the 12th of September the Institute of Network Cultures subgroup
 organized a meeting to test  the initial results of their research.
@@ -3362,7 +3362,7 @@ blog as soon as possible!
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 June 5, 2014 at 1:08 am.
 
-![caption](imgs/Joost.jpg)
+![](imgs/Joost.jpg)
 
 *A post by Mathijs Weijers*
 
@@ -3452,7 +3452,7 @@ Kircz](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 June 10, 2014 at 12:37 pm.
 
-![caption](imgs/John-Haltiwinger-photo.jpg)
+![](imgs/John-Haltiwinger-photo.jpg)
 
 *A post by Mathijs Weijers*
 
@@ -3606,7 +3606,7 @@ May 28, 2014 at 9:18 am.
 
 
 
-![caption](imgs/14228184926_af7a4bfe9c_z.jpg)
+![](imgs/14228184926_af7a4bfe9c_z.jpg)
 Sebastian Luetgert at the closing session of Off the Press 2014
 
 
@@ -3633,7 +3633,7 @@ together with Jan Gerber.
 
 
 
-![caption](imgs/14064753617_260b047e9d_z.jpg)
+![](imgs/14064753617_260b047e9d_z.jpg)
 Sebastian Luetgert demonstrates the Open Media Library
 
 
@@ -3671,7 +3671,7 @@ May 28, 2014 at 10:22 am.
 
 
 
-![caption](imgs/14056853788_e5e6b2ba54_z.jpg)
+![](imgs/14056853788_e5e6b2ba54_z.jpg)
 Oliver Wise presenting how to use The People’s E-book.
 
 
@@ -3706,7 +3706,7 @@ The choice of EPUB as the format was justified by the following :
 
 
 
-![caption](imgs/14241288482_544cb9c4f8_z.jpg)
+![](imgs/14241288482_544cb9c4f8_z.jpg)
 Oliver Wise demonstrates the use of The People’s E-book
 
 
@@ -3767,7 +3767,7 @@ May 28, 2014 at 12:28 am.
 
 
 
-![caption](imgs/14057602360_c654d55103_z.jpg)
+![](imgs/14057602360_c654d55103_z.jpg)
 Miriam Rasch
 
 
@@ -3807,7 +3807,7 @@ materials, including pictures and video clips are available on
 [Vimeo](http://vimeo.com/networkcultures/videos). More information can
 be found on [INC’s website.](http://networkcultures.org/wpmu/portal/)
 
-![caption](imgs/14240898741_0dd918cefb_z.jpg)
+![](imgs/14240898741_0dd918cefb_z.jpg)
 
 You can find a PDF of her original presentation here: [Presentation
 Miriam
@@ -3823,7 +3823,7 @@ magazines. Look up her [personal blog](http://www.miriamrasch.nl/).
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 28, 2014 at 1:16 pm.
 
-![caption](imgs/Marcell-Mars-photo.jpg)
+![](imgs/Marcell-Mars-photo.jpg)
 
 The final session of the “Off the Press: Electronic Publishing in Arts”
 conference approached another side of the e-publishing field, namely
@@ -3917,7 +3917,7 @@ Mean Equipment’. His full biography
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 28, 2014 at 5:55 pm.
 
-![caption](imgs/Dusan-Barok-pic.jpg)
+![](imgs/Dusan-Barok-pic.jpg)
 
 [Monoskop](http://monoskop.org/Monoskop) (a wiki for art, culture and
 media technology).
@@ -4014,9 +4014,9 @@ a comprehensive conference report has been written by Arie Altena.
 
 The full report can be downloaded here:
 
-![caption](imgs/inc_icon_issuu_@2x.png)
+![](imgs/inc_icon_issuu_@2x.png)
 
-![caption](imgs/inc_icon_pdf_@2x.png)
+![](imgs/inc_icon_pdf_@2x.png)
 
  
 
@@ -4032,7 +4032,7 @@ May 28, 2014 at 11:36 am.
 
 
 
-![caption](imgs/14241082322_e72754dc53_z.jpg)
+![](imgs/14241082322_e72754dc53_z.jpg)
 Alessandro Ludovico during his talk on day 1 of Off the Press 2014
 
 
@@ -4070,7 +4070,7 @@ e-publications’ rules.
 
 
 
-![caption](imgs/Peter_Millson_Weymouth_lo.jpg)
+![](imgs/Peter_Millson_Weymouth_lo.jpg)
 Paul Soulellis
 
 
@@ -4144,7 +4144,7 @@ order to facilitate the spread of knowledge, free of charge. To further
 illustrate his point, Ludovico used three examples from Italian hacker
 community :
 
-![caption](imgs/14056684059_04960903f0_z.jpg)
+![](imgs/14056684059_04960903f0_z.jpg)
 
 1.  The Grafton 9 collective in Bologna which is scanning the political
     cyberpunk culture of
@@ -4184,7 +4184,7 @@ Ludovico](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:39 pm.
 
-![caption](imgs/pia.jpg)
+![](imgs/pia.jpg)
 
 The publishing house Valiz publishes Context Without Walls (CWW), a
 series of book publications focused on the work of artists from all over
@@ -5083,7 +5083,7 @@ May 27, 2014 at 6:48 pm.
 
 
 
-![caption](imgs/14058080799_ac4cbe88fd_z.jpg)
+![](imgs/14058080799_ac4cbe88fd_z.jpg)
 Michelle Kasprzak
 
 
@@ -5096,7 +5096,7 @@ activities of the institute.
 
 
 
-![caption](imgs/leadImage.jpg)
+![](imgs/leadImage.jpg)
 Vughterstraat 234 (short: V2\_) in ‘s-Hertogenbosch, the first abode.
 
 
@@ -5123,7 +5123,7 @@ stated that their two main approaches – mixing old and new content, and
 reframing – allows V2\_ to remain agile and be flexible to adjust to the
 hot topic of the time.
 
-![caption](imgs/Bez-tytu%C5%82u.jpg)
+![](imgs/Bez-tytu%C5%82u.jpg)
 
 [Book Sprints](http://www.booksprints.net/) – time-limited (5 days)
 collaborative book writing. Michelle is responsible for curating
@@ -5134,7 +5134,7 @@ in people.
 
 
 
-![caption](imgs/Mike.jpg)
+![](imgs/Mike.jpg)
 dhr. M.J. Dieter during Book Sprint
 
 
@@ -5160,7 +5160,7 @@ Kasprzak](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:54 pm.
 
-![caption](imgs/so.jpg)
+![](imgs/so.jpg)
 
 Matthew So handles sales, distribution and inventory operations at
 Badlands Unlimited. Founded in 2010 Badlands Unlimited publishes
@@ -5243,7 +5243,7 @@ So](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/201
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:43 pm.
 
-![caption](imgs/loes.jpg)
+![](imgs/loes.jpg)
 
 The Rotterdam-based graphic designer Loes Sikkes of Medamo, consortium
 partner of the Digital Publishing Toolkit, presents the Highlights
@@ -5308,7 +5308,7 @@ May 27, 2014 at 9:18 pm.
 
 
 
-![caption](imgs/14058050377_2830bffb1d_z.jpg)
+![](imgs/14058050377_2830bffb1d_z.jpg)
 Joaquín González
 
 
@@ -5342,7 +5342,7 @@ yet this extended form is not yet embraced by publishers.
 
 
 
-![caption](imgs/14244322224_2d120f688b_z.jpg)
+![](imgs/14244322224_2d120f688b_z.jpg)
 Joaquín González explaining the tough choices Visual Maniac had to make
 
 
@@ -5402,7 +5402,7 @@ Circle](http://eu.art.com/asp/landing/artcircles/default.asp) – an
 impressive application that brings entire art collections to readers via
 beautiful visuals, sound and interactivity – support this ideal.
 
-![caption](imgs/Florian-Cramer.jpg)
+![](imgs/Florian-Cramer.jpg)
 
 *photo credits: Martin Risseeuw*
 
@@ -5500,7 +5500,7 @@ About, 2014*.
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 27, 2014 at 10:20 am.
 
-![caption](imgs/Liz-Castro.jpg)
+![](imgs/Liz-Castro.jpg)
 
 [Elizabeth Castro](https://twitter.com/lizcastro) kicked off the second
 session of the conference by introducing herself as a computer book
@@ -5584,9 +5584,9 @@ Castro](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 27, 2014 at 3:31 pm.
 
-![caption](imgs/Arjen-de-Jong-demo-0.png)
+![](imgs/Arjen-de-Jong-demo-0.png)
 
-![caption](imgs/Arjen-de-Jong.jpg)
+![](imgs/Arjen-de-Jong.jpg)
 
 De Jong is a visual designer for design agency
 [Essense](http://essense.eu/about/) and a member of [BIS
@@ -5686,7 +5686,7 @@ May 27, 2014 at 9:59 pm.
 
 
 
-![caption](imgs/800px-Bibliotecha_Book.jpg)
+![](imgs/800px-Bibliotecha_Book.jpg)
 Bibliotecha
 
 
@@ -5705,7 +5705,7 @@ Abbing](http://www.roelroscamabbing.nl/).
 
 
 
-![caption](imgs/14271496853_9e89b4eaa4_z.jpg)
+![](imgs/14271496853_9e89b4eaa4_z.jpg)
 Andre Castro explaining the specificities of Bibliotecha
 
 
@@ -5724,7 +5724,7 @@ initiated by Marcel Mars and Femke Snelting at Impact Festival Utrecht.
 
 
 
-![caption](imgs/14064712490_7aa1de1798_z.jpg)
+![](imgs/14064712490_7aa1de1798_z.jpg)
 Andre Castro and Florian Cramer
 
 
@@ -5750,7 +5750,7 @@ Contact André : andre[AT]andrecastro.info
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:29 pm.
 
-![caption](imgs/adam.jpg)
+![](imgs/adam.jpg)
 
 “Books are Evil” is the provocative title of Adam Hyde’s talk in the
 session on Workflows, Tools and Platforms. For many years Hyde worked as
@@ -5842,17 +5842,17 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 May 15, 2014 at 3:35 pm.
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.54.29.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.54.29.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.51.56.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.51.56.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.46.26.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.46.26.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.43.21.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.43.21.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.41.37.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.41.37.png)
 
-![caption](imgs/Screen-Shot-2014-05-15-at-15.30.22.png)
+![](imgs/Screen-Shot-2014-05-15-at-15.30.22.png)
 
 As part of the INC subgroup research, we are looking into hybrid
 workflows that employ Markdown/HTML. While Markdown remains the source,
@@ -6184,7 +6184,7 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 April 30, 2014 at 12:49 am.
 
-![caption](imgs/IMAG0554.jpg)
+![](imgs/IMAG0554.jpg)
 
 Thursday and Friday April 24 & 25 a hackathon took place at the Piet
 Zwart Institute in Rotterdam. Over the course of 2 days, some of the
@@ -7520,9 +7520,9 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 March 5, 2014 at 2:35 pm.
 
-![caption](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)
+![](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)
 
-![caption](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)
+![](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)
 
 Institute of Network Cultures presents:
 
@@ -7627,7 +7627,7 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 March 12, 2014 at 1:12 pm.
 
-![caption](imgs/photo-e1394626295619.jpg)
+![](imgs/photo-e1394626295619.jpg)
 
 # Megan Hoogenboom: You and the Book {.entry-title .single-title itemprop="headline"}
 
@@ -7671,7 +7671,7 @@ By [Miriam
 Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
 January 24, 2014 at 9:48 am.
 
-![caption](imgs/ImageDisplay.jpg)
+![](imgs/ImageDisplay.jpg)
 
 **The Unbound Book**
 
@@ -8931,7 +8931,7 @@ Us Reader” Epub Trailer
 
 
 
-![caption](imgs/dpt2013.jpg)
+![](imgs/dpt2013.jpg)
 
 [3](https://www.facebook.com/postdigitalpublishingarchive?fref=ts)“Working
 table during the hackethon[/caption]
@@ -9565,9 +9565,9 @@ By [Miriam
 Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
 October 8, 2013 at 2:15 pm.
 
-![caption](imgs/CWW_ontwerp16.jpg)
+![](imgs/CWW_ontwerp16.jpg)
 
-![caption](imgs/CWW_ontwerp7.jpg)
+![](imgs/CWW_ontwerp7.jpg)
 
 *A contribution by Meeusontwerpt*
 
@@ -9638,19 +9638,19 @@ version won’t be able to work on all the readers / devices. What we
 would like from such an elaborate e-pub we don’t know yet, that’s
 something we still have to decide together.
 
-![caption](imgs/CWW_omslag_papier.jpg)
+![](imgs/CWW_omslag_papier.jpg)
 
-![caption](imgs/CWW_ontwerp.jpg)
+![](imgs/CWW_ontwerp.jpg)
 
-![caption](imgs/CWW_Binnenwerk_papier4.jpg)
+![](imgs/CWW_Binnenwerk_papier4.jpg)
 
-![caption](imgs/CWW_ontwerp5.jpg)
+![](imgs/CWW_ontwerp5.jpg)
 
-![caption](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
+![](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
 
-![caption](imgs/CWW_ontwerp20.jpg)
+![](imgs/CWW_ontwerp20.jpg)
 
-![caption](imgs/CWW_ontwerp2.jpg)
+![](imgs/CWW_ontwerp2.jpg)
 
 # HTML5 and “Digital First” Content Development {.entry-title .single-title itemprop="headline"}
 
@@ -9927,9 +9927,9 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 October 16, 2013 at 12:12 pm.
 
-![caption](imgs/flyer_a5_final_web-02.jpg)
+![](imgs/flyer_a5_final_web-02.jpg)
 
-![caption](imgs/flyer_a5_final_web-01.jpg)
+![](imgs/flyer_a5_final_web-01.jpg)
 
 **Het lectoraat voor Netwerkcultuur presenteert het ABC van digitaal
 publiceren op donderdag 28 november 2013 van 09.30 tot 12.30 in het
@@ -9980,7 +9980,7 @@ github](https://github.com/DigitalPublishingToolkit/epub_generator)
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 October 15, 2013 at 1:44 pm.
 
-![caption](imgs/bam-bijschrift-cmyk-NL.jpg)
+![](imgs/bam-bijschrift-cmyk-NL.jpg)
 
 ## An interview with Geert Lovink by Jorinde Seijdel (in Dutch)
 
@@ -10547,9 +10547,9 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 August 30, 2013 at 2:30 pm.
 
-![caption](imgs/Screen-Shot-2013-08-30-at-12.39.21-PM.png)
+![](imgs/Screen-Shot-2013-08-30-at-12.39.21-PM.png)
 
-![caption](imgs/Screen-Shot-2013-08-30-at-12.34.33-PM.png)
+![](imgs/Screen-Shot-2013-08-30-at-12.34.33-PM.png)
 
 This post documents the outcomes of a new feature of
 [Calibre](http://calibre-ebook.com/) available in version 1.0: docx
@@ -10564,7 +10564,7 @@ The document has the following features:
 
 
 
-![caption](imgs/Screen-Shot-2013-08-30-at-12.26.17-PM.png)
+![](imgs/Screen-Shot-2013-08-30-at-12.26.17-PM.png)
 Test Document in .docx, shown in LibreOffice
 
 
@@ -10601,7 +10601,7 @@ and still not solved).
 
 
 
-![caption](imgs/Screen-Shot-2013-08-30-at-12.46.02-PM.png)
+![](imgs/Screen-Shot-2013-08-30-at-12.46.02-PM.png)
 The HTML document
 
 
@@ -10615,7 +10615,7 @@ file](http://networkcultures.org/digitalpublishing/wp-content/uploads/sites/26/2
 
 
 
-![caption](imgs/Screen-Shot-2013-08-30-at-1.02.25-PM.png)
+![](imgs/Screen-Shot-2013-08-30-at-1.02.25-PM.png)
 The MarkDown output as shown in Mou
 
 
@@ -10834,7 +10834,7 @@ possibilities for automated conversion from .doc to Markdown.
 
 
 
-![caption](imgs/lodi-doc-in-libreoffice.png)
+![](imgs/lodi-doc-in-libreoffice.png)
 .doc as rendered by LibreOffice
 
 
@@ -10861,7 +10861,7 @@ one-liner:`textutil -convert html file.doc -stdout | pandoc -f html -t markdown 
 
 
 
-![caption](imgs/lodi-markdown-mou.png)
+![](imgs/lodi-markdown-mou.png)
 Resulting Markdown as rendered by Mou
 
 
@@ -10889,7 +10889,7 @@ LibreOffice and then…
 
 
 
-![caption](imgs/lodi-html-from-libreoffice.png)
+![](imgs/lodi-html-from-libreoffice.png)
 The test document converted to HTML via LibreOffice
 
 
@@ -11277,9 +11277,9 @@ Kathryn Cave, June 20th 2013
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 June 23, 2013 at 2:08 pm.
 
-![caption](imgs/02_Top5SmartphoneOS.png)
+![](imgs/02_Top5SmartphoneOS.png)
 
-![caption](imgs/01_Top5Vendors.png)
+![](imgs/01_Top5Vendors.png)
 
 ## Jargon, Platforms & Publication Formats
 
@@ -11762,7 +11762,7 @@ The ideas consist of the following:
 
 
 
-![caption](imgs/05.jpg)
+![](imgs/05.jpg)
 The top section of the original, static design in Adobe Illustrator.
 
 
@@ -11793,7 +11793,7 @@ the margin.
 
 
 
-![caption](imgs/Chrome01.png)
+![](imgs/Chrome01.png)
 The HTML portion of the EPUB as rendered by Google Chrome.
 
 
@@ -11836,7 +11836,7 @@ bigger screen.
 
 
 
-![caption](imgs/Amazon02.png)
+![](imgs/Amazon02.png)
 Kindle for Mac
 
 
@@ -11858,7 +11858,7 @@ world.
 
 
 
-![caption](imgs/Calibre01.png)
+![](imgs/Calibre01.png)
 Calibre
 
 
@@ -11878,7 +11878,7 @@ are not displayed, for example.
 
 
 
-![caption](imgs/Adobe-Digital-Editions02.png)
+![](imgs/Adobe-Digital-Editions02.png)
 Adobe Digital Editions
 
 
@@ -11894,7 +11894,7 @@ strips it of anything except images.
 
 
 
-![caption](imgs/Kitabu02.png)
+![](imgs/Kitabu02.png)
 Kitabu
 
 
@@ -11911,7 +11911,7 @@ Ehon or Kindle.
 
 
 
-![caption](imgs/Ehon02.png)
+![](imgs/Ehon02.png)
 Ehon
 
 
@@ -11927,7 +11927,7 @@ hence the full support for all the features of the publication.
 
 
 
-![caption](imgs/Azardi02.png)
+![](imgs/Azardi02.png)
 Azardi
 
 
@@ -11954,7 +11954,7 @@ possibilities (or lack thereof) both platforms are the same.
 
 
 
-![caption](imgs/iBooks02.png)
+![](imgs/iBooks02.png)
 iBooks
 
 
@@ -11974,7 +11974,7 @@ iOS, Android
 
 
 
-![caption](imgs/KindleiOS02.png)
+![](imgs/KindleiOS02.png)
 Kindle on iOS
 
 
@@ -11991,7 +11991,7 @@ Calibre.
 
 
 
-![caption](imgs/Bluefire-Reader02.png)
+![](imgs/Bluefire-Reader02.png)
 Bluefire Reader
 
 
@@ -12006,7 +12006,7 @@ styling or media.
 
 
 
-![caption](imgs/Readmill02.png)
+![](imgs/Readmill02.png)
 Readmill
 
 
@@ -12025,7 +12025,7 @@ Readmill ebook styles are applied to the entirety of the document.
 
 
 
-![caption](imgs/Kobo02.png)
+![](imgs/Kobo02.png)
 Kobo Books
 
 
@@ -12042,7 +12042,7 @@ anything more than simple text and displaying imagery.
 
 
 
-![caption](imgs/Lektz02.png)
+![](imgs/Lektz02.png)
 Lektz
 
 
@@ -12060,7 +12060,7 @@ dummy EPUB, except for audio and video.
 
 ### Aldiko Book Reader
 
-![caption](imgs/Aldiko02.png)
+![](imgs/Aldiko02.png)
 
 *Developer:* Aldiko*Version:* 2.2.3*Website:*
 <http://www.aldiko.com>*Environment:* Android
@@ -12072,7 +12072,7 @@ styling.
 
 ### ePub Reader
 
-![caption](imgs/ePub-Reader02.png)
+![](imgs/ePub-Reader02.png)
 
 *Developer:* Graphilos Studio*Version:* 1.5.3*Website:*
 <http://www.graphilos.com>*Environment:* Android
@@ -12084,7 +12084,7 @@ all the pages seem to exceed the available screen size.
 
 ### Mantano Reader Lite
 
-![caption](imgs/Mantano02.png)
+![](imgs/Mantano02.png)
 
 *Developer:* Mantano SAS*Version:* 1.2.9*Website:*
 <http://www.mantano.com>*Environment:* Android
@@ -12096,7 +12096,7 @@ audio or styling (except font sizes).
 
 ### Moon+ Reader
 
-![caption](imgs/Moon02.png)
+![](imgs/Moon02.png)
 
 *Developer:* Moon+*Version:* 1.9.7.0*Website:*
 <http://www.moondownload.com>*Environment:* Android
@@ -12109,7 +12109,7 @@ italic). No support for video or audio.
 
 ### Universal Book Reader
 
-![caption](imgs/UBReader02.png)
+![](imgs/UBReader02.png)
 
 *Developer:* Mobile Systems*Version:* 2.1.260*Website:*
 <http://www.ubreader.com>*Environment:* Android
@@ -12324,7 +12324,7 @@ with the title “Quando il lettore diventa utente”]*
 
 
 
-![caption](imgs/Inside_the_Kindle_3.jpg)
+![](imgs/Inside_the_Kindle_3.jpg)
 The Inside of a Kindle 3. Source:
 https://en.wikipedia.org/wiki/File:Inside\_the\_Kindle\_3.jpg
 
@@ -13753,7 +13753,7 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 May 17, 2013 at 1:46 pm.
 
-![caption](imgs/all.jpg)
+![](imgs/all.jpg)
 
 # Preview of the Unlike Us Reader, mobi version {.entry-title .single-title itemprop="headline"}
 
@@ -13761,7 +13761,7 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 May 13, 2013 at 8:04 am.
 
-![caption](imgs/2013-05-12-17.35.38.jpg)
+![](imgs/2013-05-12-17.35.38.jpg)
 
 # Paper + Digital Access {.entry-title .single-title itemprop="headline"}
 
@@ -13856,7 +13856,7 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 April 28, 2013 at 5:09 pm.
 
-![caption](imgs/Screen-Shot-2013-04-28-at-7.03.30-PM.png)
+![](imgs/Screen-Shot-2013-04-28-at-7.03.30-PM.png)
 
 As a strategy for dissemination, the novel “With a Little Help” by Cory
 Doctorow is provided in 5 different official formats. Some fan-converted
@@ -14045,9 +14045,9 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 March 29, 2013 at 3:55 pm.
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.32.21-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.32.21-PM.png)
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.21.44-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.21.44-PM.png)
 
 “Unlike Us Reader” Default Export from InDesign CS6 to EPUB 2.0.1
 format, then viewed in Calibre. File size:
@@ -14069,42 +14069,42 @@ format, then viewed in Calibre. File size:
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.38.33-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.38.33-PM.png)
 TOC missing
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.35.33-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.35.33-PM.png)
 Images distributed after the article
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.30.21-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.30.21-PM.png)
 Bold missing in inner titles
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.27.44-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.27.44-PM.png)
 Title and author detached from subtitle
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.24.22-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.24.22-PM.png)
 Invisible voices in the inner TOC
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.22.05-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.22.05-PM.png)
 Title alignment inherited by the visual layout
 
 

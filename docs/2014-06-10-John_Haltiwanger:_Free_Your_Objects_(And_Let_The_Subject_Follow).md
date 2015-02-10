@@ -9,7 +9,7 @@ date: 2014-06-10
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 June 10, 2014 at 12:37 pm.
 
-![caption](imgs/John-Haltiwinger-photo.jpg)
+![](imgs/John-Haltiwinger-photo.jpg)
 
 *A post by Mathijs Weijers*
 

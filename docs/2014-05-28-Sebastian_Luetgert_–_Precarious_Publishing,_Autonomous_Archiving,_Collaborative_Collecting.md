@@ -11,7 +11,7 @@ May 28, 2014 at 9:18 am.
 
 
 
-![caption](imgs/14228184926_af7a4bfe9c_z.jpg)
+![](imgs/14228184926_af7a4bfe9c_z.jpg)
 Sebastian Luetgert at the closing session of Off the Press 2014
 
 
@@ -38,7 +38,7 @@ together with Jan Gerber.
 
 
 
-![caption](imgs/14064753617_260b047e9d_z.jpg)
+![](imgs/14064753617_260b047e9d_z.jpg)
 Sebastian Luetgert demonstrates the Open Media Library
 
 

@@ -10,9 +10,9 @@ By [Katía
 Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
 December 6, 2014 at 10:07 pm.
 
-![caption](imgs/Schermafbeelding-2014-12-05-om-10.27.53.png)
+![](imgs/Schermafbeelding-2014-12-05-om-10.27.53.png)
 
-![caption](imgs/15279147033_9216c0be33_z.jpg)
+![](imgs/15279147033_9216c0be33_z.jpg)
 
 [Silvio Lorusso](http://silviolorusso.com/) is an artist and desiger and
 PhD Candidate in Design Sciences at Iuav University of Venice. He
@@ -69,7 +69,7 @@ book. Is it Kafka? Microsoft Word? Or Jason Huff?
 
 
 
-![caption](imgs/08.jpg)
+![](imgs/08.jpg)
 Just in Time, or A Short History of Production by Xavier Antin
 
 

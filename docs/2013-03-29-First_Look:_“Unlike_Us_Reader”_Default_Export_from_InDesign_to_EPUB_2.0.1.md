@@ -10,9 +10,9 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 March 29, 2013 at 3:55 pm.
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.32.21-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.32.21-PM.png)
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.21.44-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.21.44-PM.png)
 
 “Unlike Us Reader” Default Export from InDesign CS6 to EPUB 2.0.1
 format, then viewed in Calibre. File size:
@@ -34,42 +34,42 @@ format, then viewed in Calibre. File size:
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.38.33-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.38.33-PM.png)
 TOC missing
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.35.33-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.35.33-PM.png)
 Images distributed after the article
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.30.21-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.30.21-PM.png)
 Bold missing in inner titles
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.27.44-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.27.44-PM.png)
 Title and author detached from subtitle
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.24.22-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.24.22-PM.png)
 Invisible voices in the inner TOC
 
 
 
 
 
-![caption](imgs/Screen-Shot-2013-03-29-at-4.22.05-PM.png)
+![](imgs/Screen-Shot-2013-03-29-at-4.22.05-PM.png)
 Title alignment inherited by the visual layout
 
 

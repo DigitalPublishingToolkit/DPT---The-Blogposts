@@ -18,7 +18,7 @@ Us Reader” Epub Trailer
 
 
 
-![caption](imgs/dpt2013.jpg)
+![](imgs/dpt2013.jpg)
 
 [3](https://www.facebook.com/postdigitalpublishingarchive?fref=ts)“Working
 table during the hackethon[/caption]

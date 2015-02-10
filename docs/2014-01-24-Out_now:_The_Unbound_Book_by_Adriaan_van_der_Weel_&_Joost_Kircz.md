@@ -10,7 +10,7 @@ By [Miriam
 Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
 January 24, 2014 at 9:48 am.
 
-![caption](imgs/ImageDisplay.jpg)
+![](imgs/ImageDisplay.jpg)
 
 **The Unbound Book**
 

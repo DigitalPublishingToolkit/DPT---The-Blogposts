@@ -11,7 +11,7 @@ May 27, 2014 at 9:18 pm.
 
 
 
-![caption](imgs/14058050377_2830bffb1d_z.jpg)
+![](imgs/14058050377_2830bffb1d_z.jpg)
 Joaquín González
 
 
@@ -45,7 +45,7 @@ yet this extended form is not yet embraced by publishers.
 
 
 
-![caption](imgs/14244322224_2d120f688b_z.jpg)
+![](imgs/14244322224_2d120f688b_z.jpg)
 Joaquín González explaining the tough choices Visual Maniac had to make
 
 

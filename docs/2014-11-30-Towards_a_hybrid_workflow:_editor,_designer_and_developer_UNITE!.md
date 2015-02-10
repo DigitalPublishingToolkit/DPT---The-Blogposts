@@ -57,7 +57,7 @@ publishing process through being both structured and yet flexible.
 
 ## The creation of “How-to & Style Guides”:
 
-![caption](imgs/15898637095_6696785138_z.jpg)
+![](imgs/15898637095_6696785138_z.jpg)
 
 **[How-to](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-1/)**
 and **[Style
@@ -74,7 +74,7 @@ features that would make the process easier in the long run.
 
 ## Using a set of hybrid tools:
 
-![caption](imgs/15896641151_4aa3c985f7_z.jpg)
+![](imgs/15896641151_4aa3c985f7_z.jpg)
 
 [a set of tools was put
 together](http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/)

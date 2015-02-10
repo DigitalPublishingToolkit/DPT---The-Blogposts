@@ -11,7 +11,7 @@ November 30, 2014 at 8:55 pm.
 
 
 
-![caption](imgs/15896794701_c77552a06c_o.jpg)
+![](imgs/15896794701_c77552a06c_o.jpg)
 Mark de Bruin of PuntPixel
 
 

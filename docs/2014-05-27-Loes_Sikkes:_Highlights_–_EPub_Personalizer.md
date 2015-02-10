@@ -9,7 +9,7 @@ date: 2014-05-27
 By [patricia](http://networkcultures.org/digitalpublishing/author/murtaugh/ "Posts by patricia"),
 May 27, 2014 at 1:43 pm.
 
-![caption](imgs/loes.jpg)
+![](imgs/loes.jpg)
 
 The Rotterdam-based graphic designer Loes Sikkes of Medamo, consortium
 partner of the Digital Publishing Toolkit, presents the Highlights

@@ -10,7 +10,7 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 April 30, 2014 at 12:49 am.
 
-![caption](imgs/IMAG0554.jpg)
+![](imgs/IMAG0554.jpg)
 
 Thursday and Friday April 24 & 25 a hackathon took place at the Piet
 Zwart Institute in Rotterdam. Over the course of 2 days, some of the

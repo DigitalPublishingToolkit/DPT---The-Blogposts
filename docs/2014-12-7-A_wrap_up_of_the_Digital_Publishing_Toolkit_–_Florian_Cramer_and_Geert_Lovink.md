@@ -10,9 +10,9 @@ By [Katía
 Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
 December 7, 2014 at 3:33 pm.
 
-![caption](imgs/15276371604_5a8777d6b8_z.jpg)
+![](imgs/15276371604_5a8777d6b8_z.jpg)
 
-![caption](imgs/15872825926_679111649e_z.jpg)
+![](imgs/15872825926_679111649e_z.jpg)
 
 Geert Lovink and Florian Cramer conclude the afternoon by looking back
 on two years of researching digital publishing; a succesful

@@ -61,7 +61,7 @@ The ideas consist of the following:
 
 
 
-![caption](imgs/05.jpg)
+![](imgs/05.jpg)
 The top section of the original, static design in Adobe Illustrator.
 
 
@@ -92,7 +92,7 @@ the margin.
 
 
 
-![caption](imgs/Chrome01.png)
+![](imgs/Chrome01.png)
 The HTML portion of the EPUB as rendered by Google Chrome.
 
 
@@ -135,7 +135,7 @@ bigger screen.
 
 
 
-![caption](imgs/Amazon02.png)
+![](imgs/Amazon02.png)
 Kindle for Mac
 
 
@@ -157,7 +157,7 @@ world.
 
 
 
-![caption](imgs/Calibre01.png)
+![](imgs/Calibre01.png)
 Calibre
 
 
@@ -177,7 +177,7 @@ are not displayed, for example.
 
 
 
-![caption](imgs/Adobe-Digital-Editions02.png)
+![](imgs/Adobe-Digital-Editions02.png)
 Adobe Digital Editions
 
 
@@ -193,7 +193,7 @@ strips it of anything except images.
 
 
 
-![caption](imgs/Kitabu02.png)
+![](imgs/Kitabu02.png)
 Kitabu
 
 
@@ -210,7 +210,7 @@ Ehon or Kindle.
 
 
 
-![caption](imgs/Ehon02.png)
+![](imgs/Ehon02.png)
 Ehon
 
 
@@ -226,7 +226,7 @@ hence the full support for all the features of the publication.
 
 
 
-![caption](imgs/Azardi02.png)
+![](imgs/Azardi02.png)
 Azardi
 
 
@@ -253,7 +253,7 @@ possibilities (or lack thereof) both platforms are the same.
 
 
 
-![caption](imgs/iBooks02.png)
+![](imgs/iBooks02.png)
 iBooks
 
 
@@ -273,7 +273,7 @@ iOS, Android
 
 
 
-![caption](imgs/KindleiOS02.png)
+![](imgs/KindleiOS02.png)
 Kindle on iOS
 
 
@@ -290,7 +290,7 @@ Calibre.
 
 
 
-![caption](imgs/Bluefire-Reader02.png)
+![](imgs/Bluefire-Reader02.png)
 Bluefire Reader
 
 
@@ -305,7 +305,7 @@ styling or media.
 
 
 
-![caption](imgs/Readmill02.png)
+![](imgs/Readmill02.png)
 Readmill
 
 
@@ -324,7 +324,7 @@ Readmill ebook styles are applied to the entirety of the document.
 
 
 
-![caption](imgs/Kobo02.png)
+![](imgs/Kobo02.png)
 Kobo Books
 
 
@@ -341,7 +341,7 @@ anything more than simple text and displaying imagery.
 
 
 
-![caption](imgs/Lektz02.png)
+![](imgs/Lektz02.png)
 Lektz
 
 
@@ -359,7 +359,7 @@ dummy EPUB, except for audio and video.
 
 ### Aldiko Book Reader
 
-![caption](imgs/Aldiko02.png)
+![](imgs/Aldiko02.png)
 
 *Developer:* Aldiko*Version:* 2.2.3*Website:*
 <http://www.aldiko.com>*Environment:* Android
@@ -371,7 +371,7 @@ styling.
 
 ### ePub Reader
 
-![caption](imgs/ePub-Reader02.png)
+![](imgs/ePub-Reader02.png)
 
 *Developer:* Graphilos Studio*Version:* 1.5.3*Website:*
 <http://www.graphilos.com>*Environment:* Android
@@ -383,7 +383,7 @@ all the pages seem to exceed the available screen size.
 
 ### Mantano Reader Lite
 
-![caption](imgs/Mantano02.png)
+![](imgs/Mantano02.png)
 
 *Developer:* Mantano SAS*Version:* 1.2.9*Website:*
 <http://www.mantano.com>*Environment:* Android
@@ -395,7 +395,7 @@ audio or styling (except font sizes).
 
 ### Moon+ Reader
 
-![caption](imgs/Moon02.png)
+![](imgs/Moon02.png)
 
 *Developer:* Moon+*Version:* 1.9.7.0*Website:*
 <http://www.moondownload.com>*Environment:* Android
@@ -408,7 +408,7 @@ italic). No support for video or audio.
 
 ### Universal Book Reader
 
-![caption](imgs/UBReader02.png)
+![](imgs/UBReader02.png)
 
 *Developer:* Mobile Systems*Version:* 2.1.260*Website:*
 <http://www.ubreader.com>*Environment:* Android

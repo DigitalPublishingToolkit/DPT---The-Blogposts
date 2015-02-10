@@ -10,9 +10,9 @@ By [Miriam
 Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
 October 8, 2013 at 2:15 pm.
 
-![caption](imgs/CWW_ontwerp16.jpg)
+![](imgs/CWW_ontwerp16.jpg)
 
-![caption](imgs/CWW_ontwerp7.jpg)
+![](imgs/CWW_ontwerp7.jpg)
 
 *A contribution by Meeusontwerpt*
 
@@ -83,16 +83,16 @@ version won’t be able to work on all the readers / devices. What we
 would like from such an elaborate e-pub we don’t know yet, that’s
 something we still have to decide together.
 
-![caption](imgs/CWW_omslag_papier.jpg)
+![](imgs/CWW_omslag_papier.jpg)
 
-![caption](imgs/CWW_ontwerp.jpg)
+![](imgs/CWW_ontwerp.jpg)
 
-![caption](imgs/CWW_Binnenwerk_papier4.jpg)
+![](imgs/CWW_Binnenwerk_papier4.jpg)
 
-![caption](imgs/CWW_ontwerp5.jpg)
+![](imgs/CWW_ontwerp5.jpg)
 
-![caption](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
+![](imgs/CWW_binnenwerk_papier_beeldcahier2.jpg)
 
-![caption](imgs/CWW_ontwerp20.jpg)
+![](imgs/CWW_ontwerp20.jpg)
 
-![caption](imgs/CWW_ontwerp2.jpg)
+![](imgs/CWW_ontwerp2.jpg)

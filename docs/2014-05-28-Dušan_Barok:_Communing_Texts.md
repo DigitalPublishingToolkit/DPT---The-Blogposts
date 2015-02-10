@@ -9,7 +9,7 @@ date: 2014-05-28
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 28, 2014 at 5:55 pm.
 
-![caption](imgs/Dusan-Barok-pic.jpg)
+![](imgs/Dusan-Barok-pic.jpg)
 
 [Monoskop](http://monoskop.org/Monoskop) (a wiki for art, culture and
 media technology).

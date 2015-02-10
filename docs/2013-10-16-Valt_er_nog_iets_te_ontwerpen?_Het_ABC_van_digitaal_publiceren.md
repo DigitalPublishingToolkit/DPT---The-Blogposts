@@ -10,9 +10,9 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 October 16, 2013 at 12:12 pm.
 
-![caption](imgs/flyer_a5_final_web-02.jpg)
+![](imgs/flyer_a5_final_web-02.jpg)
 
-![caption](imgs/flyer_a5_final_web-01.jpg)
+![](imgs/flyer_a5_final_web-01.jpg)
 
 **Het lectoraat voor Netwerkcultuur presenteert het ABC van digitaal
 publiceren op donderdag 28 november 2013 van 09.30 tot 12.30 in het

@@ -24,7 +24,7 @@ Circle](http://eu.art.com/asp/landing/artcircles/default.asp) – an
 impressive application that brings entire art collections to readers via
 beautiful visuals, sound and interactivity – support this ideal.
 
-![caption](imgs/Florian-Cramer.jpg)
+![](imgs/Florian-Cramer.jpg)
 
 *photo credits: Martin Risseeuw*
 

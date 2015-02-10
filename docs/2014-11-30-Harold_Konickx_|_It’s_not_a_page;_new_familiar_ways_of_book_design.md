@@ -52,7 +52,7 @@ tactile experience.
 
 
 
-![caption](imgs/15896641321_a4a911d2b5_o.jpg)
+![](imgs/15896641321_a4a911d2b5_o.jpg)
 Harold Konickx takes us through Alberto Manguel
 
 
@@ -72,7 +72,7 @@ pedestal.
 
 
 
-![caption](imgs/15898638565_6f3d80237f_o.jpg)
+![](imgs/15898638565_6f3d80237f_o.jpg)
 Skeuomorphism on iBooks
 
 

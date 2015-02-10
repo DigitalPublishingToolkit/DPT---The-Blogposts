@@ -10,13 +10,13 @@ By [Michael
 Murtaugh](http://networkcultures.org/digitalpublishing/author/michaelmurtaugh/ "Posts by Michael Murtaugh"),
 October 13, 2014 at 9:00 am.
 
-![caption](imgs/trailer-In_Praise_of_Folly__Illustrated_with_Many_Curious_Cuts.gif)
+![](imgs/trailer-In_Praise_of_Folly__Illustrated_with_Many_Curious_Cuts.gif)
 
-![caption](imgs/trailer-Gullivers_Travels__Into_Several_Remote_Regions_of_the_World.gif)
+![](imgs/trailer-Gullivers_Travels__Into_Several_Remote_Regions_of_the_World.gif)
 
-![caption](imgs/trailer-Alices-Adventures-in-Wonderland.gif)
+![](imgs/trailer-Alices-Adventures-in-Wonderland.gif)
 
-![caption](imgs/trailer-Flatland_A_Romance_of_Many_Dimensions_Illustrated.gif)
+![](imgs/trailer-Flatland_A_Romance_of_Many_Dimensions_Illustrated.gif)
 
 Results from the
 [epubtrailer.py](https://github.com/DigitalPublishingToolkit/epubtrailer.py)

@@ -10,9 +10,9 @@ By [Silvio
 Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
 October 8, 2014 at 5:37 pm.
 
-![caption](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
+![](imgs/Screen-Shot-2014-10-08-at-17.29.26.png)
 
-![caption](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
+![](imgs/Screen-Shot-2014-10-08-at-17.02.19.png)
 
 As part of the hybrid workflow for the Institute of Network Cultures
 developed by the INC subgroup, I started a collaboration with Italian

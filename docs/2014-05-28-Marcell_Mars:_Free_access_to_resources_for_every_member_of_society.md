@@ -9,7 +9,7 @@ date: 2014-05-28
 By [irina](http://networkcultures.org/digitalpublishing/author/irina/ "Posts by irina"),
 May 28, 2014 at 1:16 pm.
 
-![caption](imgs/Marcell-Mars-photo.jpg)
+![](imgs/Marcell-Mars-photo.jpg)
 
 The final session of the “Off the Press: Electronic Publishing in Arts”
 conference approached another side of the e-publishing field, namely
