@@ -27,8 +27,7 @@ This publication is licensed under Creative Commons Attribution NonCommercial Sh
  
 Amsterdam, February 2015
 
-
-<!-- LOGOS ??? -->
+<div class="logos">
 [![Hogeschool van Amsterdam](imgs/logos_partners/logo_partner_HvA.png)](http://hva.nl) 
 [![Medamo](imgs/logos_partners/logo_partner_medamo.png)](http://www.medamo.nl/) 
 [![creating010](imgs/logos_partners/logo_partner_Creating010.png)](http://creating010.hr.nl) 
@@ -45,3 +44,4 @@ Amsterdam, February 2015
 [![PUNTPIXEL](imgs/logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/) 
 [![Regieorgaan Praktijkgericht Onderzoek SIA](imgs/logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/) 
 [![Mr. Sauli](imgs/logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/) 
+</div>

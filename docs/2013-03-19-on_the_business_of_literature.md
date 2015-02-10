@@ -4,7 +4,7 @@ author: sauli
 date: 2013-03-19
 ...
 
-# on the business of literature {.entry-title .single-title itemprop="headline"}
+# On the business of literature {.entry-title .single-title itemprop="headline"}
 
 By [sauli](http://networkcultures.org/digitalpublishing/author/sauli-2/ "Posts by sauli"),
 March 19, 2013 at 3:27 pm.

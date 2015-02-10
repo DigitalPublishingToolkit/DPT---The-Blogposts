@@ -23,23 +23,8 @@ The platforms for which publications may be developed will be introduced
 and contextualised in brief, and a preliminary advice for choosing
 publication formats is issued.
 
-**CONTENT**[JARGON](#5d6s91ntioq7)[PLATFORMS](#Platforms)
 
-[Personal Computer
-(PC)](#7r2fouir5lvf)[Tablet](#l6tacdlw75co)[Smartphones](#tpb8qz7jcs94)[eReaders](#3q2ispek9io8)
-
-[FORMATS](#cjpclzljebw)
-
-[EPUB](#3ip4u83tw8vp) – [Advantages](#367iiwuwf48a) /
-[Disadvantages](#93li3idq4bpx)[HPub](#yod1xa3m18aj) –
-[Advantages](#Advantages) / [Disadvantages](#dfandkn6fm2c)[Which
-format?](#cktdv2veofhr)
-
-
-
-# 
-
-# JARGON
+## Jargon
 
 Using a fixed set of terms is important in this phase of the project.
 Terms like *platform, framework,* etc.
@@ -48,14 +33,11 @@ Terms like *platform, framework,* etc.
 read, and used. This includes eReaders, tablets, smartphones and
 personal computers. See: Platforms
 
-**Format:**Formats
-
 **Documentation:** Within the context of the RAAK-MKB project “Digital
 Publishing Toolkit” documentation of the development of the digital
 publication is an essential factor besides building a framework;
 together these two form the proposed toolkit.
 
-**Framework:**
 
 **Toolkit:** According to us, the proposed toolkit within the project
 “Digital publishing Toolkit” consists of two components: documentation
@@ -64,14 +46,14 @@ to third parties.
 
 
 
-# PLATFORMS
+## Platforms
 
 One of the biggest challenges is the amount of extant platforms, each
 with their own limitations. The platforms discussed below are in order
 of openness, starting with the ones allowing most freedom, descending to
 the more closed options.
 
-## Personal Computer (PC)
+### Personal Computer (PC)
 
 The PC (desktop as well as notebooks) allows for the most freedom. One
 has access to a web browser and the possibility to install a great range
@@ -121,7 +103,7 @@ Online](http://www.safaribooksonline.com)).
 
 
 
-## Tablet
+### Tablet
 
 The tablet-market is dominated by a few big players. As is the case with
 the telephone market, there are roughly two main players with their
@@ -185,11 +167,8 @@ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&f
 and [Cool
 Reader](https://play.google.com/store/apps/details?id=org.coolreader&feature=related_apps#?t=W251bGwsMSwxLDEwOSwib3JnLmNvb2xyZWFkZXIiXQ..).
 
-## 
 
-
-
-## Smartphones
+### Smartphones
 
 The situation of smartphones is largely identical to that of tablets.
 However, the market is focussed (heavily) on Android ((
@@ -204,7 +183,7 @@ true for the web-based platforms.
 
 
 
-## eReaders
+### eReaders
 
 eReaders became widely known by the introduction of [Amazon
 Kindle](http://en.wikipedia.org/wiki/Amazon_Kindle) in 2007. eReaders
@@ -256,7 +235,7 @@ eReader.
 
 
 
-# FORMATS
+## Formats
 
 A wide range of document formats to distribute digital publications
 exists. Though the question is if these formats are suitable in relation
@@ -286,7 +265,7 @@ the best solutions.
 
 
 
-## EPUB
+### EPUB
 
 The EPUB standard was introduced in 2007 and is now at version 3.0. The
 latest update to the standard was in 2011. EPUB itself is based on the
@@ -323,7 +302,7 @@ various EPUB readers.
 
 
 
-### Advantages
+#### Advantages
 
 -   Wide support of the document format;
 -   Document format is based on a standard with a long lifespan;
@@ -331,7 +310,7 @@ various EPUB readers.
 
 
 
-### Disadvantages
+#### Disadvantages
 
 -   Limited support of the standard by many eReaders, either on the
     basis of technical limitations (monochromatic screen, safety
@@ -345,7 +324,7 @@ various EPUB readers.
 
 
 
-## HPub
+### HPub
 
 HPub is not a standard with a central controlling authority, as is the
 case with IDPF and EPUB. An HPub is, just like EPUB, a compressed
@@ -373,7 +352,7 @@ a strongly visually oriented publication.
 
 
 
-### Advantages
+#### Advantages
 
 -   Complete freedom in defining the publication structure;
 -   All technical possibilities of the web are available;
@@ -383,7 +362,7 @@ a strongly visually oriented publication.
 
 
 
-### Disadvantages
+#### Disadvantages
 
 -   Not an official standard;
 -   Maintenance and costs of the viewer application;
@@ -391,7 +370,7 @@ a strongly visually oriented publication.
 -   Only available for two platforms;
 -   No support by eReaders.
 
-## MOBI/AZW/AZW3 (KF8)
+### MOBI/AZW/AZW3 (KF8)
 
 AZW, a third, closed format is more like a collection of formats,
 distributed by Amazon for its Kindle eReaders. Initially digital

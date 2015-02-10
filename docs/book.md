@@ -27,8 +27,7 @@ This publication is licensed under Creative Commons Attribution NonCommercial Sh
  
 Amsterdam, February 2015
 
-
-<!-- LOGOS ??? -->
+<div class="logos">
 [![Hogeschool van Amsterdam](imgs/logos_partners/logo_partner_HvA.png)](http://hva.nl) 
 [![Medamo](imgs/logos_partners/logo_partner_medamo.png)](http://www.medamo.nl/) 
 [![creating010](imgs/logos_partners/logo_partner_Creating010.png)](http://creating010.hr.nl) 
@@ -45,6 +44,7 @@ Amsterdam, February 2015
 [![PUNTPIXEL](imgs/logos_partners/logo_partner_puntpixel.png)](http://puntpixel.nl/) 
 [![Regieorgaan Praktijkgericht Onderzoek SIA](imgs/logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/) 
 [![Mr. Sauli](imgs/logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/) 
+</div>
 
 # Introduction
 
@@ -1696,7 +1696,12 @@ Contents.
 
 **Archival file**
 
+After processing corrections in the HTML file for the EPUB, this can be exported to Markdown, to keep as an archival file. Take note: on other occasions – for example when only producing a print edition or when the ebook is made in a later stage – it may be necessary to also process corrections in the Markdown file. This file can then be archived or used later on to produce the EPUB. In that case, processing these corrections can be done by the editor.
+
 **Communicating corrections**
+
+Traditionally the editor or corrector makes corrections on a print of the designed PDF file, as shown above, which is then processed by the designer. This procedure is still followed in a hybrid workflow ending in a print and electronic edition. Keep in mind that in the electronic files the specific locations of corrections can’t be communicated through page numbers, but by their relative place (chapter, paragraph).
+
 
 
 
@@ -1742,53 +1747,115 @@ publications, visit
 
 —
 
-**Language style**
+
+**Language style**:
 
 **Document Formatting / Layout:**
 
-*General*- Submissions should be sent preferably in .docx.
+*General*
 
-*We chose this format because of the editing and rewriting that is still
-going on in this phase. Therefore the author is not asked specifically
-to hand in a markdown file (see also the blog post about corrections
-(forthcoming)). Of course, if the author is apt at working in markdown,
-this is possible.*
+- Submissions should be sent preferably in .docx.
 
-The following points are about the formatting of the Word
-file:**Normal** style as default.**Heading 1** style, article sections
-should have **Header 2** and subsections **Header 3** style.*italics*
-where needed (references, emphasis on single words).
+- Use only one clean and clear font, the same throughout.
 
-*The URLs will be made clickable in a later stadium so they function
-correctly in the PDF and EPUB. URLs in the footnotes however should be
-clickable.*
+- The whole text should have **Normal** style as default.
 
-*Footnotes and referencing*- All references should be auto-inserted
-footnotes (in other words, no in text references that use
-parentheses/brackets). For example, *not:* Off the Press discusses the
-question of digital publishing (Lorusso, 2013). *But*: Off the Press
-discusses the question of digital publishing. All
-references should also be collected into a Reference list at the end of
-the article. Please do not use an automated reference list, or disable
-the macro after you finish making it this way.[…]
+- The title and author should have **Heading 1** style, article sections
+should have **Header 2** and subsections **Header 3** style.
 
-*QuotationsBlockquotes will be marked with \> in markdown and should be
-highly visible in the original document, so the conversion can be
-checked easily*[…]
+- Use single spacing between lines.
 
-**Images:**- Authors must have copyright to the images, or permission to
-use them.
+- Text should be aligned on the left.
 
-**Word Choice:**Does not apply 
+- Do not use tabs for paragraph breaks at any time but a white space
+between paragraphs.
 
-**Footnote and End
-References:**Does not apply
+- Add *italics* where needed (references, emphasis on single words).
+
+- Do not use underlining at any time.
+
+- URLs in the body text should not be clickable.
+
+- All headings and subtitles are capitalized. Capitalize the first word
+of the title, the last word of the title, and all nouns, pronouns,
+verbs, adverbs, adjectives. Do not capitalize prepositions or
+conjunctions unless contain more than 4 letters. For example: Social
+Media Monopolies and Their Alternatives.
+
+- Italicize (no quotation marks) proper names such as films, books,
+television series, works of art, etc. Song titles, for example, are
+placed between single quotation marks, while album titles are
+italicized.
+
+- Use the serial comma.
+
+*Footnotes and referencing*
+
+- All references should be auto-inserted footnotes (in other words, no
+in text references that use parentheses/brackets). For example, *not:*
+Off the Press discusses the question of digital publishing (Lorusso,
+2013). *But*: Off the Press discusses the question of digital
+publishing.
+
+- All references should also be collected into a Reference list at the
+end of the article.
+
+- Always put a period at the end of a footnote, even if it just a URL
+(make sure the URL still works).
+
+- Footnote numbers comes after comma/period; this is also the case if
+the comma/period follows a quotation mark. I.e.: ‘an alternative
+network’.
+
+- URLs in footnotes should be clickable.
+
+- In the footnotes and in the reference list full URLs should be
+clickable but not stylized as links (no color or underlining).
+
+- Make sure all references that appear in footnotes also appear in the
+reference list at the end of the text.
+
+- Dates in footnotes should be 19 November 2010 (not November 19, 2010).
+
+- For specific formatting of footnotes and reference list, see further
+on in this style guide.
+
+*Quotations*
+
+- For quotations longer than four lines use blockquote. Don’t use
+quotation marks around a block quote. When needed, use double quotations
+marks inside a block quote.
+
+- Commas and full stops should be placed after the quotation mark, if
+they’re not part of the quotation.
+
+- All quotations should use single quotation marks except in instances
+of a quote inside a quote (in such cases use double quotation marks
+inside single quotation marks).
+
+- If ellipsis are used in a quotation because the article’s author has
+removed or altered text, for example for the sentence to read
+grammatically correctly, be sure to put square brackets […] or [has]
+around the ellipsis to indicate this notation is made by the author.
 
 
+**Images:**
 
+- Authors must have copyright to the images, or permission to use them.
 
+- Images can be in full colour or black and white (note that the print
+edition will be black and white).
 
+- Images should be included in the text file at the right position as 72
+dpi jpeg and, at the same time, sent separately as 300 dpi tiff
+(suitable for for print).
 
+- Files must be properly named and numbered in the following format:
+\<Author\_image1.tiff\> / \<Author\_image1.jpg\>
+
+- Include captions below the images. Start with ‘Fig. 1.’ etc. Do not
+put image and caption in a table, but write the caption as a normal
+sentence under the picture.
 
 
 
@@ -4094,18 +4161,10 @@ By [margreet
 riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
 May 28, 2014 at 12:12 pm.
 
-During the conference OFF THE PRESS: ELECTRONIC PUBLISHING IN THE ARTS,
+During the conference **Off The Press: Electronic Publishing In The Arts**,
 a comprehensive conference report has been written by Arie Altena.
 
-The full report can be downloaded here:
-
-![](imgs/inc_icon_issuu_@2x.png)
-
-![](imgs/inc_icon_pdf_@2x.png)
-
- 
-
-Or read online: [part
+The full report can be Or read online: [part
 1](http://networkcultures.org/digitalpublishing/2014/05/off-the-press-report-i/)
 and [part
 2](http://networkcultures.org/digitalpublishing/2014/05/off-the-press-report-day-ii/).
@@ -7169,7 +7228,7 @@ publishing will be present during this Bazaar to showcase their projects
 in an informal way, looking forward to meeting visitors for
 acquaintance, discussion, and exchange of ideas.
 
-#Biographies
+## Biographies
 
 ## Dušan Barok (SK)
 
@@ -9079,7 +9138,7 @@ productieketen van uitgever tot vormgever?
 
 
 
-# PROGRAMMA
+## PROGRAMMA
 
 **Moderator: Geert Lovink**
 
@@ -10687,9 +10746,9 @@ levels.
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 September 3, 2013 at 2:59 pm.
 
-\*\*CONTEC is a new, highly-engaging event experience created by the
+CONTEC is a new, highly-engaging event experience created by the
 Frankfurt Academy to address the complexity of the needs of today’s
-publishing business. \*\*8th of October, Frankfurt \*\*\*\*
+publishing business. 8th of October, Frankfurt.
 
 
 
@@ -11045,7 +11104,7 @@ The test document chosen is in .doc format and it contains:
 -   Hyperlinks;
 -   Images.
 
-# First Method: Textutil (Mac only) + Pandoc
+## First Method: Textutil (Mac only) + Pandoc
 
 The first method employs the command line tool **textutil** (only
 available on Mac), to convert the document to HTML, and the command line
@@ -11077,7 +11136,7 @@ Resulting Markdown as rendered by Mou
 -   There is formatting for hyperlinks, but is not compatible with
     Markdown.
 
-# Second Method: LibreOffice (4.0.4.2) + Pandoc
+## Second Method: LibreOffice (4.0.4.2) + Pandoc
 
 The second methods consists in exporting the .doc to XHTML via
 LibreOffice and then…
@@ -11112,7 +11171,7 @@ Pandoc:`pandoc file.html -f html -t markdown -o file.md`
 -   There is formatting for hyperlinks, but is not compatible with
     Markdown.
 
-# Conclusions
+## Conclusions
 
 The first method, Textutil (Mac only) + Pandoc, seems to be more
 convenient time-wise. However it is still necessary to add images,
@@ -11234,9 +11293,9 @@ Ted talk by Mike Matas: A next-generation digital book.
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 July 2, 2013 at 12:01 pm.
 
-# 
+![](imgs/9781442685369.cover.jpg)
 
-> ![](imgs/9781442685369.cover.jpg)Mak’s book, “How the Page Matters,”
+> Mak’s book, “How the Page Matters,”
 > historicizes recent debates about eBooks and similar technologies by
 > casting the page as an interface that has been under development since
 > the scrolls of Antiquity. “How the Page Matters” tracks the page
@@ -11256,7 +11315,7 @@ Matters](http://www.lis.illinois.edu/research/projects/how-page-matters)
 
 
 
-# DIGITAL PUBLISHING TOOLKIT {.entry-title .single-title itemprop="headline"}
+# Digital Publishing Toolkit {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 June 27, 2013 at 4:19 pm.
@@ -11453,23 +11512,8 @@ The platforms for which publications may be developed will be introduced
 and contextualised in brief, and a preliminary advice for choosing
 publication formats is issued.
 
-**CONTENT**[JARGON](#5d6s91ntioq7)[PLATFORMS](#Platforms)
 
-[Personal Computer
-(PC)](#7r2fouir5lvf)[Tablet](#l6tacdlw75co)[Smartphones](#tpb8qz7jcs94)[eReaders](#3q2ispek9io8)
-
-[FORMATS](#cjpclzljebw)
-
-[EPUB](#3ip4u83tw8vp) – [Advantages](#367iiwuwf48a) /
-[Disadvantages](#93li3idq4bpx)[HPub](#yod1xa3m18aj) –
-[Advantages](#Advantages) / [Disadvantages](#dfandkn6fm2c)[Which
-format?](#cktdv2veofhr)
-
-
-
-# 
-
-# JARGON
+## Jargon
 
 Using a fixed set of terms is important in this phase of the project.
 Terms like *platform, framework,* etc.
@@ -11478,14 +11522,11 @@ Terms like *platform, framework,* etc.
 read, and used. This includes eReaders, tablets, smartphones and
 personal computers. See: Platforms
 
-**Format:**Formats
-
 **Documentation:** Within the context of the RAAK-MKB project “Digital
 Publishing Toolkit” documentation of the development of the digital
 publication is an essential factor besides building a framework;
 together these two form the proposed toolkit.
 
-**Framework:**
 
 **Toolkit:** According to us, the proposed toolkit within the project
 “Digital publishing Toolkit” consists of two components: documentation
@@ -11494,14 +11535,14 @@ to third parties.
 
 
 
-# PLATFORMS
+## Platforms
 
 One of the biggest challenges is the amount of extant platforms, each
 with their own limitations. The platforms discussed below are in order
 of openness, starting with the ones allowing most freedom, descending to
 the more closed options.
 
-## Personal Computer (PC)
+### Personal Computer (PC)
 
 The PC (desktop as well as notebooks) allows for the most freedom. One
 has access to a web browser and the possibility to install a great range
@@ -11551,7 +11592,7 @@ Online](http://www.safaribooksonline.com)).
 
 
 
-## Tablet
+### Tablet
 
 The tablet-market is dominated by a few big players. As is the case with
 the telephone market, there are roughly two main players with their
@@ -11615,11 +11656,8 @@ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&f
 and [Cool
 Reader](https://play.google.com/store/apps/details?id=org.coolreader&feature=related_apps#?t=W251bGwsMSwxLDEwOSwib3JnLmNvb2xyZWFkZXIiXQ..).
 
-## 
 
-
-
-## Smartphones
+### Smartphones
 
 The situation of smartphones is largely identical to that of tablets.
 However, the market is focussed (heavily) on Android ((
@@ -11634,7 +11672,7 @@ true for the web-based platforms.
 
 
 
-## eReaders
+### eReaders
 
 eReaders became widely known by the introduction of [Amazon
 Kindle](http://en.wikipedia.org/wiki/Amazon_Kindle) in 2007. eReaders
@@ -11686,7 +11724,7 @@ eReader.
 
 
 
-# FORMATS
+## Formats
 
 A wide range of document formats to distribute digital publications
 exists. Though the question is if these formats are suitable in relation
@@ -11716,7 +11754,7 @@ the best solutions.
 
 
 
-## EPUB
+### EPUB
 
 The EPUB standard was introduced in 2007 and is now at version 3.0. The
 latest update to the standard was in 2011. EPUB itself is based on the
@@ -11753,7 +11791,7 @@ various EPUB readers.
 
 
 
-### Advantages
+#### Advantages
 
 -   Wide support of the document format;
 -   Document format is based on a standard with a long lifespan;
@@ -11761,7 +11799,7 @@ various EPUB readers.
 
 
 
-### Disadvantages
+#### Disadvantages
 
 -   Limited support of the standard by many eReaders, either on the
     basis of technical limitations (monochromatic screen, safety
@@ -11775,7 +11813,7 @@ various EPUB readers.
 
 
 
-## HPub
+### HPub
 
 HPub is not a standard with a central controlling authority, as is the
 case with IDPF and EPUB. An HPub is, just like EPUB, a compressed
@@ -11803,7 +11841,7 @@ a strongly visually oriented publication.
 
 
 
-### Advantages
+#### Advantages
 
 -   Complete freedom in defining the publication structure;
 -   All technical possibilities of the web are available;
@@ -11813,7 +11851,7 @@ a strongly visually oriented publication.
 
 
 
-### Disadvantages
+#### Disadvantages
 
 -   Not an official standard;
 -   Maintenance and costs of the viewer application;
@@ -11821,7 +11859,7 @@ a strongly visually oriented publication.
 -   Only available for two platforms;
 -   No support by eReaders.
 
-## MOBI/AZW/AZW3 (KF8)
+### MOBI/AZW/AZW3 (KF8)
 
 AZW, a third, closed format is more like a collection of formats,
 distributed by Amazon for its Kindle eReaders. Initially digital
@@ -12675,15 +12713,15 @@ file size, metadata, layout.
 
 
 
-## [1: Premises
+## [1: Premises](#toc-1-1)
 
-### [1.1: Legend
+### [1.1: Legend](#toc-1-1)
 
 -   Software Command
 -   Shortcut
 -   Code Snippet
 
-### [1.2: Wait, weren’t we supposed to use open source tools?
+### [1.2: Wait, weren’t we supposed to use open source tools?](#toc-1-1)
 
 We all love opes source, but in some cases a pragmatic approach it’s
 needed: a perspective that takes into account the actual workflow
@@ -12695,7 +12733,7 @@ Developing an EPUB through InDesign could be considered a transitional
 process, in doing so the designer will anyway acquire a know-how that
 could be invested in open source tools and procedures.
 
-### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…
+### [1.3: So you’re saying that obtaining EPUB from Indesign is not necessarily the best practice…](#toc-1-1)
 
 Exactly, it really depends on the context. This procedure could be
 useful whether:
@@ -14414,7 +14452,7 @@ March 19, 2013 at 2:04 pm.
 
 
 
-# on the business of literature {.entry-title .single-title itemprop="headline"}
+# On the business of literature {.entry-title .single-title itemprop="headline"}
 
 By [sauli](http://networkcultures.org/digitalpublishing/author/sauli-2/ "Posts by sauli"),
 March 19, 2013 at 3:27 pm.

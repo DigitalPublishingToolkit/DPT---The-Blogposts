@@ -1,11 +1,10 @@
-# Generic Makefile
+# Makefile for blog posts
 #allmarkdown=$(shell ls docs/*.md)
 #$(filter-out docs/book.md, $(wildcard docs/*.md))
 
 
-x: 
-	ls docs/*.md 
-
+book.md:
+	./scripts/assemble_book_md.sh 
 
 
 book.epub: docs/book.md epub/metadata.xml epub/styles.epub.css epub/cover.png

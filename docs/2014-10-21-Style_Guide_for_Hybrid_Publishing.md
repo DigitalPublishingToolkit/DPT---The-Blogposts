@@ -46,50 +46,112 @@ publications, visit
 
 —
 
-**Language style**
+
+**Language style**:
 
 **Document Formatting / Layout:**
 
-*General*- Submissions should be sent preferably in .docx.
+*General*
 
-*We chose this format because of the editing and rewriting that is still
-going on in this phase. Therefore the author is not asked specifically
-to hand in a markdown file (see also the blog post about corrections
-(forthcoming)). Of course, if the author is apt at working in markdown,
-this is possible.*
+- Submissions should be sent preferably in .docx.
 
-The following points are about the formatting of the Word
-file:**Normal** style as default.**Heading 1** style, article sections
-should have **Header 2** and subsections **Header 3** style.*italics*
-where needed (references, emphasis on single words).
+- Use only one clean and clear font, the same throughout.
 
-*The URLs will be made clickable in a later stadium so they function
-correctly in the PDF and EPUB. URLs in the footnotes however should be
-clickable.*
+- The whole text should have **Normal** style as default.
 
-*Footnotes and referencing*- All references should be auto-inserted
-footnotes (in other words, no in text references that use
-parentheses/brackets). For example, *not:* Off the Press discusses the
-question of digital publishing (Lorusso, 2013). *But*: Off the Press
-discusses the question of digital publishing. All
-references should also be collected into a Reference list at the end of
-the article. Please do not use an automated reference list, or disable
-the macro after you finish making it this way.[…]
+- The title and author should have **Heading 1** style, article sections
+should have **Header 2** and subsections **Header 3** style.
 
-*QuotationsBlockquotes will be marked with \> in markdown and should be
-highly visible in the original document, so the conversion can be
-checked easily*[…]
+- Use single spacing between lines.
 
-**Images:**- Authors must have copyright to the images, or permission to
-use them.
+- Text should be aligned on the left.
 
-**Word Choice:**Does not apply 
+- Do not use tabs for paragraph breaks at any time but a white space
+between paragraphs.
 
-**Footnote and End
-References:**Does not apply
+- Add *italics* where needed (references, emphasis on single words).
+
+- Do not use underlining at any time.
+
+- URLs in the body text should not be clickable.
+
+- All headings and subtitles are capitalized. Capitalize the first word
+of the title, the last word of the title, and all nouns, pronouns,
+verbs, adverbs, adjectives. Do not capitalize prepositions or
+conjunctions unless contain more than 4 letters. For example: Social
+Media Monopolies and Their Alternatives.
+
+- Italicize (no quotation marks) proper names such as films, books,
+television series, works of art, etc. Song titles, for example, are
+placed between single quotation marks, while album titles are
+italicized.
+
+- Use the serial comma.
+
+*Footnotes and referencing*
+
+- All references should be auto-inserted footnotes (in other words, no
+in text references that use parentheses/brackets). For example, *not:*
+Off the Press discusses the question of digital publishing (Lorusso,
+2013). *But*: Off the Press discusses the question of digital
+publishing.
+
+- All references should also be collected into a Reference list at the
+end of the article.
+
+- Always put a period at the end of a footnote, even if it just a URL
+(make sure the URL still works).
+
+- Footnote numbers comes after comma/period; this is also the case if
+the comma/period follows a quotation mark. I.e.: ‘an alternative
+network’.
+
+- URLs in footnotes should be clickable.
+
+- In the footnotes and in the reference list full URLs should be
+clickable but not stylized as links (no color or underlining).
+
+- Make sure all references that appear in footnotes also appear in the
+reference list at the end of the text.
+
+- Dates in footnotes should be 19 November 2010 (not November 19, 2010).
+
+- For specific formatting of footnotes and reference list, see further
+on in this style guide.
+
+*Quotations*
+
+- For quotations longer than four lines use blockquote. Don’t use
+quotation marks around a block quote. When needed, use double quotations
+marks inside a block quote.
+
+- Commas and full stops should be placed after the quotation mark, if
+they’re not part of the quotation.
+
+- All quotations should use single quotation marks except in instances
+of a quote inside a quote (in such cases use double quotation marks
+inside single quotation marks).
+
+- If ellipsis are used in a quotation because the article’s author has
+removed or altered text, for example for the sentence to read
+grammatically correctly, be sure to put square brackets […] or [has]
+around the ellipsis to indicate this notation is made by the author.
 
 
+**Images:**
 
+- Authors must have copyright to the images, or permission to use them.
 
+- Images can be in full colour or black and white (note that the print
+edition will be black and white).
 
+- Images should be included in the text file at the right position as 72
+dpi jpeg and, at the same time, sent separately as 300 dpi tiff
+(suitable for for print).
 
+- Files must be properly named and numbered in the following format:
+\<Author\_image1.tiff\> / \<Author\_image1.jpg\>
+
+- Include captions below the images. Start with ‘Fig. 1.’ etc. Do not
+put image and caption in a table, but write the caption as a normal
+sentence under the picture.

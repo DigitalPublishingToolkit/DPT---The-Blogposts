@@ -31,7 +31,7 @@ The test document chosen is in .doc format and it contains:
 -   Hyperlinks;
 -   Images.
 
-# First Method: Textutil (Mac only) + Pandoc
+## First Method: Textutil (Mac only) + Pandoc
 
 The first method employs the command line tool **textutil** (only
 available on Mac), to convert the document to HTML, and the command line
@@ -63,7 +63,7 @@ Resulting Markdown as rendered by Mou
 -   There is formatting for hyperlinks, but is not compatible with
     Markdown.
 
-# Second Method: LibreOffice (4.0.4.2) + Pandoc
+## Second Method: LibreOffice (4.0.4.2) + Pandoc
 
 The second methods consists in exporting the .doc to XHTML via
 LibreOffice and then…
@@ -98,7 +98,7 @@ Pandoc:`pandoc file.html -f html -t markdown -o file.md`
 -   There is formatting for hyperlinks, but is not compatible with
     Markdown.
 
-# Conclusions
+## Conclusions
 
 The first method, Textutil (Mac only) + Pandoc, seems to be more
 convenient time-wise. However it is still necessary to add images,

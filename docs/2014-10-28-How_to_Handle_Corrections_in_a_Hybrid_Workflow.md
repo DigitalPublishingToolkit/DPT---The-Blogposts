@@ -72,4 +72,9 @@ Contents.
 
 **Archival file**
 
+After processing corrections in the HTML file for the EPUB, this can be exported to Markdown, to keep as an archival file. Take note: on other occasions – for example when only producing a print edition or when the ebook is made in a later stage – it may be necessary to also process corrections in the Markdown file. This file can then be archived or used later on to produce the EPUB. In that case, processing these corrections can be done by the editor.
+
 **Communicating corrections**
+
+Traditionally the editor or corrector makes corrections on a print of the designed PDF file, as shown above, which is then processed by the designer. This procedure is still followed in a hybrid workflow ending in a print and electronic edition. Keep in mind that in the electronic files the specific locations of corrections can’t be communicated through page numbers, but by their relative place (chapter, paragraph).
+

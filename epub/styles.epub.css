@@ -1,0 +1,243 @@
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+@font-face {
+    font-family: 'Ubuntu Mono Bold';
+    src: url('UbuntuMono-B.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Bold.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-BoldItalic.ttf');
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    margin: 2em;
+    font-size: 12pt;
+    font-weight: 400;
+    line-height: 16pt;
+}
+
+p {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    hyphenate-after: 3;
+    hyphenate-before: 3;
+    hyphenate-lines: 2;
+    -webkit-hyphenate-after: 3;
+    -webkit-hyphenate-before: 3;
+    -webkit-hyphenate-lines: 2;
+    orphans: 2;
+    widows: 2;
+    font-size:1em; 
+}
+
+b,strong {
+    font-size:1em; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu Mono Bold', monospace;
+    font-weight: 300;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    margin: 0;
+}
+
+h1 {
+    font-size: 2em;
+    line-height: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-top: 3px solid #0F0;
+    padding-top: 10px;
+}
+
+
+h2 {
+    font-size: 1.9em;
+    line-height: 1.0em;
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height:1.0em;
+    margin-top: 1.2em;
+    margin-bottom: 18pt;
+}
+
+
+h4 {
+    font-size: 1.3em;
+    line-height: 1.0em;
+    margin-bottom: -0.5em;
+}
+
+h5 {
+    font-size: 1.2em;
+    line-height: 1.0em;
+    margin-bottom: -0.8em;
+}
+
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #0F0;
+    text-decoration: underline;
+}
+
+hr {
+    border-width: 0;
+    height: 0;
+    border-top-width: 1px;
+    border-style: solid;
+    border-color: #333;
+    margin: 15px 0;
+}
+
+sup {
+    vertical-align: super;
+    font-size: 0.5em;
+    line-height: 0.5em;
+}
+
+sub {
+    vertical-align: sub;
+    font-size: 0.5em;
+    line-height: 0.5em;
+}
+
+.footnotes {
+    font-size: 0.8em;
+}
+
+.footnotes li p a:last-child {
+    font-size: 0.6em;
+    line-height: 0.6em;
+    margin-left: 5px;
+}
+
+ul, ol, dl {
+    margin: 1em 0 1em 0;
+    text-align: left;
+}
+
+li {
+    orphans: 2;
+    widows: 2;
+    margin: 0;
+}
+
+li p {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+
+img.bloglink{
+    margin-top:5px;
+    border: 1px solid transparent;
+}
+
+img.bloglink:hover {
+    border: solid #0F0 1px;
+}
+
+figure{
+    margin-left:0px;
+}
+
+div.fig{
+    width:100%;
+}
+
+
+div#cover-image{
+    text-align:center;
+}
+
+div.end{
+    text-align:center;
+    page-break-before: always;
+    page-break-after: always;   
+    -webkit-column-break-after: always;
+    -webkit-column-break-after: always;
+
+}
+
+img.end{
+    margin-top:100px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-bottom: 1em;
+}
+
+a.footnoteRef {
+vertical-align: super;
+line-height: normal;
+font-size: 0.5em;
+}
+
+div.logos img{
+    display: inline;
+}

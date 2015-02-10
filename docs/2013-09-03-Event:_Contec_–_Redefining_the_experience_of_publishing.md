@@ -9,9 +9,9 @@ date: 2013-09-03
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 September 3, 2013 at 2:59 pm.
 
-\*\*CONTEC is a new, highly-engaging event experience created by the
+CONTEC is a new, highly-engaging event experience created by the
 Frankfurt Academy to address the complexity of the needs of today’s
-publishing business. \*\*8th of October, Frankfurt \*\*\*\*
+publishing business. 8th of October, Frankfurt.
 
 
 

@@ -633,7 +633,7 @@ publishing will be present during this Bazaar to showcase their projects
 in an informal way, looking forward to meeting visitors for
 acquaintance, discussion, and exchange of ideas.
 
-#Biographies
+## Biographies
 
 ## Dušan Barok (SK)
 
