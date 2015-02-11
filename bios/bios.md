@@ -8,6 +8,10 @@ He writes about art, culture, the Internet, and literature for various magazines
 ## Marc de Bruijn {class="Marc de Bruijn"}
 Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being PUNTPIXEL, like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
 
+## Becky Cachia {class="backy cachia"]
+Blogger during the conference *Off the Press*, 22 & 23 May, 2014
+
+
 ## Andre Castro {class="Andre Castro"}
 André Castro is a media artist, with a background in sound art and experimental music. His recent practice explores stragies for digital and hybrid publication and offline digital libraries ([bibliotecha.info](http://bibliotecha.info/)). Recenly he began teaching in the Master’s programme of Media Design and Communication at the Piet Zwart Institute, and in Willem de Kooning Academy's Publication Station, both in Rotterdam. [pinknoi.so](http://pinknoi.so/)
 
@@ -41,6 +45,12 @@ Miriam Rasch started working as a publication manager at the [Institute of Netwo
 
 ## Margreet Riphagen {class="margreet riphagen"}
 Margreet Riphagen started working at the [Institute of Network Cultures](http://networkcultures.org/) (INC) in March 2008 and is involved in various research projects. She holds a Master’s degree in Information Science (Human Centered Multimedia), a post-Bachelor’s degree in Business Science, and a Bachelor’s degree in Communication Management. Margreet is the Project Leader of the Digital Publishing Toolkit. Currently Margreet is the coordinator of the PublishingLab, which focuses at the intersection of publishing en digital technologies, both print and digital (hybrid publishing).
+
+
+## Rose Rowson {class="rose rowson"}
+Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
+
+
 
 ## Kimmy Spreeuwenberg {class="kimberley"}
 Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect. She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the [Institute of Network Cultures](http://networkcultures.org/), with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
