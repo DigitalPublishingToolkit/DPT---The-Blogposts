@@ -3366,21 +3366,6 @@ and multiple use, without much further ado.
 
 
 
-# Save the date, Showcases Digital Publishing Toolkit, 28th of November 2014 {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-September 22, 2014 at 6:58 pm.
-
-![](imgs/flyer_A5_final_web_back.png)
-
-![](imgs/flyer_A5_final_web_front.png)
-
-Het Instituut voor Netwerkcultuur presenteert: Het ABC van Digitaal
-Publiceren\_
-
-
-
 # INC project update: Hybrid Publishing Workflow test {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
@@ -3413,98 +3398,6 @@ and published on the blog as soon as possible.
 
 The results of this test day will be implemented, and published on the
 blog as soon as possible!
-
-
-
-# Wanted: intern with interest in e-books and digital publishing {.entry-title .single-title itemprop="headline"}
-
-By [Miriam
-Rasch](http://networkcultures.org/digitalpublishing/author/michael/ "Posts by Miriam Rasch"),
-September 4, 2014 at 2:25 pm.
-
-For the further development of its electronic publication strategy –
-combining digital and print books and other media – the Institute of
-Network Cultures is looking for an
-
-**Intern with a strong interest in digital publishing**3-6 months, 4
-days a week, starting January 2015
-
-You will be producing international publications in the field of online
-media in different formats (print, PDF, epub). A strong command of the
-English language in reading and writing is necessary, as most of the
-publications are in English. We are looking for someone with a keen
-interest or background in new media, writing & editing and/or the book
-industry. It is possible to do research for a thesis within this
-internship.
-
-The Institute of Network Cultures (INC) is a media research center that
-actively contributes to the field of network cultures through research,
-events, publications, and online dialogue. The INC was founded in 2004
-by media theorist Geert Lovink as part of the Amsterdam University of
-Applied Sciences (Hogeschool van Amsterdam). The institute acts as a
-framework sustaining several research projects, conferences, meetings,
-with a strong focus on publications. For more information see
-<http://networkcultures.org/>. For an overview of all INC publications
-go to <http://networkcultures.org/publications>.
-
-We are looking for an enthusiastic, energetic, inquisitive and precise
-(former) student with a demonstrated interest in the field of digital
-publishing and a desire to learn about books, e-books, and new media. In
-addition, you have strong writing and communication skills. Knowledge of
-WordPress, html, and social media management is a plus.
-
-**Internship duties include:**
-
-• Digitizing existing publications;
-
-The intern will be a part of a small team within a large institution.
-Other tasks within the team may include:
-
-• Attending meetings;
-
-**We offer:**
-
-• The opportunity to be part of a dedicated, informal, and inspirational
-organization with extended international networks;
-
-For further information you can contact Miriam Rasch, publications
-manager at <miriam@networkcultures.org> or +31 (0)20 5951865.
-
-Applications: if you are interested please send your resume and cover
-letter to <miriam@networkcultures.org> before November 1st 2014.
-
-
-
-# Announcement: The Post-Digital Scholar Conference {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-September 3, 2014 at 2:40 pm.
-
-Publishing between Open Access, Piracy and Public Spheres
-
-12.11. – 14.11.2014 | Lüneburg, Germany
-
-New media is dead! Long live new media! For three days, publishers,
-researchers, programmers, designers, artists, and entrepreneurs will
-discuss how research and publishing in the humanities have changed over
-the past decade. The conference will explore new tools for gathering
-knowledge, examine platforms for multimedia publishing, or collaborative
-writing experiments.
-
-Participants will focus on the interplay between pixels and print, and
-discuss open and closed modes of knowledge, in order to seek out what
-this elusive thing could be: post-digital knowledge.
-
-Please register
-[here](http://www.eventbrite.com/e/post-digital-scholar-conference-tickets-12164806263),
-participation is free of charge. This website will keep you updated and
-you can download the conference poster
-[here](http://www.eventbrite.com/e/post-digital-scholar-conference-tickets-12164806263).
-
-The Program of the “The Postdigital Scholar Conference” is chaired by:
-
-Mercedes Bunz – Head of Hybrid Publishing Lab
 
 
 
@@ -7649,56 +7542,6 @@ system.
 
 
 
-# Call for e-books, electronic publications and related projects @ Off the Press {.entry-title .single-title itemprop="headline"}
-
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-April 8, 2014 at 4:17 pm.
-
-**Off the Press – Electronic Publishing in the Arts: Call for e-books,
-electronic publications and related projects on Friday 23rd of May, from
-16.30 – 17.30**
-
-To illustrate
-the scope and potential of electronic publishing we would like to invite
-artists, designers, publishers and other practitioners in the field of
-electronic publishing to showcase their e-books, electronic publications
-and related projects in an informal setting to the public during the
-Bazaar we organize at the event Off the Press.
-
-Off the Press
-will take place on the 22nd and 23rd of May 2014 at Museum Boijmans van
-Beuningen and WORM in Rotterdam. It consists of a two-day conference
-with speakers such as Alessandro Ludovico, Elizabeth Castro, Adam Hyde,
-Badlands Unlimited and Florian Cramer, an arts & Crafts session,
-workshops, and a Bazaar with Drinks. The following questions will be
-addressed: How can arts publishers make their own e-publications and use
-the medium in a conceptually and aesthetically interesting way? How do
-new forms of digital publishing change the role of the designer? What
-change is needed in your production workflow, from manuscript to
-publication, if you want to switch to hybrid electronic and paper
-publishing?
-
-If you would
-like to showcase your work or project at the Bazaar on Friday the 23rd
-please forward your proposal (Max 1 A4, max 4 visuals, and please
-indicate what technical equipment you would need) to
-<kimmy@networkcultures.org>. The deadline for
-proposals is the 22nd of April 2014.
-
-Please note that contributions from abroad are welcomed. However, we
-cannot offer any accommodations or travel expenses.
-
-Off the Press:
-Electronic Publishing in the Arts is part of the research project
-Digital Publishing Toolkit initiated by INC. It is a network of two
-applied universities and art school research departments, four Dutch art
-and design publishers and several graphic and media design bureaus,
-which are  working on an accessible “how-to” guide for electronic
-publishing in the arts along with a collection of open source software
-tools for editing and designing electronic books.
-
-
-
 # Alle relevante data over e-books in Nederland {.entry-title .single-title itemprop="headline"}
 
 By [Miriam
@@ -7791,30 +7634,6 @@ should be added or modified in the content.opf file.
 
 
 
-# Flyers arrived! {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-March 12, 2014 at 1:12 pm.
-
-![](imgs/photo-e1394626295619.jpg)
-
-
-
-# Off the Press: Electronic Publishing in the Arts {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-March 5, 2014 at 2:35 pm.
-
-![](imgs/A5_OFF_THE_PRESS_web_flyer_back.jpg)
-
-![](imgs/A5_OFF_THE_PRESS_web_flyer_front.jpg)
-
-Institute of Network Cultures presents:
-
-
-
 # Why E-book Distribution Is Completely and Utterly Broken (and How to Fix It) {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
@@ -7859,23 +7678,6 @@ our upcoming
 ePub](http://vimeo.com/87566827) from [network
 cultures](http://vimeo.com/networkcultures) on
 [Vimeo](https://vimeo.com).
-
-
-
-# Save the Date, Digital Publishing Conference \#2 {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-February 10, 2014 at 10:27 am.
-
-In May 22nd and 23rd the second event about Digital Publishing will be
-held in Rotterdam. The conference will take part in the [Museum Boijmans
-van Beuningen](http://www.boijmans.nl/en/). And various workshops, as
-well as the artistic evening program will take part in
-[Worm](http://www.worm.org/sheets/index/organisatie).
-
-The tentative program can be found here.
-http://networkcultures.org/digitalpublishing/22-23-may-2014/
 
 
 
@@ -9111,154 +8913,6 @@ Trailer](imgs/trailer-B00B3M3X2G-EBOK.gif)
 
 
 
-# Programma: Het ABC van digitaal publiceren – bijeenkomst 28 november {.entry-title .single-title itemprop="headline"}
-
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-November 5, 2013 at 4:58 pm.
-
-## Valt er nog iets te ontwerpen? Het ABC van digitaal publiceren\_
-
--   **Wat:** Bijeenkomst over e-publiceren over de kunst en cultuur
-    sector
--   **Wanneer:** 28 november 2013 / 09.30 – 12.30 uur
--   **Waar:** Hogeschool van Amsterdam, Kohnstammzaal, Wibautstraat 2-4,
-    Amsterdam
-
-Het Instituut voor Netwerkcultuur nodigt u van harte uit om op 28
-november van 9.30 – 12.30 deel te nemen aan de bijeenkomst over
-e-publiceren voor de kunst- en cultuursector die in het kader van het
-RAAK onderzoeksproject “Digital Publishing Toolkit” georganiseerd wordt.
-Tijdens deze bijeenkomst zullen de eerste resultaten van dit project
-gepresenteerd worden. Met aandacht voor vragen zoals: Hoe veranderen
-nieuwe digitale vormen van publiceren de rol van de vormgever? Hoe
-kunnen uitgeverijen in de kunst- en cultuursector zelf esthetische
-interactieve e-publicaties ontwikkelen? Welke platformen kunnen
-uitgevers gebruiken om digitaal te publiceren? Hoe verandert de
-productieketen van uitgever tot vormgever?
-
-
-
-## PROGRAMMA
-
-**Moderator: Geert Lovink**
-
-**09.00 – 09.30: Inloop, koffie/thee**
-
-**09.30 – 09.45: Joost Kircz** ***Het ongebonden boek aan de ketting***
-Er is iets aan de hand in de boekenbranche. Eeuwen lang hadden we
-stevige boeken in alle formaten die goed in de hand lagen en als
-vrienden ons leven verrijkten. Nu gaat het boek de wijde wereld in.
-Schut het papier af als een streng Calvinistische opvoeding en ben vrij.
-Maar welke vrijheid heeft dit ongebonden boek eigenlijk? Hierover hebben
-wij op de Hogeschool van Amsterdam en met het Instituut voor
-Netwerkcultuur al jaren ouderlijke zorgen. Wij organiseerden twee
-congressen. Een in het Engels: “The Unbound Boek”, waarvan de
-verhandelingen binnenkort bij AUP uitkomen, ach ach… op papier, maar ook
-als saaie elektronische versie van dat papier. Een tweede conferentie
-had de vrolijke titel “Boek uit de band”. En een project heet “Out of
-Ink”, nu heeft de ongebonden adolescent zelfs de inktpot het raam uit
-gegooid. Maar de vrije wereld van los fladderende zinnen, plaatjes,
-films en liedjes wordt een ondoordringbaar woud, waar iedereen elkaar
-roept , maar niemand elkaar meer kan verstaan. Dit project probeert na
-te gaan welke soort talige-, beeldende- of audiocommunicatie tools nodig
-heeft om zich vrij te bewegen tussen papier en scherm. In dit project
-zoeken we uit wat we hebben, wat we willen overdragen en welke regels en
-gereedschap daar voor nodig zijn.
-
-**09.45 – 10.15: Florian Cramer** **10.15 – 10.30: Disucssie**
-***E-Publishing voor kunst- en designuitgevers: uitdagingen 2013*** In
-de huidige kunsten zijn elektronische publicaties belangrijker geworden
-dan werd verwacht: Denk aan het e-flux journal en zijn impact op het
-hedendaagse kunstdiscours of de filosofie van het Speculatieve Realisme
-die door haar Open Access e-publicaties snel bekend is geworden. Maar
-voor visueel georienteerde publicaties is de huidige e-publishing
-technologie vaak nog lastig toe te passen. Aan de ene kant zijn de
-verwachtingen van de technische mogelijkheden van het media vaak te
-hoog, aan de andere kant denkt men vaak nog te beperkt in kaders van
-simpele vertalingen van printproducten naar het scherm. Deze presentatie
-zal inzicht geven in de voorlopige conclusies, uitdagingen en
-oplossingen van het project Digital Publishing Toolkit.
-
-**10.30 – 10.50: Showcase BISPublishers** ***Over lettertype gebruik,
-spread layout, beeldgebruik en interactie*** Het deelproject
-BISPublishers is Essense gestart met een kort onderzoek naar de wereld
-van ‘digital publishing’. Inzichten hieruit zijn gebruikt als basis voor
-het kiezen van ideale format, platform en device(s). Het digitale
-traject van Auteur/Publisher naar de uiteindelijke lezer is complex
-gebleken, doordat vele trajecten mogelijk zijn en er constant nieuwe bij
-komen. Project BISPublishers werkt aan twee publicaties die zij tijdens
-de bijeenkomst zullen presenteren. Het eerste -Think Like a Lawyer,
-Don’t Act Like One- heeft als uitgangspunt om een vormgevingsgetrouw
-e-book conversie te realiseren, waarbij het de opdracht was het
-lettertype gebruik, de spread-layout en het beeldgebruik zoveel mogelijk
-te behouden. Developer Sauli Warmerhoven bouwde een EPUB3 generator om
-de pagina opmaak te automatiseren. De tweede publicatie -Sketching- is
-het tekenleerboek voor (industrieel) ontwerpers, van de auteurs Koos
-Eissen and Roselien Steur (TU Delft). De opdracht is het ontwikkelen van
-een zeer visueel e-learning boek waarbij verschillende tekentechnieken
-in beeld worden gebracht. Hiervoor worden onder andere de interactie
-mogelijkheden onderzocht zoals een social elementen, layered pagina
-opmaak, navigatie, video etc.
-
-**11.10 – 11.30: Showcase Valiz** ***Context Without Walls – genereren
-van een serie ontworpen ePubs*** Valiz, Meeus Ontwerpt en PUNTPIXEL
-richt zich op het creeeren van een digitale versie van twee edities van
-de nieuwe serie van Valiz genaamd: Context Without Walls. De publicaties
-in deze serie zijn gericht op kunstenaars van over de hele wereld. De
-boeken zijn meertalig en bevatten zowel essays, als beelden. De print
-versies van Context Without Walls zijn gemaakt door Meeus Ontwerpt en
-bevatten veel design en conversie uitdagingen. Sommige van deze
-problemen bestaan uit het werken met visuele essays, referenties in de
-marges van de pagina en (voet)noten. Zowel rekening houdend met de
-technische mogelijkheden en de vragen van het ontwerp, hebben ze
-oplossingen gezocht voor deze problemen die ontstaan bij het omzetten
-van een papieren boek in een e-book. Dit heeft geleid tot de beslissing
-om een ‘ eenvoudige ‘ en een ‘ ingewikkelde ‘ digitale versie van het e
-– boek te maken. In de presentatie zullen Valiz en PUNTPIXEL het
-concrete resultaat van het werk tot nu toe laten zien, gericht op de
-EPUB-generator ontwikkeld door PUNTPIXEL. Daarnaast zullen de keuzes (en
-de redenering achter hen) tot nog toe besproken worden.
-
-**11.30 – 11.50: Showcase nai010 uitgevers** ***Verzamelen Highlights***
-De groep van nai010 Publishers, Medamo en PUNTPIXEL ontwikkelt een
-digitale versie van de Stedelijk Museum Highlights Catalogus. In plaats
-van het creëren van een 1:1 ebook kopie van de catalogus, ontwikkelen ze
-een digitaal distributieplatform via een (mobiele) web-applicatie. Deze
-geeft de gebruikers de mogelijkheid om hun persoonlijke hoogtepunten uit
-de Stedelijk collectie te vinden, filteren, zoeken, bekijken en
-verzamelen tijdens een bezoek. Deze serie hoogtepunten wordt vervolgens
-gebruikt om een persoonlijke EPUB catalogus van de collectie samen te
-stellen en te genereren en kan worden gedownload voor offline bekijken
-met behulp van dezelfde online web toepassing. Deze elektronische versie
-van de collectie catalogus is gratis wanneer tien of minder kunstwerken
-worden verzameld. In de presentatie zal de algemene lay-out van de
-applicatie besp worden en daarnaast de commerciële rol van nai010
-bespreken als de uitgever, content of service provider.
-
-**11.50 – 12.10: Showcase Institute of Network Cultures** ***One
-thousand and One workflows*** INC, Silvio Lorusso and Michael Murtaugh
-houden zich bezig met workflows voor digitale publicaties die verder
-gaan dan het online zetten van een PDF. Ze willen de creatieve spanning
-verkennen tussen de strikte beperkingen en bijzonderheden van ePub als
-een output formaat en de diversiteit van de mogelijke instrumenten en
-methoden die kunnen worden gebruikt om deze te produceren. Specifieke
-uitdagingen zijn te vinden in het werken met verschillende input-en
-output -formaten (zoals Word-documenten, video- materiaal aan de ene
-kant, gedrukte boeken, digitale edities, blogs ed aan de andere kant),
-met een min of meer gestandaardiseerde workflow als gewenste uitkomst.
-Uitgaande van het materiaal van het Instituut voor Netwerkcultuur
-project ‘Unlike Us’ wordt, een herdefiniering van de workflow en de
-daaruit voortvloeiende resultaten onderzocht werkende met een database
-en Markdown tekstbestanden. Binnen dit project wordt gebruik gemaakt van
-een gevarieerde toolbox van free software tools afkomstig uit
-verschillende praktijken (grafische vormgeving, informatica, taalkunde,
-tekstredactie, bloggen, bibliotheek wetenschappen, statistiek, reverse
-engineering).
-
-**12.10 – 12.30: Discussie en afsluiting**
-
-
-
 # Book review. The end of ebooks. 20 visionaries on the future of digital reading. {.entry-title .single-title itemprop="headline"}
 
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
@@ -9386,24 +9040,6 @@ define the field of digital publishing, and possibly overthrowing the
 role of publishers, or do we create parallel platforms that allow for
 experiments in content, revenue models, and most importantly in the case
 of the digital publishing toolkit project: design?
-
-
-
-# Valt er nog iets te ontwerpen? Het ABC van digitaal publiceren {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-October 16, 2013 at 12:12 pm.
-
-![](imgs/flyer_a5_final_web-02.jpg)
-
-![](imgs/flyer_a5_final_web-01.jpg)
-
-**Het lectoraat voor Netwerkcultuur presenteert het ABC van digitaal
-publiceren op donderdag 28 november 2013 van 09.30 tot 12.30 in het
-Kohnstammhuis (Kohnstammzaal, 9e verdieping). Wees allen welkom. [Meld
-je alsjeblieft wel even
-aan](https://docs.google.com/forms/d/17VkX64WM8LRrh7r4y4nCc6xKTqYcMGrH2LjrnYMAz-s/edit).**
 
 
 
@@ -10738,35 +10374,6 @@ levels.
 > Could Be The Future Of Social
 > Media](http://www.fastcolabs.com/3016658/e-books-could-be-the-ultimate-niche-social-networks),
 > Michael Grothaus, August 30 2013
-
-
-
-# Event: Contec – Redefining the experience of publishing {.entry-title .single-title itemprop="headline"}
-
-By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
-September 3, 2013 at 2:59 pm.
-
-CONTEC is a new, highly-engaging event experience created by the
-Frankfurt Academy to address the complexity of the needs of today’s
-publishing business. 8th of October, Frankfurt.
-
-
-
-
-
-CONTEC gathers stakeholders from across the publishing ecosystem – from
-STM and trade publishers to service providers and tech startups – in one
-arena to redefine and redesign the experience of publishing. With a
-special focus on new voices and technological innovations in publishing,
-CONTEC highlights current trends, opens new horizons and provides
-insights into an industry that continues to be in flux. It creates a
-space for dialogue and market transparency. For more information about
-the programme you can go
-[here](http://www.buchmesse.de/en/academy/programme/00518/)
-
-
-
-
 
 
 
@@ -14572,7 +14179,7 @@ March 19, 2013 at 12:10 pm.
 -   [IBM developerworks artikel over EPUB
     3](http://www.ibm.com/developerworks/xml/library/x-richlayoutepub/index.html?ca=drs-)
 
-# Bloggers' Biographies
+# Bloggers Biographies
 
 
 ## Arie Altena {class="ariealtena"}
@@ -14581,6 +14188,10 @@ He writes about art, culture, the Internet, and literature for various magazines
 
 ## Marc de Bruijn {class="Marc de Bruijn"}
 Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being PUNTPIXEL, like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
+
+## Becky Cachia {class="backy cachia"]
+Blogger during the conference *Off the Press*, 22 & 23 May, 2014
+
 
 ## Andre Castro {class="Andre Castro"}
 André Castro is a media artist, with a background in sound art and experimental music. His recent practice explores stragies for digital and hybrid publication and offline digital libraries ([bibliotecha.info](http://bibliotecha.info/)). Recenly he began teaching in the Master’s programme of Media Design and Communication at the Piet Zwart Institute, and in Willem de Kooning Academy's Publication Station, both in Rotterdam. [pinknoi.so](http://pinknoi.so/)
@@ -14601,7 +14212,7 @@ Arjen de Jong is senior designer at [Essense](http://essense.eu/), an Amsterdam 
 Media-allrounder, problem solver and frontend developer at VPRO. 
 
 ## Harold Konickx {class="haroldkonickx"}
-<!-- missing -->
+Harold Konickx is a teacher of media history, coach and researcher at CMD Amsterdam. In his work he focuses on storytelling, reading culture and empathy. Apart from being a teacher he is a singer/songwriter and he recently published his third album, ‘Heppeneert’.
 
 ## Silvio Lorusso {class="Silvio Lorusso"} 
 Silvio Lorusso is an Italian artist and designer. His ongoing PhD research in Design Sciences at IUAV University of Venice is focused on the intersections between publishing and digital technology from the perspective of art and design. He regularly collaborates with the [Institute of Network Cultures](http://networkcultures.org/) in Amsterdam. After he received his MA in Visual and Multimedia Communications in 2011, he spent a period of study at the Networked Media course of the Piet Zwart Institute in Rotterdam. He took part in exhibitions, festival and events such as Transmediale (Germany), Unlike Us (Netherlands), and Fahrenheit39 (Italy). He has written for blogs and magazines such as Progetto Grafico and Doppiozero. He launched the Post-Digital Publishing Archive ([p-dpa.net](http://p-dpa.net/)) in 2013.
@@ -14616,10 +14227,16 @@ Miriam Rasch started working as a publication manager at the [Institute of Netwo
 ## Margreet Riphagen {class="margreet riphagen"}
 Margreet Riphagen started working at the [Institute of Network Cultures](http://networkcultures.org/) (INC) in March 2008 and is involved in various research projects. She holds a Master’s degree in Information Science (Human Centered Multimedia), a post-Bachelor’s degree in Business Science, and a Bachelor’s degree in Communication Management. Margreet is the Project Leader of the Digital Publishing Toolkit. Currently Margreet is the coordinator of the PublishingLab, which focuses at the intersection of publishing en digital technologies, both print and digital (hybrid publishing).
 
+
+## Rose Rowson {class="rose rowson"}
+Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
+
+
+
 ## Kimmy Spreeuwenberg {class="kimberley"}
 Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect. She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the [Institute of Network Cultures](http://networkcultures.org/), with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
 
-## Marc Stumpel {class="marcstumpel"}
+## Marc Stumpel {class"marcstumpel"}
 Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
 
 
@@ -14633,4 +14250,15 @@ Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
 ## Sauli Warmenhoven {class="sauli"}
 Sauli Warmenhoven graduated from the Willem de Kooning academy with a degree in Interactive Multimedia in 2005, and he continued his studies and graduated from the Piet Zwart Institute with a masters degree in Media Design. Since then he has been working on a variety of projects, but nowadays he specialises in building a variety of websites, web-apps, and electronic publications for a many a client. The intricacies of HTML, CSS, Javascript and PHP hold no secrets for him, and he uses his extensive knowledge to build smooth-as-butter user experiences and stunning designs.
+
+
+
+
+
+
+
+
+
+
+
 
