@@ -31,7 +31,7 @@ Arjen de Jong is senior designer at [Essense](http://essense.eu/), an Amsterdam 
 Media-allrounder, problem solver and frontend developer at VPRO. 
 
 ## Harold Konickx {class="haroldkonickx"}
-<!-- missing -->
+Harold Konickx is a teacher media history, coach and researcher at CMD Amsterdam. In his work he focuses on storytelling, reading culture and empathy. Apart from being a teacher he is a singer/songwriter and he recently published his third album, ‘Heppeneert’.
 
 ## Silvio Lorusso {class="Silvio Lorusso"} 
 Silvio Lorusso is an Italian artist and designer. His ongoing PhD research in Design Sciences at IUAV University of Venice is focused on the intersections between publishing and digital technology from the perspective of art and design. He regularly collaborates with the [Institute of Network Cultures](http://networkcultures.org/) in Amsterdam. After he received his MA in Visual and Multimedia Communications in 2011, he spent a period of study at the Networked Media course of the Piet Zwart Institute in Rotterdam. He took part in exhibitions, festival and events such as Transmediale (Germany), Unlike Us (Netherlands), and Fahrenheit39 (Italy). He has written for blogs and magazines such as Progetto Grafico and Doppiozero. He launched the Post-Digital Publishing Archive ([p-dpa.net](http://p-dpa.net/)) in 2013.
