@@ -19,5 +19,4 @@ September 2, 2013 at 3:59 pm.
 > publishers can meet readers’ demand to consume media in both digital
 > and analog forms.
 
-Source: Ghost in the Machine: Does Print+Ebook Bundling Have a
-Future?, Joy Hawley, August 26, 2013.
+Source: (Ghost in the Machine: Does Print+Ebook Bundling Have a Future?)[http://publishingperspectives.com/2013/08/ghost-in-the-machine-does-printebook-bundling-have-a-future/], Joy Hawley, August 26, 2013.

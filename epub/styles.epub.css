@@ -33,12 +33,6 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Regular.ttf');
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: 'Open Sans';
     src: url('OpenSans-Italic.ttf');
     font-weight: 400;
     font-style: italic;

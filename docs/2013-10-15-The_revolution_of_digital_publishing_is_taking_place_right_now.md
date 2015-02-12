@@ -9,7 +9,7 @@ date: 2013-10-15
 By [kimberley](http://networkcultures.org/digitalpublishing/author/kimberley/ "Posts by kimberley"),
 October 15, 2013 at 1:44 pm.
 
-![](imgs/bam-bijschrift-cmyk-NL.jpg)
+![](imgs/bam-bijschrift-cmyk-NL1.png)
 
 ## An interview with Geert Lovink by Jorinde Seijdel (in Dutch)
 

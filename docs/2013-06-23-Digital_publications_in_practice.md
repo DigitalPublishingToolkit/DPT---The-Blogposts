@@ -112,11 +112,9 @@ matching operating systems: Apple with
 [Android](http://en.wikipedia.org/wiki/Android_(operating_system)). The
 Android-segment consists of many manufacturers offering similar hardware
 with a variant of Android as its operating system. However, Samsung has
-the biggest market-share.
-(([www.idc.com/getdoc.jsp?containerId=prUS23772412\#](https://www.idc.com/getdoc.jsp?containerId=prUS23772412#.UUw2Pb8WH8s)
-)) There exist smaller variants of tablets by manufacturers like Amazon
+the biggest market-share. There exist smaller variants of tablets by manufacturers like Amazon
 (Kindle Fire HD) and Barnes & Noble (Nook HD+), these are discussed
-under the header [eReaders](#id.ok66hvpvpzwy).
+under the header "eReaders"].
 
 For tablets the situation is comparable to that of the PC, with the
 exception of browser extensions.

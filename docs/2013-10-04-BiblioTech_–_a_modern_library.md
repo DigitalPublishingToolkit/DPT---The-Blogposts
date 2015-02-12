@@ -20,7 +20,7 @@ books.
 > approximately 10,000 current titles through e-readers that they can
 > check out to take home or read on the premises.  Residents will also
 > be able to use their own e-readers or tablets to access the
-> collection.” ^[1](#fn:1)^
+> collection.”[^1]
 
 ![Conceptual renderings of Bexar County's digital-only BilblioTech
 library Bexar County Commissioners Court.\<br /\>
@@ -81,7 +81,7 @@ books.
 > gear, there was a high investment cost in printing books. The result
 > was the development of copyright laws to protect the interests of
 > capital and its investment in production. Libraries ceased to be
-> centres of copying and became warehouses of information.” ^[2](#fn:2)^
+> centres of copying and became warehouses of information.”[^2]
 
 Creating a digital library as yet another place to gate keep our access
 to copyrighted material is in a sense very modern, but e-books allow us
@@ -89,3 +89,7 @@ to exploit the original role of libraries as copy-centres as explained
 by Warnick. Instead of copying one book per month we can copy whole
 libraries in an hour or less. So why go to an all digital library if you
 can only read 10.000 books?
+
+[^1]: <http://abcnews.go.com/Technology/bookless-public-library-texas-home-bibliotech/story?id=18213091>
+
+[^2]: Warwick, Henry. (2013) ‘Sharing is Caring, the radical tactics of the offline’ Forthcoming within INC’s Network Notebook series.

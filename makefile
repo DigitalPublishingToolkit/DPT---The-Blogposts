@@ -17,6 +17,11 @@ book.epub: docs/book.md epub/metadata.xml epub/styles.epub.css epub/cover.png
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--epub-embed-font=../lib/UbuntuMono-B.ttf \
+		--epub-embed-font=../lib/OpenSans-Bold.ttf \
+		--epub-embed-font=../lib/OpenSans-BoldItalic.ttf \
+		--epub-embed-font=../lib/OpenSans-Italic.ttf \
+		--epub-embed-font=../lib/OpenSans-Light.ttf \
+		--epub-embed-font=../lib/OpenSans-LightItalic.ttf \
 		--default-image-extension png \
 		--toc-depth=1 \
 		-o ../book.epub \

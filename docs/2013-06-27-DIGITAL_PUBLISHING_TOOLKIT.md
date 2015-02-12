@@ -18,8 +18,6 @@ The Toolkit should contain two basic elements. On the one hand a “Howto
 Document” as a sort of manual, and on the other a “Software Toolkit”
 should be compiled off both existing and self-written utilities.
 
-# 
-
 ## **PART 1 – A “HOWTO DOCUMENT”**
 
 **CONTENT**The “Howto Document” should not presuppose any technical
