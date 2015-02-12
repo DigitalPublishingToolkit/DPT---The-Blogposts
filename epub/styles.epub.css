@@ -56,7 +56,7 @@ body {
     font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     margin: 2em;
     font-size: 12pt;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 16pt;
 }
 
@@ -73,6 +73,7 @@ p {
     orphans: 2;
     widows: 2;
     font-size:1em; 
+    font-weight: 300;
 }
 
 b,strong {

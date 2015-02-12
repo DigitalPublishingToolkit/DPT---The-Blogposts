@@ -34,21 +34,21 @@ os.remove(temp_dir+'mimetype') # delete mimetype (will be added later with epub.
 
 
 
-# def fn_rm_sup(tree, element): # Removes Footnotes <sub>
-#     for fn in tree.findall(element):
-#         for child in list(fn):
-#             if child.tag == 'sup':                
-#                 number = child.text
-#                 fn.remove(child)
-#                 fn.text=number
+def fn_rm_sup(tree, element): # Removes Footnotes <sub>
+    for fn in tree.findall(element):
+        for child in list(fn):
+            if child.tag == 'sup':                
+                number = child.text
+                fn.remove(child)
+                fn.text=number
 
 
-# def replace_fn_links(tree, element): #replace back arrows with work "back"
-#     for tag in tree.findall(element):
-#         if tag.text is not None:
-#             text=(tag.text).encode('utf-8')
-#             if text == '↩':#'&#8617;':
-#                 tag.text = 'back'
+def replace_fn_links(tree, element): #replace back arrows with work "back"
+    for tag in tree.findall(element):
+        if tag.text is not None:
+            text=(tag.text).encode('utf-8')
+            if text == '↩':#'&#8617;':
+                tag.text = 'back'
 
 
 # def addclass_bloglink(tree, element): # add class=bloglink to blog icon images
@@ -84,7 +84,7 @@ def spine(filename): # makes cover & title page linear is <spine>
     spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
     manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
     for child in spine.getchildren():
-        if child.attrib['idref'] == 'cover_xhtml' or child.attrib['idref'] == 'title_page_xhtml':            
+        if child.attrib['idref'] == 'cover_xhtml': #or child.attrib['idref'] == 'title_page_xhtml':            
             child.attrib['linear'] = 'yes'
     return tree
 
@@ -98,6 +98,25 @@ def save_html(content_dir, content_file, tree ):
     xhtml_file.close()
 
 
+
+def authors(tree, element): #create links to the author's biographies
+    for tag in tree.findall(element):        
+        if tag.get('title'):
+            title = tag.get('title')
+            if 'Posts' in title:                
+                print ET.tostring(tag)
+
+    print 'To be continued'
+
+
+    
+'''                
+"./p/a[contains(@title,'Posts by')]"
+
+<p>By <a href="http://networkcultures.org/digitalpublishing/author/beckycachia/" title="Posts by Becky Cachia">Becky Cachia</a>, November 30, 2014 at 5:48 pm.</p>
+'''
+
+    
 temp_ls=os.listdir("temp/")
 temp_ls.sort()
 
@@ -107,8 +126,10 @@ for f in temp_ls: #loop epub contained files
         filename = "temp/"+f
         xhtml = open(filename, "r") 
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
-#        fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
-#        replace_fn_links(xhtml_parsed, './/li/p/a')
+        fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
+        replace_fn_links(xhtml_parsed, './/li/p/a')
+        authors(xhtml_parsed, ".//p/a[@title]")
+#.//a[contains(@title,"Posts by")]
 #        addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
 #        figure(xhtml_parsed, './/figure')
         save_html(
@@ -123,13 +144,13 @@ for f in temp_ls: #loop epub contained files
         ET.register_namespace('', 'http://www.idpf.org/2007/opf')
         tree.write(filename, encoding='utf-8', xml_declaration='True' )
 
-    elif f == 'title_page.xhtml':
-        os.remove("temp/title_page.xhtml")
-        shutil.copy("title_page.xhtml", "temp/title_page.xhtml")
+#    elif f == 'title_page.xhtml':
+#        os.remove("temp/title_page.xhtml")
+#        shutil.copy("title_page.xhtml", "temp/title_page.xhtml")
         
         
 # Step 3: zip epub
-epub = zipfile.ZipFile("FromPrintToEbooks.epub", "w")
+epub = zipfile.ZipFile("book-processed.epub", "w")
 epub.writestr("mimetype", "application/epub+zip")
 temp_dir = "temp"
 
@@ -152,5 +173,5 @@ epub.close()
 shutil.rmtree(temp_dir)
 
 print
-print "** FromPrintToEbooks.epub was generated without errors **"
+print "** Processed EPUB: book-processed.epub was generated without errors **"
 
