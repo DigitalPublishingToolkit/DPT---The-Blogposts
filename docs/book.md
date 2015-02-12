@@ -9709,22 +9709,22 @@ vocabularies in our DCPA:
 #### Article
 
 For the **Title** we can use
-[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title),
+[dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title),
 simply defined as “A name given to the resource”. It takes a free text
 as value.
 
 **Publication Date** is mapped to
-[*dcterms:date*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date),
+[dcterms:date](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date),
 formatted according to the [W3C Date and Time Formats
 Specification](http://www.w3.org/TR/NOTE-datetime).
 
 **Edited Date** is mapped to
-[*dcterms:modified*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified),
+[dcterms:modified](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified),
 formatted according to the [W3C Date and Time Formats
 Specification](http://www.w3.org/TR/NOTE-datetime).
 
 **Type** is mapped to
-[*dcterms:type*](http://purl.org/dc/elements/1.1/type), defined as “the
+[dcterms:type](http://purl.org/dc/elements/1.1/type), defined as “the
 nature or genre of the resource”. It uses a domain specific vocabulary
 limited in our case to the following values:
 
@@ -9732,37 +9732,37 @@ limited in our case to the following values:
 -   Blogpost.
 
 **Abstract** is mapped to
-[*dcterms:abstract*](http://dublincore.org/documents/dcmi-terms/#terms-abstract)
+[dcterms:abstract](http://dublincore.org/documents/dcmi-terms/#terms-abstract)
 and it is defined as ”a summary of the resource”.
 
 **Agent** is mapped to
-[*foaf:agent*](http://xmlns.com/foaf/spec/#term_Agent) and it is defined
+[foaf:agent](http://xmlns.com/foaf/spec/#term_Agent) and it is defined
 as ”an agent (eg. person, group, software or physical artifact)”.
 
 **Parent** is mapped to
-[*dcterms:isPartOf*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf),
+[dcterms:isPartOf](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf),
 defined as “a related resource in which the described resource is
 physically or logically included”. It is used with a non-literal value
 in order to be described with multiple components.
 
-**Author** is mapped to [*dcterms:creators*][dcdatesub], defined as “an
+**Author** is mapped to [dcterms:creators][dcdatesub], defined as “an
 entity primarily responsible for making the resource“. It is used with a
 non-literal value in order to be described with multiple components.
 
 #### Parent as Project
 
 **Title** is mapped to
-[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title)
+[dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title)
 and it takes a free text as value.
 
 #### Author as Person:
 
 **Name** is mapped to
-[*foaf:name*](http://xmlns.com/foaf/spec/#term_name) (part of the FOAF
+[foaf:name](http://xmlns.com/foaf/spec/#term_name) (part of the FOAF
 vocabulary), defined as “a name for some thing”.
 
 **Affiliation** is mapped to
-[*foaf:workplaceHomepage*](http://xmlns.com/foaf/spec/#term_workplaceHomepage)(part
+[foaf:workplaceHomepage](http://xmlns.com/foaf/spec/#term_workplaceHomepage)(part
 of the FOAF vocabulary), defined as “a workplace homepage of some
 person; the homepage of an organization they work for”. It takes the URL
 of the workplace as value.
@@ -9861,11 +9861,11 @@ set we will particularly consider two aspects:
 ### Article’s Title
 
 **Title** could be seamlessly mapped to
-[*Title*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title)
+[Title](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Used to provide the official title of a document. This is set as the
-> `` string within the `<head>` section of an HTML document, and
+> string within the `<head>` section of an HTML document, and
 > is also used by other export formats.
 
     Title: This is my title
@@ -9873,7 +9873,7 @@ metadata, present in MultiMarkdown and defined as follows.
 ### Publication Date
 
 **Publication Date** could be seamlessly mapped to
-[*Date*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date)
+[Date](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Provide a date for the document.
@@ -9908,7 +9908,7 @@ There is no metadata similar to **Parent** in MMD. So I propose
 ### Author’s Name
 
 The **Name** of an **Author** could be seamlessly mapped to
-[*Author*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author)
+[Author](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Self-explanatory. I strip this out to provide an author string to
@@ -9920,7 +9920,7 @@ metadata, present in MultiMarkdown and defined as follows.
 ### Author’s Affiliation
 
 The **Affiliation** of an **Author** could be seamlessly mapped to
-[*Affiliation*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation)
+[Affiliation](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Use this to include an organization that the author is affiliated
@@ -10039,8 +10039,9 @@ MediaWiki](http://semantic-mediawiki.org/wiki/Semantic_MediaWiki), an
 extension to MediaWiki, it is possible to tag links and normal text in
 the following ways.
 
-    This article has the following agent: [[Agent::John Doe]].
-    This article has the following agent: [[Has Agent::John Doe]].
+This article has the following agent: `[[Agent::John Doe]]`.
+
+This article has the following agent: `[[Has Agent::John Doe]]`.
 
 A possible solution in MMD would be to keep the syntax as is, even
 though the result is less legible.
@@ -14182,73 +14183,73 @@ March 19, 2013 at 12:10 pm.
 # Bloggers Biographies
 
 
-## Arie Altena {class="ariealtena"}
+## Arie Altena 
 Arie Altena is a Dutch is literary scholar, writer and lecturer. 
 He writes about art, culture, the Internet, and literature for various magazines and publications including Metropolis M.  He also works as an editor / researcher for [V2, Institute for the Unstable Media](http://v2.nl/), and he is part of the team that organizes the [Sonic Acts Festival](http://www.sonicacts.com/).
 
-## Marc de Bruijn {class="Marc de Bruijn"}
+## Marc de Bruijn 
 Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being PUNTPIXEL, like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
 
-## Becky Cachia {class="backy cachia"]
+## Becky Cachia
 Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
 
-## Andre Castro {class="Andre Castro"}
+## Andre Castro 
 André Castro is a media artist, with a background in sound art and experimental music. His recent practice explores stragies for digital and hybrid publication and offline digital libraries ([bibliotecha.info](http://bibliotecha.info/)). Recenly he began teaching in the Master’s programme of Media Design and Communication at the Piet Zwart Institute, and in Willem de Kooning Academy's Publication Station, both in Rotterdam. [pinknoi.so](http://pinknoi.so/)
 
-## Vicentiu Dinga {class="vince"}
+## Vicentiu Dinga 
 Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
-## Jakub Dutka {class="jakubdutka"}
+## Jakub Dutka 
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
-## Irina Enache {class="irina"}
+## Irina Enache 
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
-## Arjen de Jong {class="Arjen de Jong"}
+## Arjen de Jong 
 Arjen de Jong is senior designer at [Essense](http://essense.eu/), an Amsterdam based service design agency. He was a founding member of Buro Duplex, a collective of freelance programmers and designers. He also ini- tiated the Stereo Publication project, a cross-media publishing project avant la lettre.
 
-## Timo Klok {class="timoklok"}
+## Timo Klok 
 Media-allrounder, problem solver and frontend developer at VPRO. 
 
-## Harold Konickx {class="haroldkonickx"}
+## Harold Konickx 
 Harold Konickx is a teacher of media history, coach and researcher at CMD Amsterdam. In his work he focuses on storytelling, reading culture and empathy. Apart from being a teacher he is a singer/songwriter and he recently published his third album, ‘Heppeneert’.
 
-## Silvio Lorusso {class="Silvio Lorusso"} 
+## Silvio Lorusso  
 Silvio Lorusso is an Italian artist and designer. His ongoing PhD research in Design Sciences at IUAV University of Venice is focused on the intersections between publishing and digital technology from the perspective of art and design. He regularly collaborates with the [Institute of Network Cultures](http://networkcultures.org/) in Amsterdam. After he received his MA in Visual and Multimedia Communications in 2011, he spent a period of study at the Networked Media course of the Piet Zwart Institute in Rotterdam. He took part in exhibitions, festival and events such as Transmediale (Germany), Unlike Us (Netherlands), and Fahrenheit39 (Italy). He has written for blogs and magazines such as Progetto Grafico and Doppiozero. He launched the Post-Digital Publishing Archive ([p-dpa.net](http://p-dpa.net/)) in 2013.
 
 
-## Michael Murtaugh {class="Michael Murtaugh"}
+## Michael Murtaugh 
 Michael Murtaugh ([automatist.org](http://automatist.org/)) designs and researches community databases, interactive documentaries, and tools for new forms of reading and writing online. He teaches in the Master’s Degree programme in Media Design and Communication at the Piet Zwart Institute in Rotterdam, and is a member of Constant in Brussels.
 
-## Miriam Rasch {class="Miriam Rasch"}
+## Miriam Rasch 
 Miriam Rasch started working as a publication manager at the [Institute of Network Cultures](http://networkcultures.org/) in June 2012. She holds Master’s degrees in Literary Studies (2002) and Philosophy (2005). Since graduating she worked as a (web) editor and from 2008 on as a programmer for the Studium Generale public lectures department at Utrecht University, organizing events and taking care of digital broadcasts and online representation. She also worked as a lecturer for Liberal Arts and Sciences, and is teaching philosophy and media theory in the Media, Information and Communica- tion department. She writes book reviews and guest posts for different websites and magazines; her personal blog can be found on miriamrasch.nl.
 
-## Margreet Riphagen {class="margreet riphagen"}
+## Margreet Riphagen 
 Margreet Riphagen started working at the [Institute of Network Cultures](http://networkcultures.org/) (INC) in March 2008 and is involved in various research projects. She holds a Master’s degree in Information Science (Human Centered Multimedia), a post-Bachelor’s degree in Business Science, and a Bachelor’s degree in Communication Management. Margreet is the Project Leader of the Digital Publishing Toolkit. Currently Margreet is the coordinator of the PublishingLab, which focuses at the intersection of publishing en digital technologies, both print and digital (hybrid publishing).
 
 
-## Rose Rowson {class="rose rowson"}
+## Rose Rowson 
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
 
 
-## Kimmy Spreeuwenberg {class="kimberley"}
+## Kimmy Spreeuwenberg 
 Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect. She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the [Institute of Network Cultures](http://networkcultures.org/), with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
 
 ## Marc Stumpel {class"marcstumpel"}
 Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
 
 
-## Katía Truijen {class="Katía Truijen"}
+## Katía Truijen 
 Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
 
 
-## Patricia de Vries {class="patricia"}
+## Patricia de Vries 
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
 
-## Sauli Warmenhoven {class="sauli"}
+## Sauli Warmenhoven 
 Sauli Warmenhoven graduated from the Willem de Kooning academy with a degree in Interactive Multimedia in 2005, and he continued his studies and graduated from the Piet Zwart Institute with a masters degree in Media Design. Since then he has been working on a variety of projects, but nowadays he specialises in building a variety of websites, web-apps, and electronic publications for a many a client. The intricacies of HTML, CSS, Javascript and PHP hold no secrets for him, and he uses his extensive knowledge to build smooth-as-butter user experiences and stunning designs.
 
 

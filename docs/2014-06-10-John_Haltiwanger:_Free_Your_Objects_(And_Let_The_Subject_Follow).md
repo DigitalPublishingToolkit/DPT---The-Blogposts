@@ -18,10 +18,10 @@ publishing workflows, tools and platforms.
 
 His talk aimed to give the audience a better understanding of the recent
 work of [Gilbert
-Simondon](http://en.wikipedia.org/wiki/Gilbert_Simondon)![](imgs/favicon.ico)
+Simondon](http://en.wikipedia.org/wiki/Gilbert_Simondon)
 on cybernetics theory. Simonodon’s work shines a new perspective on
 [Norbert
-Wiener’](http://en.wikipedia.org/wiki/Norbert_Wiener)![](imgs/favicon.ico)s
+Wiener’](http://en.wikipedia.org/wiki/Norbert_Wiener)s
 theory of cybernetics, originally published in 1948, but it is often
 hard to grasp by readers. Hence, Haltiwanger wanted to offer the
 audience a clear analysis of the essential terms of Simondon’s

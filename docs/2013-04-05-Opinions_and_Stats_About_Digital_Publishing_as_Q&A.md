@@ -7,7 +7,7 @@ date: 2013-04-05
 # Opinions and Stats About Digital Publishing as Q&A {.entry-title .single-title itemprop="headline"}
 
 By [Silvio
-Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/ "Posts by Silvio Lorusso"),
+Lorusso](http://networkcultures.org/digitalpublishing/author/silviolorusso/),
 April 5, 2013 at 2:49 pm.
 
 **Are tablets and e-readers are two competing markets?**[Yes. The
@@ -48,13 +48,6 @@ reader.](http://libraries.pewinternet.org/2012/04/04/the-rise-of-e-reading/)
 adults have read an e-book in the past
 year.](http://libraries.pewinternet.org/2012/04/04/the-rise-of-e-reading/)
 *April 4, 2012*
-
-**How does E-book reading happens?**[E-book reading happens across an
-array of devices, including smartphones. In our December survey we found
-that e-book readers age 16 and older were just as likely to have read an
-e-book on their computers as had read e-book reader devices specifically
-made for e-book consumption. Cell phones are reading devices,
-too.](href=) *April 4, 2012*
 
 **From the perspective of the book’s typology, did the market of ebooks
 used to follow the same pattern of physical books in 2011?**[No. While

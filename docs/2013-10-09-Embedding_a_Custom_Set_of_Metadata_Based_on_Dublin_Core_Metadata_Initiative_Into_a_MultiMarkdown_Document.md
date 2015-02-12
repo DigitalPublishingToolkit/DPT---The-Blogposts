@@ -132,22 +132,22 @@ vocabularies in our DCPA:
 #### Article
 
 For the **Title** we can use
-[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title),
+[dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title),
 simply defined as “A name given to the resource”. It takes a free text
 as value.
 
 **Publication Date** is mapped to
-[*dcterms:date*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date),
+[dcterms:date](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#date),
 formatted according to the [W3C Date and Time Formats
 Specification](http://www.w3.org/TR/NOTE-datetime).
 
 **Edited Date** is mapped to
-[*dcterms:modified*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified),
+[dcterms:modified](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#modified),
 formatted according to the [W3C Date and Time Formats
 Specification](http://www.w3.org/TR/NOTE-datetime).
 
 **Type** is mapped to
-[*dcterms:type*](http://purl.org/dc/elements/1.1/type), defined as “the
+[dcterms:type](http://purl.org/dc/elements/1.1/type), defined as “the
 nature or genre of the resource”. It uses a domain specific vocabulary
 limited in our case to the following values:
 
@@ -155,37 +155,37 @@ limited in our case to the following values:
 -   Blogpost.
 
 **Abstract** is mapped to
-[*dcterms:abstract*](http://dublincore.org/documents/dcmi-terms/#terms-abstract)
+[dcterms:abstract](http://dublincore.org/documents/dcmi-terms/#terms-abstract)
 and it is defined as ”a summary of the resource”.
 
 **Agent** is mapped to
-[*foaf:agent*](http://xmlns.com/foaf/spec/#term_Agent) and it is defined
+[foaf:agent](http://xmlns.com/foaf/spec/#term_Agent) and it is defined
 as ”an agent (eg. person, group, software or physical artifact)”.
 
 **Parent** is mapped to
-[*dcterms:isPartOf*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf),
+[dcterms:isPartOf](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#isPartOf),
 defined as “a related resource in which the described resource is
 physically or logically included”. It is used with a non-literal value
 in order to be described with multiple components.
 
-**Author** is mapped to [*dcterms:creators*][dcdatesub], defined as “an
+**Author** is mapped to [dcterms:creators][dcdatesub], defined as “an
 entity primarily responsible for making the resource“. It is used with a
 non-literal value in order to be described with multiple components.
 
 #### Parent as Project
 
 **Title** is mapped to
-[*dcterms:title*](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title)
+[dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=elements#title)
 and it takes a free text as value.
 
 #### Author as Person:
 
 **Name** is mapped to
-[*foaf:name*](http://xmlns.com/foaf/spec/#term_name) (part of the FOAF
+[foaf:name](http://xmlns.com/foaf/spec/#term_name) (part of the FOAF
 vocabulary), defined as “a name for some thing”.
 
 **Affiliation** is mapped to
-[*foaf:workplaceHomepage*](http://xmlns.com/foaf/spec/#term_workplaceHomepage)(part
+[foaf:workplaceHomepage](http://xmlns.com/foaf/spec/#term_workplaceHomepage)(part
 of the FOAF vocabulary), defined as “a workplace homepage of some
 person; the homepage of an organization they work for”. It takes the URL
 of the workplace as value.
@@ -284,11 +284,11 @@ set we will particularly consider two aspects:
 ### Article’s Title
 
 **Title** could be seamlessly mapped to
-[*Title*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title)
+[Title](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#title)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Used to provide the official title of a document. This is set as the
-> `` string within the `<head>` section of an HTML document, and
+> string within the `<head>` section of an HTML document, and
 > is also used by other export formats.
 
     Title: This is my title
@@ -296,7 +296,7 @@ metadata, present in MultiMarkdown and defined as follows.
 ### Publication Date
 
 **Publication Date** could be seamlessly mapped to
-[*Date*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date)
+[Date](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#date)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Provide a date for the document.
@@ -331,7 +331,7 @@ There is no metadata similar to **Parent** in MMD. So I propose
 ### Author’s Name
 
 The **Name** of an **Author** could be seamlessly mapped to
-[*Author*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author)
+[Author](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#author)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Self-explanatory. I strip this out to provide an author string to
@@ -343,7 +343,7 @@ metadata, present in MultiMarkdown and defined as follows.
 ### Author’s Affiliation
 
 The **Affiliation** of an **Author** could be seamlessly mapped to
-[*Affiliation*](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation)
+[Affiliation](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#affiliation)
 metadata, present in MultiMarkdown and defined as follows.
 
 > Use this to include an organization that the author is affiliated
@@ -462,8 +462,9 @@ MediaWiki](http://semantic-mediawiki.org/wiki/Semantic_MediaWiki), an
 extension to MediaWiki, it is possible to tag links and normal text in
 the following ways.
 
-    This article has the following agent: [[Agent::John Doe]].
-    This article has the following agent: [[Has Agent::John Doe]].
+This article has the following agent: `[[Agent::John Doe]]`.
+
+This article has the following agent: `[[Has Agent::John Doe]]`.
 
 A possible solution in MMD would be to keep the syntax as is, even
 though the result is less legible.

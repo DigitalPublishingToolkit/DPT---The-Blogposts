@@ -1,6 +1,6 @@
 # Colophon
 
-### Digital Publishing Toolkit: The Blog Posts
+### Digital Publishing Toolkit: the Blog Posts
 **Authors:** DPT Collective and guest bloggers<br/> 
 **EPUB design:** André Castro<br/> 
 **Cover design:** Medamo<br/> 

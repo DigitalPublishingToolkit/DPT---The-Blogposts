@@ -14,7 +14,7 @@ book.epub: docs/book.md epub/metadata.xml epub/styles.epub.css epub/cover.png
 		--self-contained \
 		--epub-chapter-level=1 \
 		--epub-stylesheet=../epub/styles.epub.css \
-		--epub-cover-image=../epub/cover.png \
+		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--epub-embed-font=../lib/UbuntuMono-B.ttf \
 		--default-image-extension png \

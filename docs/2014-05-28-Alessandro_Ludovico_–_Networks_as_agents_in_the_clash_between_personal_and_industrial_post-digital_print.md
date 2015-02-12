@@ -87,9 +87,7 @@ compile a draft taxonomy through three categories:
     acting out of a procedure, in a narrative fashion, in a kind of
     performance between web and print. A performance with data, or how
     he put it: publishing performing the Internet. An example here is
-    the *[American
-    Psycho](traumawien.at/prints/american-psycho/) *published by
-    TRAUMAWIEN.
+    the *American Psycho*published by TRAUMAWIEN.
 
 All the approaches presented above enable for the
 ‘[transduction](http://en.wikipedia.org/wiki/Transduction_%28genetics%29)’
