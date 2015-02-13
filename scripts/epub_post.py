@@ -100,20 +100,29 @@ def save_html(content_dir, content_file, tree ):
 
 
 def authors(tree, element): #create links to the author's biographies
-    for tag in tree.findall(element):        
-        if tag.get('title'):
-            title = tag.get('title')
+    for anchor in tree.findall(element):        
+        if anchor.get('title'):
+            title = anchor.get('title')
             if 'Posts' in title:                
-                print ET.tostring(tag)
+                name = (anchor.text.encode('utf-8'))                
+                ascii_name = ((name.replace('í','i')).replace(" ", "_")).lower()
+
+                anchor.set('href', "ch122.xhtml#{}".format(ascii_name) )
+                print ET.tostring(anchor)
 
 
+## PROBLEM LINKING TO SECTION - DONT KNOW IF IT IS POSSIBLE OR WEHTER WE CAN ONLY LINK TO HEADINGS
 
-
+                
     
 '''                
 "./p/a[contains(@title,'Posts by')]"
 
 <p>By <a href="http://networkcultures.org/digitalpublishing/author/beckycachia/" title="Posts by Becky Cachia">Becky Cachia</a>, November 30, 2014 at 5:48 pm.</p>
+'''
+
+'''
+<section id="arie-altena" class="level2" title="ariealtena">
 '''
 
     

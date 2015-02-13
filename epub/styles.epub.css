@@ -87,7 +87,10 @@ h1, h2, h3, h4, h5, h6 {
     -moz-hyphens: none !important;
     -webkit-hyphens: none !important;
     adobe-hyphenate: none !important;
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 h1 {
