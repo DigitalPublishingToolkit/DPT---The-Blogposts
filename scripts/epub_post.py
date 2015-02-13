@@ -106,7 +106,7 @@ def authors(tree, element): #create links to the author's biographies
             if 'Posts' in title:                
                 print ET.tostring(tag)
 
-    print 'To be continued'
+
 
 
     

@@ -14162,7 +14162,7 @@ Arie Altena is a Dutch is literary scholar, writer and lecturer.
 He writes about art, culture, the Internet, and literature for various magazines and publications including Metropolis M.  He also works as an editor / researcher for [V2, Institute for the Unstable Media](http://v2.nl/), and he is part of the team that organizes the [Sonic Acts Festival](http://www.sonicacts.com/).
 
 ## Marc de Bruijn 
-Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being PUNTPIXEL, like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
+Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being [PUNTPIXEL](http://puntpixel.nl/), like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
 
 ## Becky Cachia
 Blogger during the conference *Off the Press*, 22 & 23 May, 2014
@@ -14181,7 +14181,7 @@ Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
 ## Arjen de Jong 
-Arjen de Jong is senior designer at [Essense](http://essense.eu/), an Amsterdam based service design agency. He was a founding member of Buro Duplex, a collective of freelance programmers and designers. He also ini- tiated the Stereo Publication project, a cross-media publishing project avant la lettre.
+Arjen de Jong is senior designer at Essense, an Amsterdam based service design agency. He was a founding member of Buro Duplex, a collective of freelance programmers and designers. He also ini- tiated the Stereo Publication project, a cross-media publishing project avant la lettre.
 
 ## Timo Klok 
 Media-allrounder, problem solver and frontend developer at VPRO. 
@@ -14208,10 +14208,10 @@ Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
 
 
-## Kimmy Spreeuwenberg 
+## Kimmy Spreeuwenberg {id="kimmy"}
 Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect. She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the [Institute of Network Cultures](http://networkcultures.org/), with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
 
-## Marc Stumpel {class"marcstumpel"}
+## Marc Stumpel {id="marcstumpel"}
 Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
 
 
