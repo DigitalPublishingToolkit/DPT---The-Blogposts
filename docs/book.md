@@ -52,6 +52,124 @@ What this book is about.
 
 
 
+# A wrap up of the Digital Publishing Toolkit – Florian Cramer and Geert Lovink {.entry-title .single-title itemprop="headline"}
+
+By [Katía
+Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
+December 7, 2014 at 3:33 pm.
+
+![](imgs/15276371604_5a8777d6b8_z.jpg)
+
+![](imgs/15872825926_679111649e_z.jpg)
+
+Geert Lovink and Florian Cramer conclude the afternoon by looking back
+on two years of researching digital publishing; a succesful
+collaboration between designers, schools, researchers and publishers.
+Which lessons can we take from the research?
+
+> *1. Digital publishing is still in a phase of transition*
+
+When one compares reading and publishing to other media that have been
+digitized over the past decades, one will see that publishing has
+followed a different path. Indeed the field is changing, partly even in
+a disruptive way, but it has not changed like the music industry,
+newspaper industry or online video where one can see a consolidation of
+business models.
+
+In general, the publishing industry is still somewhat conservative
+compared to other industries like those of magazines and journals. In
+these fields there is a lot of experimentation and the Netherlands can
+even be considered to be a pioneer with projects and business models
+like [Blendle](https://blendle.nl/) and [de
+Correspondent](https://decorrespondent.nl/). In other countries one can
+already find some examples of distribution platforms for small
+publishers, like [Minimore.de](https://minimore.de/) in Germany.
+
+The fact that digital publishing is still in a transitional phase, is at
+the same time very interesting. We may say that we are in the ‘Napster
+moment’ in the printing industry. Geert Lovink states that when you
+compare it to the rise of the Internet, it feels very much like 1995.
+The systems are not yet working, but there is a lot of experiment and
+research into different standards and platforms.
+
+> *2. The electronic medium is often still (used as) a poor medium.*
+
+Maybe digital publishing will remain in transition for the next couple
+of years. Although there are no ‘solutions’ for the industry yet, a lot
+has been achieved in the last two years. Effective working approaches
+have been developed that work well in this transition phase. As an
+overall conclusion one can state that much of these working methods
+actually defy the expectations of what is *paper* and what is
+*electronic*. The findings often have been counter-intuitive. For
+example, the main expectations with electronic media is that they allow
+for *rich* media, but there is still not much experimentation in this
+field. Video is not often integrated into books to enrich the reading
+experience. Why are multimedia books still rarely made?
+
+Universities, art academies and applied universities still don’t combine
+their expertise so much. In the field of filmstudies there are still
+*books* on films instead of multimedia books. Another barrier is that
+multimedia books would easily become multigigabyte files. Moreover, it
+is very hard to get all the rights from film studios to include their
+movies. But some of the obstacles also bring new opportunities. For
+example, digital publishing allows for the creation of very small
+formats that would never be printed as a book, like a
+one-poem-publication.
+
+> *3. The publishing triangle has become a square*
+
+In the triangle of authors, designers and publishers, there is now
+another role to take into account. In digital publishing, the role of
+the programmer has become very important. This means that people have to
+collaborate in new and different ways. All traditional roles have to be
+redefined to a certain extent.
+
+> *4. We need more research on business models*
+
+The project of the Digital Publishing Toolkit mainly focused on design
+and production questions in collaboration with publishers. More research
+has to be done on distribution and business models. These issues are
+highly important for authors and publishers.
+
+> *5. Sometimes we need to temper our (magic) expectations*
+
+In the Netherlands there is an urgency to develop new formats for 
+journals, especially because there have been serious budget cuts in this
+field. Very often there is a magic expectation that digitization will
+solve all problems. Indeed, more readers can be reached with digital
+publishing, but the idea that it is cheaper than a printed version is a
+myth. Often it is very hard to make money with digital content. A
+compromise to simply export a print version into an epub often doesn’t
+work at all. Different media ask for different workflows and specific
+approaches.
+
+> *6. Digital publishing has physical impact*
+
+The two main places for books – the library and the bookshop – changed
+dramatically with the rise of digital publishing. It has an enormous
+impact on these environments, that are forced to reinvent themselves. It
+would be good to extend the research on digital publishing and take the
+wider urban context into account. The transformation of the bookshop and
+the library have a direct link to the developments of e-books. What
+would be the future of the bookstore and the library?
+
+Libraries may be redefined as centers for digital literacy. After all,
+there is a lot of expertise to be found in these environments. Another
+interesting development to research is social reading. What tools can we
+use in classes to combine deep reading of a text with discussion?
+
+> *7. We need to develop alternatives*
+
+The dystopian version of the future electronic bookmarket would be an
+iTunes or NetFlix model. In the future there may be big commercial
+providers that will offer full education packages that give access to
+all books and publications. If schools subscribe to these kinds of
+licences, libraries will be shut down. We should be aware of this kind
+of neoliberal optimization of educational resources. If we don’t develop
+alternatives, it may be too late.
+
+
+
 # A leap into the future of (digital) reading {.entry-title .single-title itemprop="headline"}
 
 By [haroldkonickx](http://networkcultures.org/digitalpublishing/author/haroldkonickx/ "Posts by haroldkonickx"),
@@ -308,124 +426,6 @@ instance becomes something like a game does that make a publisher still
 a publisher or a producer of media?
 
 ![Video: http://vimeo.com/108984162](imgs/496311849_640.jpg)
-
-
-
-# A wrap up of the Digital Publishing Toolkit – Florian Cramer and Geert Lovink {.entry-title .single-title itemprop="headline"}
-
-By [Katía
-Truijen](http://networkcultures.org/digitalpublishing/author/katiatruijen/ "Posts by Katía Truijen"),
-December 7, 2014 at 3:33 pm.
-
-![](imgs/15276371604_5a8777d6b8_z.jpg)
-
-![](imgs/15872825926_679111649e_z.jpg)
-
-Geert Lovink and Florian Cramer conclude the afternoon by looking back
-on two years of researching digital publishing; a succesful
-collaboration between designers, schools, researchers and publishers.
-Which lessons can we take from the research?
-
-> *1. Digital publishing is still in a phase of transition*
-
-When one compares reading and publishing to other media that have been
-digitized over the past decades, one will see that publishing has
-followed a different path. Indeed the field is changing, partly even in
-a disruptive way, but it has not changed like the music industry,
-newspaper industry or online video where one can see a consolidation of
-business models.
-
-In general, the publishing industry is still somewhat conservative
-compared to other industries like those of magazines and journals. In
-these fields there is a lot of experimentation and the Netherlands can
-even be considered to be a pioneer with projects and business models
-like [Blendle](https://blendle.nl/) and [de
-Correspondent](https://decorrespondent.nl/). In other countries one can
-already find some examples of distribution platforms for small
-publishers, like [Minimore.de](https://minimore.de/) in Germany.
-
-The fact that digital publishing is still in a transitional phase, is at
-the same time very interesting. We may say that we are in the ‘Napster
-moment’ in the printing industry. Geert Lovink states that when you
-compare it to the rise of the Internet, it feels very much like 1995.
-The systems are not yet working, but there is a lot of experiment and
-research into different standards and platforms.
-
-> *2. The electronic medium is often still (used as) a poor medium.*
-
-Maybe digital publishing will remain in transition for the next couple
-of years. Although there are no ‘solutions’ for the industry yet, a lot
-has been achieved in the last two years. Effective working approaches
-have been developed that work well in this transition phase. As an
-overall conclusion one can state that much of these working methods
-actually defy the expectations of what is *paper* and what is
-*electronic*. The findings often have been counter-intuitive. For
-example, the main expectations with electronic media is that they allow
-for *rich* media, but there is still not much experimentation in this
-field. Video is not often integrated into books to enrich the reading
-experience. Why are multimedia books still rarely made?
-
-Universities, art academies and applied universities still don’t combine
-their expertise so much. In the field of filmstudies there are still
-*books* on films instead of multimedia books. Another barrier is that
-multimedia books would easily become multigigabyte files. Moreover, it
-is very hard to get all the rights from film studios to include their
-movies. But some of the obstacles also bring new opportunities. For
-example, digital publishing allows for the creation of very small
-formats that would never be printed as a book, like a
-one-poem-publication.
-
-> *3. The publishing triangle has become a square*
-
-In the triangle of authors, designers and publishers, there is now
-another role to take into account. In digital publishing, the role of
-the programmer has become very important. This means that people have to
-collaborate in new and different ways. All traditional roles have to be
-redefined to a certain extent.
-
-> *4. We need more research on business models*
-
-The project of the Digital Publishing Toolkit mainly focused on design
-and production questions in collaboration with publishers. More research
-has to be done on distribution and business models. These issues are
-highly important for authors and publishers.
-
-> *5. Sometimes we need to temper our (magic) expectations*
-
-In the Netherlands there is an urgency to develop new formats for 
-journals, especially because there have been serious budget cuts in this
-field. Very often there is a magic expectation that digitization will
-solve all problems. Indeed, more readers can be reached with digital
-publishing, but the idea that it is cheaper than a printed version is a
-myth. Often it is very hard to make money with digital content. A
-compromise to simply export a print version into an epub often doesn’t
-work at all. Different media ask for different workflows and specific
-approaches.
-
-> *6. Digital publishing has physical impact*
-
-The two main places for books – the library and the bookshop – changed
-dramatically with the rise of digital publishing. It has an enormous
-impact on these environments, that are forced to reinvent themselves. It
-would be good to extend the research on digital publishing and take the
-wider urban context into account. The transformation of the bookshop and
-the library have a direct link to the developments of e-books. What
-would be the future of the bookstore and the library?
-
-Libraries may be redefined as centers for digital literacy. After all,
-there is a lot of expertise to be found in these environments. Another
-interesting development to research is social reading. What tools can we
-use in classes to combine deep reading of a text with discussion?
-
-> *7. We need to develop alternatives*
-
-The dystopian version of the future electronic bookmarket would be an
-iTunes or NetFlix model. In the future there may be big commercial
-providers that will offer full education packages that give access to
-all books and publications. If schools subscribe to these kinds of
-licences, libraries will be shut down. We should be aware of this kind
-of neoliberal optimization of educational resources. If we don’t develop
-alternatives, it may be too late.
 
 
 
@@ -4045,22 +4045,6 @@ scholars reference their works are two perspectives that could unite for
 a better communing of texts in e-publishing.
 
 ![Video: http://vimeo.com/97508732](imgs/477911824_640.jpg)
-
-
-
-# Conference report: Off the Press {.entry-title .single-title itemprop="headline"}
-
-By [margreet
-riphagen](http://networkcultures.org/digitalpublishing/author/arjen/ "Posts by margreet riphagen"),
-May 28, 2014 at 12:12 pm.
-
-During the conference **Off The Press: Electronic Publishing In The Arts**,
-a comprehensive conference report has been written by Arie Altena.
-
-The full report can be Or read online: [part
-1](http://networkcultures.org/digitalpublishing/2014/05/off-the-press-report-i/)
-and [part
-2](http://networkcultures.org/digitalpublishing/2014/05/off-the-press-report-day-ii/).
 
 
 
@@ -14157,67 +14141,69 @@ March 19, 2013 at 12:10 pm.
 # Bloggers Biographies
 
 
-## Arie Altena {title="ariealtena"}
+### Arie Altena {title="ariealtena"}
 Arie Altena is a Dutch is literary scholar, writer and lecturer. 
 He writes about art, culture, the Internet, and literature for various magazines and publications including Metropolis M.  He also works as an editor / researcher for [V2, Institute for the Unstable Media](http://v2.nl/), and he is part of the team that organizes the [Sonic Acts Festival](http://www.sonicacts.com/).
 
-## Marc de Bruijn {title="Marc de Bruijn"}
+### Marc de Bruijn {title="Marc de Bruijn"}
 Web developer and graphic designer with a strong focus on the structural side of the design, as well as the technology behind it. We, being [PUNTPIXEL](http://puntpixel.nl/), like to build systems, not decorative templates on top of them. This means we're often - if not always - responsible for the whole design process - including the conceptual phase, visual design and actual technical implementation of the design.
 
-## Becky Cachia {title="backy cachia"}
+### Becky Cachia {title="Becky Cachia"}
 Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
-## Andre Castro {title="Andre Castro"}
+### Andre Castro {title="Andre Castro"}
 André Castro is a media artist, with a background in sound art and experimental music. His recent practice explores stragies for digital and hybrid publication and offline digital libraries ([bibliotecha.info](http://bibliotecha.info/)). Recenly he began teaching in the Master’s programme of Media Design and Communication at the Piet Zwart Institute, and in Willem de Kooning Academy's Publication Station, both in Rotterdam. [pinknoi.so](http://pinknoi.so/)
 
-## Vicentiu Dinga {title="vince"}
+### Vicentiu Dinga {title="vince"}
 Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
-## Jakub Dutka {title="jakubdutka"}
+### Jakub Dutka {title="jakubdutka"}
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
-## Irina Enache {title="irina"}
+### Irina Enache {title="irina"}
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
-## Arjen de Jong {title="Arjen de Jong"}
+### Arjen de Jong {title="Arjen de Jong"}
 Arjen de Jong is senior designer at Essense, an Amsterdam based service design agency. He was a founding member of Buro Duplex, a collective of freelance programmers and designers. He also ini- tiated the Stereo Publication project, a cross-media publishing project avant la lettre.
 
-## Timo Klok {title="timoklok"}
+### Timo Klok {title="timoklok"}
 Media-allrounder, problem solver and frontend developer at VPRO. 
 
-## Harold Konickx {title="haroldkonickx"}
+### Harold Konickx {title="haroldkonickx"}
 Harold Konickx is a teacher of media history, coach and researcher at CMD Amsterdam. In his work he focuses on storytelling, reading culture and empathy. Apart from being a teacher he is a singer/songwriter and he recently published his third album, ‘Heppeneert’.
 
-## Silvio Lorusso {title="Silvio Lorusso"} 
+### Silvio Lorusso {title="Silvio Lorusso"} 
 Silvio Lorusso is an Italian artist and designer. His ongoing PhD research in Design Sciences at IUAV University of Venice is focused on the intersections between publishing and digital technology from the perspective of art and design. He regularly collaborates with the [Institute of Network Cultures](http://networkcultures.org/) in Amsterdam. After he received his MA in Visual and Multimedia Communications in 2011, he spent a period of study at the Networked Media course of the Piet Zwart Institute in Rotterdam. He took part in exhibitions, festival and events such as Transmediale (Germany), Unlike Us (Netherlands), and Fahrenheit39 (Italy). He has written for blogs and magazines such as Progetto Grafico and Doppiozero. He launched the Post-Digital Publishing Archive ([p-dpa.net](http://p-dpa.net/)) in 2013.
 
-## Michael Murtaugh {title="Michael Murtaugh"}
+### Michael Murtaugh {title="Michael Murtaugh"}
 Michael Murtaugh ([automatist.org](http://automatist.org/)) designs and researches community databases, interactive documentaries, and tools for new forms of reading and writing online. He teaches in the Master’s Degree programme in Media Design and Communication at the Piet Zwart Institute in Rotterdam, and is a member of Constant in Brussels.
 
-## Miriam Rasch {title="Miriam Rasch"}
+
+### Miriam Rasch {title="Miriam Rasch"}
+
 Miriam Rasch started working as a publication manager at the [Institute of Network Cultures](http://networkcultures.org/) in June 2012. She holds Master’s degrees in Literary Studies (2002) and Philosophy (2005). Since graduating she worked as a (web) editor and from 2008 on as a programmer for the Studium Generale public lectures department at Utrecht University, organizing events and taking care of digital broadcasts and online representation. She also worked as a lecturer for Liberal Arts and Sciences, and is teaching philosophy and media theory in the Media, Information and Communica- tion department. She writes book reviews and guest posts for different websites and magazines; her personal blog can be found on [miriamrasch.nl](http://www.miriamrasch.nl/).
 
-## Margreet Riphagen {title="margreet riphagen"}
+### Margreet Riphagen {title="margreet riphagen"}
 Margreet Riphagen started working at the [Institute of Network Cultures](http://networkcultures.org/) (INC) in March 2008 and is involved in various research projects. She holds a Master’s degree in Information Science (Human Centered Multimedia), a post-Bachelor’s degree in Business Science, and a Bachelor’s degree in Communication Management. Margreet is the Project Leader of the Digital Publishing Toolkit. Currently Margreet is the coordinator of the PublishingLab, which focuses at the intersection of publishing en digital technologies, both print and digital (hybrid publishing).
 
-## Rose Rowson {title="rose rowson"}
+### Rose Rowson {title="roserowson"}
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
-## Kimmy Spreeuwenberg {title="kimberley"}
+### Kimmy Spreeuwenberg {title="kimberley"}
 Kimmy Spreeuwenberg is a new media researcher and graphic designer with a special interest in the areas where these two disciplines intersect. She is currently project coordinator of the Digital Publishing Toolkit research project initiated by the [Institute of Network Cultures](http://networkcultures.org/), with whom she collaborates regularly, and teaches at the Willem de Kooning Academy in Rotterdam.
 
-## Marc Stumpel {title="marcstumpel"}
+### Marc Stumpel {title="marcstumpel"}
 Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
 
 
-## Katía Truijen {title="Katia Truijen"}
+### Katía Truijen {title="Katia Truijen"}
 Blogger for the conference *Valt Er Nog Iets Te Ontwerpen*, 28 November, 2013.
 
 
-## Patricia de Vries {title="patricia"}
+### Patricia de Vries {title="patricia"}
 Blogger for the conference *Off the Press*, 22 & 23 May, 2014.
 
-## Sauli Warmenhoven {title="sauli"}
+### Sauli Warmenhoven {title="sauli"}
 Sauli Warmenhoven graduated from the Willem de Kooning academy with a degree in Interactive Multimedia in 2005, and he continued his studies and graduated from the Piet Zwart Institute with a masters degree in Media Design. Since then he has been working on a variety of projects, but nowadays he specialises in building a variety of websites, web-apps, and electronic publications for a many a client. The intricacies of HTML, CSS, Javascript and PHP hold no secrets for him, and he uses his extensive knowledge to build smooth-as-butter user experiences and stunning designs.
 
 

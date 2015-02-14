@@ -51,10 +51,6 @@ def replace_fn_links(tree, element): #replace back arrows with work "back"
                 tag.text = 'back'
 
 
-# def addclass_bloglink(tree, element): # add class=bloglink to blog icon images
-#     for tag in tree.findall(element):
-#         tag.set('class', 'bloglink')
-
 # def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
 #     for tag in tree.findall(element):
 #         figure = tag.find('./figure')
@@ -98,49 +94,75 @@ def save_html(content_dir, content_file, tree ):
     xhtml_file.close()
 
 
-
-def authors(tree, element): #create links to the author's biographies
-    for anchor in tree.findall(element):        
-        if anchor.get('title'):
-            title = anchor.get('title')
-            if 'Posts' in title:                
-                name = (anchor.text.encode('utf-8'))                
-                ascii_name = ((name.replace('í','i')).replace(" ", "_")).lower()
-
-                anchor.set('href', "ch122.xhtml#{}".format(ascii_name) )
-                print ET.tostring(anchor)
-
-
-## PROBLEM LINKING TO SECTION - DONT KNOW IF IT IS POSSIBLE OR WEHTER WE CAN ONLY LINK TO HEADINGS
-
-                
-    
-'''                
-"./p/a[contains(@title,'Posts by')]"
-
-<p>By <a href="http://networkcultures.org/digitalpublishing/author/beckycachia/" title="Posts by Becky Cachia">Becky Cachia</a>, November 30, 2014 at 5:48 pm.</p>
-'''
-
-'''
-<section id="arie-altena" class="level2" title="ariealtena">
-'''
-
-    
 temp_ls=os.listdir("temp/")
 temp_ls.sort()
 
-for f in temp_ls: #loop epub contained files
     
-    if f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
+def parse_biosfile(bios_file): #parse bibliography at the end
+    for f in temp_ls: 
+        if f==bios_file: 
+            filename = "temp/"+f
+            bios = open(filename, "r") 
+            bios_tree = html5lib.parse(bios, namespaceHTMLElements=False)
+            return bios_tree
+
+    
+def authors(tree, element, bios_file, post_file): # bios on each post; and links to them
+    bios_tree = parse_biosfile(bios_file)
+    for anchor in tree.findall(element): # author's name - ".//p/a[@title]" //<a>author name<a/>
+       if anchor.get('title'):
+        title = anchor.get('title') # @title:"Post by ..."
+        if 'Posts by' in title:                
+            post_author = (anchor.text.encode('utf-8'))                
+            post_author = post_author.replace('í','i')
+
+            # grab from bios_parsed section w/ title= author name
+            bios_section = (bios_tree.findall( './/section[@title="{}"]'.format(post_author)))[0]
+            # insert that bio at the bottom of current tree
+            post_section = (tree.findall('.//section[@class="level1 entry-title single-title"]'))[0]
+            #change the bios section id to the nickname
+            bios_section.set('id', post_author) 
+            anchor.set('href', '#'+post_author)            
+                        
+            # append bio to post <article>            
+            ET.SubElement(post_section, 'hr')
+            post_section.append(bios_section) 
+
+            # add back button to bio
+            post_id = post_section.get('id')
+            print post_id
+            back = ET.SubElement(bios_section, 'a',{'href':post_file} )
+            back.text = "back"
+
+
+def video_links(tree, element):
+    for figcaption in tree.findall(element): # author's name - ".//figcaption
+        if 'Video: ' in figcaption.text:
+            caption = figcaption.text
+            print caption
+            url = caption.replace('Video: ', '')
+            figcaption.text = 'Video: '
+            link = ET.SubElement(figcaption, 'a', {'href':url})
+            link.text = url
+
+
+
+
+            
+                
+
+bios_file='ch121.xhtml'
+
+for f in temp_ls: #loop epub contained files     
+    if f!=bios_file and f[:2]=='ch' and f[-6:]==".xhtml": # all ch*.xhtml        
         filename = "temp/"+f
         xhtml = open(filename, "r") 
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
         fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
-        replace_fn_links(xhtml_parsed, './/li/p/a')
-        authors(xhtml_parsed, ".//p/a[@title]")
-#.//a[contains(@title,"Posts by")]
-#        addclass_bloglink(xhtml_parsed, './/img[@alt="Bloglink"]')
-#        figure(xhtml_parsed, './/figure')
+        replace_fn_links(xhtml_parsed, './/li/p/a')        
+        authors(xhtml_parsed, ".//p/a[@title]", bios_file, f)
+        video_links(xhtml_parsed, ".//figcaption")
+        
         save_html(
             content_dir=temp_dir,
             content_file=f,
