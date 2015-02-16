@@ -43,7 +43,7 @@ for line in  input_file_lines:
     if bool(re.search(url_regex, line)) == True and  bool(re.search(url_md_regex, line)) == False:
         line_urlized = urlize(line, nofollow=False)
         edited_text = edited_text + line_urlized
-
+        print line_urlized
 
     else:
         edited_text = edited_text + line

@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
-import sys, zipfile, os, shutil, glob, textwrap
+import sys, zipfile, os, shutil, glob, textwrap, re
 from os.path import join
 from xml.etree import ElementTree as ET
 import html5lib
 import argparse
+from django.utils.html import urlize
+
 """
 (C) 2014 Andre Castro
 
@@ -50,7 +52,7 @@ def replace_fn_links(tree, element): #replace back arrows with work "back"
             if text == '↩':#'&#8617;':
                 tag.text = 'back'
 
-
+   
 # def figure(tree, element): # insert <div> inside <figure> tp wrap <img>
 #     for tag in tree.findall(element):
 #         figure = tag.find('./figure')
@@ -115,14 +117,15 @@ def authors(tree, element, bios_file, post_file): # bios on each post; and links
         if 'Posts by' in title:                
             post_author = (anchor.text.encode('utf-8'))                
             post_author = post_author.replace('í','i')
-
+            post_author_snake=post_author.replace(" ", "_")
+            
             # grab from bios_parsed section w/ title= author name
             bios_section = (bios_tree.findall( './/section[@title="{}"]'.format(post_author)))[0]
             # insert that bio at the bottom of current tree
             post_section = (tree.findall('.//section[@class="level1 entry-title single-title"]'))[0]
             #change the bios section id to the nickname
-            bios_section.set('id', post_author) 
-            anchor.set('href', '#'+post_author)            
+            bios_section.set('id', post_author_snake) 
+            anchor.set('href', '#'+post_author_snake)            
                         
             # append bio to post <article>            
             ET.SubElement(post_section, 'hr')
@@ -145,11 +148,13 @@ def video_links(tree, element):
             link = ET.SubElement(figcaption, 'a', {'href':url})
             link.text = url
 
-
-
-
-            
+url_regex = '.*http[s]?://.*' # any url 
                 
+def urlize_text(tree, element):
+    for tag in tree.findall(element):
+        if tag.text is not None:
+            text=(tag.text).encode('utf-8')
+            text=urlize(text, nofollow=False)
 
 bios_file='ch121.xhtml'
 
@@ -162,6 +167,8 @@ for f in temp_ls: #loop epub contained files
         replace_fn_links(xhtml_parsed, './/li/p/a')        
         authors(xhtml_parsed, ".//p/a[@title]", bios_file, f)
         video_links(xhtml_parsed, ".//figcaption")
+        urlize_text(xhtml_parsed, './/p')
+        urlize_text(xhtml_parsed, './/li')
         
         save_html(
             content_dir=temp_dir,

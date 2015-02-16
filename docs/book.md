@@ -14151,7 +14151,7 @@ Web developer and graphic designer with a strong focus on the structural side of
 ### Becky Cachia {title="Becky Cachia"}
 Blogger during the conference *Off the Press*, 22 & 23 May, 2014
 
-### Andre Castro {title="Andre Castro"}
+### André Castro {title="Andre Castro"}
 André Castro is a media artist, with a background in sound art and experimental music. His recent practice explores stragies for digital and hybrid publication and offline digital libraries ([bibliotecha.info](http://bibliotecha.info/)). Recenly he began teaching in the Master’s programme of Media Design and Communication at the Piet Zwart Institute, and in Willem de Kooning Academy's Publication Station, both in Rotterdam. [pinknoi.so](http://pinknoi.so/)
 
 ### Vicentiu Dinga {title="vince"}
