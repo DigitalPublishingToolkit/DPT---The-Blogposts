@@ -82,8 +82,8 @@ def spine(filename): # makes cover & title page linear is <spine>
     spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
     manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
     for child in spine.getchildren():
-        if child.attrib['idref'] == 'cover_xhtml': #or child.attrib['idref'] == 'title_page_xhtml':            
-            child.attrib['linear'] = 'yes'
+        if child.attrib['idref'] == 'cover_xhtml'or child.attrib['idref'] == 'title_page_xhtml':            
+            (child.attrib).pop("linear")
     return tree
 
         
