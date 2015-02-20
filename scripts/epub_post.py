@@ -81,10 +81,18 @@ def spine(filename): # makes cover & title page linear is <spine>
     ET.register_namespace('epub', 'http://www.idpf.org/2007/ops')
     spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
     manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
+    guide = tree.find('.//{http://www.idpf.org/2007/opf}guide')
+    cover = ET.SubElement(guide, 'reference', attrib={'href':'cover.xhtml','title':'Cover','type':'title'}) # add cover as 1st page in guide
     for child in spine.getchildren():
         if child.attrib['idref'] == 'cover_xhtml'or child.attrib['idref'] == 'title_page_xhtml':            
             (child.attrib).pop("linear")
+    for child in guide.getchildren():
+        print "GUIDE:", ET.tostring(child)
     return tree
+
+
+# add cover as text to guide: <reference href="cover.xhtml" title="Cover" type="title" />
+            
 
         
 def save_html(content_dir, content_file, tree ):
@@ -213,3 +221,13 @@ shutil.rmtree(temp_dir)
 print
 print "** Processed EPUB: book-processed.epub was generated without errors **"
 
+
+
+'''
+  <guide>
+    <reference href="nav.xhtml" title="Digital Publishing Toolkit: the Blog Posts" type="toc" />
+    <reference href="cover.xhtml" title="Cover" type="cover" />
+          <reference href="cover.xhtml" title="Cover" type="title" />
+  </guide>
+
+'''

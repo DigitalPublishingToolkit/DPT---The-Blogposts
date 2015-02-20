@@ -1,3 +1,17 @@
+# Introduction
+
+Digital publications are on the rise. In our daily lives we read more material than ever on electronic devices, while paper books – once everyday objects – are becoming collectible design objects. For publishers, visual designers and artists it can be difficult to keep up with these developments; few possess the knowledge and resources to develop a digital publishing practice of their own. For arts and design-oriented books, going electronic can be an extra challenge because form and content are deeply intertwined, while electronic book formats were not engineered with visual publications in mind.
+
+The Digital Publishing Toolkit initiative – a network of two applied universities and art school research departments, four Dutch art and design publishers, and several graphic and media design bureaus – worked on a straightforward ‘how-to’ guide for electronic publishing in the arts, along with a collection of Open Source software tools for editing and designing electronic books. 
+
+The findings obtained in this research over the past two years have been documented on the blog <http://networkcultures.org/digitalpublishing>. *Digital Publishing Toolkit: the Blog Posts* collects all these blog posts. This EPUB consists of texts, images and links to video files. The videos themselves have been omitted, to prevent the EPUB file from being too memory intensive to load on some reading devices. It includes reflections, reports and tools. The blog posts are arranged in reverse chronological order, with the exception of the earliest post, as we thought it would be most appropriate to begin the collection with the original first post. 
+
+On <http://networkcultures.org/digitalpublishing> you can find more information about this two-year research project. Such as registration videos of the three conferences we organized, a direct link to our GitHub repository, and various resources related to hybrid publishing. 
+
+Not only we have researched digital publishing, but we have also conducted various digital publishing experiments - such as this *Digital Publishing Toolkit: the Blog Posts* publication. In addition to the physical book, we have released this work through several different channels: [Lulu](http://www.lulu.com/shop/dpt-collective/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/paperback/product-22030524.html), [Issuu](http://issuu.com/instituteofnetworkcultures/docs/hybrid_publishing_toolkit_gr), [Scribd](http://www.scribd.com/doc/254573908/From-Print-to-Ebooks-A-Hybrid-Publishing-Toolkit-for-the-Arts), [PDF](http://networkcultures.org/wp-content/uploads/2014/12/Hybrid_Publishing_Toolkit_gr.pdf) and in [EPUB](http://networkcultures.org/wp-content/uploads/2015/02/FromPrintToEbooks.epub). 
+
+The approach we have adopted suits our main conclusion, namely that the best strategy is a publishing workflow that utilizes a variety of output formats - i.e. a multi-channel form of publishing. Developing a hybrid publishing strategy, which is open to new digital forms, is an on going focus for the Institute of Network Cultures.
+
 # Colophon
 
 ### Digital Publishing Toolkit: the Blog Posts
@@ -45,21 +59,6 @@ Amsterdam, February 2015
 [![Regieorgaan Praktijkgericht Onderzoek SIA](imgs/logos_partners/logo_partner_SIA.png)](http://www.regieorgaan-sia.nl/) 
 [![Mr. Sauli](imgs/logos_partners/logo_partner_MrSauli.png)](http://mrsauli.nl/) 
 </div>
-
-# Introduction
-
-Digital publications are on the rise. In our daily lives we read more material than ever on electronic devices, while paper books – once everyday objects – are becoming collectible design objects. For publishers, visual designers and artists it can be difficult to keep up with these developments; few possess the knowledge and resources to develop a digital publishing practice of their own. For arts and design-oriented books, going electronic can be an extra challenge because form and content are deeply intertwined, while electronic book formats were not engineered with visual publications in mind.
-
-The Digital Publishing Toolkit initiative – a network of two applied universities and art school research departments, four Dutch art and design publishers, and several graphic and media design bureaus – worked on a straightforward ‘how-to’ guide for electronic publishing in the arts, along with a collection of open-source software tools for editing and designing electronic books.
-
-The findings obtained in this research over the past two years have been document on the blog <http://networkcultures.org/digitalpublishing>. *Digital Publishing Toolkit: the Blog Posts* collects all these blog posts on one place. This EPUB consists of texts, images and links to video files. The videos themselves have been omitted, to prevent the EPUB file from being too memory intensive to load on some reading devices. It includes reflections, reports and tools. Also included are reflections, reports and tools. The blog posts are arranged in reverse chronological order, with the exception of the earliest post, as we thought it would be most appropriate to begin the collection with the original first post.
-
-On <http://networkcultures.org/digitalpublishing> users can find more information about this two-year research project. For example registration videos of the three conferences we organized, a direct link to our GitHub repository, and various resources related to hybrid publishing.
-
-Not only we have researched digital publishing, but we have also conducted various digital publishing experiments - such as this *Digital Publishing Toolkit: the Blog Posts* publication. In addition to the physical book, we have released this work through several different channels; [Lulu](http://www.lulu.com/shop/dpt-collective/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/paperback/product-22030524.html), [Issuu](http://issuu.com/instituteofnetworkcultures/docs/hybrid_publishing_toolkit_gr), [Scribd](http://www.scribd.com/doc/254573908/From-Print-to-Ebooks-A-Hybrid-Publishing-Toolkit-for-the-Arts), [PDF](http://networkcultures.org/wp-content/uploads/2014/12/Hybrid_Publishing_Toolkit_gr.pdf) and [EPUB](http://networkcultures.org/wp-content/uploads/2015/02/FromPrintToEbooks.epub).
-
-The approach we have adopted suits our main conclusion, namely that the best strategy is a publishing workflow which utilizes a variety of output formats - i.e. a multi channel form of publishing. Developing a hybrid publishing strategy, which is open to new digital forms, is an on going focus for the Institute of Network Cultures.
-
 
 
 
