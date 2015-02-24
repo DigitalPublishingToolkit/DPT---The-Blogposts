@@ -116,21 +116,32 @@ def parse_biosfile(bios_file): #parse bibliography at the end
             bios_tree = html5lib.parse(bios, namespaceHTMLElements=False)
             return bios_tree
 
-def rm_author_link(tree, element):
+def rm_author_link(tree, element, bios_file):
+    bios_tree = parse_biosfile(bios_file)
     for p in tree.findall(element): # author's name - ".//p/a[@title]" //<a>author name<a/>
         anchors = p.findall('./a[@title]')
-        if p.text and anchors:            
+        if p.text  and anchors:            
             by = p.text.encode('utf-8')
-            author = anchors[0].text
-            tail = anchors[0].tail
+            if "By" in by:
+                author = anchors[0].text
+                tail = anchors[0].tail
+                print "Author:", author
 
-            p.remove(anchors[0])
+                post_author = (author.encode('utf-8'))                
+                post_author = post_author.replace('í','i')
+                post_author_snake=post_author.replace(" ", "_")            
+                # grab from bios_parsed section w/ title= author name
+                author_realname = (((bios_tree.findall( './/section[@title="{}"]/h3'.format(post_author)))[0]).text)
+                
+                p.set('class', 'author')
+                
+                p.remove(anchors[0])
+                # append bold
+                bold = ET.SubElement(p, 'b')
+                bold.text = author_realname
+                bold.tail = tail
+                bold.set('title', author_realname)
 
-            # append bold
-            bold = ET.SubElement(p, 'b')
-            bold.text = author
-            bold.tail = tail
-            print 'New P:', ET.tostring(p)
         
     
 def authors(tree, element, bios_file, post_file): # bios on each post; and links to them
@@ -141,8 +152,7 @@ def authors(tree, element, bios_file, post_file): # bios on each post; and links
         if 'Posts by' in title:                
             post_author = (anchor.text.encode('utf-8'))                
             post_author = post_author.replace('í','i')
-            post_author_snake=post_author.replace(" ", "_")
-            
+            post_author_snake=post_author.replace(" ", "_")            
             # grab from bios_parsed section w/ title= author name
             bios_section = (bios_tree.findall( './/section[@title="{}"]'.format(post_author)))[0]
             # insert that bio at the bottom of current tree
@@ -187,13 +197,13 @@ for f in temp_ls: #loop epub contained files
         filename = "temp/"+f
         xhtml = open(filename, "r") 
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
-#         fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
-#         replace_fn_links(xhtml_parsed, './/li/p/a')        
-# #        authors(xhtml_parsed, ".//p/a[@title]", bios_file, f)
-        rm_author_link(xhtml_parsed, ".//p")
-        # video_links(xhtml_parsed, ".//figcaption")
-        # urlize_text(xhtml_parsed, './/p')
-        # urlize_text(xhtml_parsed, './/li')
+        fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
+        replace_fn_links(xhtml_parsed, './/li/p/a')        
+#        authors(xhtml_parsed, ".//p/a[@title]", bios_file, f)
+        rm_author_link(xhtml_parsed, ".//p", bios_file)
+        video_links(xhtml_parsed, ".//figcaption")
+        urlize_text(xhtml_parsed, './/p')
+        urlize_text(xhtml_parsed, './/li')
         
         save_html(
             content_dir=temp_dir,
