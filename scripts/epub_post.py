@@ -116,6 +116,22 @@ def parse_biosfile(bios_file): #parse bibliography at the end
             bios_tree = html5lib.parse(bios, namespaceHTMLElements=False)
             return bios_tree
 
+def rm_author_link(tree, element):
+    for p in tree.findall(element): # author's name - ".//p/a[@title]" //<a>author name<a/>
+        anchors = p.findall('./a[@title]')
+        if p.text and anchors:            
+            by = p.text.encode('utf-8')
+            author = anchors[0].text
+            tail = anchors[0].tail
+
+            p.remove(anchors[0])
+
+            # append bold
+            bold = ET.SubElement(p, 'b')
+            bold.text = author
+            bold.tail = tail
+            print 'New P:', ET.tostring(p)
+        
     
 def authors(tree, element, bios_file, post_file): # bios on each post; and links to them
     bios_tree = parse_biosfile(bios_file)
@@ -171,12 +187,13 @@ for f in temp_ls: #loop epub contained files
         filename = "temp/"+f
         xhtml = open(filename, "r") 
         xhtml_parsed = html5lib.parse(xhtml, namespaceHTMLElements=False)
-        fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
-        replace_fn_links(xhtml_parsed, './/li/p/a')        
-        authors(xhtml_parsed, ".//p/a[@title]", bios_file, f)
-        video_links(xhtml_parsed, ".//figcaption")
-        urlize_text(xhtml_parsed, './/p')
-        urlize_text(xhtml_parsed, './/li')
+#         fn_rm_sup(xhtml_parsed, './/a[@class="footnoteRef"]')
+#         replace_fn_links(xhtml_parsed, './/li/p/a')        
+# #        authors(xhtml_parsed, ".//p/a[@title]", bios_file, f)
+        rm_author_link(xhtml_parsed, ".//p")
+        # video_links(xhtml_parsed, ".//figcaption")
+        # urlize_text(xhtml_parsed, './/p')
+        # urlize_text(xhtml_parsed, './/li')
         
         save_html(
             content_dir=temp_dir,
